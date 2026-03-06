@@ -26,23 +26,53 @@ def format_pace(s_per_km):
     s = int(s_per_km % 60)
     return f"{m}:{s:02d}"
 
-def generate_md(file_path, session_data):
+def get_location_name(lat, lon):
+    # Simple logic to identify locations based on coordinates
+    if lat is None or lon is None:
+        return "未知地點"
+    # Tainan (around 22.99, 120.18)
+    if 22.9 <= lat <= 23.1 and 120.1 <= lon <= 120.3:
+        return "台南市"
+    # Taipei (around 25.0, 121.5)
+    if 24.9 <= lat <= 25.2 and 121.4 <= lon <= 121.7:
+        return "台北市"
+    return f"座標: {lat:.4f}, {lon:.4f}"
+
+def generate_md(file_path, session_data, start_pos=(None, None)):
     base_name = os.path.splitext(os.path.basename(file_path))[0]
+    # Parse date and time from filename or session
+    # Filename format: 20260301-053359+0800
+    try:
+        dt_part = base_name.split('+')[0]
+        dt_obj = datetime.strptime(dt_part, "%Y%m%d-%H%M%S")
+        date_str = dt_obj.strftime("%Y-%m-%d")
+        time_str = dt_obj.strftime("%H:%M:%S")
+    except:
+        date_str = "未知"
+        time_str = "未知"
+
+    location = get_location_name(start_pos[0], start_pos[1])
+
     with open(f"{base_name}.md", 'w') as f:
         f.write(f"# 訓練分析報告: {base_name}\n\n")
         f.write("## 📊 核心數據\n")
+        f.write(f"* **日期**：{date_str}\n")
+        f.write(f"* **起跑時間**：{time_str}\n")
+        f.write(f"* **起跑地點**：{location}\n")
         f.write(f"* **距離**：{(session_data.get('total_distance') or 0)/1000:.2f} km\n")
         duration = session_data.get('total_timer_time') or 0
         f.write(f"* **時間**：{int(duration//3600):02d}:{int((duration%3600)//60):02d}:{int(duration%60):02d}\n")
         avg_speed = (session_data.get('enhanced_avg_speed') or session_data.get('avg_speed')) or 0
+        if avg_speed == 0 and duration > 0:
+            avg_speed = (session_data.get('total_distance') or 0) / duration
         f.write(f"* **平均配速**：{format_pace(get_pace(avg_speed))}/km\n")
         f.write(f"* **平均心率**：{session_data.get('avg_heart_rate', 0)} bpm\n")
         f.write(f"* **最大心率**：{session_data.get('max_heart_rate', 0)} bpm\n")
         f.write(f"* **平均步頻**：{(session_data.get('avg_running_cadence') or 0)*2} spm\n\n")
         f.write("## 💡 教練建議與成效分析\n")
-        f.write("(系統自動分析中...)\n\n")
+        f.write("(提供 300 字 內文分析)\n\n")
         f.write("**改進建議：**\n")
-        f.write("(系統自動分析中...)\n")
+        f.write("(提供 500 字 內文分析)\n")
 
 def analyze_fit(file_path, person_info=None):
     if person_info is None:
@@ -64,10 +94,17 @@ def analyze_fit(file_path, person_info=None):
         return
     
     records = []
+    start_pos = (None, None)
     
     # Extract records
     for m in fitfile.get_messages('record'):
         data = m.get_values()
+        if start_pos == (None, None):
+            lat = data.get('position_lat')
+            lon = data.get('position_long')
+            if lat is not None and lon is not None:
+                start_pos = (lat * (180.0 / 2**31), lon * (180.0 / 2**31))
+
         if 'timestamp' in data and 'distance' in data:
             record = {
                 'timestamp': data.get('timestamp'),
@@ -91,7 +128,7 @@ def analyze_fit(file_path, person_info=None):
         
     if not records:
         print(f"No distance records in {file_path}, skipping CSVs but generating MD.")
-        generate_md(file_path, session_data)
+        generate_md(file_path, session_data, start_pos)
         return
         
     # Process per km
@@ -192,8 +229,8 @@ def main():
     args = parser.parse_args()
 
     person_info = {
-        'max_hr': 189,
-        'resting_hr': 58,
+        'max_hr': 180,
+        'resting_hr': 50,
         'weight': 72.0
     }
 
