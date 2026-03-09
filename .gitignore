@@ -1,3 +1,10 @@
 *.fit
 20*.md
 *.csv
+.env
+20*.fit
+20*_km.csv
+20*.md
+20*_min.csv
+data/
+
