@@ -7,4 +7,5 @@
 20*.md
 20*_min.csv
 data/
+*.yaml
 
