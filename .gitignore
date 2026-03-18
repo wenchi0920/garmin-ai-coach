@@ -1,3 +1,7 @@
+.garth/
+.idea/
+data
+volume/
 *.fit
 20*.md
 *.csv
@@ -8,4 +12,8 @@
 20*_min.csv
 data/
 *.yaml
+config
+garmin-tools-kit
+venv
+.git
 

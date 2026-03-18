@@ -1,0 +1,31 @@
+
+services:
+  gemini:
+    build:
+      context: .
+      args:
+        - USER_ID=1000
+        - GROUP_ID=1000
+    container_name: garmin-ai-coach
+    restart: always
+    stdin_open: true
+    tty: true
+    environment:
+      - TZ=Asia/Taipei
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - LANG=C.UTF-8
+    working_dir: /app
+    volumes:
+      # 掛載宿主機的認證目錄，確保 UID 1000 有權限存取
+      - ./volume/gemini/.gemini:/home/gemini/.gemini
+      # 工作目錄
+      - ./:/app
+      - ../garmin-tools-kit:/app/garmin-tools-kit
+    # 避免 CLI 執行完就絀求開啟以下指令
+    # command: ["chat"]
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"    
+    
