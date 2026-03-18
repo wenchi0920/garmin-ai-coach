@@ -32,7 +32,7 @@ WORKDIR /home/gemini
 
 copy . /home/gemini
 
-RUN pip3 install -r /home/gemini/requirements.txt
+RUN pip3 install -r requirements.txt --break-system-packages
 
 RUN mkdir -p /home/gemini/.npm-global && \
     npm install -g @google/gemini-cli
