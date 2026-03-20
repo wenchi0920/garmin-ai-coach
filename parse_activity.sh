@@ -1,6 +1,7 @@
 #!/bin/bash 
 
-export PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+# 不要覆蓋使用者的 PATH，否則會找不到像 gemini 這樣的指令
+export PATH=$PATH:/usr/local/bin:/usr/local/sbin
 export LANG=zh_TW.UTF-8
 
 # 取得腳本所在目錄並切換進去
@@ -9,34 +10,55 @@ dname=$(/bin/readlink -f "$dname")
 cd "${dname}"
 
 fit_file="$1"
+force_reanalyze="${2:-false}"
 
-# 檢查參數是否存在
+# 檢查參數
 if [ -z "${fit_file}" ]; then
-    echo "使用方式: $0 <fit_file>"
+    echo "使用方式: $0 <fit_file> [force_reanalyze: true/false]"
     exit 1
 fi
 
-# 檢查檔案是否存在
 if [ ! -f "${fit_file}" ]; then
     echo "錯誤: 找不到檔案 ${fit_file}"
     exit 1
 fi
 
-# 將 .fit 替換為 .md
-markdown_file="${fit_file%.fit}.md"
+base_name=$(basename "${fit_file}")
+markdown_name="${base_name%.fit}.md"
+output_dir="logs/activity"
+markdown_file="${output_dir}/${markdown_name}"
 
-# 如果 md 檔不存在則執行分析
-if [ ! -f "${markdown_file}" ]; then
+mkdir -p "${output_dir}"
+
+# 分析邏輯
+if [ ! -f "${markdown_file}" ] || [ "${force_reanalyze}" == "true" ]; then
     echo "正在分析 ${fit_file}..."
     python3 fit_analyzer.py "${fit_file}" > "${markdown_file}"
-    echo "分析完成，結果儲存至 ${markdown_file}"
     
-    #
-    PROMPT="請幫我 依照訓練的結果  `${markdown_file}` 補上 教練建議與成效分析/改進建議 "
-    gemini -y -p "$PROMPT" <<< "" || echo ""
-    
+    if [ $? -eq 0 ]; then
+        echo "✅ 分析完成: ${markdown_file}"
+        
+        # 嘗試呼叫 AI 分析 (靜默模式)
+        if command -v gemini &> /dev/null; then
+            PROMPT="請幫我依照 \`${markdown_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。"
+            # 檢查 node 版本或 gemini 是否可用，避免輸出語法錯誤
+            if gemini --version &> /dev/null; then
+                echo "正在請求 AI Coach 深度建議..."
+                gemini -y -p "$PROMPT" <<< "" &> /dev/null || echo "⚠️ AI 建議補全失敗，請手動執行補全。"
+            else
+                echo "💡 提示: 系統 gemini 指令版本不相容，請通知 AI Coach 手動為您分析報告。"
+            fi
+        else
+            echo "💡 提示: 請手動請 AI Coach 補全 ${markdown_file} 的教練建議。"
+        fi
+    else
+        echo "❌ 分析失敗。"
+        exit 1
+    fi
 else
     echo "Markdown 檔案已存在: ${markdown_file}"
 fi
 
-
+# 顯示摘要內容
+echo "--- 報告摘要 ---"
+head -n 25 "${markdown_file}"

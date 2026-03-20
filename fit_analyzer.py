@@ -26,11 +26,35 @@ def parse_person_md(md_path='logs/PERSON.md'):
     try:
         with open(md_path, 'r', encoding='utf-8') as f:
             content = f.read()
-            m = re.search(r'Z5[^\d]*(\d+)\s*bpm', content)
-            if m: person_data["max_hr"] = int(m.group(1))
-            person_data["resting_hr"] = 58
-    except:
-        pass
+            # Extract Max HR
+            m_max = re.search(r'最大心率[^\d]*(\d+)\s*bpm', content)
+            if not m_max:
+                m_max = re.search(r'Z5[^\d]*(\d+)\s*bpm', content)
+            if m_max: 
+                person_data["max_hr"] = int(m_max.group(1))
+            
+            # Extract Resting HR
+            m_rest = re.search(r'靜息心率[^\d]*(\d+)\s*bpm', content)
+            if m_rest:
+                person_data["resting_hr"] = int(m_rest.group(1))
+            else:
+                # Fallback or keep default
+                person_data["resting_hr"] = 58 # As seen in previous code
+                
+            # Calculate HRR zones according to GEMINI.md
+            # Z1: 59%~74%, Z2: 74%~84%, Z3: 84%~88%, Z4: 88%~95%, Z5: 95%~100%
+            hrr = person_data["max_hr"] - person_data["resting_hr"]
+            def get_hr(pct): return int(person_data["resting_hr"] + hrr * pct)
+            
+            person_data["hr_zones"] = [
+                (get_hr(0.59), get_hr(0.74)), # Z1
+                (get_hr(0.74), get_hr(0.84)), # Z2
+                (get_hr(0.84), get_hr(0.88)), # Z3
+                (get_hr(0.88), get_hr(0.95)), # Z4
+                (get_hr(0.95), get_hr(1.00))  # Z5
+            ]
+    except Exception as e:
+        sys.stderr.write(f"Warning: Failed to parse {md_path}: {e}\n")
     return person_data
 
 def get_location_str(lat, lon):
@@ -39,14 +63,14 @@ def get_location_str(lat, lon):
 
 def parse_fit(file_path):
     if not file_path.lower().endswith('.fit'):
-        print(f"Error: {file_path} is not a .fit file.")
+        sys.stderr.write(f"Error: {file_path} is not a .fit file.\n")
         return
 
-    print(f"Analyzing {file_path}...")
+    sys.stderr.write(f"Analyzing {file_path}...\n")
     try:
         fitfile = FitFile(file_path)
     except Exception as e:
-        print(f"Error parsing {file_path}: {e}")
+        sys.stderr.write(f"Error parsing {file_path}: {e}\n")
         return
     
     person_data = parse_person_md()
@@ -68,7 +92,12 @@ def parse_fit(file_path):
         lap_dist = data.get('total_distance', 0) / 1000.0
         lap_time = data.get('total_timer_time', 0)
         avg_speed = data.get('avg_speed')
+        if (avg_speed is None or avg_speed == 0) and lap_dist > 0 and lap_time > 0:
+            avg_speed = (lap_dist * 1000.0) / lap_time
+            
         max_speed = data.get('max_speed')
+        if (max_speed is None or max_speed == 0) and avg_speed:
+            max_speed = avg_speed
         avg_hr = data.get('avg_heart_rate')
         avg_power = data.get('avg_power')
         
@@ -84,8 +113,8 @@ def parse_fit(file_path):
             "分段": i + 1,
             "距離": f"{lap_dist:.2f}",
             "累計時間": f"{int(lap_time // 3600):02d}:{int((lap_time % 3600) // 60):02d}:{int(lap_time % 60):02d}",
-            "配速": format_pace(1.0 / avg_speed if avg_speed and avg_speed > 0 else 0),
-            "最快配速": format_pace(1.0 / max_speed if max_speed and max_speed > 0 else 0),
+            "配速": format_pace(1000.0 / avg_speed if avg_speed and avg_speed > 0 else 0),
+            "最快配速": format_pace(1000.0 / max_speed if max_speed and max_speed > 0 else 0),
             "心率": f"{avg_hr:.0f}" if avg_hr else '',
             "儲備心率%": hrr_pct,
             "最大心率": f"{data.get('max_heart_rate'):.0f}" if data.get('max_heart_rate') else '',
@@ -134,36 +163,36 @@ def parse_fit(file_path):
     if laps_data:
         pd.DataFrame(laps_data).to_csv(file_path.replace('.fit', '_laps.csv'), index=False, encoding='utf-8-sig')
 
-    # Write MD Report
-    md_path = file_path.replace('.fit', '.md')
+    # Write MD Report to stdout
     avg_hr_str = f"{summary['avg_hr']:.0f} bpm" if summary['avg_hr'] else ""
     max_hr_str = f"{summary['max_hr']:.0f} bpm" if summary['max_hr'] else ""
     cad_str = f"{summary['avg_cadence']:.0f} spm" if summary['avg_cadence'] else ""
+    
+    output = []
+    output.append(f"# 訓練分析報告: {summary['date']}-{summary['start_time'].replace(':','-')}\n")
+    output.append("## 📊 核心數據\n")
+    output.append(f"* **日期**：{summary['date']}\n* **起跑時間**：{summary['start_time']}\n* **起跑地點**：{summary['location']}\n")
+    output.append(f"* **距離**：{summary['distance']:.2f} km\n* **時間**：{int(summary['time'] // 3600):02d}:{int((summary['time'] % 3600) // 60):02d}:{int(summary['time'] % 60):02d}\n")
+    output.append(f"* **平均配速**：{summary['avg_pace']}\n")
+    output.append(f"* **平均心率**：{avg_hr_str}\n")
+    output.append(f"* **最大心率**：{max_hr_str}\n")
+    output.append(f"* **平均步頻**：{cad_str}\n")
+    if summary['avg_hrv'] > 0: output.append(f"* **平均 HRV**：{summary['avg_hrv']:.1f} ms\n")
+    
+    if laps_data:
+        output.append("\n## ⏱️ 分段紀錄 (Laps)\n")
+        output.append("| 分段 | 距離 | 累計時間 | 配速 | 最快配速 | 心率 | 儲備心率% | 最大心率 | 步頻 | 最大步頻 | 步幅 | 觸地時間 | 垂直振幅 | 功率 | 最大功率 | 效能 | 海拔變化 |\n")
+        output.append("| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n")
+        for l in laps_data:
+            output.append(f"| {l['分段']} | {l['距離']} | {l['累計時間']} | {l['配速']} | {l['最快配速']} | {l['心率']} | {l['儲備心率%']} | {l['最大心率']} | {l['步頻']} | {l['最大步頻']} | {l['步幅(公尺)']} | {l['觸地時間']} | {l['垂直振幅']} | {l['功率']} | {l['最大功率']} | {l['跑步效能']} | {l['海拔高度變化']} |\n")
 
-    with open(md_path, 'w', encoding='utf-8') as f:
-        f.write(f"# 訓練分析報告: {summary['date']}-{summary['start_time'].replace(':','-')}\n\n")
-        f.write("## 📊 核心數據\n")
-        f.write(f"* **日期**：{summary['date']}\n* **起跑時間**：{summary['start_time']}\n* **起跑地點**：{summary['location']}\n")
-        f.write(f"* **距離**：{summary['distance']:.2f} km\n* **時間**：{int(summary['time'] // 3600):02d}:{int((summary['time'] % 3600) // 60):02d}:{int(summary['time'] % 60):02d}\n")
-        f.write(f"* **平均配速**：{summary['avg_pace']}\n")
-        f.write(f"* **平均心率**：{avg_hr_str}\n")
-        f.write(f"* **最大心率**：{max_hr_str}\n")
-        f.write(f"* **平均步頻**：{cad_str}\n")
-        if summary['avg_hrv'] > 0: f.write(f"* **平均 HRV**：{summary['avg_hrv']:.1f} ms\n")
-        
-        if laps_data:
-            f.write("\n## ⏱️ 分段紀錄 (Laps)\n")
-            f.write("| 分段 | 距離 | 累計時間 | 配速 | 最快配速 | 心率 | 儲備心率% | 最大心率 | 步頻 | 最大步頻 | 步幅 | 觸地時間 | 垂直振幅 | 功率 | 最大功率 | 效能 | 海拔變化 |\n")
-            f.write("| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n")
-            for l in laps_data:
-                f.write(f"| {l['分段']} | {l['距離']} | {l['累計時間']} | {l['配速']} | {l['最快配速']} | {l['心率']} | {l['儲備心率%']} | {l['最大心率']} | {l['步頻']} | {l['最大步頻']} | {l['步幅(公尺)']} | {l['觸地時間']} | {l['垂直振幅']} | {l['功率']} | {l['最大功率']} | {l['跑步效能']} | {l['海拔高度變化']} |\n")
+    output.append("\n## 💡 教練建議與成效分析(fit_parse.py 不 立刻分析, 事後分析)\n")
+    output.append("(提供 500 字 內文分析)\n\n")
+    output.append("**改進建議：**\n")
+    output.append("(提供 500 字 內文分析)\n")
 
-        f.write("\n## 💡 教練建議與成效分析(事後分析)\n")
-        f.write("(提供 300 字 內文分析)\n\n")
-        f.write("**改進建議：**\n")
-        f.write("(提供 500 字 內文分析)\n")
-
-    print(f"Analysis complete. Outputs: {md_path}")
+    sys.stdout.write("".join(output))
+    sys.stderr.write(f"Analysis complete for {file_path}\n")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
