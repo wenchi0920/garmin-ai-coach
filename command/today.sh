@@ -1,5 +1,10 @@
 #!/bin/bash
 
+dname=$(/usr/bin/dirname $0)
+dname=$(/bin/readlink -f "$dname")
+
+cd "${dname}/../"
+
 # 1. 設定日期與週次
 TODAY=$(date +"%Y-%m-%d")
 TOMORROW=$(date -d "tomorrow" +"%Y-%m-%d")
@@ -9,17 +14,23 @@ YEAR=$(date +"%Y")
 #	for test
 TODAY="2026-03-14"
 
-
 echo "--- [AI Coach] 數據處理中: $TODAY ---"
 
 # 2. 自動分析今天的 .fit 檔案
 FIT_FILES=$(ls data/activity/activity_${TODAY}*.fit 2>/dev/null)
 if [ -n "$FIT_FILES" ]; then
     echo "[Step 1] 發現今日活動紀錄，開始分析..."
-    generated_msg=$(echo "$diff_content" | gemini --model gemini-2.5-flash --prompt "${FIT_FILES}")
+#    python3 "${dname}/../fit_analyzer.py" "${FIT_FILES}"
 else
     echo "[Step 1] 今日尚未發現新的 .fit 活動紀錄。"
 fi
+
+for f in $(ls data/activity/activity_${TODAY}*.md 2>/dev/null) ; 
+do 
+	echo "${f}"
+done
+
+
 exit;
 
 # 3. 尋找當週課表檔案
