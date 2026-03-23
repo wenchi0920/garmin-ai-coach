@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y \
     tzdata \
     procps \
     git \
+    ccron \
     vim python3 python3-pip \
     ca-certificates python3.11-venv \
     && ln -fs /usr/share/zoneinfo/$TZ /etc/localtime \
@@ -34,8 +35,6 @@ WORKDIR /home/gemini
 
 RUN pip3 install -r requirements.txt --break-system-packages
 RUN pip3 install pandas fitparse --break-system-packages
-
-
 
 
 RUN mkdir -p /home/gemini/.npm-global && \
