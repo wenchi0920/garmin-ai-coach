@@ -10,6 +10,6 @@ dname=$(/bin/readlink -f "$dname")
 cd "${dname}"
 
 git add -f /app/logs/Workouts/*.md /app/logs/Workouts/*.yaml /app/logs/activity/*.md
-git commit --auto /app/logs/Workouts/*.md /app/logs/Workouts/*.yaml /app/logs/activity/*.md
+git-commit --auto /app/logs/Workouts/*.md /app/logs/Workouts/*.yaml /app/logs/activity/*.md
 
 
