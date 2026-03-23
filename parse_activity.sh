@@ -45,6 +45,7 @@ if [ ! -f "${markdown_file}" ] || [ "${force_reanalyze}" == "true" ]; then
             if gemini --version &> /dev/null; then
                 echo "正在請求 AI Coach 深度建議..."
                 gemini -y -p "$PROMPT" <<< "" &> /dev/null || echo "⚠️ AI 建議補全失敗，請手動執行補全。"
+		bash readme.sh
             else
                 echo "💡 提示: 系統 gemini 指令版本不相容，請通知 AI Coach 手動為您分析報告。"
             fi
