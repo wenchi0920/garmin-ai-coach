@@ -12,7 +12,6 @@ volume/
 20*_min.csv
 data/
 *.yaml
-config
 garmin-tools-kit
 venv
 .git
