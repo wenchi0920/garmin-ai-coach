@@ -4,6 +4,7 @@ import csv
 import pandas as pd
 import numpy as np
 import re
+import yaml
 from datetime import datetime, timedelta
 from fitparse import FitFile
 from geopy.geocoders import Nominatim
@@ -15,6 +16,29 @@ DEFAULT_PERSON_DATA = {
     "hr_zones": [(119, 131), (131, 143), (143, 155), (155, 167), (167, 180)],
     "pace_zones": [(471, 9999), (421, 471), (383, 421), (358, 383), (330, 358), (0, 330)],
 }
+
+# Load Activity Type Config
+CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config', 'activity_types.yml')
+ACTIVITY_CONFIG = {}
+if os.path.exists(CONFIG_PATH):
+    try:
+        with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+            ACTIVITY_CONFIG = yaml.safe_load(f)
+    except Exception as e:
+        sys.stderr.write(f"Warning: Failed to load activity config: {e}\n")
+
+def get_activity_type_zh(sport, sub_sport):
+    sport_map = ACTIVITY_CONFIG.get('sport_map', {})
+    sub_sport_map = ACTIVITY_CONFIG.get('sub_sport_map', {})
+    
+    sport_zh = sport_map.get(sport, str(sport))
+    sub_sport_zh = sub_sport_map.get(sub_sport, str(sub_sport))
+    
+    if sub_sport and sub_sport != 'generic' and sub_sport != sport:
+        if sub_sport_zh != str(sub_sport):
+            return f"{sport_zh} - {sub_sport_zh}"
+        return f"{sport_zh} ({sub_sport})"
+    return sport_zh
 
 def format_pace(seconds_per_km):
     if seconds_per_km <= 0 or np.isinf(seconds_per_km) or np.isnan(seconds_per_km):
@@ -171,10 +195,10 @@ def parse_fit(file_path):
     sessions = list(fitfile.get_messages('session'))
     session = next((s.get_values() for s in sessions if s.get_values().get('sport') == 'running'), sessions[0].get_values() if sessions else {})
     
-    # Map sport to Chinese
-    sport_map = {'running': '跑步', 'cycling': '騎乘', 'swimming': '游泳', 'walking': '步行', 'strength_training': '肌力訓練', 'yoga': '瑜伽'}
-    sport_type = session.get('sport', 'running')
-    sport_zh = sport_map.get(sport_type, sport_type)
+    # Map activity type to Chinese using config
+    sport_type = session.get('sport')
+    sub_sport_type = session.get('sub_sport')
+    sport_zh = get_activity_type_zh(sport_type, sub_sport_type)
 
     dist = session.get('total_distance') or 0
     t_time = session.get('total_timer_time') or 0
