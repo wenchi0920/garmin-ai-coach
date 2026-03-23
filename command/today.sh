@@ -11,8 +11,8 @@ TOMORROW=$(date -d "tomorrow" +"%Y-%m-%d")
 WEEK_NUM=$(date +"%V")
 YEAR=$(date +"%Y")
 
-#	for test
-TODAY="2026-03-14"
+###	for test
+###TODAY="2026-03-14"
 
 echo "--- [AI Coach] 數據處理中: $TODAY ---"
 
@@ -20,7 +20,7 @@ echo "--- [AI Coach] 數據處理中: $TODAY ---"
 FIT_FILES=$(ls data/activity/activity_${TODAY}*.fit 2>/dev/null)
 if [ -n "$FIT_FILES" ]; then
     echo "[Step 1] 發現今日活動紀錄，開始分析..."
-#    python3 "${dname}/../fit_analyzer.py" "${FIT_FILES}"
+    python3 "${dname}/../fit_analyzer.py" "${FIT_FILES}"
 else
     echo "[Step 1] 今日尚未發現新的 .fit 活動紀錄。"
 fi
