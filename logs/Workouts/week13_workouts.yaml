@@ -1,0 +1,45 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "3km Z1 試跑測試":
+    - warmup: 10min @H(z1)
+    - run: 3km @H(119-131)
+    - cooldown: 5min @note(慢走)
+
+  "修復瑜伽 (30 min)":
+    - sport: yoga
+    - warmup: 5min @note(全身放鬆伸展)
+    - interval: 20min @note(舒緩試跑後的下肢肌肉)
+    - cooldown: 5min @note(大休息)
+
+  "5km Z2 基礎有氧":
+    - warmup: 10min @note(動態熱身)
+    - run: 5km @H(131-143)
+    - cooldown: 5min @note(慢走收操)
+
+  "跑者核心與臀部肌力 (30 min)":
+    - sport: strength
+    - warmup: 1min @note(貓牛式)
+    - interval: 20reps @note(鳥狗式)
+    - repeat(3):
+      - interval: 15reps @note(臀橋)
+      - interval: 20reps @note(死蟲式)
+      - interval: 30reps @note(側躺蚌殼式)
+    - cooldown: 2min @note(嬰兒式伸展)
+
+  "6km Z2 輕鬆跑":
+    - warmup: 10min @note(動態熱身)
+    - run: 6km @H(131-143)
+    - cooldown: 10min @note(慢走與靜態伸展)
+
+schedulePlan:
+  start_from: 2026-03-23
+  workouts:
+    - "rest"
+    - "3km Z1 試跑測試"
+    - "修復瑜伽 (30 min)"
+    - "5km Z2 基礎有氧"
+    - "跑者核心與臀部肌力 (30 min)"
+    - "rest"
+    - "6km Z2 輕鬆跑"

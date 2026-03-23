@@ -1,4 +1,3 @@
-
 services:
   gemini:
     build:
@@ -15,12 +14,16 @@ services:
       - GEMINI_API_KEY=${GEMINI_API_KEY:-}
       - LANG=C.UTF-8
     working_dir: /app
+    entrypoint: ["/bin/sh", "-c"]
+    command: "tail -f /dev/null"
     volumes:
-      # 掛載宿主機的認證目錄，確保 UID 1000 有權限存取
-      - ./volume/gemini/.gemini:/home/gemini/.gemini
-      # 工作目錄
+      # 掛載宿主機的認證目錄，確保 UID 1000 有權�目錄
+      - gemini_config:/home/gemini/.gemini
+      - root_config:/root/.gemini
       - ./:/app
+      - ../garmin-tools-kit/data:/app/data
       - ../garmin-tools-kit:/app/garmin-tools-kit
+      - ../garmin-tools-kit/data:/app/garmin-tools-kit/data
     # 避免 CLI 執行完就絀求開啟以下指令
     # command: ["chat"]
     logging:
@@ -28,4 +31,8 @@ services:
       options:
         max-size: "10m"
         max-file: "3"    
-    
+
+volumes:
+  gemini_config:
+  root_config:
+
