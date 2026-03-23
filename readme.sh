@@ -20,7 +20,7 @@ recent_workouts_list=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | ta
 recent_activities_list=$(ls logs/activity/activity_*.md 2>/dev/null | sort -V | tail -n 10)
 
 # 取得最近 2 天的健康數據內容 (注入上下文)
-latest_health_files="data/health/report.txt"
+latest_health_files="data/health/health.txt"
 
 # 3. 建構上下文參數 (用於 @ 標註)
 # 我們只注入最關鍵的內容以節省 Token，其餘以清單呈現
