@@ -61,4 +61,8 @@ fi
 
 # 顯示摘要內容
 echo "--- 報告摘要 ---"
-head -n 25 "${markdown_file}"
+cat "${markdown_file}"
+
+
+
+

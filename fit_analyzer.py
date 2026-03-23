@@ -6,6 +6,7 @@ import numpy as np
 import re
 from datetime import datetime, timedelta
 from fitparse import FitFile
+from geopy.geocoders import Nominatim
 
 # Configuration for HR and Pace Zones (from PERSON.md)
 DEFAULT_PERSON_DATA = {
@@ -59,6 +60,30 @@ def parse_person_md(md_path='logs/PERSON.md'):
 
 def get_location_str(lat, lon):
     if lat is None or lon is None: return ""
+    
+    # Try reverse geocoding to get city/district
+    try:
+        # Nominatim requires a user_agent
+        geolocator = Nominatim(user_agent="garmin_ai_coach")
+        # Reverse geocode with Traditional Chinese language
+        location = geolocator.reverse((lat, lon), language='zh-tw', timeout=10)
+        if location:
+            address = location.raw.get('address', {})
+            # Preferred components for Taiwan/General
+            # City/County -> Town/District
+            city = address.get('city') or address.get('town') or address.get('village') or address.get('county') or address.get('state', '')
+            district = address.get('suburb') or address.get('district', '')
+            
+            # Combine to form something like "台東縣台東市" or "台北市信義區"
+            # If city and district are the same (e.g. Taipei City), only return one if needed, but usually they are distinct
+            location_name = f"{city}{district}".strip()
+            if location_name:
+                return location_name
+            return str(location)
+    except Exception as e:
+        sys.stderr.write(f"Warning: Geocoding failed: {e}\n")
+    
+    # Fallback to GPS coordinates if geocoding fails
     return f"{lat:.6f}, {lon:.6f}"
 
 def parse_fit(file_path):
