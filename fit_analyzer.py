@@ -266,9 +266,9 @@ def parse_fit(file_path):
             output.append(f"| {l['分段']} | {l['距離']} | {l['累計時間']} | {l['配速']} | {l['最快配速']} | {l['心率']} | {l['儲備心率%']} | {l['最大心率']} | {l['步頻']} | {l['最大步頻']} | {l['步幅']} | {l['觸地時間']} | {l['垂直振幅']} | {l['功率']} | {l['最大功率']} | {l['效能']} | {l['海拔變化']} |\n")
 
     output.append("\n## 💡 教練建議與成效分析(fit_parse.py 不 立刻分析, 事後分析)\n")
-    output.append("(提供 500 字 內文分析)\n\n")
+    output.append("(提供 1000 字 內文分析)\n\n")
     output.append("**改進建議：**\n")
-    output.append("(提供 500 字 內文分析)\n")
+    output.append("(提供 1000 字 內文分析)\n")
 
 
     sys.stdout.write("".join(output))
