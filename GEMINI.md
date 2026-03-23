@@ -131,6 +131,10 @@ use https://github.com/wenchi0920/garmin-tools-kit 上傳/下載課表
 請參照 檔案 `PERSON.md` 產出 並存放置 `logs/PERSON.md`
 
 
-## 7. 禁止 行為a
+## 7. 禁止 行為
 * **禁止修改檔案**：以下檔案 禁止直接修改 `DAILY.md`, `GEMINI.md`, `PERSON.md`, `Workouts.md`, `fit_analyzer.py`
+
+
+
+
 
