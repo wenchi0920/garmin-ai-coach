@@ -19,7 +19,7 @@ recent_workouts=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | tail -n
 recent_activities=$(ls logs/activity/activity_*.md 2>/dev/null | sort -V | tail -n 10)
 
 
-healths=$(find data/ -type f |grep health|sort|tail -n 2)
+healths=$(find data/ -type f |grep health|sort|tail -n 7)
 
 # 4. 建構 Prompt
 # 透過 @ 符號將關鍵檔案引入上下文，讓 AI Coach 擁有完整資訊
