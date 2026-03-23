@@ -110,6 +110,19 @@ def get_location_str(lat, lon):
     # Fallback to GPS coordinates if geocoding fails
     return f"{lat:.6f}, {lon:.6f}"
 
+def extract_local_time_from_filename(file_path):
+    basename = os.path.basename(file_path)
+    # Pattern: activity_YYYY-MM-DD_HH-MM-SS+ZZZZ.fit
+    match = re.search(r'activity_(\d{4}-\d{2}-\d{2})_(\d{2})-(\d{2})-(\d{2})', basename)
+    if match:
+        date_str = match.group(1)
+        h, m, s = match.group(2), match.group(3), match.group(4)
+        try:
+            return datetime.strptime(f"{date_str} {h}:{m}:{s}", '%Y-%m-%d %H:%M:%S')
+        except:
+            return None
+    return None
+
 def parse_fit(file_path):
     if not file_path.lower().endswith('.fit'):
         sys.stderr.write(f"Error: {file_path} is not a .fit file.\n")
@@ -203,9 +216,14 @@ def parse_fit(file_path):
     dist = session.get('total_distance') or 0
     t_time = session.get('total_timer_time') or 0
 
+    # Get start time from filename or session
+    local_start_time = extract_local_time_from_filename(file_path)
+    if not local_start_time:
+        local_start_time = session.get('start_time', df['timestamp'].iloc[0])
+
     summary = {
-        "date": session.get('start_time', df['timestamp'].iloc[0]).strftime('%Y-%m-%d'),
-        "start_time": session.get('start_time', df['timestamp'].iloc[0]).strftime('%H:%M:%S'),
+        "date": local_start_time.strftime('%Y-%m-%d'),
+        "start_time": local_start_time.strftime('%H:%M:%S'),
         "sport": sport_zh,
         "distance": dist / 1000.0,
         "time": t_time,
