@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 確保路徑與語系正確
+# 1. 環境設定
 export PATH=$PATH:/usr/local/bin:/usr/local/sbin
 export LANG=zh_TW.UTF-8
 
@@ -9,47 +9,61 @@ dname=$(/usr/bin/dirname "$0")
 dname=$(/bin/readlink -f "$dname")
 cd "${dname}"
 
-# 1. 取得最新的一份課表 (本週執行中)
+# 2. 檔案路徑檢索
+# 取得最新的一份課表 (本週計畫)
 current_workout=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | tail -n 1)
 
-# 2. 取得最近一個月的課表清單 (用於建立 README 連結)
-recent_workouts=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
+# 取得最近一個月的課表清單 (建立連結)
+recent_workouts_list=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
 
-# 3. 取得最近 5 筆活動紀錄檔案路徑
-recent_activities=$(ls logs/activity/activity_*.md 2>/dev/null | sort -V | tail -n 10)
+# 取得最近 10 筆活動紀錄檔案路徑 (建立清單)
+recent_activities_list=$(ls logs/activity/activity_*.md 2>/dev/null | sort -V | tail -n 10)
 
+# 取得最近 2 天的健康數據內容 (注入上下文)
+latest_health_files=$(find data/ -type f 2>/dev/null | grep health | sort | tail -n 7)
 
-healths=$(find data/ -type f |grep health|sort|tail -n 7)
+# 3. 建構上下文參數 (用於 @ 標註)
+# 我們只注入最關鍵的內容以節省 Token，其餘以清單呈現
+CONTEXT_FILES="@GEMINI.md @logs/PERSON.md @README.md"
+[ -n "$current_workout" ] && CONTEXT_FILES="$CONTEXT_FILES @$current_workout"
+for f in $latest_health_files; do
+    CONTEXT_FILES="$CONTEXT_FILES @$f"
+done
 
 # 4. 建構 Prompt
-# 透過 @ 符號將關鍵檔案引入上下文，讓 AI Coach 擁有完整資訊
-PROMPT="@GEMINI.md @logs/PERSON.md @${current_workout} @README.md
-請依照以下要求，優化並更新目前的 README.md：
+PROMPT="$CONTEXT_FILES
+你現在是一位資深的馬拉松教練 AI Coach。請根據提供附件內容，優化並更新目前的 README.md。
 
-1. **系統功能描述**：強調科學化訓練、數據分析與自動化課表管理。
-2. **健康摘要**： 根據最近兩天（${healths}）健康數據撰寫，並提供詳細的摘要 和 
-3. **🎯 核心目標**：從 PERSON.md 提取雪梨馬拉松等近期關鍵賽事與目標成績。
-4. **📊 最新健康摘要**：根據最新課表（${current_workout}）中的「上週回顧」與最近兩天的狀態撰寫。
-5. **📅 本週計畫摘要**：摘要本週的訓練重點與目標。
-6. **🔗 課表歷史紀錄**：
-$(echo "${recent_workouts}" | sed 's/^/- /')
+### 任務要求：
+1. **系統核心定位**：簡述系統如何結合數據分析與自動化課表，協助跑者達成目標。
+2. **🎯 核心賽事目標**：從 PERSON.md 提取雪梨馬拉松等關鍵資訊與當前跑力 VDOT。
+3. **📊 最新健康與恢復摘要**：
+   - 整合最近兩天健康數據內容。
+   - 結合 $current_workout 中的「上週回顧」。
+   - 提供專業的恢復建議（如傷勢進度、疲勞度評估）。
+4. **📅 本週訓練重點**：摘要本週課表的核心目標（如：Return to Run 測試、基礎耐力累積）。
+5. **🔗 歷史課表紀錄**：
+$(echo "${recent_workouts_list}" | sed 's/^/- /')
 
-7. **🏃 最近 10 筆訓練摘要**：請參考以下檔案清單撰寫日期、項目與摘要：
-$(echo "${recent_activities}" | sed 's/^/- /')
+6. **🏃 最近 10 筆訓練摘要表**：
+   - 請根據檔案名稱與內容，整理日期、項目與簡短成效摘要。
+$(echo "${recent_activities_list}" | sed 's/^/- /')
 
-請確保內容專業、嚴謹，並符合跑者教練的口吻。
+請確保內容使用繁體中文，語氣專業、嚴謹且具鼓勵性。
 "
 
-echo "----------------------------------------"
-echo "🚀 準備更新 README.md"
-echo "最新課表: ${current_workout}"
-echo "----------------------------------------"
+echo "--------------------------------------------------"
+echo "🚀 正在啟動 README.md 更新程序..."
+echo "📍 參考課表: ${current_workout:-無}"
+echo "📍 健康數據: $(echo $latest_health_files | xargs)"
+echo "--------------------------------------------------"
 
-# 執行 AI 更新 (若環境支援 gemini 指令則自動執行)
+# 5. 執行更新
 if command -v gemini &> /dev/null; then
-    gemini -y -p "$PROMPT" <<< "" &> /dev/null && echo "✅ README.md 已自動更新完成。" || echo "⚠️ AI 更新過程發生錯誤。"
+    gemini -y -p "$PROMPT" <<< "" &> /dev/null && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
 else
-    echo "提示：偵測不到 gemini 指令，請複製以下 Prompt 至 AI 介面執行："
-    echo ""
+    echo "提示：未偵測到 gemini 指令，請複製以下 Prompt 使用："
+    echo "=================================================="
     echo "${PROMPT}"
+    echo "=================================================="
 fi
