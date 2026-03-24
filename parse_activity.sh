@@ -70,6 +70,8 @@ if [ ! -f "${markdown_file}" ] || [ "${force_reanalyze}" == "true" ]; then
             if gemini --version &> /dev/null; then
                 echo "正在請求 AI Coach 深度建議..."
                 gemini -y -p "$PROMPT" <<< "" &> /dev/null || echo "⚠️ AI 建議補全失敗，請手動執行補全。"
+                # 確保在 AI 補全後才發送全文到 Telegram
+                cat "${markdown_file}" | python3 send_msg.py
 		#bash readme.sh
             else
                 echo "💡 提示: 系統 gemini 指令版本不相容，請通知 AI Coach 手動為您分析報告。"
@@ -92,6 +94,8 @@ else
             PROMPT="@GEMINI.md 請幫我依照 \`${markdown_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。"
             if gemini --version &> /dev/null; then
                 gemini -y -p "$PROMPT" <<< "" &> /dev/null || echo "⚠️ AI 建議補全失敗。"
+                # 補全後發送通知
+                cat "${markdown_file}" | python3 send_msg.py
             else
                 echo "💡 提示: 系統 gemini 指令版本不相容，請通知 AI Coach 手動補全。"
             fi

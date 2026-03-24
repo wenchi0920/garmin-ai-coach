@@ -10,3 +10,4 @@ tqdm
 tkcalendar
 customtkinter
 geopy
+requests
