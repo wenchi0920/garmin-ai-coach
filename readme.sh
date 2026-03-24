@@ -2,6 +2,7 @@
 
 # 1. 環境設定
 export PATH=$PATH:/usr/local/bin:/usr/local/sbin
+export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin
 export LANG=zh_TW.UTF-8
 
 # 切換至專案根目錄
