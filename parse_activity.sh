@@ -70,6 +70,22 @@ if [ ! -f "${markdown_file}" ] || [ "${force_reanalyze}" == "true" ]; then
     fi
 else
     echo "Markdown 檔案已存在: ${markdown_file}"
+    
+    # 額外檢查：如果檔案已存在，但內容包含預留字串，表示尚未經過 AI 分析
+    if grep -q "(提供 1000 字 內文分析)" "${markdown_file}"; then
+        echo "🔍 偵測到 AI 分析缺失，正在請求 AI Coach 補全建議..."
+        
+        if command -v gemini &> /dev/null; then
+            PROMPT="@GEMINI.md 請幫我依照 \`${markdown_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。"
+            if gemini --version &> /dev/null; then
+                gemini -y -p "$PROMPT" <<< "" &> /dev/null || echo "⚠️ AI 建議補全失敗。"
+            else
+                echo "💡 提示: 系統 gemini 指令版本不相容，請通知 AI Coach 手動補全。"
+            fi
+        else
+            echo "💡 提示: 請手動請 AI Coach 補全 ${markdown_file} 的教練建議。"
+        fi
+    fi
 fi
 
 # 顯示摘要內容
