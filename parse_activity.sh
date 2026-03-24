@@ -37,7 +37,18 @@ fi
 
 base_name=$(basename "${fit_file}")
 markdown_name="${base_name%.fit}.md"
-output_dir="logs/activity"
+
+# 提取年份與月份 (假設檔名格式為 activity_YYYY-MM-DD_...)
+year=$(echo "${base_name}" | cut -d'_' -f2 | cut -d'-' -f1)
+month=$(echo "${base_name}" | cut -d'_' -f2 | cut -d'-' -f2)
+
+# 如果提取失敗，預設到 logs/activity
+if [[ -z "$year" || -z "$month" ]]; then
+    output_dir="logs/activity"
+else
+    output_dir="logs/activity/${year}/${month}"
+fi
+
 markdown_file="${output_dir}/${markdown_name}"
 
 mkdir -p "${output_dir}"

@@ -17,14 +17,13 @@ echo "🚀 準備同步訓練數據至 GitHub..."
 TARGET_FILES=(
     "logs/Workouts/*.md"
     "logs/Workouts/*.yaml"
-    "logs/activity/*.md"
+    "logs/activity/"
     "logs/PERSON.md"
     "README.md"
 )
 
-# 執行 Git Add (不使用 -f 除非檔案在 .gitignore 中)
-# 擴展萬用字元並加入 git
-git add logs/Workouts/*.md logs/Workouts/*.yaml logs/activity/*.md logs/PERSON.md README.md 2>/dev/null
+# 執行 Git Add
+git add logs/Workouts/*.md logs/Workouts/*.yaml logs/activity/ logs/PERSON.md README.md 2>/dev/null
 
 # 3. 檢查是否有變更
 if git diff --cached --quiet; then
@@ -40,7 +39,7 @@ commit_msg="docs: update training logs and workouts ($current_date)"
 echo "📝 正在產生 Commit: $commit_msg"
 
 if command -v git-commit &> /dev/null; then
-    git-commit --auto logs/Workouts/*.md logs/Workouts/*.yaml logs/activity/*.md 2>/dev/null || \
+    git-commit --auto logs/Workouts/*.md logs/Workouts/*.yaml logs/activity/ 2>/dev/null || \
     git commit -m "$commit_msg"
 else
     git commit -m "$commit_msg"

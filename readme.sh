@@ -17,7 +17,7 @@ current_workout=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | tail -n
 recent_workouts_list=$(ls logs/Workouts/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
 
 # 取得最近 10 筆活動紀錄檔案路徑 (建立清單)
-recent_activities_list=$(ls logs/activity/activity_*.md 2>/dev/null | sort -V | tail -n 10)
+recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
 
 # 取得最近 2 天的健康數據內容 (注入上下文)
 latest_health_files="data/health/health.txt"
