@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 # 不要覆蓋使用者的 PATH，否則會找不到像 gemini 這樣的指令
-export PATH=$PATH:/usr/local/bin:/usr/local/sbin
+export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin
 export LANG=zh_TW.UTF-8
 
 # 取得腳本所在目錄並切換進去
@@ -20,6 +20,8 @@ exec > >(tee -a "${LOG_FILE}") 2>&1
 
 echo "========================================"
 echo "執行時間: $(date '+%Y-%m-%d %H:%M:%S')"
+
+echo "${PATH}"
 
 fit_file="$1"
 force_reanalyze="${2:-false}"
