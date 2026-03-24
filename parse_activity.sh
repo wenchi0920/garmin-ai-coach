@@ -9,6 +9,18 @@ dname=$(/usr/bin/dirname "$0")
 dname=$(/bin/readlink -f "$dname")
 cd "${dname}"
 
+# 設定日誌檔案
+LOG_DIR="logs"
+mkdir -p "${LOG_DIR}"
+LOG_FILE="${LOG_DIR}/parse_activity.log"
+
+# 將所有輸出 (stdout & stderr) 同時輸出到終端機與日誌檔案
+# 使用 { ... } 區塊來包裝原本的邏輯，或者直接使用 exec
+exec > >(tee -a "${LOG_FILE}") 2>&1
+
+echo "========================================"
+echo "執行時間: $(date '+%Y-%m-%d %H:%M:%S')"
+
 fit_file="$1"
 force_reanalyze="${2:-false}"
 
