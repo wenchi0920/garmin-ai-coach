@@ -19,8 +19,9 @@ DEFAULT_PERSON_DATA = {
 
 # Load Activity Type Config
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config', 'activity_types.yml')
-EXERCISE_CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config', 'exercises.yml')
+EXERCISE_CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config', 'garmin_exercises.yml')
 ACTIVITY_CONFIG = {}
+CATEGORY_MAP = {}
 EXERCISE_MAP = {}
 
 if os.path.exists(CONFIG_PATH):
@@ -34,16 +35,19 @@ if os.path.exists(EXERCISE_CONFIG_PATH):
     try:
         with open(EXERCISE_CONFIG_PATH, 'r', encoding='utf-8') as f:
             ex_data = yaml.safe_load(f)
-            EXERCISE_MAP = ex_data.get('exercise_map', {})
+            CATEGORY_MAP = ex_data.get('categories', {})
+            EXERCISE_MAP = ex_data.get('exercises', {})
     except Exception as e:
         sys.stderr.write(f"Warning: Failed to load exercise map: {e}\n")
 
 def get_exercise_name_zh(category, name_enum):
-    # Try raw values first (handles integer keys from YAML)
-    if category in EXERCISE_MAP:
-        return EXERCISE_MAP[category]
+    # Try raw values from exercises first (specific strings)
     if name_enum in EXERCISE_MAP:
         return EXERCISE_MAP[name_enum]
+    
+    # Try raw values from categories (integers)
+    if category in CATEGORY_MAP:
+        return CATEGORY_MAP[category]
         
     # Fallback to string mapping
     cat_str = str(category).lower()
@@ -51,8 +55,8 @@ def get_exercise_name_zh(category, name_enum):
     
     if name_str in EXERCISE_MAP:
         return EXERCISE_MAP[name_str]
-    if cat_str in EXERCISE_MAP:
-        return EXERCISE_MAP[cat_str]
+    if cat_str in CATEGORY_MAP:
+        return CATEGORY_MAP[cat_str]
     
     # Fallback to raw strings if not in map
     if name_str and name_str != 'none' and name_str != '0':
@@ -142,6 +146,16 @@ def get_location_str(lat, lon):
     # Fallback to GPS coordinates if geocoding fails
     return f"{lat:.6f}, {lon:.6f}"
 
+def extract_tz_offset(file_path):
+    basename = os.path.basename(file_path)
+    # Pattern: activity_..._HH-MM-SS+0800.fit
+    match = re.search(r'\+([0-9]{2})([0-9]{2})', basename)
+    if match:
+        hours = int(match.group(1))
+        minutes = int(match.group(2))
+        return timedelta(hours=hours, minutes=minutes)
+    return timedelta(0)
+
 def extract_local_time_from_filename(file_path):
     basename = os.path.basename(file_path)
     # Pattern: activity_YYYY-MM-DD_HH-MM-SS+ZZZZ.fit
@@ -171,6 +185,9 @@ def parse_fit(file_path):
     records = []
     hrv_data = []
     laps_data = []
+    
+    # Extract Timezone Offset
+    tz_offset = extract_tz_offset(file_path)
     
     # Extract HRV
     for message in fitfile.get_messages('hrv'):
@@ -235,33 +252,81 @@ def parse_fit(file_path):
         workout_steps[val.get('message_index')] = val.get('notes')
 
     # Extract Sets
-    sets_data = []
+    all_sets = []
     for m in fitfile.get_messages('set'):
         val = m.get_values()
-        stype = val.get('set_type')
-        if stype not in ['active', 'cooldown']: continue
+        # Get local start time
+        start_time_utc = val.get('start_time')
+        local_start = start_time_utc + tz_offset if start_time_utc else None
         
+        # Determine name: For Strength, prioritize Category mapping to avoid mismatch
         wkt_idx = val.get('wkt_step_index')
-        name = exercise_titles.get(wkt_idx) or workout_steps.get(wkt_idx)
+        cat = val.get('category')
+        cat_val = cat[0] if isinstance(cat, (tuple, list)) else cat
+        subcat = val.get('category_subtype')
+        subcat_val = subcat[0] if isinstance(subcat, (tuple, list)) else subcat
         
-        if not name:
-            cat = val.get('category')
-            # Category and Subtype can be tuples or single values depending on the file
-            cat_val = cat[0] if isinstance(cat, (tuple, list)) else cat
-            subcat = val.get('category_subtype')
-            subcat_val = subcat[0] if isinstance(subcat, (tuple, list)) else subcat
+        # Logic: If Strength and we have a valid category, use it. Else use title/notes.
+        name = None
+        if cat_val is not None:
             name = get_exercise_name_zh(cat_val, subcat_val)
-
-        reps = val.get('repetitions')
-        weight = val.get('weight')
-        duration = val.get('duration')
-        
-        sets_data.append({
-            "動作": name,
-            "次數": reps if reps is not None else "--",
-            "重量": f"{weight} kg" if weight is not None else "--",
-            "時間": f"{int(duration // 60):02d}:{int(duration % 60):02d}" if duration else "--"
+            
+        if not name or name == "Unknown":
+            name = exercise_titles.get(wkt_idx) or workout_steps.get(wkt_idx) or "Unknown"
+            
+        all_sets.append({
+            "set_type": val.get('set_type'),
+            "local_start": local_start,
+            "name": name,
+            "reps": val.get('repetitions'),
+            "weight": val.get('weight'),
+            "duration": val.get('duration') or 0,
         })
+    
+    # Sort all sets by local time
+    all_sets.sort(key=lambda x: x['local_start'] if x['local_start'] else datetime.min)
+    
+    # Process sets into the requested format
+    processed_strength_sets = []
+    processed_yoga_sets = []
+    exercise_counts = {} # To track set numbers per exercise name
+    
+    # Use sport_zh to determine output format
+    is_strength = "肌力訓練" in sport_zh
+    is_yoga = "瑜伽" in sport_zh
+    
+    if is_strength:
+        for i, s in enumerate(all_sets):
+            if s['set_type'] in ['active', 'cooldown']:
+                name = s['name']
+                exercise_counts[name] = exercise_counts.get(name, 0) + 1
+                
+                # Look for the rest set immediately following this active set
+                rest_duration = 0
+                if i + 1 < len(all_sets) and all_sets[i+1]['set_type'] == 'rest':
+                    rest_duration = all_sets[i+1]['duration']
+                
+                reps = s['reps'] or 0
+                weight = s['weight'] or 0
+                
+                processed_strength_sets.append({
+                    "執行時間": s['local_start'].strftime('%H:%M:%S') if s['local_start'] else "--",
+                    "組數": exercise_counts[name],
+                    "運動名稱": name,
+                    "時間": f"{int(s['duration'] // 60):02d}:{int(s['duration'] % 60):02d}",
+                    "休息": f"{int(rest_duration // 60):02d}:{int(rest_duration % 60):02d}",
+                    "次數": reps if reps > 0 else "--",
+                    "重量": f"{weight} kg" if weight > 0 else "--",
+                    "總重量": f"{reps * weight:.1f} kg" if reps > 0 and weight > 0 else "--"
+                })
+    elif is_yoga:
+        for s in all_sets:
+            if s['set_type'] in ['active', 'cooldown']:
+                processed_yoga_sets.append({
+                    "執行時間": s['local_start'].strftime('%H:%M:%S') if s['local_start'] else "--",
+                    "姿勢名稱": s['name'],
+                    "時間": f"{int(s['duration'] // 60):02d}:{int(s['duration'] % 60):02d}"
+                })
 
     # Extract Records for Summary
     for record in fitfile.get_messages('record'):
@@ -336,12 +401,19 @@ def parse_fit(file_path):
     output.append(f"* **最大心率**：{max_hr_str}\n")
     output.append(f"* **平均步頻**：{cad_str}\n")
     
-    if sets_data:
+    if processed_strength_sets:
         output.append("\n## 🏋️ 訓練紀錄 (Sets)\n")
-        output.append("| 動作 | 次數 | 重量 | 時間 |\n")
-        output.append("| :--- | :--- | :--- | :--- |\n")
-        for s in sets_data:
-            output.append(f"| {s['動作']} | {s['次數']} | {s['重量']} | {s['時間']} |\n")
+        output.append("| 執行時間 | 組數 | 運動名稱 | 時間 | 休息 | 次數 | 重量 | 總重量 |\n")
+        output.append("| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n")
+        for s in processed_strength_sets:
+            output.append(f"| {s['執行時間']} | {s['組數']} | {s['運動名稱']} | {s['時間']} | {s['休息']} | {s['次數']} | {s['重量']} | {s['總重量']} |\n")
+
+    if processed_yoga_sets:
+        output.append("\n## 🧘 瑜伽紀錄 (Sets)\n")
+        output.append("| 執行時間 | 姿勢名稱 | 時間 |\n")
+        output.append("| :--- | :--- | :--- |\n")
+        for s in processed_yoga_sets:
+            output.append(f"| {s['執行時間']} | {s['姿勢名稱']} | {s['時間']} |\n")
 
     if laps_data:
         output.append("\n## ⏱️ 分段紀錄 (Laps)\n")
