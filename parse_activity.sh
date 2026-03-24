@@ -12,7 +12,7 @@ cd "${dname}"
 # 設定日誌檔案
 LOG_DIR="logs"
 mkdir -p "${LOG_DIR}"
-LOG_FILE="${LOG_DIR}/parse_activity.log"
+LOG_FILE="${LOG_DIR}/parse_activity_$(date +%Y-%m-%d).log"
 
 # 將所有輸出 (stdout & stderr) 同時輸出到終端機與日誌檔案
 # 使用 { ... } 區塊來包裝原本的邏輯，或者直接使用 exec
