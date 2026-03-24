@@ -9,8 +9,16 @@ dname=$(/usr/bin/dirname "$0")
 dname=$(/bin/readlink -f "$dname")
 cd "${dname}"
 
+# 設定日誌檔案
+LOG_DIR="logs"
+mkdir -p "${LOG_DIR}"
+LOG_FILE="${LOG_DIR}/git-push_$(date +%Y-%m-%d).log"
+
+# 將所有輸出 (stdout & stderr) 同時輸出到終端機與日誌檔案
+exec > >(tee -a "${LOG_FILE}") 2>&1
+
 echo "--------------------------------------------------"
-echo "🚀 準備同步訓練數據至 GitHub..."
+echo "🚀 準備同步訓練數據至 GitHub... (執行時間: $(date '+%Y-%m-%d %H:%M:%S'))"
 
 # 2. 準備追蹤清單
 # 包含：本週課表、YAML 設定、訓練日誌、個人資料、README
