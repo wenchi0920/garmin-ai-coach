@@ -1,0 +1,54 @@
+exercise_map:
+  # Categories (Integers from FIT SDK)
+  0: "臥推" # bench_press
+  1: "提踵" # calf_raise
+  2: "有氧" # cardio
+  3: "負重行走" # carry
+  4: "伐木式" # chop
+  5: "核心" # core
+  6: "捲腹" # crunch
+  7: "二頭肌彎舉" # curl
+  8: "硬舉" # deadlift
+  9: "飛鳥" # flye
+  10: "髖關節屈曲" # hip_flexion
+  11: "髖關節伸展" # hip_extension
+  12: "髖關節外展" # hip_abduction
+  13: "髖關節內收" # hip_adduction
+  14: "仰臥起坐" # sit_up
+  15: "划船" # row
+  16: "肩推" # shoulder_press
+  17: "肩部穩定" # shoulder_stability
+  18: "聳肩" # shrug
+  19: "仰臥起坐" # sit_up
+  20: "深蹲" # squat
+  21: "階梯運動" # stair_climbing
+  22: "三頭肌伸展" # triceps_extension
+  23: "提踵" # calf_raise
+  27: "硬舉" # deadlift (variations)
+  35: "伸展" # flexibility / stretch
+  36: "瑜伽" # yoga
+  37: "核心" # core / leg_raise
+
+  # String keys (if mapped by parser)
+  squat: "深蹲"
+  deadlift: "硬舉"
+  bench_press: "臥推"
+  plank: "棒式"
+  side_plank: "側棒式"
+  crunch: "捲腹"
+  leg_raise: "抬腿"
+  dead_bug: "死蟲式"
+  bird_dog: "鳥狗式"
+  russian_twist: "俄羅斯轉體"
+  hip_bridge: "臀橋"
+  glute_bridge: "臀橋"
+  lunge: "弓步蹲"
+  calf_raise: "提踵"
+  push_up: "俯臥撐"
+  pull_up: "引體向上"
+  row: "划船"
+  shoulder_press: "肩推"
+  overhead_press: "肩推"
+  jumping_jack: "開合跳"
+  mountain_climber: "登山者"
+  burpee: "剝比跳"

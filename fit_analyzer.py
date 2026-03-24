@@ -19,13 +19,45 @@ DEFAULT_PERSON_DATA = {
 
 # Load Activity Type Config
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config', 'activity_types.yml')
+EXERCISE_CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config', 'exercises.yml')
 ACTIVITY_CONFIG = {}
+EXERCISE_MAP = {}
+
 if os.path.exists(CONFIG_PATH):
     try:
         with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
             ACTIVITY_CONFIG = yaml.safe_load(f)
     except Exception as e:
         sys.stderr.write(f"Warning: Failed to load activity config: {e}\n")
+
+if os.path.exists(EXERCISE_CONFIG_PATH):
+    try:
+        with open(EXERCISE_CONFIG_PATH, 'r', encoding='utf-8') as f:
+            ex_data = yaml.safe_load(f)
+            EXERCISE_MAP = ex_data.get('exercise_map', {})
+    except Exception as e:
+        sys.stderr.write(f"Warning: Failed to load exercise map: {e}\n")
+
+def get_exercise_name_zh(category, name_enum):
+    # Try raw values first (handles integer keys from YAML)
+    if category in EXERCISE_MAP:
+        return EXERCISE_MAP[category]
+    if name_enum in EXERCISE_MAP:
+        return EXERCISE_MAP[name_enum]
+        
+    # Fallback to string mapping
+    cat_str = str(category).lower()
+    name_str = str(name_enum).lower() if name_enum else ""
+    
+    if name_str in EXERCISE_MAP:
+        return EXERCISE_MAP[name_str]
+    if cat_str in EXERCISE_MAP:
+        return EXERCISE_MAP[cat_str]
+    
+    # Fallback to raw strings if not in map
+    if name_str and name_str != 'none' and name_str != '0':
+        return name_str.replace('_', ' ').title()
+    return cat_str.replace('_', ' ').title()
 
 def get_activity_type_zh(sport, sub_sport):
     sport_map = ACTIVITY_CONFIG.get('sport_map', {})
@@ -191,6 +223,46 @@ def parse_fit(file_path):
             "海拔變化": f"{data.get('total_ascent', 0) - data.get('total_descent', 0):.0f}" if data.get('total_ascent') is not None else ''
         })
 
+    # Extract Exercise Titles and Workout Steps for Strength/Yoga
+    exercise_titles = {}
+    for m in fitfile.get_messages('exercise_title'):
+        val = m.get_values()
+        exercise_titles[val.get('message_index')] = val.get('wkt_step_name')
+    
+    workout_steps = {}
+    for m in fitfile.get_messages('workout_step'):
+        val = m.get_values()
+        workout_steps[val.get('message_index')] = val.get('notes')
+
+    # Extract Sets
+    sets_data = []
+    for m in fitfile.get_messages('set'):
+        val = m.get_values()
+        stype = val.get('set_type')
+        if stype not in ['active', 'cooldown']: continue
+        
+        wkt_idx = val.get('wkt_step_index')
+        name = exercise_titles.get(wkt_idx) or workout_steps.get(wkt_idx)
+        
+        if not name:
+            cat = val.get('category')
+            # Category and Subtype can be tuples or single values depending on the file
+            cat_val = cat[0] if isinstance(cat, (tuple, list)) else cat
+            subcat = val.get('category_subtype')
+            subcat_val = subcat[0] if isinstance(subcat, (tuple, list)) else subcat
+            name = get_exercise_name_zh(cat_val, subcat_val)
+
+        reps = val.get('repetitions')
+        weight = val.get('weight')
+        duration = val.get('duration')
+        
+        sets_data.append({
+            "動作": name,
+            "次數": reps if reps is not None else "--",
+            "重量": f"{weight} kg" if weight is not None else "--",
+            "時間": f"{int(duration // 60):02d}:{int(duration % 60):02d}" if duration else "--"
+        })
+
     # Extract Records for Summary
     for record in fitfile.get_messages('record'):
         data = record.get_values()
@@ -201,8 +273,11 @@ def parse_fit(file_path):
         else: r['lat'] = r['lon'] = None
         records.append(r)
 
-    if not records: return
-    df = pd.DataFrame(records).sort_values('timestamp')
+    if not records and not sets_data: return
+    
+    df = pd.DataFrame(records) if records else pd.DataFrame()
+    if not df.empty:
+        df = df.sort_values('timestamp')
     
     # Session handling
     sessions = list(fitfile.get_messages('session'))
@@ -219,7 +294,10 @@ def parse_fit(file_path):
     # Get start time from filename or session
     local_start_time = extract_local_time_from_filename(file_path)
     if not local_start_time:
-        local_start_time = session.get('start_time', df['timestamp'].iloc[0])
+        if not df.empty:
+            local_start_time = session.get('start_time', df['timestamp'].iloc[0])
+        else:
+            local_start_time = session.get('start_time', datetime.now())
 
     summary = {
         "date": local_start_time.strftime('%Y-%m-%d'),
@@ -228,11 +306,11 @@ def parse_fit(file_path):
         "distance": dist / 1000.0,
         "time": t_time,
         "avg_pace": format_pace(t_time / (dist / 1000.0)) if dist > 0 else "",
-        "avg_hr": session.get('avg_heart_rate', df['heart_rate'].mean()),
-        "max_hr": session.get('max_heart_rate', df['heart_rate'].max()),
-        "avg_cadence": session.get('avg_cadence', df['cadence'].mean()),
+        "avg_hr": session.get('avg_heart_rate', df['heart_rate'].mean() if not df.empty else None),
+        "max_hr": session.get('max_heart_rate', df['heart_rate'].max() if not df.empty else None),
+        "avg_cadence": session.get('avg_cadence', df['cadence'].mean() if not df.empty else None),
         "avg_hrv": np.mean(hrv_data) if hrv_data else 0,
-        "location": get_location_str(df['lat'].dropna().iloc[0], df['lon'].dropna().iloc[0]) if df['lat'].notnull().any() else ""
+        "location": get_location_str(df['lat'].dropna().iloc[0], df['lon'].dropna().iloc[0]) if not df.empty and df['lat'].notnull().any() else ""
     }
 
     # Save Laps CSV
@@ -258,6 +336,13 @@ def parse_fit(file_path):
     output.append(f"* **最大心率**：{max_hr_str}\n")
     output.append(f"* **平均步頻**：{cad_str}\n")
     
+    if sets_data:
+        output.append("\n## 🏋️ 訓練紀錄 (Sets)\n")
+        output.append("| 動作 | 次數 | 重量 | 時間 |\n")
+        output.append("| :--- | :--- | :--- | :--- |\n")
+        for s in sets_data:
+            output.append(f"| {s['動作']} | {s['次數']} | {s['重量']} | {s['時間']} |\n")
+
     if laps_data:
         output.append("\n## ⏱️ 分段紀錄 (Laps)\n")
         output.append("| 分段 | 距離 | 累計時間 | 配速 | 最快配速 | 心率 | 儲備心率% | 最大心率 | 步頻 | 最大步頻 | 步幅 | 觸地時間 | 垂直振幅 | 功率 | 最大功率 | 效能 | 海拔變化 |\n")
