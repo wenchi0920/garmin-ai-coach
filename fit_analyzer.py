@@ -286,6 +286,27 @@ def parse_fit(file_path):
     # Sort all sets by local time
     all_sets.sort(key=lambda x: x['local_start'] if x['local_start'] else datetime.min)
     
+    # Extract Records for Summary
+    for record in fitfile.get_messages('record'):
+        data = record.get_values()
+        r = {k: data.get(k) for k in ['timestamp', 'distance', 'heart_rate', 'cadence', 'speed']}
+        lat, lon = data.get('position_lat'), data.get('position_long')
+        if lat is not None and lon is not None:
+            r['lat'], r['lon'] = lat * (180.0 / 2**31), lon * (180.0 / 2**31)
+        else: r['lat'] = r['lon'] = None
+        records.append(r)
+
+    if not records and not all_sets: return
+
+    # Session handling
+    sessions = list(fitfile.get_messages('session'))
+    session = next((s.get_values() for s in sessions if s.get_values().get('sport') == 'running'), sessions[0].get_values() if sessions else {})
+
+    # Map activity type to Chinese using config
+    sport_type = session.get('sport')
+    sub_sport_type = session.get('sub_sport')
+    sport_zh = get_activity_type_zh(sport_type, sub_sport_type)
+
     # Process sets into the requested format
     processed_strength_sets = []
     processed_yoga_sets = []
@@ -328,31 +349,10 @@ def parse_fit(file_path):
                     "時間": f"{int(s['duration'] // 60):02d}:{int(s['duration'] % 60):02d}"
                 })
 
-    # Extract Records for Summary
-    for record in fitfile.get_messages('record'):
-        data = record.get_values()
-        r = {k: data.get(k) for k in ['timestamp', 'distance', 'heart_rate', 'cadence', 'speed']}
-        lat, lon = data.get('position_lat'), data.get('position_long')
-        if lat is not None and lon is not None:
-            r['lat'], r['lon'] = lat * (180.0 / 2**31), lon * (180.0 / 2**31)
-        else: r['lat'] = r['lon'] = None
-        records.append(r)
-
-    if not records and not sets_data: return
-    
     df = pd.DataFrame(records) if records else pd.DataFrame()
     if not df.empty:
         df = df.sort_values('timestamp')
     
-    # Session handling
-    sessions = list(fitfile.get_messages('session'))
-    session = next((s.get_values() for s in sessions if s.get_values().get('sport') == 'running'), sessions[0].get_values() if sessions else {})
-    
-    # Map activity type to Chinese using config
-    sport_type = session.get('sport')
-    sub_sport_type = session.get('sub_sport')
-    sport_zh = get_activity_type_zh(sport_type, sub_sport_type)
-
     dist = session.get('total_distance') or 0
     t_time = session.get('total_timer_time') or 0
 
