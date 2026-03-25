@@ -82,7 +82,7 @@ echo "📍 活動紀錄數: $(echo "$recent_activities_list" | wc -l)"
 echo "--------------------------------------------------"
 
 # 5. 執行更新
-if command -v gemini &> /dev/null; then
+if gemini -v &> /dev/null; then
     gemini -y -p "$PROMPT" <<< "" &> /dev/null && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
     cat README.md | python3 send_msg.py
 else
