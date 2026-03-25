@@ -266,13 +266,22 @@ def parse_fit(file_path):
         subcat = val.get('category_subtype')
         subcat_val = subcat[0] if isinstance(subcat, (tuple, list)) else subcat
         
-        # Logic: If Strength and we have a valid category, use it. Else use title/notes.
+        # Logic improvement: 
+        # 1. First check if there's a custom name from workout steps (often used in Yoga/Custom Workouts)
+        custom_name = exercise_titles.get(wkt_idx) or workout_steps.get(wkt_idx)
+        
         name = None
-        if cat_val is not None:
+        # For Yoga (36) or Flexibility (35), custom_name is usually more accurate
+        if (cat_val == 35 or cat_val == 36) and custom_name:
+            name = custom_name
+        
+        # 2. If no custom name, or it's a standard strength category, try mapping
+        if not name and cat_val is not None:
             name = get_exercise_name_zh(cat_val, subcat_val)
             
-        if not name or name == "Unknown":
-            name = exercise_titles.get(wkt_idx) or workout_steps.get(wkt_idx) or "Unknown"
+        # 3. Final fallback
+        if not name or name == "Unknown" or name == "瑜伽 (Yoga)" or name == "伸展 (Flexibility/Stretch)":
+            name = custom_name or name or "Unknown"
             
         all_sets.append({
             "set_type": val.get('set_type'),
