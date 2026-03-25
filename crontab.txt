@@ -22,9 +22,9 @@
 # 
 # m h  dom mon dow   command
 #
-*/15 * * * * flock -n /tmp/fit_analyzer.lock -c 'for f in $(find /app/data/activity/ -type f -name "*.fit" | sort | tail -n5); do bash /app/parse_activity.sh "${f}" > /dev/null 2>&1; done'
+*/5 * * * * flock -n /tmp/fit_analyzer.lock -c 'for f in $(find /app/data/activity/ -type f -name "*.fit" | sort | tail -n5); do bash /app/parse_activity.sh "${f}" > /dev/null 2>&1; done'
 00 08-23 * * * bash /app/git-push.sh ; git -C /app/ push
-10 12,23 * * * bash /app/readme.sh
+30 12,23 * * * bash /app/readme.sh
 */5  * * * * find /app/logs/ -type f -name "*.md" -empty -delete
 #
 #
