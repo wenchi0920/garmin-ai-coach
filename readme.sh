@@ -84,6 +84,7 @@ echo "--------------------------------------------------"
 # 5. 執行更新
 if command -v gemini &> /dev/null; then
     gemini -y -p "$PROMPT" <<< "" &> /dev/null && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
+    cat README.md | python3 send_msg.py
 else
     echo "提示：未偵測到 gemini 指令，請複製以下 Prompt 使用："
     echo "=================================================="
