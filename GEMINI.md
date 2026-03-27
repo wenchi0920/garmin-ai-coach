@@ -79,8 +79,6 @@
 * **心率區間**：計算 心率區間, 共分 1-5區
 
 
-* **自動分析fit檔案**：自動分析 fit 檔案，並將 fit 分析結果  依照原來  xxxxxxxx.fit 儲存成  xxxxxxxx.md, 內容格式 請參照 @DAILY.md 檔案
-
 * **fif下載**：如果有需要下載 請用 https://github.com/wenchi0920/garmin-tools-kit 管理
 
 
@@ -132,7 +130,7 @@ use https://github.com/wenchi0920/garmin-tools-kit 上傳/下載課表
 
 
 ## 7. 禁止 行為
-* **禁止修改檔案**：以下檔案 禁止直接修改 `DAILY.md`, `GEMINI.md`, `PERSON.md`, `Workouts.md`, `fit_analyzer.py`
+* **禁止修改檔案**：以下檔案 禁止直接修改 `GEMINI.md`, `PERSON.md`, `Workouts.md`, `fit_analyzer.py`
 
 
 

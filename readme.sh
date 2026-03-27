@@ -83,8 +83,32 @@ echo "--------------------------------------------------"
 
 # 5. 執行更新
 if gemini -v &> /dev/null; then
-    gemini -y -p "$PROMPT" <<< "" &> /dev/null && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
-    echo "update README.md" | python3 send_msg.py
+
+	models=( "gemini-3.1-pro-preview" "gemini-3-flash-preview" "gemini-2.5-pro" "gemini-2.5-flash" )
+	num=0
+	max=4
+	old=$(md5sum README.md |awk '{print $1}')
+	result="N"
+	while [ $max -gt $num ] ;
+	do
+		model=${models[$num]}
+		echo "gemini 第 $((num+1)) 次 執行, model: $model"
+		gemini -y --model "$model" -p "$PROMPT" <<< "" && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
+
+		new=$(md5sum README.md |awk '{print $1}')
+		if [ "$new" != "$old" ] ; then
+			result="Y"
+			break
+		fi
+		num=$((num+1))
+	done
+
+	if [ "$result" == "Y" ]; then
+		echo "update README.md SUCCESS" | python3 send_msg.py
+	else
+		echo "update README.md ERROR" | python3 send_msg.py
+	fi
+
 else
     echo "提示：未偵測到 gemini 指令，請複製以下 Prompt 使用："
     echo "=================================================="

@@ -106,8 +106,8 @@ else
 fi
 
 # 顯示摘要內容
-echo "--- 報告摘要 ---"
-cat "${markdown_file}"
+#echo "--- 報告摘要 ---"
+#cat "${markdown_file}"
 
 
 
