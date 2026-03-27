@@ -34,7 +34,7 @@
 - logs/PERSON.md
 - logs/SCHEDULE.md
 - logs/*.yml
-- logs/Workouts/Workouts-2026-03-09-W11.md
+- logs/Workouts/YYYY/Workouts-2026-03-09-W11.md
 
 
 
@@ -120,7 +120,7 @@ use https://github.com/wenchi0920/garmin-tools-kit 上傳/下載課表
 
 ## 5. 訓練週報 
 
-- 請參照 檔案  檔案 `Workouts.md` 提供資料  並依照 日期 當年度週次 存放 logs/Workouts/Workouts-2026-03-09-W11.md
+- 請參照 檔案  檔案 `Workouts.md` 提供資料  並依照 日期 當年度週次 存放 logs/Workouts/YYYY/Workouts-2026-03-09-W11.md
 - 最小異動原則 markdown md file 每次修改都要 思考多次 ，是否為最佳的修改，並只做最小修改達到想要的功能。
 
 

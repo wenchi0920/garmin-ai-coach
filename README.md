@@ -101,10 +101,10 @@
 ---
 
 ## 🔗 歷史課表紀錄
-- [W13: 2026-03-23 恢復適應 (進行中)](logs/Workouts/Workouts-2026-03-23-W13.md)
-- [W12: 2026-03-16 主動恢復 (騎乘 30km)](logs/Workouts/Workouts-2026-03-16-W12.md)
-- [W11: 2026-03-09 賽前減量 (三鐵挑戰)](logs/Workouts/Workouts-2026-03-09-W11.md)
-- [W10: 2026-03-02 基礎期 (VDOT 34)](logs/Workouts/Workouts-2026-03-02-W10.md)
+- [W13: 2026-03-23 恢復適應 (進行中)](logs/Workouts/2026/Workouts-2026-03-23-W13.md)
+- [W12: 2026-03-16 主動恢復 (騎乘 30km)](logs/Workouts/2026/Workouts-2026-03-16-W12.md)
+- [W11: 2026-03-09 賽前減量 (三鐵挑戰)](logs/Workouts/2026/Workouts-2026-03-09-W11.md)
+- [W10: 2026-03-02 基礎期 (VDOT 34)](logs/Workouts/2026/Workouts-2026-03-02-W10.md)
 
 ---
 

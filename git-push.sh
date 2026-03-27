@@ -23,8 +23,8 @@ echo "🚀 準備同步訓練數據至 GitHub... (執行時間: $(date '+%Y-%m-%
 # 2. 準備追蹤清單
 # 包含：本週課表、YAML 設定、訓練日誌、個人資料、README
 TARGET_FILES=(
-    "logs/Workouts/*.md"
-    "logs/Workouts/*.yaml"
+    "logs/Workouts/*/*.md"
+    "logs/Workouts/*/*.yaml"
     "logs/activity/"
     "logs/PERSON.md"
     "README.md"
@@ -33,7 +33,7 @@ TARGET_FILES=(
 git pull
 
 # 執行 Git Add
-git add logs/Workouts/*.md logs/Workouts/*.yaml logs/activity/ logs/PERSON.md README.md 2>/dev/null
+git add logs/Workouts/*/*.md logs/Workouts/*/*.yaml logs/activity/ logs/PERSON.md README.md 2>/dev/null
 
 # 3. 檢查是否有變更
 if git diff --cached --quiet; then
@@ -49,7 +49,7 @@ commit_msg="docs: update training logs and workouts ($current_date)"
 echo "📝 正在產生 Commit: $commit_msg"
 
 if command -v git-commit &> /dev/null; then
-    git-commit --auto logs/Workouts/*.md logs/Workouts/*.yaml logs/activity/ 2>/dev/null || \
+    git-commit --auto logs/Workouts/*/*.md logs/Workouts/*/*.yaml logs/activity/ 2>/dev/null || \
     git commit -m "$commit_msg"
 else
     git commit -m "$commit_msg"
