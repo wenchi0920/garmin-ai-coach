@@ -59,14 +59,14 @@ PROMPT="$CONTEXT_FILES
 3. **📊 最新健康與恢復摘要**：
    - 整合最近兩天健康數據內容。
    - 提供健康摘要的 table。
-   - 結合 \$current_workout 中的「上週回顧」。
+   - 結合 $current_workout 中的「上週回顧」。
    - 提供專業的恢復建議（如傷勢進度、疲勞度評估）。
-   - 大約 500-1000 字詳盡描述。
+   - 大約 800 字詳盡描述。
 4. **📅 本週訓練重點**：摘要本週課表的核心目標。
    - 至少分為 5 大項目，包含：訓練重點、核心目標、關鍵課表、預期成效、執行建議。
-   - 大約 500-1000 字詳盡描述。
+   - 大約 800 字詳盡描述。
 5. **🔗 歷史課表紀錄**：
-\$(echo "\${recent_workouts_list}" | sed 's/^/- /')
+$(echo "${recent_workouts_list}" | sed 's/^/- /')
 
 6. **🏃 最近 10 筆訓練摘要表**：
    - 請根據附件檔案內容，整理成表格。
@@ -101,6 +101,7 @@ if gemini -v &> /dev/null; then
 		fi
 		num=$((num+1))
 	done
+
 
 	if [ "$result" == "Y" ]; then
 		echo "update README.md SUCCESS" | python3 send_msg.py
