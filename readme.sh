@@ -26,8 +26,14 @@ echo "README 更新時間: $(date '+%Y-%m-%d %H:%M:%S')"
 current_workout=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 1)
 
 # 取得最近一個月的課表清單 (建立連結)
+# 方案八：在 Bash 中預先格式化為連結，節省 AI 處理 Token
 recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
-
+formatted_workout_links=""
+for f in $recent_workouts_list; do
+    fname=$(basename "$f" .md)
+    formatted_workout_links="${formatted_workout_links}- [$fname]($f)\n"
+done
+# ------------------------------------
 # --- 方案一實作：預處理活動紀錄摘要 (CSV 化) ---
 TMP_SUMMARY_DIR="logs/tmp_summaries"
 mkdir -p "${TMP_SUMMARY_DIR}"
@@ -102,7 +108,7 @@ PROMPT="$CONTEXT_FILES
    - 至少分為 5 大項目，包含：訓練重點、核心目標、關鍵課表、預期成效、執行建議。
    - 大約 1000 字詳盡描述。
 5. **🔗 歷史課表紀錄**：
-$(echo "${recent_workouts_list}" | sed 's/^/- /')
+${formatted_workout_links}
 
 6. **🏃 最近 10 筆訓練摘要表**：
    - 請根據附件檔案內容，整理成表格。
