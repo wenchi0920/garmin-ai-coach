@@ -81,28 +81,44 @@ echo -e "\n(舊有詳細分析已省略，請根據最新數據產生內容)\n" 
 grep "^## " README.md | grep -A 100 "## 📅 本週訓練重點" >> "$TMP_README_SKELETON"
 # ------------------------------------
 
-# --- 方案五實作：上下文整合成單一檔案 (Context Consolidation) ---
+# --- 方案四實作：當前課表精簡化 (Workout Pruning) ---
+TMP_WORKOUT_LITE="logs/tmp_workout_lite.md"
+if [ -n "$current_workout" ]; then
+    # 僅提取「上週回顧」與「本週訓練重點」區塊，略過詳細動作細節
+    sed -n '/## 上週執行回顧/,/##/p;/## 本週訓練重點/,/##/p' "$current_workout" | grep -v "##$" > "$TMP_WORKOUT_LITE"
+else
+    echo "無當前課表" > "$TMP_WORKOUT_LITE"
+fi
+# ------------------------------------
+
+# --- 方案二實作：健康數據精確切片 (Health Slicing) ---
+TMP_HEALTH_LITE="logs/tmp_health_lite.txt"
+# 僅保留最近 14 行（確保涵蓋提示詞要求的近 7 天數據範圍）
+tail -n 14 data/health/health.txt > "$TMP_HEALTH_LITE" 2>/dev/null
+# ------------------------------------
+
+# --- 方案五 & 十實作：上下文整合與去雜訊 (Consolidation & Minification) ---
 BUNDLE_FILE="logs/context_bundle.md"
 echo "<!-- CONTEXT BUNDLE START -->" > "$BUNDLE_FILE"
 
-# 輔助函式：安全地附加檔案內容
+# 輔助函式：安全附加、標註並去雜訊 (方案十)
 append_to_bundle() {
     local label="$1"
     local fpath="$2"
-    if [ -f "$fpath" ]; then
-        echo -e "\n\n# FILE: $label\n" >> "$BUNDLE_FILE"
-        cat "$fpath" >> "$BUNDLE_FILE"
+    if [ -f "$fpath" ] && [ -s "$fpath" ]; then
+        echo -e "\n# FILE: $label" >> "$BUNDLE_FILE"
+        # 移除 Markdown 註解與多餘空行，壓縮 Token 體積
+        sed 's/<!--.*-->//g; /^[[:space:]]*$/d' "$fpath" >> "$BUNDLE_FILE"
     fi
 }
 
-# 依序整合所有上下文
-append_to_bundle "GEMINI.md" "$TMP_GEMINI_LITE"
-append_to_bundle "PERSON.md" "logs/PERSON.md"
-append_to_bundle "README_SKELETON.md" "$TMP_README_SKELETON"
-[ -n "$current_workout" ] && append_to_bundle "$(basename "$current_workout")" "$current_workout"
-append_to_bundle "health.txt" "data/health/health.txt"
-append_to_bundle "activities_summary.md" "$SUMMARY_FILE"
-
+# 依序整合所有預處理後的上下文
+append_to_bundle "GEMINI_LITE" "$TMP_GEMINI_LITE"
+append_to_bundle "PERSON" "logs/PERSON.md"
+append_to_bundle "README_SKELETON" "$TMP_README_SKELETON"
+append_to_bundle "CURRENT_WORKOUT" "$TMP_WORKOUT_LITE"
+append_to_bundle "HEALTH_DATA" "$TMP_HEALTH_LITE"
+append_to_bundle "ACTIVITIES_SUMMARY" "$SUMMARY_FILE"
 # ------------------------------------
 
 # 3. 建構上下文參數 (用於 @ 標註)
