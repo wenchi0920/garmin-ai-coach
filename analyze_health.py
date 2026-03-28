@@ -96,7 +96,7 @@ def parse_health_json(data_dir, days=7):
     ]
 
     output = [
-        f"### **關鍵生理指標監控表 (近 {days} 天)**",
+        f"### **關鍵生理指標監控表 (近 {days} 天)(勿修改格式)**",
         header,
         separator
     ] + rows
