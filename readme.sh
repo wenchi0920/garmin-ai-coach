@@ -61,8 +61,14 @@ summarized_activities="$SUMMARY_FILE"
 # 取得最近 2 天的健康數據內容
 latest_health_files="data/health/health.txt"
 
+# --- 方案一實作：GEMINI.md 精簡化 ---
+TMP_GEMINI_LITE="logs/tmp_gemini_lite.md"
+# 擷取「1. 角色設定」到「2. 數據解析職責」之前的內容
+sed -n '1,/## 2. 數據解析職責/p' GEMINI.md | grep -v "## 2. 數據解析職責" > "$TMP_GEMINI_LITE"
+# ------------------------------------
+
 # 3. 建構上下文參數 (用於 @ 標註)
-CONTEXT_FILES="@GEMINI.md @logs/PERSON.md @README.md"
+CONTEXT_FILES="@$TMP_GEMINI_LITE @logs/PERSON.md @README.md"
 [ -n "$current_workout" ] && CONTEXT_FILES="$CONTEXT_FILES @$current_workout"
 
 # 注入健康數據
