@@ -73,6 +73,14 @@ TMP_GEMINI_LITE="logs/tmp_gemini_lite.md"
 sed -n '1,/## 2. 數據解析職責/p' GEMINI.md | grep -v "## 2. 數據解析職責" > "$TMP_GEMINI_LITE"
 # ------------------------------------
 
+# --- 方案七實作：README.md 骨架化 (Skeletoning) ---
+TMP_README_SKELETON="logs/tmp_readme_skeleton.md"
+# 僅保留結構標題與核心目標，清除冗餘的詳細文字描述以節省 Token
+sed -n '1,/## 📊 最新健康與恢復摘要/p' README.md > "$TMP_README_SKELETON"
+echo -e "\n(舊有詳細分析已省略，請根據最新數據產生內容)\n" >> "$TMP_README_SKELETON"
+grep "^## " README.md | grep -A 100 "## 📅 本週訓練重點" >> "$TMP_README_SKELETON"
+# ------------------------------------
+
 # --- 方案五實作：上下文整合成單一檔案 (Context Consolidation) ---
 BUNDLE_FILE="logs/context_bundle.md"
 echo "<!-- CONTEXT BUNDLE START -->" > "$BUNDLE_FILE"
@@ -90,7 +98,7 @@ append_to_bundle() {
 # 依序整合所有上下文
 append_to_bundle "GEMINI.md" "$TMP_GEMINI_LITE"
 append_to_bundle "PERSON.md" "logs/PERSON.md"
-append_to_bundle "README.md" "README.md"
+append_to_bundle "README_SKELETON.md" "$TMP_README_SKELETON"
 [ -n "$current_workout" ] && append_to_bundle "$(basename "$current_workout")" "$current_workout"
 append_to_bundle "health.txt" "data/health/health.txt"
 append_to_bundle "activities_summary.md" "$SUMMARY_FILE"
