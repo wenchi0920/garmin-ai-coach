@@ -28,20 +28,34 @@ current_workout=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail 
 # 取得最近一個月的課表清單 (建立連結)
 recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
 
-# 取得最近 5 筆活動紀錄檔案路徑
-recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 5)
-
-# --- 方案一實作：預處理活動紀錄摘要 ---
+# --- 方案一實作：預處理活動紀錄摘要 (CSV 化) ---
 TMP_SUMMARY_DIR="logs/tmp_summaries"
 mkdir -p "${TMP_SUMMARY_DIR}"
-rm -f "${TMP_SUMMARY_DIR}/activity_*.md"
-summarized_activities=""
+SUMMARY_FILE="${TMP_SUMMARY_DIR}/activities_summary.md"
+
+# 建立精簡表格標頭
+echo "| 日期 | 項目 | 距離 | 配速 | 摘要描述 | 原始檔案路徑 |" > "$SUMMARY_FILE"
+echo "| :--- | :--- | :--- | :--- | :--- | :--- |" >> "$SUMMARY_FILE"
+
+# 取得最近 10 筆活動紀錄 (配合提示詞要求)
+recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
+
 for f in $recent_activities_list; do
-    filename=$(basename "$f")
-    # 擷取前 20 行（包含標題與數據摘要），略過其餘詳細描述
-    head -n 20 "$f" > "${TMP_SUMMARY_DIR}/${filename}"
-    summarized_activities="${summarized_activities} ${TMP_SUMMARY_DIR}/${filename}"
+    # 提取關鍵欄位
+    date=$(grep "日期" "$f" | sed 's/.*：//' | tr -d ' ')
+    type=$(grep "運動類型" "$f" | sed 's/.*：//' | tr -d ' ')
+    dist=$(grep "距離" "$f" | sed 's/.*：//' | tr -d ' ')
+    pace=$(grep "平均配速" "$f" | sed 's/.*：//' | tr -d ' ')
+    
+    # 提取教練建議的第一句話作為摘要 (並去除 Markdown 語法避免干擾表格)
+    summary=$(sed -n '/## 💡 教練建議與成效分析/,/##/p' "$f" | grep -v "##" | sed '/^[[:space:]]*$/d' | head -n 1 | tr -d '|*' | cut -c 1-100)
+    
+    # 取得相對路徑
+    rel_path=$(realpath --relative-to="." "$f")
+    
+    echo "| $date | $type | $dist | $pace | ${summary}... | $rel_path |" >> "$SUMMARY_FILE"
 done
+summarized_activities="$SUMMARY_FILE"
 # ------------------------------------
 
 # 取得最近 2 天的健康數據內容
@@ -68,7 +82,7 @@ PROMPT="$CONTEXT_FILES
 ### 任務要求：
 0. **執行方式**：請直接使用 \`write_file\` 工具更新 \`README.md\` 檔案內容，不要僅僅在終端機輸出文字。
 1. **系統核心定位**：簡述系統如何結合數據分析與自動化課表，協助跑者達成目標。
-2. **🎯 核心賽事目標**：從 PERSON.md 提取雪梨馬拉松等關鍵資訊與當前跑力 VDOT , 大約 300 字。
+2. **🎯 核心賽事目標**：從 PERSON.md 提取目標賽事等關鍵資訊與當前跑力 VDOT , 大約 300 字。
 3. **📊 最新健康與恢復摘要**：
    - 整合最近兩天健康數據內容。
    - 提供健康摘要的 table。
