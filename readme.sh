@@ -26,10 +26,10 @@ echo "README 更新時間: $(date '+%Y-%m-%d %H:%M:%S')"
 current_workout=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 1)
 
 # 取得最近一個月的課表清單 (建立連結)
-recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 10)
+recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
 
-# 取得最近 10 筆活動紀錄檔案路徑
-recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
+# 取得最近 5 筆活動紀錄檔案路徑
+recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 5)
 
 # 取得最近 2 天的健康數據內容
 latest_health_files="data/health/health.txt"
@@ -43,14 +43,14 @@ for f in $latest_health_files; do
     [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
 done
 
-# 注入最近 10 筆活動紀錄，供 AI 讀取內容產生摘要
+# 注入最近 5 筆活動紀錄，供 AI 讀取內容產生摘要
 for f in $recent_activities_list; do
     CONTEXT_FILES="$CONTEXT_FILES @$f"
 done
 
 # 4. 建構 Prompt
 PROMPT="$CONTEXT_FILES
-你現在是一位資深的馬拉松教練 AI Coach。請根據提供附件內容，優化並更新目前的 @README.md。
+你現在是一位資深的馬拉松教練 AI Coach。請根據提供附件內容，更新目前的 @README.md。
 
 ### 任務要求：
 0. **執行方式**：請直接使用 \`write_file\` 工具更新 \`README.md\` 檔案內容，不要僅僅在終端機輸出文字。
