@@ -91,10 +91,13 @@ else
 fi
 # ------------------------------------
 
-# --- 方案二實作：健康數據精確切片 (Health Slicing) ---
+# --- 方案二實作：健康數據精確切片 & Python 分析 (Health Slicing & Analysis) ---
 TMP_HEALTH_LITE="logs/tmp_health_lite.txt"
-# 僅保留最近 14 行（確保涵蓋提示詞要求的近 7 天數據範圍）
+TMP_HEALTH_TABLE="logs/tmp_health_table.md"
+# 1. 原始數據切片 (備援用)
 tail -n 14 data/health/health.txt > "$TMP_HEALTH_LITE" 2>/dev/null
+# 2. 產出生理指標監控表 (Python 預處理方案)
+python3 analyze_health.py data 7 > "$TMP_HEALTH_TABLE" 2>/dev/null
 # ------------------------------------
 
 # --- 方案五 & 十實作：上下文整合與去雜訊 (Consolidation & Minification) ---
@@ -118,6 +121,7 @@ append_to_bundle "PERSON" "logs/PERSON.md"
 append_to_bundle "README_SKELETON" "$TMP_README_SKELETON"
 append_to_bundle "CURRENT_WORKOUT" "$TMP_WORKOUT_LITE"
 append_to_bundle "HEALTH_DATA" "$TMP_HEALTH_LITE"
+append_to_bundle "HEALTH_METRICS_TABLE" "$TMP_HEALTH_TABLE"
 append_to_bundle "ACTIVITIES_SUMMARY" "$SUMMARY_FILE"
 # ------------------------------------
 
@@ -130,27 +134,25 @@ PROMPT="$CONTEXT_FILES
 你現在是一位資深的馬拉松教練 AI Coach。請根據提供附件內容，更新目前的 @README.md。
 
 ### 任務要求：
-0. **執行方式**：請直接使用 \`write_file\` 工具更新 \`README.md\` 檔案內容，不要僅僅在終端機輸出文字。
+0. **執行方式**：請直接使用 \`write_file\` 工具更新 \`README.md\` 檔案內容。
 1. **系統核心定位**：簡述系統如何結合數據分析與自動化課表，協助跑者達成目標。
-2. **🎯 核心賽事目標**：從 PERSON.md 提取目標賽事等關鍵資訊與當前跑力 VDOT , 大約 300 字。
+2. **🎯 核心賽事目標**：從 PERSON.md 提取目標賽事等關鍵資訊與當前跑力 VDOT,大約 300 字。
 3. **📊 最新健康與恢復摘要**：
    - 整合最近兩天健康數據內容。
    - 提供健康摘要的 table。
-   - 結合 $current_workout 中的「上週回顧」。
+   - 結合 CURRENT_WORKOUT 中的「上週回顧」。
    - 提供專業的恢復建議（如傷勢進度、疲勞度評估）。
    - 大約 1000 字詳盡描述。
 3.1 **關鍵生理指標監控表**: 
-   - **欄位**：靜止心率 (RHR), 身體能量 (BB), 壓力指數 (Stress), 睡眠分數 (Sleep), HRV, 趨勢分析
-   - 顯示 近 7 天 資料 
+   - **來源**：請直接使用附件中 HEALTH_METRICS_TABLE 的表格內容。
+   - **趨勢分析**：針對該表中的「趨勢分析」欄位，請根據該列數據進行專業評估（例如：RHR 持平、BB 回充良好、壓力偏高需休息等）。
 4. **📅 本週訓練重點**：摘要本週課表的核心目標。
    - 至少分為 5 大項目，包含：訓練重點、核心目標、關鍵課表、預期成效、執行建議。
-   - 大約 1000 字詳盡描述。
 5. **🔗 歷史課表紀錄**：
 ${formatted_workout_links}
 
 6. **🏃 最近 10 筆訓練摘要表**：
-   - 請根據附件檔案內容，整理成表格。
-   - 表格欄位：訓練日期, 項目, 距離, 配速, 摘要描述, 詳情路徑。
+   - 請直接引用附件中 ACTIVITIES_SUMMARY 的內容。
    - 「詳情路徑」請使用 link, 文字顯示 「詳情」 。
 
 請確保內容使用繁體中文，語氣專業、嚴謹且具鼓勵性。
