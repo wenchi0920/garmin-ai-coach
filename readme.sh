@@ -31,6 +31,19 @@ recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | 
 # 取得最近 5 筆活動紀錄檔案路徑
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 5)
 
+# --- 方案一實作：預處理活動紀錄摘要 ---
+TMP_SUMMARY_DIR="logs/tmp_summaries"
+mkdir -p "${TMP_SUMMARY_DIR}"
+rm -f "${TMP_SUMMARY_DIR}/activity_*.md"
+summarized_activities=""
+for f in $recent_activities_list; do
+    filename=$(basename "$f")
+    # 擷取前 20 行（包含標題與數據摘要），略過其餘詳細描述
+    head -n 20 "$f" > "${TMP_SUMMARY_DIR}/${filename}"
+    summarized_activities="${summarized_activities} ${TMP_SUMMARY_DIR}/${filename}"
+done
+# ------------------------------------
+
 # 取得最近 2 天的健康數據內容
 latest_health_files="data/health/health.txt"
 
@@ -43,9 +56,9 @@ for f in $latest_health_files; do
     [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
 done
 
-# 注入最近 5 筆活動紀錄，供 AI 讀取內容產生摘要
-for f in $recent_activities_list; do
-    CONTEXT_FILES="$CONTEXT_FILES @$f"
+# 注入精簡後的活動紀錄摘要
+for f in $summarized_activities; do
+    [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
 done
 
 # 4. 建構 Prompt
@@ -80,9 +93,9 @@ $(echo "${recent_workouts_list}" | sed 's/^/- /')
 "
 
 echo "--------------------------------------------------"
-echo "🚀 正在啟動 README.md 更新程序..."
+echo "🚀 正在啟動 README.md 更新程序 (已啟用 Plan 1 Token 優化)..."
 echo "📍 參考課表: ${current_workout:-無}"
-echo "📍 活動紀錄數: $(echo "$recent_activities_list" | wc -l)"
+echo "📍 活動紀錄摘要數: $(echo "$summarized_activities" | wc -w)"
 echo "--------------------------------------------------"
 
 # 5. 執行更新
