@@ -39,11 +39,10 @@ TMP_SUMMARY_DIR="logs/tmp_summaries"
 mkdir -p "${TMP_SUMMARY_DIR}"
 SUMMARY_FILE="${TMP_SUMMARY_DIR}/activities_summary.md"
 
-# 建立精簡表格標頭
-echo "| 日期 | 項目 | 距離 | 配速 | 摘要描述 | 原始檔案路徑 |" > "$SUMMARY_FILE"
-echo "| :--- | :--- | :--- | :--- | :--- | :--- |" >> "$SUMMARY_FILE"
+# 建立精簡 CSV 標頭
+echo "日期,項目,距離,配速,摘要,路徑" > "$SUMMARY_FILE"
 
-# 取得最近 10 筆活動紀錄 (配合提示詞要求)
+# 取得最近 10 筆活動紀錄
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
 
 for f in $recent_activities_list; do
@@ -53,13 +52,13 @@ for f in $recent_activities_list; do
     dist=$(grep "距離" "$f" | sed 's/.*：//' | tr -d ' ')
     pace=$(grep "平均配速" "$f" | sed 's/.*：//' | tr -d ' ')
     
-    # 提取教練建議的第一句話作為摘要 (並去除 Markdown 語法避免干擾表格)
-    summary=$(sed -n '/## 💡 教練建議與成效分析/,/##/p' "$f" | grep -v "##" | sed '/^[[:space:]]*$/d' | head -n 1 | tr -d '|*' | cut -c 1-100)
+    # 提取教練建議 (裁切更短以節省 Token)
+    summary=$(sed -n '/## 💡 教練建議與成效分析/,/##/p' "$f" | grep -v "##" | sed '/^[[:space:]]*$/d' | head -n 1 | tr -d '|,\|*' | cut -c 1-50)
     
     # 取得相對路徑
     rel_path=$(realpath --relative-to="." "$f")
     
-    echo "| $date | $type | $dist | $pace | ${summary}... | $rel_path |" >> "$SUMMARY_FILE"
+    echo "$date,$type,$dist,$pace,$summary,$rel_path" >> "$SUMMARY_FILE"
 done
 summarized_activities="$SUMMARY_FILE"
 # ------------------------------------
@@ -96,8 +95,8 @@ TMP_HEALTH_LITE="logs/tmp_health_lite.txt"
 TMP_HEALTH_TABLE="logs/tmp_health_table.md"
 # 1. 原始數據切片 (備援用)
 tail -n 14 data/health/health.txt > "$TMP_HEALTH_LITE" 2>/dev/null
-# 2. 產出生理指標監控表 (Python 預處理方案)
-python3 analyze_health.py data 7 > "$TMP_HEALTH_TABLE" 2>/dev/null
+# 2. 產出生理指標監控表 (Python 預處理方案) - 使用 --csv 以節省 Token
+python3 analyze_health.py data 7 --csv > "$TMP_HEALTH_TABLE" 2>/dev/null
 # ------------------------------------
 
 # --- 方案五 & 十實作：上下文整合與去雜訊 (Consolidation & Minification) ---

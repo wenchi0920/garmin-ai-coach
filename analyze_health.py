@@ -21,7 +21,7 @@ def get_json_data(file_path):
                 return {}
     return {}
 
-def parse_health_json(data_dir, days=7):
+def parse_health_json(data_dir, days=7, csv_mode=False):
     # Determine the date range (ending today or the latest available date)
     # For now, we use the current date as reference
     today = datetime.now()
@@ -83,33 +83,46 @@ def parse_health_json(data_dir, days=7):
         
         hrv_list.append(f"{int(hrv_val)} ms" if hrv_val != '--' and hrv_val is not None else '--')
 
-    # Build Markdown Table
-    header = "| 指標項目 | " + " | ".join(dates_formatted) + " | 趨勢分析 |"
-    separator = "| :--- | " + " | ".join([":---"] * len(dates_formatted)) + " | :--- |"
-    
-    rows = [
-        f"| **靜止心率 (RHR)** | " + " | ".join(rhr_list) + " | AI分析 |",
-        f"| **身體能量 (BB)** | " + " | ".join(bb_list) + " | AI分析 |",
-        f"| **壓力指數 (Stress)** | " + " | ".join(stress_list) + " | AI分析 |",
-        f"| **睡眠分數 (Sleep)** | " + " | ".join(sleep_list) + " | AI分析 |",
-        f"| **HRV (心率變異度)** | " + " | ".join(hrv_list) + " | AI分析 |"
-    ]
-
-    output = [
-        f"### **關鍵生理指標監控表 (近 {days} 天)(勿修改格式)**",
-        header,
-        separator
-    ] + rows
-
-    return "\n".join(output)
+    # Build Table
+    if csv_mode:
+        header = "指標項目," + ",".join(dates_formatted) + ",趨勢分析"
+        rows = [
+            "靜止心率(RHR)," + ",".join(rhr_list) + ",AI分析",
+            "身體能量(BB)," + ",".join(bb_list) + ",AI分析",
+            "壓力指數(Stress)," + ",".join(stress_list) + ",AI分析",
+            "睡眠分數(Sleep)," + ",".join(sleep_list) + ",AI分析",
+            "HRV(心率變異度)," + ",".join(hrv_list) + ",AI分析"
+        ]
+        return "\n".join([header] + rows)
+    else:
+        # Compact Markdown
+        header = "|指標項目|" + "|".join(dates_formatted) + "|趨勢分析|"
+        separator = "|:---|" + "|".join([":---"] * len(dates_formatted)) + "|:---|"
+        rows = [
+            f"|**靜止心率(RHR)**|" + "|".join(rhr_list) + "|AI分析|",
+            f"|**身體能量(BB)**|" + "|".join(bb_list) + "|AI分析|",
+            f"|**壓力指數(Stress)**|" + "|".join(stress_list) + "|AI分析|",
+            f"|**睡眠分數(Sleep)**|" + "|".join(sleep_list) + "|AI分析|",
+            f"|**HRV(心率變異度)**|" + "|".join(hrv_list) + "|AI分析|"
+        ]
+        return "\n".join([header, separator] + rows)
 
 if __name__ == "__main__":
-    # Usage: python analyze_health.py <datadir> <days>
+    # Usage: python analyze_health.py <datadir> <days> [--csv]
     if len(sys.argv) < 2:
-        print("Usage: python analyze_health.py <datadir> [days]")
+        print("Usage: python analyze_health.py <datadir> [days] [--csv]")
         sys.exit(1)
     
     data_dir = sys.argv[1]
-    num_days = int(sys.argv[2]) if len(sys.argv) > 2 else 7
+    num_days = 7
+    csv_mode = False
     
-    print(parse_health_json(data_dir, num_days))
+    if len(sys.argv) > 2:
+        if sys.argv[2] == "--csv":
+            csv_mode = True
+        else:
+            num_days = int(sys.argv[2])
+            if len(sys.argv) > 3 and sys.argv[3] == "--csv":
+                csv_mode = True
+    
+    print(parse_health_json(data_dir, num_days, csv_mode))
