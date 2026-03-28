@@ -73,19 +73,33 @@ TMP_GEMINI_LITE="logs/tmp_gemini_lite.md"
 sed -n '1,/## 2. 數據解析職責/p' GEMINI.md | grep -v "## 2. 數據解析職責" > "$TMP_GEMINI_LITE"
 # ------------------------------------
 
+# --- 方案五實作：上下文整合成單一檔案 (Context Consolidation) ---
+BUNDLE_FILE="logs/context_bundle.md"
+echo "<!-- CONTEXT BUNDLE START -->" > "$BUNDLE_FILE"
+
+# 輔助函式：安全地附加檔案內容
+append_to_bundle() {
+    local label="$1"
+    local fpath="$2"
+    if [ -f "$fpath" ]; then
+        echo -e "\n\n# FILE: $label\n" >> "$BUNDLE_FILE"
+        cat "$fpath" >> "$BUNDLE_FILE"
+    fi
+}
+
+# 依序整合所有上下文
+append_to_bundle "GEMINI.md" "$TMP_GEMINI_LITE"
+append_to_bundle "PERSON.md" "logs/PERSON.md"
+append_to_bundle "README.md" "README.md"
+[ -n "$current_workout" ] && append_to_bundle "$(basename "$current_workout")" "$current_workout"
+append_to_bundle "health.txt" "data/health/health.txt"
+append_to_bundle "activities_summary.md" "$SUMMARY_FILE"
+
+# ------------------------------------
+
 # 3. 建構上下文參數 (用於 @ 標註)
-CONTEXT_FILES="@$TMP_GEMINI_LITE @logs/PERSON.md @README.md"
-[ -n "$current_workout" ] && CONTEXT_FILES="$CONTEXT_FILES @$current_workout"
-
-# 注入健康數據
-for f in $latest_health_files; do
-    [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
-done
-
-# 注入精簡後的活動紀錄摘要
-for f in $summarized_activities; do
-    [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
-done
+# 方案五優化：僅傳送單一 Bundle 檔案
+CONTEXT_FILES="@$BUNDLE_FILE"
 
 # 4. 建構 Prompt
 PROMPT="$CONTEXT_FILES
