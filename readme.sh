@@ -40,7 +40,7 @@ mkdir -p "${TMP_SUMMARY_DIR}"
 SUMMARY_FILE="${TMP_SUMMARY_DIR}/activities_summary.md"
 
 # 建立精簡 CSV 標頭
-echo "日期,項目,距離,配速,摘要,路徑" > "$SUMMARY_FILE"
+echo "日期(新->舊),項目,距離,配速,摘要,路徑" > "$SUMMARY_FILE"
 
 # 取得最近 10 筆活動紀錄
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
