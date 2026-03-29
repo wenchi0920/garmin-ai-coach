@@ -85,13 +85,19 @@ def parse_health_json(data_dir, days=7, csv_mode=False):
 
     # Build Table
     if csv_mode:
-        header = "指標項目," + ",".join(dates_formatted) + ",趨勢分析"
+        # Scheme 8 & 10: Use '|', no spaces, strip units
+        header = "指標|" + "|".join(dates_formatted) + "|分析"
+        # Strip ' bpm', ' ms', and simplify BB '99 ↗ 100' to '99-100'
+        rhr_clean = [x.replace(" bpm", "") for x in rhr_list]
+        bb_clean = [x.replace(" ↗ ", "-") for x in bb_list]
+        hrv_clean = [x.replace(" ms", "") for x in hrv_list]
+        
         rows = [
-            "靜止心率(RHR)," + ",".join(rhr_list) + ",AI分析",
-            "身體能量(BB)," + ",".join(bb_list) + ",AI分析",
-            "壓力指數(Stress)," + ",".join(stress_list) + ",AI分析",
-            "睡眠分數(Sleep)," + ",".join(sleep_list) + ",AI分析",
-            "HRV(心率變異度)," + ",".join(hrv_list) + ",AI分析"
+            "RHR|" + "|".join(rhr_clean) + "|分析",
+            "BB|" + "|".join(bb_clean) + "|分析",
+            "Stress|" + "|".join(stress_list) + "|分析",
+            "Sleep|" + "|".join(sleep_list) + "|分析",
+            "HRV|" + "|".join(hrv_clean) + "|分析"
         ]
         return "\n".join([header] + rows)
     else:

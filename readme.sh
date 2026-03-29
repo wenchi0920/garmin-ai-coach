@@ -39,8 +39,8 @@ TMP_SUMMARY_DIR="logs/tmp_summaries"
 mkdir -p "${TMP_SUMMARY_DIR}"
 SUMMARY_FILE="${TMP_SUMMARY_DIR}/activities_summary.md"
 
-# 建立精簡 CSV 標頭
-echo "日期(新->舊),項目,距離,配速,摘要,路徑" > "$SUMMARY_FILE"
+# 方案 8: 建立精簡 | 分隔標頭
+echo "日期|項目|距離|配速|摘要|路徑" > "$SUMMARY_FILE"
 
 # 取得最近 10 筆活動紀錄
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
@@ -49,16 +49,18 @@ for f in $recent_activities_list; do
     # 提取關鍵欄位
     date=$(grep "日期" "$f" | sed 's/.*：//' | tr -d ' ')
     type=$(grep "運動類型" "$f" | sed 's/.*：//' | tr -d ' ')
-    dist=$(grep "距離" "$f" | sed 's/.*：//' | tr -d ' ')
+    # 移除 km 單位
+    dist=$(grep "距離" "$f" | sed 's/.*：//' | tr -d ' ' | sed 's/km//')
+    # 移除配速中的重複文字，僅保留數字
     pace=$(grep "平均配速" "$f" | sed 's/.*：//' | tr -d ' ')
     
     # 提取教練建議 (裁切更短以節省 Token)
     summary=$(sed -n '/## 💡 教練建議與成效分析/,/##/p' "$f" | grep -v "##" | sed '/^[[:space:]]*$/d' | head -n 1 | tr -d '|,\|*' | cut -c 1-50)
     
-    # 取得相對路徑
+    # 方案 9: 取得相對路徑
     rel_path=$(realpath --relative-to="." "$f")
     
-    echo "$date,$type,$dist,$pace,$summary,$rel_path" >> "$SUMMARY_FILE"
+    echo "$date|$type|$dist|$pace|$summary|$rel_path" >> "$SUMMARY_FILE"
 done
 summarized_activities="$SUMMARY_FILE"
 # ------------------------------------
