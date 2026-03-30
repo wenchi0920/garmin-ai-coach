@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     tzdata \
     procps \
     git \
-    ccron \
+    cron \
     vim python3 python3-pip \
     ca-certificates python3.11-venv \
     && ln -fs /usr/share/zoneinfo/$TZ /etc/localtime \
