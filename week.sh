@@ -81,6 +81,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
         done
 
         if [ "$result" == "Y" ]; then
+		python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${weekfile}"
             echo "Update 課表 SUCCESS: W${WEEK_NUM}" | python3 send_msg.py
         else
             echo "Update 課表 ERROR: 檔案生成不完整" | python3 send_msg.py
