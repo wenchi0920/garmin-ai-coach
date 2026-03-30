@@ -1,0 +1,52 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "7km Z2 基礎有氧":
+    - warmup: 10min @note(動態熱身)
+    - run: 7km @H(131-143)
+    - cooldown: 10min @note(慢走收操)
+
+  "乳酸門檻 (T) 跑 2x10 min":
+    - warmup: 15min @H(z2)
+    - repeat(2):
+      - run: 10min @H(155-167) @note(目標配速 5:58-6:23)
+      - rest: 2min @note(慢走恢復)
+    - cooldown: 10min @H(z1)
+
+  "5km Z2 恢復跑 + 修復瑜伽":
+    - warmup: 5min @note(動態伸展)
+    - run: 5km @H(131-143)
+    - cooldown: 15min @note(跑後瑜伽伸展)
+
+  "10km Z2 週末長跑":
+    - warmup: 15min @H(z1)
+    - run: 10km @H(131-143) @note(嚴格控制心率，維持穩定步頻 175+)
+    - cooldown: 15min @note(靜態伸展與筋膜放鬆)
+
+  "跑者核心與臀部肌力":
+    - sport: strength
+    - warmup: 5min @note(關節活化)
+    - repeat(3):
+      - interval: 15reps @note(負重深蹲 20kg)
+      - interval: 12reps @note(單腿硬舉)
+      - interval: 30sec @note(棒式 Plank)
+      - interval: 20reps @note(死蟲式)
+    - cooldown: 5min @note(伸展)
+
+  "每日放鬆舒緩 (Yoga)":
+    - sport: yoga
+    - warmup: 5min @note(貓牛式)
+    - interval: 15min @note(陰瑜伽伸展：鴿式、蜥蜴式)
+    - cooldown: 5min @note(靠牆掛腿)
+
+schedulePlan:
+  start_from: 2026-03-30
+  workouts:
+    - "rest"
+    - "7km Z2 基礎有氧"
+    - "乳酸門檻 (T) 跑 2x10 min"
+    - "5km Z2 恢復跑 + 修復瑜伽"
+    - "每日放鬆舒緩 (Yoga)"
+    - "10km Z2 週末長跑"
+    - "跑者核心與臀部肌力"
