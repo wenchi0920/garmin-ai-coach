@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y \
     tzdata \
     procps \
     git \
+    rsync \
     cron \
     vim python3 python3-pip \
     ca-certificates python3.11-venv \

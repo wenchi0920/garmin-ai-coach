@@ -19,7 +19,7 @@ services:
     volumes:
       # 掛載宿主機的認證目錄，確保 UID 1000 有權�目錄
       - gemini_config:/home/gemini/.gemini
-      - root_config:/root/.gemini
+      - root:/root/
       - ./:/app
       - ../garmin-tools-kit/data:/app/data
       - ../garmin-tools-kit:/app/garmin-tools-kit
@@ -34,5 +34,5 @@ services:
 
 volumes:
   gemini_config:
-  root_config:
+  root:  
 
