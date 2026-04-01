@@ -1,0 +1,69 @@
+# --- Version Control ---
+.git
+.gitignore
+.gitattributes
+.hg
+.svn
+
+# --- Dependency Folders ---
+# These should be installed INSIDE the container via RUN commands
+node_modules/
+bower_components/
+vendor/
+.pnp
+.pnp.js
+
+# --- Build Outputs ---
+dist/
+build/
+out/
+bin/
+obj/
+target/
+*.exe
+*.dll
+*.so
+
+# --- IDE and Editor Metadata ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# --- Logs and Databases ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.db
+*.sqlite
+
+# --- Environment Secrets ---
+# NEVER include these in your image
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+auth.json
+
+# --- OS Generated Files ---
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# --- Documentation/Testing ---
+README.md
+docs/
+tests/
+spec/
+.github/
+.travis.yml
