@@ -33,7 +33,7 @@ TARGET_FILES=(
 git pull
 
 # 執行 Git Add
-git add logs/Workouts/*/*.md logs/Workouts/*/*.yaml logs/activity/ logs/PERSON.md README.md 2>/dev/null
+git add -f logs/Workouts/*/*.md logs/Workouts/*/*.yaml logs/activity/ logs/PERSON.md README.md 2>/dev/null
 
 # 3. 檢查是否有變更
 if git diff --cached --quiet; then
