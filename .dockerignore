@@ -42,6 +42,7 @@ yarn-debug.log*
 yarn-error.log*
 .db
 *.sqlite
+logs/
 
 # --- Environment Secrets ---
 # NEVER include these in your image
