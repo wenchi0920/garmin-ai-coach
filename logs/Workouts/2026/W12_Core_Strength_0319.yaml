@@ -1,0 +1,23 @@
+# W12_Core_Strength_0319.yaml
+settings:
+  deleteSameNameWorkout: true
+schedulePlan:
+  start_from: "2026-03-19"
+  workouts:
+    - "W12-徒手核心穩定 (0319)"
+workouts:
+  "W12-徒手核心穩定 (0319)":
+    - sport: strength
+    - warmup: 5min @note(關節活化 - 手肘轉圈/原地踏步)
+    - strength: 1min @note(平板支撐 Plank)
+    - rest: 30s
+    - strength: 12 @note(鳥狗式 Bird-Dog | 每側6次)
+    - rest: 30s
+    - strength: 12 @note(死蟲式 Dead Bug | 每側6次)
+    - rest: 30s
+    - strength: 1min @note(平板支撐 Plank)
+    - rest: 30s
+    - strength: 12 @note(鳥狗式 Bird-Dog | 每側6次)
+    - rest: 30s
+    - strength: 12 @note(死蟲式 Dead Bug | 每側6次)
+    - cooldown: 5min @note(靜態拉伸 - 腹部/下背部)
