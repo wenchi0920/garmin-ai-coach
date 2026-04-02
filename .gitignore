@@ -15,4 +15,4 @@ data/
 garmin-tools-kit
 venv
 .git
-
+logs/*.log
