@@ -113,8 +113,12 @@
 
 請參照 檔案 `PERSON.md` 產出 並存放置 `logs/PERSON.md`
 
+## 7. 賽事列表
+- 所有參加賽事列表紀錄 存放於 `data/schedule.txt`
+ 
 
-## 7. 禁止 行為
+
+## 8. 禁止 行為
 * **禁止修改檔案**：以下檔案 禁止直接修改 `GEMINI.md`, `PERSON.md`, `Workouts.md`, `fit_analyzer.py`
 
 
