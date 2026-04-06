@@ -64,9 +64,11 @@ if [ ! -f "${markdown_file}" ] || [ "${force_reanalyze}" == "true" ]; then
     if [ $? -eq 0 ]; then
         echo "✅ 分析完成: ${markdown_file}"
         
+        
+        #	data/schedule.txt
         # 嘗試呼叫 AI 分析 (靜默模式)
         if command -v gemini &> /dev/null; then
-            PROMPT="@GEMINI.md 請幫我依照 \`${markdown_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。"
+            PROMPT="@GEMINI.md 請幫我依照 \`${markdown_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。並 參照 \`data/schedule.txt\` 參賽紀錄 對比賽"
             # 檢查 node 版本或 gemini 是否可用，避免輸出語法錯誤
             if gemini --version &> /dev/null; then
                 echo "正在請求 AI Coach 深度建議..."
