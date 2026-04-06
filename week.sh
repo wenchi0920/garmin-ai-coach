@@ -27,8 +27,8 @@ YEAR=$(date -d "$MONDAY_DATE" +%Y)
 WEEK_NUM=$(date -d "$MONDAY_DATE" +%V)
 
 # 定義輸出的檔案路徑
-weekfile="logs/Workouts/${YEAR}/Workouts-${MONDAY_DATE}-W${WEEK_NUM}.md"
-yamlfile="logs/Workouts/${YEAR}/Workouts-${MONDAY_DATE}-W${WEEK_NUM}.yaml"
+weekfile="logs/Workouts/${YEAR}/Workouts-${YEAR}-W${WEEK_NUM}.md"
+yamlfile="logs/Workouts/${YEAR}/Workouts-${YEAR}-W${WEEK_NUM}.yaml"
 
 echo "========================================"
 echo "📅 檢查課表週期: ${MONDAY_DATE} (W${WEEK_NUM})"

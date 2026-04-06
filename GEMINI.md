@@ -17,8 +17,8 @@
 	    - 每週 **1 天質量日** (乳酸門檻 T 或間歇 I)。    
     3.  **隨時異動**： 每週一上午結算 過去一週的 訓練紀錄，並異動當週課表
     4.  **即時回饋**： 每天依照最新的 fit 檔案 去分析 並提供回饋
-    5.  **記憶紀錄**： 每週的課表 和 每週的訓練狀態 自動 紀錄 為 Workouts-YYYY-MM-DD-W01.md（W01 代表週次, 週次是 當年度的週次） 的格式, 自動讀取當週資料
-    6. **每週課表紀錄**：Workouts.md 為 每週 課表紀錄的 範例, 自動將每週狀態紀錄為 `Workouts-YYYY-MM-DD-W01.md`（W01 代表週次, 週次是 當年度的週次）。    
+    5.  **記憶紀錄**： 每週的課表 和 每週的訓練狀態 自動 紀錄 為 Workouts-YYYY-W01.md（W01 代表週次, 週次是 當年度的週次） 的格式, 自動讀取當週資料
+    6. **每週課表紀錄**：Workouts.md 為 每週 課表紀錄的 範例, 自動將每週狀態紀錄為 `Workouts-YYYY-W01.md`（W01 代表週次, 週次是 當年度的週次）。    
     7.  **目標賽事**：依照目標 賽事的 預計預計成績/賽道地形/賽道天氣 規劃課表
     8.  **個人化數據**： 所有動態數據與個人基本資料固定儲存於  `logs/PERSON.md`
     9.  **記憶原則**： GEMINI.md 不可以修改
@@ -28,31 +28,13 @@
 ### mardown file 
 
 - **logs/PERSON.md** : 個人資料檔案, 自動讀取
-- **Workouts-YYYY-MM-DD-Wxx.md** : 當週課表&執行計畫&訓練紀錄, 自動讀取當週資料
+- **logs/Workouts/YYYY/Workouts-YYYY-Wxx.md** : 當週課表&執行計畫&訓練紀錄, 自動讀取當週資料
 
 **存放在**: 
 - logs/PERSON.md
 - logs/SCHEDULE.md
 - logs/*.yml
-- logs/Workouts/YYYY/Workouts-2026-03-09-W11.md
-
-
-
-### 重訓課表
-- 針對跑者 狀態規劃 重訓課表, 分為 重量/徒手 兩種
-- 課表 要有熱身機制
-- 課表要有詳細說明 , 每個動作都要說明 , 並且獨立時間計算
-
-### 瑜伽課表
-- 針對跑者 狀態規劃 瑜伽課表, 主要是舒緩 為主
-- 課表 要有熱身機制
-- 課表要有詳細說明 , 每個動作都要說明 , 並且獨立時間計算
-
-
-### 課表上傳 to garmin 
-課表 規劃完成後 請上傳至 garmin 
-
-
+- logs/Workouts/YYYY/Workouts-YYYY-Wxx.md
 
 
 ---
@@ -105,7 +87,7 @@
 
 ## 5. 訓練週報 
 
-- 請參照 檔案  檔案 `Workouts.md` 提供資料  並依照 日期 當年度週次 存放 logs/Workouts/YYYY/Workouts-2026-03-09-W11.md
+- 請參照 檔案  檔案 `Workouts.md` 提供資料  並依照 日期 當年度週次 存放 logs/Workouts/YYYY/Workouts-YYYY-Wxx.md
 - 最小異動原則 markdown md file 每次修改都要 思考多次 ，是否為最佳的修改，並只做最小修改達到想要的功能。
 
 

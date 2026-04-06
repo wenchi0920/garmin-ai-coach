@@ -78,10 +78,10 @@ Wenchi，目前您的跑力穩定在 VDOT 34。距離 8 月底雪梨馬拉松的
 ---
 
 ## 🔗 歷史課表紀錄
-- [Workouts-2026-03-16-W12](logs/Workouts/2026/Workouts-2026-03-16-W12.md)
-- [Workouts-2026-03-23-W13](logs/Workouts/2026/Workouts-2026-03-23-W13.md)
-- [Workouts-2026-03-30-W14](logs/Workouts/2026/Workouts-2026-03-30-W14.md)
-- [Workouts-2026-04-06-W15](logs/Workouts/2026/Workouts-2026-04-06-W15.md)
+- [Workouts-2026-W12](logs/Workouts/2026/Workouts-2026-W12.md)
+- [Workouts-2026-W13](logs/Workouts/2026/Workouts-2026-W13.md)
+- [Workouts-2026-W14](logs/Workouts/2026/Workouts-2026-W14.md)
+- [Workouts-2026-W15](logs/Workouts/2026/Workouts-2026-W15.md)
 
 ---
 
