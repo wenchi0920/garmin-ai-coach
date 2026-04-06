@@ -1,0 +1,50 @@
+# Garmin Workout Schedule for Week 15
+# Date: 2026-04-06 to 2026-04-12
+# User: wenchi (VDOT: 34)
+
+schedulePlan:
+  - date: "2026-04-07"
+    workout: "04/07 6km Z2 基礎有氧"
+    type: running
+    steps:
+      - { type: warmup, duration: 1km, target: { type: heart_rate, zone: 1 } }
+      - { type: interval, duration: 4km, target: { type: heart_rate, zone: 2 }, note: "保持步頻 175-180" }
+      - { type: cooldown, duration: 1km, target: { type: heart_rate, zone: 1 } }
+
+  - date: "2026-04-08"
+    workout: "04/08 跑者核心與穩定 (徒手)"
+    type: strength
+    steps:
+      - { name: "Dead Bug", reps: 12, sets: 3 }
+      - { name: "Single Leg RDL", reps: 10, sets: 3 }
+      - { name: "Side Plank", duration: 45s, sets: 3 }
+      - { name: "Bulgarian Split Squat", reps: 10, sets: 3 }
+
+  - date: "2026-04-09"
+    workout: "04/09 10K 賽前體感測試"
+    type: running
+    steps:
+      - { type: warmup, duration: 2km, target: { type: heart_rate, zone: 2 } }
+      - { type: interval, duration: 1km, target: { type: pace, min: "5:58", max: "6:10" } }
+      - { type: recover, duration: 2m }
+      - { type: interval, duration: 1km, target: { type: pace, min: "5:58", max: "6:10" } }
+      - { type: recover, duration: 2m }
+      - { type: interval, duration: 1km, target: { type: pace, min: "5:58", max: "6:10" } }
+      - { type: cooldown, duration: 1km, target: { type: heart_rate, zone: 1 } }
+
+  - date: "2026-04-10"
+    workout: "04/10 跑後放鬆舒緩 (Yoga)"
+    type: yoga
+    steps:
+      - { name: "Downward Dog", duration: 2m }
+      - { name: "Pigeon Pose Left", duration: 3m }
+      - { name: "Pigeon Pose Right", duration: 3m }
+      - { name: "Apanasana", duration: 2m }
+
+  - date: "2026-04-11"
+    workout: "04/11 12km Z2 長距離跑"
+    type: running
+    steps:
+      - { type: warmup, duration: 1km, target: { type: heart_rate, zone: 1 } }
+      - { type: interval, duration: 10km, target: { type: heart_rate, zone: 2 }, note: "模擬賽事穩定配速" }
+      - { type: cooldown, duration: 1km, target: { type: heart_rate, zone: 1 } }
