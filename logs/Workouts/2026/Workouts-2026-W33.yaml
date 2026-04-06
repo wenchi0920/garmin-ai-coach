@@ -1,0 +1,75 @@
+schedulePlan:
+  - date: "2026-08-10"
+    name: "08/10 休息與修復"
+    steps:
+      - type: rest
+        note: "完整休息，為高峰期累積體能。"
+
+  - date: "2026-08-11"
+    name: "08/11 8km Z2 基礎有氧 + 肌力"
+    steps:
+      - type: warmup
+        duration: 1km
+        target: 7:51-8:30
+      - type: run
+        duration: 7km
+        target: 7:01-7:51
+      - type: cooldown
+        duration: 10m
+        note: "徒手肌力：核心穩定與單腳平衡訓練。"
+
+  - date: "2026-08-12"
+    name: "08/12 10km T區乳酸門檻"
+    steps:
+      - type: warmup
+        duration: 2km
+        target: 7:01-7:51
+      - type: run
+        duration: 6km
+        target: 5:58-6:05
+        note: "精確校準門檻配速，維持步頻 180+"
+      - type: cooldown
+        duration: 2km
+        target: 7:51-8:30
+
+  - date: "2026-08-13"
+    name: "08/13 6km Z2 恢復跑 + Yoga"
+    steps:
+      - type: run
+        duration: 6km
+        target: 7:30-8:00
+      - type: yoga
+        duration: 20m
+        note: "深度伸展與修復瑜伽。"
+
+  - date: "2026-08-14"
+    name: "08/14 下肢重訓"
+    steps:
+      - type: strength
+        duration: 60m
+        note: "深蹲、硬舉、核心穩定。注重動作質量而非重量。"
+
+  - date: "2026-08-15"
+    name: "08/15 24km 賽事模擬 (Peak LR)"
+    steps:
+      - type: warmup
+        duration: 2km
+        target: 7:20-7:50
+      - type: run
+        duration: 10km
+        target: 7:01-7:30
+        note: "E 區穩定節奏"
+      - type: run
+        duration: 10km
+        target: 6:20-6:30
+        note: "M 區雪梨馬目標配速模擬"
+      - type: cooldown
+        duration: 2km
+        target: 7:50-8:20
+
+  - date: "2026-08-16"
+    name: "08/16 舒緩放鬆 (Yoga)"
+    steps:
+      - type: yoga
+        duration: 30m
+        note: "修復流動瑜伽，釋放高峰期疲勞。"

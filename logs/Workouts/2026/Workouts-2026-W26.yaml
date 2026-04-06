@@ -1,0 +1,63 @@
+workouts:
+  - name: "06/23 7km Z2 基礎有氧"
+    type: running
+    steps:
+      - { type: warmup, distance: 1km, pace: "7:51-8:30" }
+      - { type: interval, distance: 5km, pace: "7:01-7:51" }
+      - { type: cooldown, distance: 1km, pace: "7:51-8:30" }
+
+  - name: "06/24 門檻跑 2x3km T"
+    type: running
+    steps:
+      - { type: warmup, distance: 2km, pace: "7:30-8:00" }
+      - { type: interval, distance: 3km, pace: "5:50-6:05" }
+      - { type: rest, duration: "3:00" }
+      - { type: interval, distance: 3km, pace: "5:50-6:05" }
+      - { type: cooldown, distance: 2km, pace: "7:30-8:00" }
+
+  - name: "06/25 5km Z2 恢復跑"
+    type: running
+    steps:
+      - { type: interval, distance: 5km, pace: "7:30-8:00" }
+
+  - name: "06/27 18km Z2 長跑"
+    type: running
+    steps:
+      - { type: warmup, distance: 2km, pace: "7:51-8:20" }
+      - { type: interval, distance: 16km, pace: "7:10-7:40" }
+
+  - name: "06/23 徒手肌力訓練"
+    type: strength
+    steps:
+      - { name: "死蟲式", reps: 15, sets: 3 }
+      - { name: "棒式轉體", reps: 15, sets: 3 }
+
+  - name: "06/26 下肢負重訓練"
+    type: strength
+    steps:
+      - { name: "負重深蹲", reps: 10, sets: 3 }
+      - { name: "分腿蹲", reps: 20, sets: 3 }
+
+  - name: "06/28 深度放鬆 (Yoga)"
+    type: yoga
+    steps:
+      - { name: "鴿式", duration: "3:00" }
+      - { name: "下犬式", duration: "3:00" }
+
+schedulePlan:
+  - date: "2026-06-22"
+    note: "Rest / 15min 輕度伸展"
+  - date: "2026-06-23"
+    workout: "06/23 7km Z2 基礎有氧"
+  - date: "2026-06-23"
+    workout: "06/23 徒手肌力訓練"
+  - date: "2026-06-24"
+    workout: "06/24 門檻跑 2x3km T"
+  - date: "2026-06-25"
+    workout: "06/25 5km Z2 恢復跑"
+  - date: "2026-06-26"
+    workout: "06/26 下肢負重訓練"
+  - date: "2026-06-27"
+    workout: "06/27 18km Z2 長跑"
+  - date: "2026-06-28"
+    workout: "06/28 深度放鬆 (Yoga)"

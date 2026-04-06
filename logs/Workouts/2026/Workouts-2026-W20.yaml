@@ -1,0 +1,63 @@
+# 🏃‍♂️ Garmin 訓練課表 (W20) - 雪梨馬備賽基礎期
+# 格式規範: https://github.com/wenchi0920/garmin-tools-kit
+
+workouts:
+  - name: "05/11 6km TATTA完賽 (Z2)"
+    type: "running"
+    steps:
+      - { type: "warmup", distance: "1km", target: "ZONE_1_HR" }
+      - { type: "run", distance: "4km", target: "7:01-7:51" }
+      - { type: "cooldown", distance: "1km", target: "ZONE_1_HR" }
+
+  - name: "05/13 質量日: T區間間歇 (3x1.6k)"
+    type: "running"
+    steps:
+      - { type: "warmup", distance: "2km", target: "ZONE_2_HR" }
+      - repeat: 3
+        steps:
+          - { type: "run", distance: "1.6km", target: "5:58" }
+          - { type: "rest", time: "01:00", note: "慢走或原地踏步" }
+      - { type: "cooldown", distance: "2km", target: "ZONE_1_HR" }
+
+  - name: "05/14 6km 基礎跑 (Z2)"
+    type: "running"
+    steps:
+      - { type: "warmup", distance: "1km", target: "ZONE_1_HR" }
+      - { type: "run", distance: "4km", target: "7:01-7:51" }
+      - { type: "cooldown", distance: "1km", target: "ZONE_1_HR" }
+
+  - name: "05/14 徒手肌力與核心"
+    type: "strength"
+    steps:
+      - { name: "單腳分腿蹲", repetitions: 12, weight: 0, note: "每邊3組" }
+      - { name: "鳥狗式", repetitions: 15, weight: 0, note: "3組" }
+      - { name: "側向登階", repetitions: 10, weight: 0, note: "每邊3組" }
+
+  - name: "05/15 5km 恢復跑 (Z1)"
+    type: "running"
+    steps:
+      - { type: "run", distance: "5km", target: "> 7:51" }
+
+  - name: "05/16 14km 長跑 (Z2)"
+    type: "running"
+    steps:
+      - { type: "warmup", distance: "1km", target: "ZONE_1_HR" }
+      - { type: "run", distance: "12km", target: "7:01-7:51" }
+      - { type: "cooldown", distance: "1km", target: "ZONE_1_HR" }
+
+  - name: "05/17 跑後放鬆舒緩 (Yoga)"
+    type: "yoga"
+    steps:
+      - { name: "下犬式", duration: "02:00" }
+      - { name: "鴿式 (左)", duration: "03:00" }
+      - { name: "鴿式 (右)", duration: "03:00" }
+      - { name: "牆上掛腿", duration: "05:00" }
+
+schedulePlan:
+  - { date: "2026-05-11", workout: "05/11 6km TATTA完賽 (Z2)" }
+  - { date: "2026-05-13", workout: "05/13 質量日: T區間間歇 (3x1.6k)" }
+  - { date: "2026-05-14", workout: "05/14 6km 基礎跑 (Z2)" }
+  - { date: "2026-05-14", workout: "05/14 徒手肌力與核心" }
+  - { date: "2026-05-15", workout: "05/15 5km 恢復跑 (Z1)" }
+  - { date: "2026-05-16", workout: "05/16 14km 長跑 (Z2)" }
+  - { date: "2026-05-17", workout: "05/17 跑後放鬆舒緩 (Yoga)" }

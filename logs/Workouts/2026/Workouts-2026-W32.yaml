@@ -1,0 +1,67 @@
+workouts:
+  - name: "W32-D2-8km-E區基礎跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "8km", target: "7:01-7:51" }
+  - name: "W32-D3-T區門檻跑-6km"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "2km" }
+      - { type: "run", duration: "6km", target: "5:58" }
+      - { type: "cooldown", duration: "2km" }
+  - name: "W32-D4-6km-E區基礎跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "6km", target: "7:01-7:51" }
+  - name: "W32-D5-5km-恢復跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "5km", target: "7:40-8:10" }
+  - name: "W32-D6-18km-減量銜接跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "18km", target: "7:01-7:51" }
+  - name: "W32-D2-徒手肌力"
+    type: "strength"
+    steps:
+      - { name: "棒式", repetitions: 3, duration: "60s" }
+      - { name: "側棒式", repetitions: 3, duration: "45s/側" }
+      - { name: "鳥狗式", repetitions: 3, duration: "15" }
+  - name: "W32-D4-跑後修復瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "下犬式", duration: "2min" }
+      - { name: "鴿式", duration: "6min" }
+      - { name: "貓牛式", duration: "3min" }
+  - name: "W32-D5-維持期重訓"
+    type: "strength"
+    steps:
+      - { name: "酒杯深蹲", repetitions: 2, duration: "12" }
+      - { name: "分腿蹲", repetitions: 2, duration: "10/腳" }
+      - { name: "核心捲腹", repetitions: 3, duration: "20" }
+  - name: "W32-D7-深度伸展瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "下犬式", duration: "2min" }
+      - { name: "鴿式", duration: "6min" }
+      - { name: "快樂嬰兒式", duration: "2min" }
+
+schedulePlan:
+  - date: "2026-08-04"
+    workout: "W32-D2-8km-E區基礎跑"
+  - date: "2026-08-04"
+    workout: "W32-D2-徒手肌力"
+  - date: "2026-08-05"
+    workout: "W32-D3-T區門檻跑-6km"
+  - date: "2026-08-06"
+    workout: "W32-D4-6km-E區基礎跑"
+  - date: "2026-08-06"
+    workout: "W32-D4-跑後修復瑜伽"
+  - date: "2026-08-07"
+    workout: "W32-D5-5km-恢復跑"
+  - date: "2026-08-07"
+    workout: "W32-D5-維持期重訓"
+  - date: "2026-08-08"
+    workout: "W32-D6-18km-減量銜接跑"
+  - date: "2026-08-09"
+    workout: "W32-D7-深度伸展瑜伽"

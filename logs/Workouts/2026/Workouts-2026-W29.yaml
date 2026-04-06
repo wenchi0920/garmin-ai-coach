@@ -1,0 +1,72 @@
+schedulePlan:
+  - date: "2026-07-14"
+    workout:
+      name: "07/14 6km E 基礎有氧 (Z2)"
+      steps:
+        - type: run
+          duration: "6.0km"
+          target: { type: "pace", min: "7:01", max: "7:51" }
+
+  - date: "2026-07-15"
+    workout:
+      name: "07/15 門檻間歇 4x2km @ T (5:58)"
+      steps:
+        - type: warmup
+          duration: "2.0km"
+          target: { type: "pace", min: "7:01", max: "7:51" }
+        - type: repeat
+          count: 4
+          steps:
+            - type: run
+              duration: "2.0km"
+              target: { type: "pace", min: "5:55", max: "6:00" }
+            - type: rest
+              duration: "02:00"
+        - type: cooldown
+          duration: "1.0km"
+          target: { type: "pace", min: "7:51", max: "8:30" }
+
+  - date: "2026-07-16"
+    workout:
+      name: "07/16 4km Z1 極輕鬆恢復跑"
+      steps:
+        - type: run
+          duration: "4.0km"
+          target: { type: "pace", min: "7:51", max: "8:50" }
+
+  - date: "2026-07-17"
+    workout:
+      name: "07/17 7km E + 4組輕快跑"
+      steps:
+        - type: run
+          duration: "7.0km"
+          target: { type: "pace", min: "7:01", max: "7:51" }
+        - type: repeat
+          count: 4
+          steps:
+            - type: run
+              duration: "0.1km"
+              target: { type: "pace", min: "5:30", max: "5:50" }
+            - type: recover
+              duration: "00:45"
+
+  - date: "2026-07-18"
+    workout:
+      name: "07/18 20km 長跑 (10k E + 8k M + 2k E)"
+      steps:
+        - type: run
+          duration: "10.0km"
+          target: { type: "pace", min: "7:01", max: "7:51" }
+        - type: run
+          duration: "8.0km"
+          target: { type: "pace", min: "6:20", max: "6:30" }
+        - type: cooldown
+          duration: "2.0km"
+          target: { type: "pace", min: "7:01", max: "7:51" }
+
+  - date: "2026-07-19"
+    workout:
+      name: "07/19 瑜伽放鬆舒緩 (30min)"
+      steps:
+        - type: yoga
+          duration: "30:00"

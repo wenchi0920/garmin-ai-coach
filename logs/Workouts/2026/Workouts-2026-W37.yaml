@@ -1,0 +1,62 @@
+# 2026 W37 Garmin Training Schedule Plan
+# Phase: Post-Sydney Marathon Recovery & Rebuild
+# VDOT: 34 (based on PERSON.md)
+
+schedulePlan:
+  - date: "2026-09-07"
+    workout: "Rest"
+    note: "完整休息，身體修復中"
+
+  - date: "2026-09-08"
+    workout: "Run_0908_6km_Z2"
+    name: "09/08 6km Z2 基礎跑"
+    steps:
+      - { type: run, duration: 6km, target: "07:01-07:51" }
+      - { type: cool_down, duration: 5:00 }
+
+  - date: "2026-09-08"
+    workout: "Strength_0908_Core"
+    name: "09/08 核心穩定訓練"
+    steps:
+      - { type: rest, duration: "10:00", note: "熱身與核心啟動" }
+      - { type: strength, duration: "1:00", note: "Plank (平板撐)" }
+      - { type: rest, duration: "0:30" }
+      - { type: strength, duration: "1:00", note: "Plank (平板撐)" }
+      - { type: rest, duration: "0:30" }
+      - { type: strength, duration: "0:45", note: "Side Plank Left" }
+      - { type: rest, duration: "0:30" }
+      - { type: strength, duration: "0:45", note: "Side Plank Right" }
+      - { type: rest, duration: "0:30" }
+      - { type: strength, duration: "15repeat", note: "Bridge (橋式)" }
+
+  - date: "2026-09-09"
+    workout: "Yoga_0909_Deep_Stretch"
+    name: "09/09 深度放鬆 (Yoga)"
+    steps:
+      - { type: rest, duration: "45:00", note: "針對髖部與腿後的深層伸展" }
+
+  - date: "2026-09-10"
+    workout: "Run_0910_8km_Z2"
+    name: "09/10 8km Z2 恢復跑"
+    steps:
+      - { type: run, duration: 8km, target: "07:01-07:51" }
+
+  - date: "2026-09-11"
+    workout: "Yoga_0911_Post_Run"
+    name: "09/11 跑後修復 (Yoga)"
+    steps:
+      - { type: rest, duration: "30:00", note: "放鬆舒緩流動" }
+
+  - date: "2026-09-12"
+    workout: "Run_0912_Quality_M_Test"
+    name: "09/12 質量日：M區體感測試"
+    steps:
+      - { type: warm_up, duration: 2km, target: "07:01-07:51" }
+      - { type: run, duration: 3km, target: "06:23-06:30" }
+      - { type: cool_down, duration: 2km, target: "07:01-07:51" }
+
+  - date: "2026-09-13"
+    workout: "Run_0913_LSD_12km"
+    name: "09/13 12km Z2 長跑"
+    steps:
+      - { type: run, duration: 12km, target: "07:01-07:51" }

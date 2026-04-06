@@ -1,0 +1,55 @@
+# Garmin Workouts Schedule - 2026 Week 21
+# User: wenchi (VDOT 34)
+# Sydney Marathon Foundation Phase
+
+workouts:
+  - name: "05/18 5km TATTA慶功跑"
+    type: "running"
+    steps:
+      - { type: "run", distance: "5km", target: "7:30-8:00min/km" }
+
+  - name: "05/19 髖關節流動 (Yoga)"
+    type: "yoga"
+    steps:
+      - { type: "stretch", duration: "20:00", text: "髖關節修復流動" }
+
+  - name: "05/20 4x1.6km T間歇"
+    type: "running"
+    steps:
+      - { type: "warmup", distance: "2km", target: "7:01-7:51min/km" }
+      - { type: "repeat", iterations: 4, steps: [
+          { type: "run", distance: "1.6km", target: "5:58min/km" },
+          { type: "rest", duration: "01:30" }
+        ]}
+      - { type: "cooldown", distance: "2km", target: "7:01-7:51min/km" }
+
+  - name: "05/21 7km Z2 基礎有氧"
+    type: "running"
+    steps:
+      - { type: "run", distance: "7km", target: "7:01-7:51min/km" }
+
+  - name: "05/21 強化下肢肌力 (W21)"
+    type: "strength"
+    steps:
+      - { type: "exercise", name: "負重保加利亞分腿蹲", repetitions: 10, weight: "body" }
+      - { type: "exercise", name: "羅馬尼亞硬舉", repetitions: 12, weight: "body" }
+      - { type: "exercise", name: "側撐體", duration: "00:45" }
+
+  - name: "05/22 5km 恢復跑 (Z1)"
+    type: "running"
+    steps:
+      - { type: "run", distance: "5km", target: "8:00-8:30min/km" }
+
+  - name: "05/23 16km Sydney Endurance"
+    type: "running"
+    steps:
+      - { type: "run", distance: "16km", target: "7:01-7:51min/km" }
+
+schedulePlan:
+  - { date: "2026-05-18", workout: "05/18 5km TATTA慶功跑" }
+  - { date: "2026-05-19", workout: "05/19 髖關節流動 (Yoga)" }
+  - { date: "2026-05-20", workout: "05/20 4x1.6km T間歇" }
+  - { date: "2026-05-21", workout: "05/21 7km Z2 基礎有氧" }
+  - { date: "2026-05-21", workout: "05/21 強化下肢肌力 (W21)" }
+  - { date: "2026-05-22", workout: "05/22 5km 恢復跑 (Z1)" }
+  - { date: "2026-05-23", workout: "05/23 16km Sydney Endurance" }

@@ -1,0 +1,48 @@
+workouts:
+  - name: "W35D2-賽前激活跑"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 2km, target: "7:01-7:51" }
+      - { type: run, duration: 2km, target: "6:23-6:28" }
+      - { type: cooldown, duration: 1km, target: "7:01-7:51" }
+
+  - name: "W35D3-核心與伸展"
+    type: "strength_training"
+    steps:
+      - { name: "死蟲式", reps: 12, weight: 0 }
+      - { name: "側撐體", reps: 12, weight: 0 }
+      - { name: "橋式", reps: 12, weight: 0 }
+      - { name: "鴿式伸展", duration: 120s }
+      - { name: "脊椎轉體", duration: 120s }
+
+  - name: "W35D4-賽前抖動跑"
+    type: "running"
+    steps:
+      - { type: run, duration: 4km, target: "7:30-8:00" }
+
+  - name: "W35D6-賽前喚醒"
+    type: "running"
+    steps:
+      - { type: run, duration: 2km, target: "7:01-7:51" }
+      - { type: run, duration: 100m, target: "5:30-5:50" }
+      - { type: rest, duration: 1:00 }
+      - { type: run, duration: 100m, target: "5:30-5:50" }
+      - { type: rest, duration: 1:00 }
+      - { type: run, duration: 100m, target: "5:30-5:50" }
+
+  - name: "W35D7-雪梨馬拉松"
+    type: "running"
+    steps:
+      - { type: run, duration: 42.195km, target: "6:20-6:28" }
+
+schedulePlan:
+  - date: "2026-08-25"
+    workoutName: "W35D2-賽前激活跑"
+  - date: "2026-08-26"
+    workoutName: "W35D3-核心與伸展"
+  - date: "2026-08-27"
+    workoutName: "W35D4-賽前抖動跑"
+  - date: "2026-08-29"
+    workoutName: "W35D6-賽前喚醒"
+  - date: "2026-08-30"
+    workoutName: "W35D7-雪梨馬拉松"

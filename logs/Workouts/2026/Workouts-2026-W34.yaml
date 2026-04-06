@@ -1,0 +1,55 @@
+# Garmin Workout YAML for 2026 Week 34 (Sydney Marathon Week)
+# Format: https://github.com/wenchi0920/garmin-tools-kit
+
+workouts:
+  - name: "W34D2-Easy+Strides"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "10:00", target: "STP_ZONE_2" }
+      - { type: "interval", distance: "5km", target: "STP_ZONE_2" }
+      - { type: "repeat", count: 4, steps: [
+          { type: "interval", distance: "100m", target: "STP_ZONE_5" },
+          { type: "recovery", duration: "01:00", target: "STP_ZONE_1" }
+        ]}
+      - { type: "cooldown", duration: "05:00", target: "STP_ZONE_1" }
+
+  - name: "W34D3-MPaceCalibration"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "10:00", target: "STP_ZONE_2" }
+      - { type: "interval", distance: "2km", target: "7:01-7:51" } # E Pace
+      - { type: "interval", distance: "2km", target: "6:23" }       # M Pace
+      - { type: "interval", distance: "2km", target: "7:01-7:51" } # E Pace
+      - { type: "cooldown", duration: "05:00", target: "STP_ZONE_1" }
+
+  - name: "W34D4-ShortEasy"
+    type: "running"
+    steps:
+      - { type: "interval", distance: "4km", target: "STP_ZONE_2" }
+
+  - name: "W34D6-Shakeout"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "05:00", target: "STP_ZONE_1" }
+      - { type: "interval", distance: "2km", target: "STP_ZONE_2" }
+      - { type: "cooldown", duration: "05:00", target: "STP_ZONE_1" }
+
+  - name: "Sydney-Marathon-2026"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "15:00", target: "STP_ZONE_1" }
+      - { type: "interval", distance: "42.195km", target: "6:20-6:25" } # Target 6:23
+      - { type: "cooldown", duration: "10:00", target: "STP_ZONE_1" }
+
+  - name: "W34-Recovery-Yoga"
+    type: "yoga"
+    steps:
+      - { type: "interval", duration: "20:00", note: "Post-run recovery focus" }
+
+schedulePlan:
+  "2026-08-24": "W34-Recovery-Yoga"
+  "2026-08-25": "W34D2-Easy+Strides"
+  "2026-08-26": "W34D3-MPaceCalibration"
+  "2026-08-27": "W34D4-ShortEasy"
+  "2026-08-29": "W34D6-Shakeout"
+  "2026-08-30": "Sydney-Marathon-2026"

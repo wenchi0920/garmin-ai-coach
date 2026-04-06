@@ -1,0 +1,45 @@
+# 🏃‍♂️ Garmin 訓練課表 (Workouts-2026-W36)
+# 格式參考: https://github.com/wenchi0920/garmin-tools-kit
+
+- name: "09/01 賽後修復瑜伽"
+  type: yoga
+  steps:
+    - { duration: 5:00, note: "呼吸與靜心" }
+    - { duration: 5:00, note: "靠牆倒立腿 (排緩水腫)" }
+    - { duration: 6:00, note: "鴿式 (左右各3分鐘)" }
+    - { duration: 4:00, note: "蜥蜴式 (左右各2分鐘)" }
+    - { duration: 25:00, note: "全身修復流動" }
+
+- name: "09/02 恢復跑 + 輕快步"
+  type: running
+  steps:
+    - { duration: 2km, target: "7:01-7:51", note: "Z1/Z2 極輕鬆跑" }
+    - { repeat: 4, steps: 
+        - { duration: 100m, target: "5:30-5:58", note: "輕快步 (不衝刺，喚醒神經)" }
+        - { duration: 1:30, target: "recovery", note: "漫步回氣" }
+      }
+    - { duration: 2km, target: "7:01-7:51", note: "緩和跑" }
+
+- name: "09/03 徒手力與核心穩定"
+  type: strength
+  steps:
+    - { duration: 10:00, note: "動態熱身與關節活動" }
+    - { repeat: 3, steps:
+        - { exercise: "dead_bug", repetitions: 12, note: "死蟲式 (深層核心)" }
+        - { exercise: "side_plank", duration: 30s, note: "側撐體 (左)" }
+        - { exercise: "side_plank", duration: 30s, note: "側撐體 (右)" }
+        - { exercise: "bird_dog", repetitions: 10, note: "鳥狗式 (對側穩定)" }
+        - { duration: 1:00, target: "recovery" }
+      }
+    - { duration: 10:00, note: "靜態伸展" }
+
+- name: "09/05 賽後基礎重建跑"
+  type: running
+  steps:
+    - { duration: 1km, target: "7:51-8:30", note: "熱身漫步" }
+    - { duration: 5km, target: "7:01-7:51", note: "Z2 輕鬆跑" }
+
+- name: "09/06 長距離恢復跑 (LSD-R)"
+  type: running
+  steps:
+    - { duration: 12km, target: "7:01-7:51", note: "維持低心率，穩定跑姿" }

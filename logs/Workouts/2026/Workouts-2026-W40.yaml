@@ -1,0 +1,93 @@
+schedulePlan:
+  - date: "2026-09-28"
+    workout: "Rest"
+    description: "休息日 - 完整休息或輕微滾筒按摩。"
+
+  - date: "2026-09-29"
+    name: "09/29 8km Z2 基礎有氧 + 徒手肌力"
+    type: "running"
+    steps:
+      - type: "warmup"
+        duration: "10:00"
+      - type: "run"
+        duration: "8km"
+        target: "7:01-7:51"
+        description: "Z2 基礎耐力累積，維持步頻 175-180。"
+      - type: "cooldown"
+        duration: "10:00"
+    note: "跑後執行：死蟲式 3x15, 側撐墊腿外展 3x15/邊。"
+
+  - date: "2026-09-30"
+    name: "09/30 門檻跑間歇 (Quality)"
+    type: "running"
+    steps:
+      - type: "warmup"
+        duration: "2km"
+        target: "7:15-7:45"
+      - type: "interval"
+        repeat: 2
+        steps:
+          - type: "run"
+            duration: "2km"
+            target: "5:58-6:05"
+            description: "T 區間乳酸門檻訓練。"
+          - type: "rest"
+            duration: "02:00"
+      - type: "cooldown"
+        duration: "2km"
+        target: "7:30-8:00"
+
+  - date: "2026-10-01"
+    name: "10/01 6km Z2 舒緩跑 + 瑜伽放鬆"
+    type: "running"
+    steps:
+      - type: "run"
+        duration: "6km"
+        target: "7:30-7:55"
+        description: "輕鬆恢復跑，感受身體流動。"
+    note: "跑後瑜伽：下犬式 2min, 鴿式 3min/邊。"
+
+  - date: "2026-10-02"
+    name: "10/02 重量訓練 (Strength)"
+    type: "strength"
+    steps:
+      - type: "warmup"
+        duration: "10:00"
+      - type: "exercise"
+        name: "負重深蹲"
+        sets: 4
+        reps: 10
+      - type: "exercise"
+        name: "羅馬尼亞硬舉"
+        sets: 3
+        reps: 12
+      - type: "exercise"
+        name: "棒式 (Plank)"
+        sets: 3
+        duration: "60s"
+    note: "重量選擇以能完成 10-12 次且姿勢不崩壞為準。"
+
+  - date: "2026-10-03"
+    name: "10/03 16km Z2 長跑 (包含坡度練習)"
+    type: "running"
+    steps:
+      - type: "warmup"
+        duration: "15:00"
+      - type: "run"
+        duration: "16km"
+        target: "7:01-7:51"
+        description: "目標：模擬 29K 賽道起伏，專注於呼吸與姿勢穩定。"
+      - type: "cooldown"
+        duration: "15:00"
+
+  - date: "2026-10-04"
+    name: "10/04 深度放鬆 (Yoga)"
+    type: "yoga"
+    description: "針對髖關節與腰椎的深度舒緩流程。"
+    steps:
+      - name: "低弓箭手式"
+        duration: "3min/邊"
+      - name: "仰臥扭轉"
+        duration: "5min"
+      - name: "嬰兒式"
+        duration: "5min"

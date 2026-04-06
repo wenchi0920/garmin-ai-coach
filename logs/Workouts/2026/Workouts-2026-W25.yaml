@@ -1,0 +1,69 @@
+workouts:
+  - name: "W25-D1 30min 放鬆瑜伽 (Yoga)"
+    type: "yoga"
+    steps:
+      - { type: "work", duration: "30:00", note: "髖關節流動與久坐壓力放鬆" }
+
+  - name: "W25-D2 8km Z2 基礎有氧"
+    type: "running"
+    steps:
+      - { type: "work", duration: "8km", target: "7:01-7:51", note: "保持輕鬆呼吸，步頻 175+" }
+
+  - name: "W25-D2 15min 核心穩定 (Strength)"
+    type: "strength"
+    steps:
+      - { type: "work", duration: "15:00", note: "死蟲式、側棒式、平板支撐" }
+
+  - name: "W25-D3 門檻跑 (T) 3x2km"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "2km", target: "7:30-7:50" }
+      - repeat: 3
+        steps:
+          - { type: "interval", duration: "2km", target: "5:55-6:05", note: "精確校準 T 區配速" }
+          - { type: "recovery", duration: "2:00", note: "慢走或極慢跑" }
+      - { type: "cooldown", duration: "2km", target: "7:30-8:00" }
+
+  - name: "W25-D4 6km Z2 輕鬆跑"
+    type: "running"
+    steps:
+      - { type: "work", duration: "6km", target: "7:20-7:50", note: "動態恢復，專注姿態" }
+
+  - name: "W25-D4 20min 髖部修復瑜伽"
+    type: "yoga"
+    steps:
+      - { type: "work", duration: "20:00", note: "鴿式、下犬式放鬆" }
+
+  - name: "W25-D5 45min 下肢重訓 (Strength)"
+    type: "strength"
+    steps:
+      - { type: "warmup", duration: "10:00", note: "活動關節" }
+      - { type: "work", duration: "30:00", note: "深蹲 3x12, 單腳硬舉 3x10" }
+      - { type: "cooldown", duration: "05:00" }
+
+  - name: "W25-D6 16km 長跑 (LR) 漸快"
+    type: "running"
+    steps:
+      - { type: "work", duration: "10km", target: "7:15-7:45", note: "建立基礎有氧" }
+      - { type: "work", duration: "6km", target: "6:30-6:50", note: "轉換至 Z3，模擬馬拉松體感" }
+
+  - name: "W25-D7 30min 深度放鬆 (Yoga)"
+    type: "yoga"
+    steps:
+      - { type: "work", duration: "30:00", note: "全身滾筒放鬆與拉伸" }
+
+schedule:
+  - date: "2026-06-15"
+    workout: "W25-D1 30min 放鬆瑜伽 (Yoga)"
+  - date: "2026-06-16"
+    workouts: ["W25-D2 8km Z2 基礎有氧", "W25-D2 15min 核心穩定 (Strength)"]
+  - date: "2026-06-17"
+    workout: "W25-D3 門檻跑 (T) 3x2km"
+  - date: "2026-06-18"
+    workouts: ["W25-D4 6km Z2 輕鬆跑", "W25-D4 20min 髖部修復瑜伽"]
+  - date: "2026-06-19"
+    workout: "W25-D5 45min 下肢重訓 (Strength)"
+  - date: "2026-06-20"
+    workout: "W25-D6 16km 長跑 (LR) 漸快"
+  - date: "2026-06-21"
+    workout: "W25-D7 30min 深度放鬆 (Yoga)"

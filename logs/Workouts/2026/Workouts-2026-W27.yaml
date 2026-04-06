@@ -1,0 +1,85 @@
+workouts:
+  - name: "W27D2-8km Z2 基礎有氧"
+    type: running
+    steps:
+      - type: warm_up
+        duration: 1km
+        target: PACE_ZONE_2
+      - type: workout_step
+        duration: 7km
+        target: PACE_ZONE_2
+      - type: cool_down
+        duration: 5:00
+        target: NO_TARGET
+
+  - name: "W27D3-門檻跑 2k+5k(T)+2k"
+    type: running
+    steps:
+      - type: warm_up
+        duration: 2km
+        target: PACE_ZONE_2
+      - type: workout_step
+        duration: 5km
+        target: 5:58min/km
+      - type: cool_down
+        duration: 2km
+        target: PACE_ZONE_1
+
+  - name: "W27D4-6km Z2 基礎跑"
+    type: running
+    steps:
+      - type: workout_step
+        duration: 6km
+        target: PACE_ZONE_2
+
+  - name: "W27D5-4km 恢復跑"
+    type: running
+    steps:
+      - type: workout_step
+        duration: 4km
+        target: PACE_ZONE_1
+
+  - name: "W27D6-18km 長跑 (含 4km M段)"
+    type: running
+    steps:
+      - type: workout_step
+        duration: 14km
+        target: PACE_ZONE_2
+      - type: workout_step
+        duration: 4km
+        target: 6:23min/km
+      - type: cool_down
+        duration: 10:00
+        target: NO_TARGET
+
+  - name: "W27D2-跑者核心訓練"
+    type: strength
+    steps:
+      - name: "Plank"
+        duration: 60s
+        target: NO_TARGET
+      - name: "Single-leg RDL"
+        repetitions: 12
+        target: NO_TARGET
+      - name: "Split Squat"
+        repetitions: 15
+        target: NO_TARGET
+
+  - name: "W27D4-深層放鬆瑜伽"
+    type: yoga
+    steps:
+      - name: "Downward Dog"
+        duration: 120s
+      - name: "Pigeon Pose"
+        duration: 180s
+      - name: "Cat-Cow"
+        duration: 60s
+
+schedule:
+  "2026-07-06": "Rest"
+  "2026-07-07": "W27D2-8km Z2 基礎有氧"
+  "2026-07-08": "W27D3-門檻跑 2k+5k(T)+2k"
+  "2026-07-09": "W27D4-6km Z2 基礎跑"
+  "2026-07-10": "W27D5-4km 恢復跑"
+  "2026-07-11": "W27D6-18km 長跑 (含 4km M段)"
+  "2026-07-12": "Rest"

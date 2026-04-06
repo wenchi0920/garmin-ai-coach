@@ -1,0 +1,51 @@
+# Garmin Workouts for 2026 Week 22
+# Reference: https://github.com/wenchi0920/garmin-tools-kit
+
+workouts:
+  - name: "W22D2-E6-Strength"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 10m, target: "7:51-9:00" }
+      - { type: interval, duration: 6km, target: "7:01-7:51" }
+      - { type: cooldown, duration: 10m, target: "no-target" }
+
+  - name: "W22D3-T-Run-5k"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 2km, target: "7:01-7:51" }
+      - { type: interval, duration: 5km, target: "5:58-6:05" }
+      - { type: cooldown, duration: 1km, target: "7:51-8:30" }
+
+  - name: "W22D4-E5-Yoga"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 5m, target: "no-target" }
+      - { type: interval, duration: 5km, target: "7:01-7:51" }
+      - { type: cooldown, duration: 5m, target: "no-target" }
+
+  - name: "W22D6-E7"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 5m, target: "no-target" }
+      - { type: interval, duration: 7km, target: "7:01-7:51" }
+      - { type: cooldown, duration: 5m, target: "no-target" }
+
+  - name: "W22D7-Long-14k"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 2km, target: "7:01-7:51" }
+      - { type: interval, duration: 10km, target: "7:01-7:51" }
+      - { type: interval, duration: 2km, target: "6:23-6:40" }
+      - { type: cooldown, duration: 1km, target: "no-target" }
+
+schedule:
+  - date: "2026-06-02"
+    workout: "W22D2-E6-Strength"
+  - date: "2026-06-03"
+    workout: "W22D3-T-Run-5k"
+  - date: "2026-06-04"
+    workout: "W22D4-E5-Yoga"
+  - date: "2026-06-06"
+    workout: "W22D6-E7"
+  - date: "2026-06-07"
+    workout: "W22D7-Long-14k"

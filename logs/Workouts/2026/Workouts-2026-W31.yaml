@@ -1,0 +1,68 @@
+workouts:
+  - name: "W31-D2-10km-E區基礎跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "10km", target: "7:01-7:51" }
+  - name: "W31-D3-I區間歇跑-5x1km"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "2km" }
+      - { type: "run", duration: "1km", target: "5:30" }
+      - { type: "rest", duration: "3min" }
+      - { type: "run", duration: "1km", target: "5:30" }
+      - { type: "rest", duration: "3min" }
+      - { type: "run", duration: "1km", target: "5:30" }
+      - { type: "rest", duration: "3min" }
+      - { type: "run", duration: "1km", target: "5:30" }
+      - { type: "rest", duration: "3min" }
+      - { type: "run", duration: "1km", target: "5:30" }
+      - { type: "cooldown", duration: "2km" }
+  - name: "W31-D4-8km-E區基礎跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "8km", target: "7:01-7:51" }
+  - name: "W31-D5-5km-恢復跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "5km", target: "7:40-8:10" }
+  - name: "W31-D6-24km-巔峰耐力測試"
+    type: "running"
+    steps:
+      - { type: "run", duration: "14km", target: "7:01-7:45" }
+      - { type: "run", duration: "10km", target: "6:23" }
+  - name: "W31-D2-徒手肌力"
+    type: "strength"
+    steps:
+      - { name: "棒式", repetitions: 3, duration: "60s" }
+      - { name: "側棒式", repetitions: 3, duration: "45s/側" }
+      - { name: "鳥狗式", repetitions: 3, duration: "15" }
+  - name: "W31-D4-跑後修復瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "下犬式", duration: "2min" }
+      - { name: "鴿式", duration: "6min" }
+      - { name: "貓牛式", duration: "3min" }
+  - name: "W31-D7-深度伸展瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "仰臥手抓腳趾伸展", duration: "6min" }
+      - { name: "蜥蜴式", duration: "6min" }
+      - { name: "嬰兒式", duration: "3min" }
+
+schedulePlan:
+  - date: "2026-07-28"
+    workout: "W31-D2-10km-E區基礎跑"
+  - date: "2026-07-28"
+    workout: "W31-D2-徒手肌力"
+  - date: "2026-07-29"
+    workout: "W31-D3-I區間歇跑-5x1km"
+  - date: "2026-07-30"
+    workout: "W31-D4-8km-E區基礎跑"
+  - date: "2026-07-30"
+    workout: "W31-D4-跑後修復瑜伽"
+  - date: "2026-07-31"
+    workout: "W31-D5-5km-恢復跑"
+  - date: "2026-08-01"
+    workout: "W31-D6-24km-巔峰耐力測試"
+  - date: "2026-08-02"
+    workout: "W31-D7-深度伸展瑜伽"

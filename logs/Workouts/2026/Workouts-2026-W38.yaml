@@ -1,0 +1,71 @@
+# Garmin Workouts for 2026 Week 38
+# Reference: https://github.com/wenchi0920/garmin-tools-kit
+# VDOT: 34, E: 7:01-7:51, T: 5:58
+
+workouts:
+  # 跑步課表
+  - name: "W38-D2 6km E區基礎跑"
+    type: running
+    steps:
+      - { type: warmup, duration: 1km, target: 7:15-7:51 }
+      - { type: interval, duration: 4km, target: 7:01-7:51, note: "維持步頻 175+" }
+      - { type: cooldown, duration: 1km, target: 7:15-7:51 }
+
+  - name: "W38-D3 5km E區恢復跑"
+    type: running
+    steps:
+      - { type: interval, duration: 5km, target: 7:20-8:00, note: "心率嚴格控管在 Z2" }
+
+  - name: "W38-D4 20min T區門檻跑"
+    type: running
+    steps:
+      - { type: warmup, duration: 2km, target: 7:01-7:51 }
+      - { type: interval, duration: 20m, target: 5:58-6:05, note: "測試雪梨馬後的速度感" }
+      - { type: cooldown, duration: 2km, target: 7:15-7:51 }
+
+  - name: "W38-D6 5km E區基礎跑"
+    type: running
+    steps:
+      - { type: interval, duration: 5km, target: 7:01-7:51 }
+
+  - name: "W38-D7 15km Z2長跑"
+    type: running
+    steps:
+      - { type: warmup, duration: 2km, target: 7:30-7:51 }
+      - { type: interval, duration: 11km, target: 7:01-7:51, note: "日月潭 29K 基礎累積" }
+      - { type: cooldown, duration: 2km, target: 7:30-7:51 }
+
+  # 肌力訓練課表 (使用徒手/重訓類型)
+  - name: "W38-D2 核心穩定訓練"
+    type: strength
+    steps:
+      - { name: "棒式", repeat: 3, duration: 60s }
+      - { name: "側棒式", repeat: 2, duration: 45s }
+      - { name: "鳥狗式", repeat: 3, duration: 12 }
+
+  - name: "W38-D6 下肢基礎力量"
+    type: strength
+    steps:
+      - { name: "徒手深蹲", repeat: 3, duration: 15 }
+      - { name: "單腳硬舉", repeat: 3, duration: 12 }
+      - { name: "保加利亞分腿蹲", repeat: 2, duration: 12 }
+
+  # 瑜伽課表
+  - name: "W38-D5 跑後深度放鬆"
+    type: yoga
+    steps:
+      - { name: "下犬式", duration: 180s }
+      - { name: "鴿式-左", duration: 180s }
+      - { name: "鴿式-右", duration: 180s }
+      - { name: "臥英雄式", duration: 120s }
+
+# 排程規劃
+schedule:
+  "2026-09-15": "W38-D2 6km E區基礎跑"
+  "2026-09-15-S": "W38-D2 核心穩定訓練"
+  "2026-09-16": "W38-D3 5km E區恢復跑"
+  "2026-09-17": "W38-D4 20min T區門檻跑"
+  "2026-09-18": "W38-D5 跑後深度放鬆"
+  "2026-09-19": "W38-D6 5km E區基礎跑"
+  "2026-09-19-S": "W38-D6 下肢基礎力量"
+  "2026-09-20": "W38-D7 15km Z2長跑"

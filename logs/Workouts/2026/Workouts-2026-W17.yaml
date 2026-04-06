@@ -1,0 +1,96 @@
+# 2026 W17 訓練計畫 - Garmin 上傳格式
+# 跑力 VDOT: 34 | Z2: 7:01-7:51 | T: 5:58
+
+- name: "04/21 5km Z2 基礎有氧"
+  type: running
+  at: "2026-04-21"
+  steps:
+    - duration: 5km
+      target: { type: pace, min: "7:01", max: "7:51" }
+
+- name: "04/21 核心與下肢穩定 (Strength)"
+  type: strength
+  at: "2026-04-21"
+  steps:
+    - note: "熱身: 動態伸展 5min"
+      duration: 5:00
+    - note: "深蹲 3組 x 15次"
+      type: repeat
+      count: 3
+      steps:
+        - note: "深蹲 15次"
+          type: strength
+        - note: "休息 45秒"
+          duration: 0:45
+    - note: "棒式 Plank 3組 x 60秒"
+      type: repeat
+      count: 3
+      steps:
+        - note: "棒式 60秒"
+          duration: 1:00
+        - note: "休息 30秒"
+          duration: 0:30
+    - note: "單腳硬舉 3組 x 10次/腳"
+      type: repeat
+      count: 3
+      steps:
+        - note: "單腳硬舉 20次"
+          type: strength
+        - note: "休息 60秒"
+          duration: 1:00
+
+- name: "04/22 6km Z2 恢復跑"
+  type: running
+  at: "2026-04-22"
+  steps:
+    - duration: 6km
+      target: { type: pace, min: "7:01", max: "7:51" }
+
+- name: "04/23 質量日: 門檻跑 (2x8min T)"
+  type: running
+  at: "2026-04-23"
+  steps:
+    - note: "暖跑"
+      duration: 15:00
+      target: { type: pace, min: "7:51", max: "8:30" }
+    - type: repeat
+      count: 2
+      steps:
+        - note: "T-Pace 門檻區"
+          duration: 8:00
+          target: { type: pace, min: "5:58", max: "6:05" }
+        - note: "恢復休息"
+          duration: 2:00
+          target: { type: pace, min: "8:30", max: "9:00" }
+    - note: "緩跑"
+      duration: 10:00
+      target: { type: pace, min: "7:51", max: "8:30" }
+
+- name: "04/24 瑜伽舒緩 (Yoga)"
+  type: yoga
+  at: "2026-04-24"
+  steps:
+    - note: "腹式呼吸"
+      duration: 2:00
+    - note: "下犬式"
+      duration: 2:00
+    - note: "鴿式 (左)"
+      duration: 3:00
+    - note: "鴿式 (右)"
+      duration: 3:00
+    - note: "大休息"
+      duration: 5:00
+
+- name: "04/25 10km Z2 長跑日"
+  type: running
+  at: "2026-04-25"
+  steps:
+    - duration: 10km
+      target: { type: pace, min: "7:01", max: "7:51" }
+
+- name: "04/26 4km Z1/Z2 輕鬆收尾"
+  type: running
+  at: "2026-04-26"
+  steps:
+    - duration: 4km
+      target: { type: pace, min: "7:01", max: "8:00" }

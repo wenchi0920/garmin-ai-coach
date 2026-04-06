@@ -1,0 +1,56 @@
+workouts:
+  - name: "W30-D2-8km-E區基礎跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "8km", target: "7:01-7:51" }
+  - name: "W30-D3-門檻跑-3x2km"
+    type: "running"
+    steps:
+      - { type: "warmup", duration: "2km" }
+      - { type: "run", duration: "2km", target: "5:58" }
+      - { type: "rest", duration: "2min" }
+      - { type: "run", duration: "2km", target: "5:58" }
+      - { type: "rest", duration: "2min" }
+      - { type: "run", duration: "2km", target: "5:58" }
+      - { type: "cooldown", duration: "2km" }
+  - name: "W30-D4-6km-E區基礎跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "6km", target: "7:01-7:51" }
+  - name: "W30-D5-4km-恢復跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "4km", target: "7:30-8:00" }
+  - name: "W30-D6-20km-賽速模擬長跑"
+    type: "running"
+    steps:
+      - { type: "run", duration: "12km", target: "7:01-7:40" }
+      - { type: "run", duration: "8km", target: "6:23" }
+  - name: "W30-D2-徒手肌力"
+    type: "strength"
+    steps:
+      - { name: "棒式", repetitions: 3, duration: "60s" }
+      - { name: "橋式", repetitions: 3, duration: "15" }
+      - { name: "鳥狗式", repetitions: 3, duration: "12" }
+  - name: "W30-D7-修復瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "下犬式", duration: "2min" }
+      - { name: "鴿式", duration: "6min" }
+      - { name: "嬰兒式", duration: "3min" }
+
+schedulePlan:
+  - date: "2026-07-21"
+    workout: "W30-D2-8km-E區基礎跑"
+  - date: "2026-07-21"
+    workout: "W30-D2-徒手肌力"
+  - date: "2026-07-22"
+    workout: "W30-D3-門檻跑-3x2km"
+  - date: "2026-07-23"
+    workout: "W30-D4-6km-E區基礎跑"
+  - date: "2026-07-24"
+    workout: "W30-D5-4km-恢復跑"
+  - date: "2026-07-25"
+    workout: "W30-D6-20km-賽速模擬長跑"
+  - date: "2026-07-26"
+    workout: "W30-D7-修復瑜伽"

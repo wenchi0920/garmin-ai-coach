@@ -1,0 +1,52 @@
+# Garmin Workout Schedule - Week 16
+# Target Race: 2026-04-18 Tamkang Bridge 10K
+
+workouts:
+  - name: "W16D2-賽前體感校準"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 10:00, target: { type: heart_rate, zone: 1 } }
+      - { type: run, duration: 5km, target: { type: pace, low: "07:01", high: "07:51" } }
+      - { type: run, duration: "0:20", target: { type: pace, low: "05:40", high: "06:00" }, repeat: 4, note: "Strides 輕快跑" }
+      - { type: cooldown, duration: 5:00 }
+
+  - name: "W16D3-徒手肌力維持"
+    type: "strength"
+    steps:
+      - { name: "死蟲式", repetitions: 12, round: 3 }
+      - { name: "單腳平衡", duration: "0:30", round: 3 }
+      - { name: "鳥狗式", repetitions: 12, round: 3 }
+
+  - name: "W16D4-慢跑恢復"
+    type: "running"
+    steps:
+      - { type: run, duration: 3km, target: { type: heart_rate, zone: 1 } }
+
+  - name: "W16D5-賽前喚醒瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "下犬式", duration: "2:00" }
+      - { name: "鴿式伸展", duration: "3:00" }
+      - { name: "嬰兒式", duration: "2:00" }
+
+  - name: "W16D6-淡江大橋10K賽事"
+    type: "running"
+    steps:
+      - { type: warmup, duration: 15:00, note: "賽前慢跑與關節活動" }
+      - { type: run, duration: 10km, target: { type: pace, low: "06:00", high: "06:30" }, note: "Race Pace" }
+      - { type: cooldown, duration: 10:00 }
+
+  - name: "W16D7-賽後修復瑜伽"
+    type: "yoga"
+    steps:
+      - { name: "靜坐呼吸", duration: "5:00" }
+      - { name: "仰臥扭轉", duration: "3:00" }
+      - { name: "大休息", duration: "5:00" }
+
+schedule:
+  "2026-04-14": "W16D2-賽前體感校準"
+  "2026-04-15": "W16D3-徒手肌力維持"
+  "2026-04-16": "W16D4-慢跑恢復"
+  "2026-04-17": "W16D5-賽前喚醒瑜伽"
+  "2026-04-18": "W16D6-淡江大橋10K賽事"
+  "2026-04-19": "W16D7-賽後修復瑜伽"
