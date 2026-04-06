@@ -18,34 +18,42 @@ LOG_FILE="${LOG_DIR}/week_$(date +%Y-%m-%d).log"
 # 將所有輸出 (stdout & stderr) 同時輸出到終端機與日誌檔案
 exec > >(tee -a "${LOG_FILE}") 2>&1
 
-# 2. 動態計算本週資訊 (以本週一為基準)
-# 使用更穩健的方式計算本週一
-NEXT_MONDAY=$(date -d "next-monday" +%Y-%m-%d)
-MONDAY_DATE=$(date -d "$NEXT_MONDAY -7 days" +%Y-%m-%d)
-
-YEAR=$(date -d "$MONDAY_DATE" +%Y)
-WEEK_NUM=$(date -d "$MONDAY_DATE" +%V)
+# 2. 動態計算或接收週資訊
+if [ -n "$1" ] && [ -n "$2" ]; then
+    YEAR=$1
+    WEEK_NUM=$(printf "%02d" "$2")
+    # 根據 ISO 週次計算該週週一的日期
+    MONDAY_DATE=$(date -d "${YEAR}-W${WEEK_NUM}-1" +%Y-%m-%d)
+    echo "使用指定週次: ${YEAR} W${WEEK_NUM} (週一日期: ${MONDAY_DATE})"
+else
+    # 預設為本週 (以本週一為基準)
+    NEXT_MONDAY=$(date -d "next-monday" +%Y-%m-%d)
+    MONDAY_DATE=$(date -d "$NEXT_MONDAY -7 days" +%Y-%m-%d)
+    YEAR=$(date -d "$MONDAY_DATE" +%Y)
+    WEEK_NUM=$(date -d "$MONDAY_DATE" +%V)
+    echo "使用當前週次: ${YEAR} W${WEEK_NUM} (週一日期: ${MONDAY_DATE})"
+fi
 
 # 定義輸出的檔案路徑
 weekfile="logs/Workouts/${YEAR}/Workouts-${YEAR}-W${WEEK_NUM}.md"
 yamlfile="logs/Workouts/${YEAR}/Workouts-${YEAR}-W${WEEK_NUM}.yaml"
 
 echo "========================================"
-echo "📅 檢查課表週期: ${MONDAY_DATE} (W${WEEK_NUM})"
+echo "📅 檢查課表週期: ${MONDAY_DATE} (${YEAR}-W${WEEK_NUM})"
 echo "📍 Markdown 檔案: ${weekfile}"
 echo "📍 Garmin YAML 檔案: ${yamlfile}"
 echo "========================================"
 
 if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
-    # 3. 產生本週課表
+    # 3. 產生該週課表
     mkdir -p "$(dirname "${weekfile}")"
     
     PROMPT=" @logs/PERSON.md @GEMINI.md
 你現在是一位資深的馬拉松教練 AI Coach。
-請根據 @logs/PERSON.md 中的賽事規劃與目標，參考 @Workouts.md 的結構，為跑者產生本週課表。
+請根據 @logs/PERSON.md 中的賽事規劃與目標，參考 @Workouts.md 的結構，為跑者產生 ${YEAR} 第 ${WEEK_NUM} 週 (從 ${MONDAY_DATE} 開始) 的課表。
 
 ### 任務：
-1. **產生 Markdown 課表說明**：包含上週回顧、本週訓練重點、每日詳細課表。
+1. **產生 Markdown 課表說明**：包含上週回饋（參考過往紀錄）、本週訓練重點、每日詳細課表。
    - 請使用 \`write_file\` 寫入至 \`${weekfile}\`。
 2. **產生 Garmin 上傳用 YAML 課表**：符合 garmin-tools-kit(https://github.com/wenchi0920/garmin-tools-kit) 格式，包含本週所有 跑步/肌力訓練(徒手or重量訓練)/瑜伽(每日放鬆舒緩) 課表。
    - 請使用 \`write_file\` 寫入至 \`${yamlfile}\`。
@@ -53,10 +61,11 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
 ### 要求：
 - 確保內容使用繁體中文，語氣專業、嚴謹且具鼓勵性。
 - YAML 內容必須精確，以便後續自動化上傳。
+- 課表應嚴格遵守 @GEMINI.md 中的週期化訓練原則（每週 1 天休息、1 天長跑、1 天質量日）。
 "
 
     echo "--------------------------------------------------"
-    echo "🚀 正在啟動 本週課表 (MD & YAML) 更新程序 ..."
+    echo "🚀 正在啟動 ${YEAR}-W${WEEK_NUM} 課表 (MD & YAML) 更新程序 ..."
     echo "--------------------------------------------------"
 
     # 4. 執行更新
