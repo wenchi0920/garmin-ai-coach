@@ -26,7 +26,7 @@ echo "README 更新時間: $(date '+%Y-%m-%d %H:%M:%S')"
 current_workout=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 1)
 
 # 取得最近一個月的課表清單 (建立連結)
-recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 4)
+recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | tail -n 4 |sort -r)
 
 # 取得最近 5 筆活動紀錄檔案路徑
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 5)
