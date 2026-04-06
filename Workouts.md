@@ -3,7 +3,7 @@
 
 > **檔案規範**：本檔案為範本，實際執行紀錄應依照「日期與當年度週次」存放於 `logs/Workouts/YYYY/Workouts-YYYY-MM-DD-Wxx.md`。
 > **核心理念**：科學訓練，精確校準。確保在達成目標的同時，兼顧身體修復與心靈成長。
-> **garmin課表**： garmin yaml 格式請依照  https://github.com/wenchi0920/garmin-tools-kit, 產生日每日的課表 (schedulePlan)
+> **garmin課表**： garmin yaml 格式請依照  YAML 格式的標準 DSL m https://github.com/wenchi0920/garmin-tools-kit, 產生日每日的課表 (schedulePlan) 
 
 ---
 

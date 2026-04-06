@@ -1,50 +1,50 @@
-# Garmin Workout Schedule for Week 15
-# Date: 2026-04-06 to 2026-04-12
-# User: wenchi (VDOT: 34)
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "6km Z2 基礎跑":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 4km @H(153-166) @note(Z2 基礎跑，著重步頻 175+)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "跑者核心與穩定 (徒手)":
+    - sport: strength
+    - warmup: 10min @note(動態熱身與腳踝活動)
+    - repeat(3):
+      - interval: 12reps @note(死蟲式 Dead Bug)
+      - interval: 10reps @note(單腳 RDL 每側)
+      - interval: 45sec @note(側撐體 Side Plank)
+      - interval: 10reps @note(保加利亞分腿蹲 每側)
+    - cooldown: 5min @note(伸展)
+
+  "10K 賽前體感測試 (T跑)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
+    - repeat(3):
+      - run: 1km @note(T 區間配速 5:58-6:10)
+      - rest: 2min @note(慢走恢復)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "跑後放鬆舒緩 (Yoga)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸)
+    - interval: 2min @note(下犬式)
+    - interval: 3min @note(鴿式-左)
+    - interval: 3min @note(鴿式-右)
+    - interval: 2min @note(仰臥抱膝)
+    - cooldown: 5min @note(靠牆掛腿)
+
+  "12km Z2 長跑 (LSD)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 10km @H(153-166) @note(Z2 全程穩定輸出，模擬賽事補給)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
 
 schedulePlan:
-  - date: "2026-04-07"
-    workout: "04/07 6km Z2 基礎有氧"
-    type: running
-    steps:
-      - { type: warmup, duration: 1km, target: { type: heart_rate, zone: 1 } }
-      - { type: interval, duration: 4km, target: { type: heart_rate, zone: 2 }, note: "保持步頻 175-180" }
-      - { type: cooldown, duration: 1km, target: { type: heart_rate, zone: 1 } }
-
-  - date: "2026-04-08"
-    workout: "04/08 跑者核心與穩定 (徒手)"
-    type: strength
-    steps:
-      - { name: "Dead Bug", reps: 12, sets: 3 }
-      - { name: "Single Leg RDL", reps: 10, sets: 3 }
-      - { name: "Side Plank", duration: 45s, sets: 3 }
-      - { name: "Bulgarian Split Squat", reps: 10, sets: 3 }
-
-  - date: "2026-04-09"
-    workout: "04/09 10K 賽前體感測試"
-    type: running
-    steps:
-      - { type: warmup, duration: 2km, target: { type: heart_rate, zone: 2 } }
-      - { type: interval, duration: 1km, target: { type: pace, min: "5:58", max: "6:10" } }
-      - { type: recover, duration: 2m }
-      - { type: interval, duration: 1km, target: { type: pace, min: "5:58", max: "6:10" } }
-      - { type: recover, duration: 2m }
-      - { type: interval, duration: 1km, target: { type: pace, min: "5:58", max: "6:10" } }
-      - { type: cooldown, duration: 1km, target: { type: heart_rate, zone: 1 } }
-
-  - date: "2026-04-10"
-    workout: "04/10 跑後放鬆舒緩 (Yoga)"
-    type: yoga
-    steps:
-      - { name: "Downward Dog", duration: 2m }
-      - { name: "Pigeon Pose Left", duration: 3m }
-      - { name: "Pigeon Pose Right", duration: 3m }
-      - { name: "Apanasana", duration: 2m }
-
-  - date: "2026-04-11"
-    workout: "04/11 12km Z2 長距離跑"
-    type: running
-    steps:
-      - { type: warmup, duration: 1km, target: { type: heart_rate, zone: 1 } }
-      - { type: interval, duration: 10km, target: { type: heart_rate, zone: 2 }, note: "模擬賽事穩定配速" }
-      - { type: cooldown, duration: 1km, target: { type: heart_rate, zone: 1 } }
+  start_from: 2026-04-06
+  workouts:
+    - "rest"
+    - "6km Z2 基礎跑"
+    - "跑者核心與穩定 (徒手)"
+    - "10K 賽前體感測試 (T跑)"
+    - "跑後放鬆舒緩 (Yoga)"
+    - "12km Z2 長跑 (LSD)"
+    - "rest"
