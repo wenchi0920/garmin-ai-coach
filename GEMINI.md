@@ -46,23 +46,9 @@
 ### fit tools
 如果有需要下載 請用 https://github.com/wenchi0920/garmin-tools-kit 管理
  
- 
-### fit parse 
-* **fit data 路徑**：檔案放置 data/ , example data/activity/activity_2026-03-05_20-44-18+0800.fit
-* **fit parse**：自動產生 python fit_analyzer.py 檔案 處理 分析資料
-* **fit檔案**： activity_2026-03-05_20-44-18+0800.fit , 表示 activity_2026-03-05_20-44-18+時區.fit , 當地時間 不用 再補正
-* **fit檔案處理原則**：只分析 檔名格式為 activity_2026-03-05_20-44-18+0800.fit 的檔案, 只處理跑步紀錄
 
-* **核心處理指標**：
-    - 距離、累計時間、配速、最快配速、心率、儲備心率%、最大心率、、步頻、最大步頻、步幅(公尺)、觸地時間、垂直振幅、功率、最大功率、跑步效能、海拔高度變化
-    - 運動心率、靜息心率、心率變異度 (HRV)。
-
-* **配速區間**：計算 配速, 共分 1-6區
-* **心率區間**：計算 心率區間, 共分 1-5區
-
-
-* **fif下載**：如果有需要下載 請用 https://github.com/wenchi0920/garmin-tools-kit 管理
-
+- use fit_analyzer.py fit_analyzer.md 
+- parse_activity.sh => 分析單一檔案 並補上 AI 資訊 
 
 
 ## 3. 訓練架構與原則 (Framework)
