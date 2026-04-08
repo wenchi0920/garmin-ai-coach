@@ -211,6 +211,13 @@ def parse_fit(file_path):
             max_speed = avg_speed
         avg_hr = data.get('avg_heart_rate')
         avg_power = data.get('avg_power')
+        avg_cad = data.get('avg_cadence')
+        if avg_cad is None:
+            avg_cad = data.get('avg_running_cadence')
+        
+        max_cad = data.get('max_cadence')
+        if max_cad is None:
+            max_cad = data.get('max_running_cadence')
         
         hrr_pct = ''
         if avg_hr and person_data['max_hr'] and person_data['resting_hr']:
@@ -229,8 +236,8 @@ def parse_fit(file_path):
             "心率": f"{avg_hr:.0f}" if avg_hr else '',
             "儲備心率%": hrr_pct,
             "最大心率": f"{data.get('max_heart_rate'):.0f}" if data.get('max_heart_rate') else '',
-            "步頻": f"{data.get('avg_cadence'):.0f}" if data.get('avg_cadence') else '',
-            "最大步頻": f"{data.get('max_cadence'):.0f}" if data.get('max_cadence') else '',
+            "步頻": f"{avg_cad:.0f}" if avg_cad else '',
+            "最大步頻": f"{max_cad:.0f}" if max_cad else '',
             "步幅": f"{data.get('avg_step_length') / 1000.0:.2f}" if data.get('avg_step_length') else '',
             "觸地時間": f"{data.get('avg_stance_time'):.1f}" if data.get('avg_stance_time') else '',
             "垂直振幅": f"{data.get('avg_vertical_oscillation'):.1f}" if data.get('avg_vertical_oscillation') else '',
@@ -298,7 +305,13 @@ def parse_fit(file_path):
     # Extract Records for Summary
     for record in fitfile.get_messages('record'):
         data = record.get_values()
-        r = {k: data.get(k) for k in ['timestamp', 'distance', 'heart_rate', 'cadence', 'speed']}
+        r = {k: data.get(k) for k in ['timestamp', 'distance', 'heart_rate', 'speed']}
+        # Handle Cadence: try 'cadence' then 'running_cadence'
+        cad = data.get('cadence')
+        if cad is None:
+            cad = data.get('running_cadence')
+        r['cadence'] = cad
+        
         lat, lon = data.get('position_lat'), data.get('position_long')
         if lat is not None and lon is not None:
             r['lat'], r['lon'] = lat * (180.0 / 2**31), lon * (180.0 / 2**31)
@@ -373,6 +386,19 @@ def parse_fit(file_path):
         else:
             local_start_time = session.get('start_time', datetime.now())
 
+    # Session cadence
+    avg_session_cad = session.get('avg_cadence')
+    if avg_session_cad is None:
+        avg_session_cad = session.get('avg_running_cadence')
+    if avg_session_cad is None and not df.empty and 'cadence' in df.columns:
+        avg_session_cad = df['cadence'].mean()
+
+    max_session_cad = session.get('max_cadence')
+    if max_session_cad is None:
+        max_session_cad = session.get('max_running_cadence')
+    if max_session_cad is None and not df.empty and 'cadence' in df.columns:
+        max_session_cad = df['cadence'].max()
+
     summary = {
         "date": local_start_time.strftime('%Y-%m-%d'),
         "start_time": local_start_time.strftime('%H:%M:%S'),
@@ -382,7 +408,8 @@ def parse_fit(file_path):
         "avg_pace": format_pace(t_time / (dist / 1000.0)) if dist > 0 else "",
         "avg_hr": session.get('avg_heart_rate', df['heart_rate'].mean() if not df.empty else None),
         "max_hr": session.get('max_heart_rate', df['heart_rate'].max() if not df.empty else None),
-        "avg_cadence": session.get('avg_cadence', df['cadence'].mean() if not df.empty else None),
+        "avg_cadence": avg_session_cad,
+        "max_cadence": max_session_cad,
         "avg_hrv": np.mean(hrv_data) if hrv_data else 0,
         "location": get_location_str(df['lat'].dropna().iloc[0], df['lon'].dropna().iloc[0]) if not df.empty and df['lat'].notnull().any() else ""
     }
