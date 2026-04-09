@@ -7,6 +7,22 @@
 
 ---
 
+
+- 亞洲 (Asia)：
+-- 台灣 (Taiwan)
+- 
+- 非洲 (Africa)：
+- 北美洲 (North America)：
+- 南美洲 (South America)：
+
+- 歐洲 (Europe)：
+- 大洋洲 (Oceania)：
+- 南極洲 (Antarctica)：
+
+
+---
+
+
 ## 🇹🇼 台灣 (Taiwan)
 
 | 賽事名稱 | 月份 | 特色與關鍵字 | 詳情 |
