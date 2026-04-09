@@ -8,26 +8,26 @@
 ---
 
 - **亞洲 (Asia)**：
-- [🇹🇼 台灣 (Taiwan)](建立下方連結)
-- [🇯🇵 日本 (Japan)](建立下方連結)
-- [🇨🇳 中國 (China)](建立下方連結)
-- [🇰🇷 韓國 (South Korea)](建立下方連結)
-- [🇭🇰🇲🇴 港澳 (Hong Kong & Macau)](建立下方連結)
-- [🌏 其他地區 (Others)](建立下方連結) (越南、新加坡、馬來西亞)
+  - [🇹🇼 台灣 (Taiwan)](#🇹🇼-台灣-taiwan)
+  - [🇯🇵 日本 (Japan)](#🇯🇵-日本-japan)
+  - [🇨🇳 中國 (China)](#中國-china)
+  - [🇰🇷 韓國 (South Korea)](#🇰🇷-韓國-south-korea)
+  - [🇭🇰🇲🇴 港澳 (Hong Kong & Macau)](#🇭🇰🇲🇴-港澳-hong-kong--macau)
+  - [🌏 其他地區 (Others)](#🌏-其他地區-others) (越南、新加坡、馬來西亞)
 - **歐洲 (Europe)**：
-- [🇩🇪 德國 (Germany)](建立下方連結)
-- [🇬🇧 英國 (United Kingdom)](建立下方連結)
+  - [🇩🇪 德國 (Germany)](#🇩🇪-德國-germany)
+  - [🇬🇧 英國 (United Kingdom)](#🇬🇧-英國-united-kingdom)
 - **北美洲 (North America)**：
-- [🇺🇸 美國 (USA)](建立下方連結)
+  - [🇺🇸 美國 (USA)](#🇺🇸-美國-usa)
 - **大洋洲 (Oceania)**：
-- [🇦🇺 澳洲 (Australia)](建立下方連結)
+  - [🇦🇺 澳洲 (Australia)](#🇦🇺-澳洲-australia)
 - **非洲 (Africa)**：
-- [🇿🇦 南非 (South Africa)](建立下方連結)
-- [🇰🇪 肯亞 (Kenya)](建立下方連結)
+  - [🇿🇦 南非 (South Africa)](#🇿🇦-南非-south-africa)
+  - [🇰🇪 肯亞 (Kenya)](#🌏-其他地區-others)
 - **南美洲 (South America)**：
-- [🇫🇰 福克蘭群島 (Falkland Islands)](建立下方連結)
+  - [🇫🇰 福克蘭群島 (Falkland Islands)](#🌏-其他地區-others)
 - **南極洲 (Antarctica)**：
-- (暫無)`
+  - (暫無)`
 
 
 
@@ -207,7 +207,6 @@
 *   **東南亞**：多為熱戰，需加強耐熱與水分補給訓練.
 *   **WMM 大滿貫**：建議提前 1-2 年規劃，因為涉及抽籤與 BQ 門檻.
 
-訓練檔案 `logs/Workouts/` 將根據您最終選定的賽事月份進行週期化排程.
 
 ---
 
