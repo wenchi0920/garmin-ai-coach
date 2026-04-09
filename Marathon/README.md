@@ -7,17 +7,28 @@
 
 ---
 
+- **亞洲 (Asia)**：
+- [🇹🇼 台灣 (Taiwan)](建立下方連結)
+- [🇯🇵 日本 (Japan)](建立下方連結)
+- [🇨🇳 中國 (China)](建立下方連結)
+- [🇰🇷 韓國 (South Korea)](建立下方連結)
+- [🇭🇰🇲🇴 港澳 (Hong Kong & Macau)](建立下方連結)
+- [🌏 其他地區 (Others)](建立下方連結) (越南、新加坡、馬來西亞)
+- **歐洲 (Europe)**：
+- [🇩🇪 德國 (Germany)](建立下方連結)
+- [🇬🇧 英國 (United Kingdom)](建立下方連結)
+- **北美洲 (North America)**：
+- [🇺🇸 美國 (USA)](建立下方連結)
+- **大洋洲 (Oceania)**：
+- [🇦🇺 澳洲 (Australia)](建立下方連結)
+- **非洲 (Africa)**：
+- [🇿🇦 南非 (South Africa)](建立下方連結)
+- [🇰🇪 肯亞 (Kenya)](建立下方連結)
+- **南美洲 (South America)**：
+- [🇫🇰 福克蘭群島 (Falkland Islands)](建立下方連結)
+- **南極洲 (Antarctica)**：
+- (暫無)`
 
-- 亞洲 (Asia)：
--- 台灣 (Taiwan)
-- 
-- 非洲 (Africa)：
-- 北美洲 (North America)：
-- 南美洲 (South America)：
-
-- 歐洲 (Europe)：
-- 大洋洲 (Oceania)：
-- 南極洲 (Antarctica)：
 
 
 ---
