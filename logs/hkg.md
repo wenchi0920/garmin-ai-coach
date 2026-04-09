@@ -1,7 +1,7 @@
 # 🇭🇰 香港賽事詳情 (Hong Kong Marathon Details)
 
 > **Purpose**: 紀錄香港地區馬拉松賽事的詳細分析、補給特色與教練建議。
-> **Parent**: [MARATHON_WISHLIST.md](MARATHON_WISHLIST.md)
+> **Parent**: [README.md](README.md)
 > **Last Updated**: 2026-04-09
 
 ---

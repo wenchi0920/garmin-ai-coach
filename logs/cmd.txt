@@ -3,3 +3,15 @@
 gemini -y -p @MARATHON_WISHLIST.md 更新 XXX馬拉松 從「歷史背景」、「賽道技術分析」、「補給特色」與「教練專業評論」四個維度進行撰寫，確保每篇都在 100-200 字之間
 
 
+
+
+
+ * @MARATHON_WISHLIST.md 搬移 首爾馬拉松 賽事 詳情連結 到 @kor.md
+
+ * @MARATHON_WISHLIST.md @jpn.md 建立 日本賽事的 詳情連結
+
+
+
+
+
+
