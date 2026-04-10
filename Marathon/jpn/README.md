@@ -20,6 +20,7 @@
 | 3月 | **東京馬拉松 (WMM)** | Tokyo Marathon | 世界六大馬、亞洲唯一、氣氛服務完美、極難中籤 | [詳情](info.md#東京馬拉松-tokyo-marathon) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | [詳情](info.md#福井櫻花馬拉松-fukui-sakura-marathon) |
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | [詳情](info.md#德島馬拉松-tokushima-marathon) |
+| 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | [詳情](info.md#名古屋女子馬拉松-nagoya-womens-marathon) |
 | 4月 | **四萬十川櫻花馬** | Shimantogawa Sakura Marathon | 日本最後清流、鄉村美景、沈下橋 | [詳情](info.md#四萬十川櫻花馬-shimantogawa-sakura-marathon) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | [詳情](info.md#東北風土馬拉松-tohoku-food-marathon) |
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | [詳情](info.md#函館馬拉松-hakodate-marathon) |
