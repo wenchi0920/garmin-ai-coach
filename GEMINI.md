@@ -33,7 +33,7 @@
 
 **存放在**: 
 - logs/PERSON.md
-- logs/*.yml
+- logs/SCHEDULE.md
 - logs/Workouts/YYYY/Workouts-YYYY-Wxx.md
 
 
@@ -82,6 +82,7 @@
 請參照 檔案 `PERSON.md` 產出 並存放置 `logs/PERSON.md`
 
 ## 7. 賽事列表
+- 個人化 參加賽事列表紀錄 存放於  `logs/SCHEDULE.md`
 - 所有參加賽事列表紀錄 存放於 `data/schedule.txt`
  
 
