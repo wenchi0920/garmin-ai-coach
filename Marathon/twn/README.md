@@ -16,6 +16,7 @@
 | 3月 | **臺南古都國際馬拉松** | Tainan Ancient Capital International Marathon | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | AIMS 認證 | [詳情](info.md#臺南古都國際馬拉松-tainan-ancient-capital-international-marathon) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](info.md#大亞旺萊馬-daya-pineapple-marathon) |
 | 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | - | [詳情](info.md#羅東馬拉松-luodong-marathon) |
+| 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](info.md#新北馬拉松-new-taipei-city-marathon) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyin Ma Marathon | 宗教文化、客家風情、坡度挑戰、熱耐受測試 | - | [詳情](info.md#竹東觀音媽馬-zhudong-guanyin-ma-marathon) |
 | 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | AIMS 認證 | [詳情](info.md#garmin-run-台北-garmin-run-taipei) |
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | AIMS 認證 | [詳情](info.md#日月潭環湖馬拉松-sun-moon-lake-marathon) |
