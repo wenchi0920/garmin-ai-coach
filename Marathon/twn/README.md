@@ -11,6 +11,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **臺北渣打公益馬拉松** | Standard Chartered Taipei Charity Marathon | 河濱賽道、天氣涼爽、早起跑、公益性質 | AIMS 認證 | [詳情](info.md#臺北渣打公益馬拉松-standard-chartered-taipei-charity-marathon) |
 | 1月 | **金門馬拉松** | Kinmen Marathon | 戰地風情、金門大橋(跨海抗風)、高粱酒、丘陵起伏 | AIMS 認證 | [詳情](info.md#金門馬拉松-kinmen-marathon) |
+| 1月 | **嘉義雙潭馬拉松** | Chiayi Twin Lakes Marathon | 雙潭美景、丘陵起伏、特色補給、人情味濃厚 | AIMS 認證 | [詳情](info.md#嘉義雙潭馬拉松-chiayi-twin-lakes-marathon) |
 | 3月 | **新北市萬金石馬拉松** | New Taipei City Wan Jin Shi Marathon | 海風強勁、麥當勞坡、意志力考驗 | AIMS 認證,WA 金標 | [詳情](info.md#新北市萬金石馬拉松-new-taipei-city-wan-jin-shi-marathon) |
 | 3月 | **臺南古都國際馬拉松** | Tainan Ancient Capital International Marathon | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | AIMS 認證 | [詳情](info.md#臺南古都國際馬拉松-tainan-ancient-capital-international-marathon) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](info.md#大亞旺萊馬-daya-pineapple-marathon) |
