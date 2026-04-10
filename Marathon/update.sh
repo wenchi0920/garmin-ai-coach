@@ -70,7 +70,7 @@ do
 6. **執行**：請直接呼叫工具修改檔案，確保 Markdown 表格對齊與格式正確。"
 
         echo "正在啟動 AI 處理 ${m}..."
-        if gemini -y --model gemini-2.5-pro -p "$PROMPT" <<< ""; then
+        if gemini -y -p "$PROMPT" <<< ""; then
             echo "✅ AI 更新成功: ${m}"
             # 提交並推播
             git add .
