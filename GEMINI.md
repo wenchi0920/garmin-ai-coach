@@ -33,7 +33,6 @@
 
 **存放在**: 
 - logs/PERSON.md
-- logs/SCHEDULE.md
 - logs/*.yml
 - logs/Workouts/YYYY/Workouts-YYYY-Wxx.md
 
@@ -85,7 +84,6 @@
 ## 7. 賽事列表
 - 所有參加賽事列表紀錄 存放於 `data/schedule.txt`
  
-
 
 ## 8. 禁止 行為
 * **禁止修改檔案**：以下檔案 禁止直接修改 `GEMINI.md`, `PERSON.md`, `Workouts.md`, `fit_analyzer.py`
