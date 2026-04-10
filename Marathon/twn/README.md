@@ -27,6 +27,7 @@
 | 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級峽谷美景、壯闊、落石風險需注意 | AIMS 認證 | [詳情](info.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](info.md#宜蘭馬拉松-yilan-marathon) |
 | 11月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | - | [詳情](info.md#宜蘭杏輝馬拉松-sinphar-yilan-marathon) |
+| 11月 | **二水國際跑水馬拉松** | Ershui International Running in the Water Marathon | 獨特「跑水」體驗、八堡圳文化、田野景致、人情味濃厚 | AIMS 認證 | [詳情](info.md#二水國際跑水馬拉松-ershui-international-running-in-the-water-marathon) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 市區賽道、年度期末考、拼PB首選、天氣濕冷 | AIMS 認證,WA 金標 | [詳情](info.md#臺北馬拉松-taipei-marathon) |
 | 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | - | [詳情](info.md#北港媽祖盃全國馬拉松-beigang-mazu-cup-national-marathon) |
 ---
