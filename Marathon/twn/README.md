@@ -23,3 +23,4 @@
 | 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級峽谷美景、壯闊、落石風險需注意 | [詳情](info.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | [詳情](info.md#宜蘭馬拉松-yilan-marathon) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 金標、市區賽道、年度期末考、拼PB首選、天氣濕冷 | [詳情](info.md#臺北馬拉松-taipei-marathon) |
+| 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | [詳情](info.md#北港媽祖盃全國馬拉松-beigang-mazu-cup-national-marathon) |
