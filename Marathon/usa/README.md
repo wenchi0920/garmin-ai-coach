@@ -11,3 +11,5 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 10月 | **芝加哥馬拉松** | Chicago Marathon | 世界六大馬、極速賽道、城市風光、平坦好跑 | AIMS 認證,WA 白金標,WMM | [詳情](info.md#芝加哥馬拉松-chicago-marathon) |
 | 12月 | **檀香山馬拉松** | Honolulu Marathon | 無限時限制、熱帶風情、煙火起跑、大鑽石山坡度 | AIMS 認證 | [詳情](info.md#檀香山馬拉松-honolulu-marathon) |
+---
+[⬅️ 返回全球賽事索引](../README.md)

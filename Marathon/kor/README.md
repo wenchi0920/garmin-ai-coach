@@ -11,3 +11,5 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 3月 | **首爾馬拉松** | Seoul Marathon | 拼成績、市區平坦、菁英賽事 | AIMS 認證,WA 白金標 | [詳情](info.md#首爾馬拉松-seoul-marathon) |
 | 4月 | **慶州櫻花馬拉松** | Gyeongju Cherry Blossom Marathon | 古都賞櫻、觀光為主、氛圍悠閒 | AIMS 認證 | [詳情](info.md#慶州櫻花馬拉松-gyeongju-cherry-blossom-marathon) |
+---
+[⬅️ 返回全球賽事索引](../README.md)
