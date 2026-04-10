@@ -75,8 +75,8 @@ do
             # 提交並推播
             git add .
             git commit -m "auto: update marathon data for ${m}"
-            git pull 
-            git push && echo "🚀 Git Push 成功" || echo "⚠️ Git Push 失敗 (請檢查權限)"
+            git pull origin master
+            git push origin master && echo "🚀 Git Push 成功" || echo "⚠️ Git Push 失敗 (請檢查權限)"
             
             # 重新檢查狀態以更新報表
             hasList=$(grep -Fl "${m}" */README.md 2>/dev/null)

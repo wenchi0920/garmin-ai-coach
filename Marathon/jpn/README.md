@@ -30,6 +30,7 @@
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 唯一夏季大型全馬、耐熱硬仗、關門嚴格 | - | [詳情](info.md#北海道馬拉松-hokkaido-marathon) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、適合破PB、秋季賽事 | - | [詳情](info.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | JAAF | [詳情](info.md#金澤馬拉松-kanazawa-marathon) |
+| 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | - | [詳情](info.md#金澤馬拉松-kanazawa-marathon) |
 | 10月 | **千葉跨海大橋馬** | Chiba Aqualine Marathon | (偶數年) 跑在海上高速公路、風大、景色壯觀 | - | [詳情](info.md#千葉跨海大橋馬-chiba-aqualine-marathon) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](info.md#伊平屋月光馬拉松-iheya-moonlight-marathon) |
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](info.md#久米島馬拉松-kumejima-marathon) |
@@ -38,4 +39,8 @@
 | 11月 | **與那國島一周馬** | Yonaguni Island One-Lap Marathon | 國境之南、風大起伏大、天氣好可見台灣 | - | [詳情](info.md#與那國島一周馬-yonaguni-island-one-lap-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](info.md#伊良部島馬拉松-irabu-island-marathon) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、城市氛圍佳、備前燒獎牌 | JAAF | [詳情](info.md#岡山馬拉松-okayama-marathon) |
+| 11月 | **神戶馬拉松** | Kobe Marathon | 港口風情、鐵人28號、最後有大橋坡 | - | [詳情](info.md#神戶馬拉松-kobe-marathon) |
+| 11月 | **與那國島一周馬** | Yonaguni Island One-Lap Marathon | 國境之南、風大起伏大、天氣好可見台灣 | - | [詳情](info.md#與那國島一周馬-yonaguni-island-one-lap-marathon) |
+| 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](info.md#伊良部島馬拉松-irabu-island-marathon) |
+| 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、城市氛圍佳、備前燒獎牌 | - | [詳情](info.md#岡山馬拉松-okayama-marathon) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | - | [詳情](info.md#湘南國際馬拉松-shonan-international-marathon) |
