@@ -16,6 +16,7 @@
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | [詳情](info.md#大亞旺萊馬-daya-pineapple-marathon) |
 | 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | [詳情](info.md#羅東馬拉松-luodong-marathon) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyin Ma Marathon | 宗教文化、客家風情、坡度挑戰、熱耐受測試 | [詳情](info.md#竹東觀音媽馬-zhudong-guanyin-ma-marathon) |
+| 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | [詳情](info.md#garmin-run-台北-garmin-run-taipei) |
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | [詳情](info.md#日月潭環湖馬拉松-sun-moon-lake-marathon) |
 | 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | [詳情](info.md#長榮航空城市觀光馬拉松-eva-air-marathon) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | [詳情](info.md#台灣米倉田中馬拉松-taiwan-rice-heaven-tanaka-marathon) |
