@@ -15,6 +15,7 @@
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | AIMS 認證 | [詳情](info.md#京都馬拉松-kyoto-marathon) |
 | 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](info.md#大阪馬拉松-osaka-marathon) |
 | 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 金標, AIMS 認證 | [詳情](info.md#香川丸龜國際半程馬拉松-kagawa-marugame-international-half-marathon) |
+| 2月 | **香川馬拉松** | Kagawa Marathon | 香川丸龜國際半馬之通稱、極速平緩、挑戰 PB 聖地 | WA 金標, AIMS 認證 | [詳情](info.md#香川馬拉松-kagawa-marathon) |
 | 2月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證 | [詳情](info.md#奈良馬拉松-nara-marathon) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | - | [詳情](info.md#西表島山貓馬拉松-iriomote-island-wildcat-marathon) |
 | 2月 | **姬路城馬拉松** | Himeji Castle Marathon | 終點在世界遺產姬路城內、儀式感強 | AIMS 認證 | [詳情](info.md#姬路城馬拉松-himeji-castle-marathon) |
