@@ -1,4 +1,4 @@
-# 🇯🇵 日本馬拉松賽事索引 (Japan Marathon Index)
+G# 🇯🇵 日本馬拉松賽事索引 (Japan Marathon Index)
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
@@ -35,4 +35,3 @@
 | **德島馬拉松** | 3月 | 四國熱情賽事、阿波舞應援、吉野川 | [詳情](info.md#德島馬拉松-tokushima-marathon) |
 | **金澤馬拉松** | 10月 | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | [詳情](info.md#金澤馬拉松-kanazawa-marathon) |
 | **函館馬拉松** | 6/7月 | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | [詳情](info.md#函館馬拉松-hakodate-marathon) |
-| **大阪馬拉松** |  |  | |
