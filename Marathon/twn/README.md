@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽台灣地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-09
+> **Last Updated**: 2026-04-10
 > **Author**: AI Coach
 
 ---
@@ -18,3 +18,5 @@
 | **臺南古都國際馬拉松** | 3月 | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | [詳情](info.md#臺南古都國際馬拉松-tainan-ancient-capital-international-marathon) |
 | **太魯閣峽谷馬拉松** | 11月 | 世界級峽谷美景、壯闊、落石風險需注意 | [詳情](info.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
 | **臺北馬拉松** | 12月 | 金標、市區賽道、年度期末考、拼PB首選、天氣濕冷 | [詳情](info.md#臺北馬拉松-taipei-marathon) |
+| **長榮航空城市觀光馬拉松** | 10月 | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | [詳情](info.md#長榮航空城市觀光馬拉松-eva-air-marathon) |
+
