@@ -13,6 +13,7 @@
 | 3月 | **重慶馬拉松** | Chongqing Marathon | 火鍋馬、長江濱江路、意外平坦、氣氛熱 | [詳情](info.md#重慶馬拉松-chongqing-marathon) |
 | 3月 | **無錫馬拉松** | Wuxi Marathon | 櫻花馬、極速平坦賽道、粉色系周邊 | [詳情](info.md#無錫馬拉松-wuxi-marathon) |
 | 4月 | **武漢馬拉松** | Wuhan Marathon | 一城兩江三鎮、過江大橋、名額難搶 | [詳情](info.md#武漢馬拉松-wuhan-marathon) |
+| 4月 | **上海浦東半程馬拉松** | Shanghai Pudong Half Marathon | 浦馬、穿越陸家嘴、極速平坦、金標半馬 | [詳情](info.md#上海浦東半程馬拉松-shanghai-pudong-half-marathon) |
 | 4月 | **青島馬拉松** | Qingdao Marathon | 最美海岸線、坡度多、終點喝啤酒 | [詳情](info.md#青島馬拉松-qingdao-marathon) |
 | 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 唯一金標半馬、煙花三月下揚州 | [詳情](info.md#揚州鑑真半馬-yangzhou-jianzhen-half-marathon) |
 | 5月 | **大連馬拉松** | Dalian Marathon | 北方明珠、歷史悠久、坡度多 | [詳情](info.md#大連馬拉松-dalian-marathon) |
