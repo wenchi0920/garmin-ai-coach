@@ -14,6 +14,7 @@
 | 3月 | **新北市萬金石馬拉松** | New Taipei City Wan Jin Shi Marathon | 金標、海風強勁、麥當勞坡、意志力考驗 | [詳情](info.md#新北市萬金石馬拉松-new-taipei-city-wan-jin-shi-marathon) |
 | 3月 | **臺南古都國際馬拉松** | Tainan Ancient Capital International Marathon | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | [詳情](info.md#臺南古都國際馬拉松-tainan-ancient-capital-international-marathon) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | [詳情](info.md#大亞旺萊馬-daya-pineapple-marathon) |
+| 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | [詳情](info.md#羅東馬拉松-luodong-marathon) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyin Ma Marathon | 宗教文化、客家風情、坡度挑戰、熱耐受測試 | [詳情](info.md#竹東觀音媽馬-zhudong-guanyin-ma-marathon) |
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | [詳情](info.md#日月潭環湖馬拉松-sun-moon-lake-marathon) |
 | 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | [詳情](info.md#長榮航空城市觀光馬拉松-eva-air-marathon) |
