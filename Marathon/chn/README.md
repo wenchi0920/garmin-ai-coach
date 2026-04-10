@@ -30,13 +30,13 @@
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐、古蹟多、部分石板路 | WA 金標 | [詳情](info.md#西安馬拉松-xian-marathon) |
 | 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 極速環湖平坦賽道、PB 聖殿 | WA 金標 | [詳情](info.md#常州西太湖馬拉松-changzhou-west-taihu-lake-marathon) |
 | 10月 | **黃山馬拉松** | Huangshan Marathon | 徽派建築、丘陵地形、古村落 | 國內標牌 | [詳情](info.md#黃山馬拉松-huangshan-marathon) |
-| 11月 | **上海馬拉松** | Shanghai Marathon | 外灘起跑、拼成績、國際化 | WMM 候選,WA 白金標 | [詳情](info.md#上海馬拉松-shanghai-marathon) |
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 西湖美景、錢塘江、起伏適中、最美賽道 | WA 金標 | [詳情](info.md#杭州馬拉松-hangzhou-marathon) |
 | 11月 | **南京馬拉松** | Nanjing Marathon | 六朝古都、中山陵、人文氣息重 | WA 金標 | [詳情](info.md#南京馬拉松-nanjing-marathon) |
 | 11月 | **千島湖馬拉松** | Qiandaohu Marathon | 碧水丹山、彎道多、景色優美 | 國內金牌 | [詳情](info.md#千島湖馬拉松-qiandaohu-marathon) |
 | 11月 | **紹興馬拉松** | Shaoxing Marathon | 魯訊故里、古橋多(腿酸)、黃酒棒冰 | WA 金標 | [詳情](info.md#紹興馬拉松-shaoxing-marathon) |
 | 11月 | **蘇州太湖馬拉松** | Suzhou Taihu Marathon | 江南水鄉、環湖風大、詩意 | WA 金標 | [詳情](info.md#蘇州太湖馬拉松-suzhou-taihu-marathon) |
 | 11月 | **桂林馬拉松** | Guilin Marathon | 山水甲天下、畫中跑、濕度較高 | WA 金標 | [詳情](info.md#桂林馬拉松-guilin-marathon) |
+| 12月 | **上海國際馬拉松** | Shanghai International Marathon | WMM 候選白金標，賽道極致平坦，公認的 PB/BQ 聖殿。 | WA 白金標, WMM 候選 | [詳情](info.md#shanghai-international-marathon) |
 | 12月 | **昆明高原馬** | Kunming Highland Marathon | 春城、海鷗飛舞、亞高原(1900m) | WA 標籤 | [詳情](info.md#昆明高原馬-kunming-highland-marathon) |
 | 12月 | **深圳馬拉松** | Shenzhen Marathon | 科技森林、深南大道、路寬現代感 | WA 金標 | [詳情](info.md#深圳馬拉松-shenzhen-marathon) |
 | 12月 | **廣州馬拉松** | Guangzhou Marathon | 美食之都、廣州塔、天氣通常濕熱 | WA 金標 | [詳情](info.md#廣州馬拉松-guangzhou-marathon) |

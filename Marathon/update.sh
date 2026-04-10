@@ -88,7 +88,7 @@ do
             echo "❌ AI 處理失敗: ${m}"
         fi
         
-        echo "冷卻中 (60s)..."
+        echo "冷卻中 (600s)..."
         sleep 600
     fi
 
