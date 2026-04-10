@@ -22,6 +22,7 @@
 | 6月 | **蘭州馬拉松** | Lanzhou Marathon | 西北狂野、黃河邊、亞高原(1500m)、牛肉麵 | WA 金標 | [詳情](info.md#蘭州馬拉松-lanzhou-marathon) |
 | 7月 | **貴陽馬拉松** | Guiyang Marathon | 夏天避署賽事、坡道地獄、爽爽貴陽 | WA 精英標牌 | [詳情](info.md#貴陽馬拉松-guiyang-marathon) |
 | 8月 | **拉薩半程馬** | Lhasa Half Marathon | 缺氧挑戰、極度危險、需體檢、海拔3650m | 國內金牌 | [詳情](info.md#拉薩半程馬-lhasa-half-marathon) |
+| 8月 | **六盤水夏季馬拉松** | Liupanshui Summer Marathon | 19°C 的夏天、中國涼都、高海拔挑戰(1800m)、避暑首選 | AIMS 認證,WA 金標 | [詳情](info.md#六盤水夏季馬拉松-liupanshui-summer-marathon) |
 | 8月 | **哈爾濱馬拉松** | Harbin Marathon | 俄式風情、紅腸補給、夏季涼爽選擇 | WA 金標 | [詳情](info.md#哈爾濱馬拉松-harbin-marathon) |
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 東北豪邁、路寬人少、氣候涼爽 | WA 精英標牌 | [詳情](info.md#瀋陽馬拉松-shenyang-marathon) |
 | 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 環湖賽道、極致平坦、PB 聖殿 | WA 金標 | [詳情](info.md#衡水湖馬拉松-hengshui-lake-marathon) |
