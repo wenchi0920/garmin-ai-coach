@@ -19,6 +19,7 @@
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | [詳情](info.md#日月潭環湖馬拉松-sun-moon-lake-marathon) |
 | 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | [詳情](info.md#長榮航空城市觀光馬拉松-eva-air-marathon) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | [詳情](info.md#台灣米倉田中馬拉松-taiwan-rice-heaven-tanaka-marathon) |
+| 11月 | **澎湖跨海大橋馬拉松** | Penghu Cross-Sea Marathon | 跨海大橋、龍蝦補給、海風強勁、跳島美景 | [詳情](info.md#澎湖跨海大橋馬拉松-penghu-cross-sea-marathon) |
 | 11月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 南霸天、港都風情、跑進海軍基地(視情況)、熱情 | [詳情](info.md#高雄富邦馬拉松-kaohsiung-fubon-marathon) |
 | 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級峽谷美景、壯闊、落石風險需注意 | [詳情](info.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | [詳情](info.md#宜蘭馬拉松-yilan-marathon) |
