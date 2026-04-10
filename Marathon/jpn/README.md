@@ -30,6 +30,7 @@
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標 | [詳情](info.md#名古屋女子馬拉松-nagoya-womens-marathon) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF, AIMS 認證 | [詳情](info.md#名古屋城市馬拉松-nagoya-city-marathon) |
 | 3月 | **鳥取馬拉松** | Tottori Marathon | 跑過鳥取沙丘、山陰風情、賽道相對平緩 | JAAF, AIMS 認證 | [詳情](info.md#鳥取馬拉松-tottori-marathon) |
+| 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](info.md#佐倉馬拉松-sakura-marathon) |
 | 4月 | **四萬十川櫻花馬** | Shimantogawa Sakura Marathon | 日本最後清流、鄉村美景、沈下橋 | - | [詳情](info.md#四萬十川櫻花馬-shimantogawa-sakura-marathon) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | - | [詳情](info.md#東北風土馬拉松-tohoku-food-marathon) |
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | - | [詳情](info.md#綾柱海中道路路跑-ayahashi-sea-road-race) |
