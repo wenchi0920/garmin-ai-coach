@@ -12,6 +12,7 @@
 | 1月 | **建發廈門馬拉松** | Jianfa Xiamen Marathon | 2026 最新：白金標全海景賽道、PB/BQ 首選、氣氛熱烈 | AIMS 認證,WA 白金標 | [詳情](info.md#建發廈門馬拉松-jianfa-xiamen-marathon) |
 | 3月 | **長安汽車重慶馬拉松** | Chongqing Marathon | 火鍋馬、長江濱江路、意外平坦、氣氛熱烈 | AIMS 認證,WA 金標 | [詳情](info.md#長安汽車重慶馬拉松-chongqing-marathon) |
 | 3月 | **無錫馬拉松** | Wuxi Marathon | 櫻花馬、極速平坦賽道、粉色系周邊 | AIMS 認證,WA 金標 | [詳情](info.md#無錫馬拉松-wuxi-marathon) |
+| 3月 | **南京浦口馬拉松** | Nanjing Pukou Marathon | 綠色浦口、老山森林公園、極速平坦賽道、PB 聖殿 | WA 菁英 | [詳情](info.md#南京浦口馬拉松-nanjing-pukou-marathon) |
 | 4月 | **武漢馬拉松** | Wuhan Marathon | 一城兩江三鎮、過江大橋、名額難搶 | AIMS 認證,WA 金標 | [詳情](info.md#武漢馬拉松-wuhan-marathon) |
 | 4月 | **淮安馬拉松** | Huai'an Marathon | 運河之都、世界美食之都、極速平坦賽道 | WA 金標 | [詳情](info.md#淮安馬拉松-huaian-marathon) |
 | 4月 | **上海浦東半程馬拉松** | Shanghai Pudong Half Marathon | 浦馬、穿越陸家嘴、極速平坦 | WA 金標 | [詳情](info.md#上海浦東半程馬拉松-shanghai-pudong-half-marathon) |
