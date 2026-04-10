@@ -28,6 +28,7 @@
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | - | [詳情](info.md#綾柱海中道路路跑-ayahashi-sea-road-race) |
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | - | [詳情](info.md#函館馬拉松-hakodate-marathon) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 唯一夏季大型全馬、耐熱硬仗、關門嚴格 | - | [詳情](info.md#北海道馬拉松-hokkaido-marathon) |
+| 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS | [詳情](info.md#東京傳承半程馬拉松-tokyo-legacy-half-marathon) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、適合破PB、秋季賽事 | - | [詳情](info.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | JAAF | [詳情](info.md#金澤馬拉松-kanazawa-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | - | [詳情](info.md#金澤馬拉松-kanazawa-marathon) |
