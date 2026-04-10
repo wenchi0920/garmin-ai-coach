@@ -46,6 +46,7 @@
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](info.md#久米島馬拉松-kumejima-marathon) |
 | 11月 | **富士山馬拉松** | Fujisan Marathon | 環河口湖、看富士山絕景、紅葉季 | - | [詳情](info.md#富士山馬拉松-fujisan-marathon) |
 | 11月 | **神戶馬拉松** | Kobe Marathon | 港口風情、鐵人28號、最後有大橋坡 | AIMS 認證 | [詳情](info.md#神戶馬拉松-kobe-marathon) |
+| 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | JAAF, AIMS 認證 | [詳情](info.md#下關海響馬拉松-shimonoseki-kaikyo-marathon) |
 | 11月 | **與那國島一周馬** | Yonaguni Island One-Lap Marathon | 國境之南、風大起伏大、天氣好可見台灣 | - | [詳情](info.md#與那國島一周馬-yonaguni-island-one-lap-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](info.md#伊良部島馬拉松-irabu-island-marathon) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、城市氛圍佳、備前燒獎牌 | JAAF | [詳情](info.md#岡山馬拉松-okayama-marathon) |
