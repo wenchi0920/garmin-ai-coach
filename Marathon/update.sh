@@ -25,7 +25,7 @@ printf "%-35s | %-18s | %-15s\n" "賽事名稱" "國家索引 (List)" "詳細分
 echo "-----------------------------------------------------------------------------"
 
 IFS=$'\n'
-for m in $(cat "$LIST_FILE"); 
+for m in $(cat "$LIST_FILE" | sort -R ); 
 do 
     # 清理潛在的隱形字元
     m=$(echo "$m" | tr -d '\r' | xargs)
