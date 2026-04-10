@@ -9,4 +9,4 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10月 | **奈洛比渣打馬拉松** | Standard Chartered Nairobi Marathon | 高海拔挑戰、世界長跑之都、純粹競技氛圍、高原美景 | World Athletics Label / AIMS | [詳情](info.md#奈洛比渣打馬拉松-standard-chartered-nairobi-marathon) |
+| 10月 | **奈洛比渣打馬拉松** | Standard Chartered Nairobi Marathon | 高海拔挑戰、世界長跑之都、純粹競技氛圍、高原美景 | WA 認證,AIMS 認證 | [詳情](info.md#奈洛比渣打馬拉松-standard-chartered-nairobi-marathon) |
