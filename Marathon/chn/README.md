@@ -40,3 +40,5 @@
 | 12月 | **昆明高原馬** | Kunming Highland Marathon | 春城、海鷗飛舞、亞高原(1900m) | WA 標籤 | [詳情](info.md#昆明高原馬-kunming-highland-marathon) |
 | 12月 | **深圳馬拉松** | Shenzhen Marathon | 科技森林、深南大道、路寬現代感 | WA 金標 | [詳情](info.md#深圳馬拉松-shenzhen-marathon) |
 | 12月 | **廣州馬拉松** | Guangzhou Marathon | 美食之都、廣州塔、天氣通常濕熱 | WA 金標 | [詳情](info.md#廣州馬拉松-guangzhou-marathon) |
+---
+[⬅️ 返回全球賽事索引](../README.md)

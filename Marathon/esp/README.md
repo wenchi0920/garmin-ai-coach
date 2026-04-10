@@ -11,3 +11,5 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2月 | **道達爾能源穆爾西亞陽光海岸馬拉松** | TotalEnergies Murcia Costa Cálida Marathon | 平坦快速市區賽道、地中海冬日風情、大教堂終點 | AIMS 認證, WA 標籤 | [詳情](info.md#道達爾能源穆爾西亞陽光海岸馬拉松-totalenergies-murcia-costa-cálida-marathon) |
 | 12月 | **蘇黎世保險瓦倫西亞馬拉松** | Zurich Insurance Valencia Marathon | 歐洲最速賽道之一、PB 聖殿、水上終點 | AIMS 認證,WA 白金標 | [詳情](info.md#蘇黎世保險瓦倫西亞馬拉松-zurich-insurance-valencia-marathon) |
+---
+[⬅️ 返回全球賽事索引](../README.md)

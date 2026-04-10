@@ -44,3 +44,5 @@
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、城市氛圍佳、備前燒獎牌 | JAAF | [詳情](info.md#岡山馬拉松-okayama-marathon) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | - | [詳情](info.md#湘南國際馬拉松-shonan-international-marathon) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | JAAF, AIMS 認證 | [詳情](info.md#那霸馬拉松-naha-marathon) |
+---
+[⬅️ 返回全球賽事索引](../README.md)
