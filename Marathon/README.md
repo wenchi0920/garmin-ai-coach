@@ -1,4 +1,4 @@
-# 🏃‍♂️ 全球馬拉松願望清單 (Global Marathon Wishlist)
+# 🏃‍♂️ 全球馬拉松清單 (Global Marathon)
 
 > **Purpose**: 紀錄全球各地推薦參加的馬拉松賽事，作為長期訓練與海外賽事規劃之核心。
 > **Author**: AI Coach
