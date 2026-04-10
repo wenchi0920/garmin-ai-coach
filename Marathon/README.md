@@ -19,17 +19,29 @@
 | **🇭🇰 香港 (Hong Kong)** | 渣打港馬魔鬼賽道與極具文化色彩的街馬。 | [進入索引](hkg/README.md) |
 
 ### 🇪🇺 歐洲 (Europe)
-- [🇩🇪 德國 (Germany)](ger/README.md) (待擴充)
-- [🇬🇧 英國 (United Kingdom)](gbr/README.md) | [進入索引](gbr/README.md)
+| 國家/地區 | 特色描述 | 賽事索引 |
+| :--- | :--- | :--- |
+| **🇩🇪 德國 (Germany)** | 柏林馬(WMM)世界紀錄聖殿，極致平坦的高速賽道。 | [進入索引](ger/README.md) |
+| **🇬🇧 英國 (United Kingdom)** | 倫敦馬(WMM)公益盛典，穿越歷史古蹟的嘉年華。 | [進入索引](gbr/README.md) |
+| **🇫🇷 法國 (France)** | 巴黎馬拉松與梅多克紅酒馬拉松的極致浪漫。 | [進入索引](fra/README.md) |
 
 ### 🌎 北美洲 (North America)
-- [🇺🇸 美國 (USA)](usa/README.md) (待擴充)
+| 國家/地區 | 特色描述 | 賽事索引 |
+| :--- | :--- | :--- |
+| **🇺🇸 美國 (USA)** | 波士頓(BQ門檻)、紐約與芝加哥大滿貫(WMM)系列。 | [進入索引](usa/README.md) |
+| **🇨🇦 加拿大 (Canada)** | 多倫多與溫哥華的宜人氣候與城市跑旅。 | [進入索引](can/README.md) |
 
 ### 🇦🇺 大洋洲 (Oceania)
-- [🇦🇺 澳洲 (Australia)](aus/README.md) (待擴充)
+| 國家/地區 | 特色描述 | 賽事索引 |
+| :--- | :--- | :--- |
+| **🇦🇺 澳洲 (Australia)** | 雪梨馬(WMM)新晉成員，挑戰海港大橋絕景。 | [進入索引](aus/README.md) |
+| **🇳🇿 紐西蘭 (New Zealand)** | 皇后鎮與奧克蘭的壯闊自然山水巡禮。 | [進入索引](nzl/README.md) |
 
 ### 🦁 非洲 (Africa)
-- [🇿🇦 南非 (South Africa)](zaf/README.md) (待擴充)
+| 國家/地區 | 特色描述 | 賽事索引 |
+| :--- | :--- | :--- |
+| **🇿🇦 南非 (South Africa)** | 開普敦馬(WMM候選)與著名的兩洋馬、同志馬。 | [進入索引](zaf/README.md) |
+| **🇰🇪 肯亞 (Kenya) / 🇪🇹 衣索比亞** | 長跑王國的高原訓練與純粹競技文化。 | [進入索引](ken/README.md) |
 
 ---
 
