@@ -58,6 +58,7 @@ do
         prefix="[!]"
 	PROMPT="@README.md 更新 ${m} 從「歷史背景」、「賽道技術分析」、「補給特色」與「教練專業評論」四個維度進行撰寫，確保每篇都在 100-200 字之間"
 	gemini -y -p "$PROMPT" <<< "" && echo "✅ 更新成功！" || echo "❌ AI 處理失敗。"
+	git-commit -a . 
     fi
 
     printf "%-35s | %-18s | %-15s\n" "$prefix $m" "$list_status" "$info_status"
