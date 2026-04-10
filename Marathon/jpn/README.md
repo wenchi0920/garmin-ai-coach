@@ -46,7 +46,7 @@
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](info.md#東京傳承半程馬拉松-tokyo-legacy-half-marathon) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、適合破PB、秋季賽事 | - | [詳情](info.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | JAAF | [詳情](info.md#金澤馬拉松-kanazawa-marathon) |
-| 10月 | **千葉跨海大橋馬** | Chiba Aqualine Marathon | (偶數年) 跑在海上高速公路、風大、景色壯觀 | - | [詳情](info.md#千葉跨海大橋馬-chiba-aqualine-marathon) |
+| 10月 | **千葉東京灣跨海大橋馬拉松** | Chiba Tokyo Bay Aqua-Line Marathon | (偶數年) 跑在海上高速公路、海風強勁、景色壯觀 | AIMS 認證, JAAF 認證 | [詳情](info.md#千葉東京灣跨海大橋馬拉松-chiba-tokyo-bay-aqua-line-marathon) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](info.md#伊平屋月光馬拉松-iheya-moonlight-marathon) |
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](info.md#久米島馬拉松-kumejima-marathon) |
 | 11月 | **富士山馬拉松** | Fujisan Marathon | 環河口湖、看富士山絕景、紅葉季 | - | [詳情](info.md#富士山馬拉松-fujisan-marathon) |
