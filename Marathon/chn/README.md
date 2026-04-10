@@ -28,6 +28,7 @@
 | 10月 | **北京馬拉松** | Beijing Marathon | 國馬、天安門起跑、儀式感強、秋高氣爽 | [詳情](info.md#北京馬拉松-beijing-marathon) |
 | 10月 | **成都馬拉松** | Chengdu Marathon | WMM候選、熊貓、火鍋粉補給、賽道平坦 | [詳情](info.md#成都馬拉松-chengdu-marathon) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐、古蹟多、部分石板路 | [詳情](info.md#西安馬拉松-xian-marathon) |
+| 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | WA 金標、極速環湖平坦賽道、PB 聖殿 | [詳情](info.md#常州西太湖馬拉松-changzhou-west-taihu-lake-marathon) |
 | 10月 | **黃山馬拉松** | Huangshan Marathon | 徽派建築、丘陵地形、古村落 | [詳情](info.md#黃山馬拉松-huangshan-marathon) |
 | 11月 | **上海馬拉松** | Shanghai Marathon | 白金標、WMM候選、外灘起跑、拼成績、國際化 | [詳情](info.md#上海馬拉松-shanghai-marathon) |
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 西湖美景、錢塘江、起伏適中、最美賽道 | [詳情](info.md#杭州馬拉松-hangzhou-marathon) |
