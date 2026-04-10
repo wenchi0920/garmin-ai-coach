@@ -30,9 +30,10 @@
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF, AIMS 認證 | [詳情](info.md#名古屋城市馬拉松-nagoya-city-marathon) |
 | 3月 | **鳥取馬拉松** | Tottori Marathon | 跑過鳥取沙丘、山陰風情、賽道相對平緩 | JAAF, AIMS 認證 | [詳情](info.md#鳥取馬拉松-tottori-marathon) |
 | 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](info.md#佐倉馬拉松-sakura-marathon) |
-| 4月 | **四萬十川櫻花馬** | Shimantogawa Sakura Marathon | 日本最後清流、鄉村美景、沈下橋 | - | [詳情](info.md#四萬十川櫻花馬-shimantogawa-sakura-marathon) |
+| 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](info.md#佐渡島朱鷺馬拉松-sado-toki-marathon) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | - | [詳情](info.md#東北風土馬拉松-tohoku-food-marathon) |
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | - | [詳情](info.md#綾柱海中道路路跑-ayahashi-sea-road-race) |
+| 4月 | **四萬十川櫻花馬** | Shimantogawa Sakura Marathon | 日本最後清流、鄉村美景、沈下橋 | - | [詳情](info.md#四萬十川櫻花馬-shimantogawa-sakura-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | - | [詳情](info.md#茨城水戶偕樂園哈密瓜馬拉松-ibaraki-melon-melon-run-mito-kairakuen) |
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | - | [詳情](info.md#函館馬拉松-hakodate-marathon) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 唯一夏季大型全馬、耐熱硬仗、關門嚴格 | - | [詳情](info.md#北海道馬拉松-hokkaido-marathon) |
