@@ -20,7 +20,7 @@
 
 ### 🇪🇺 歐洲 (Europe)
 - [🇩🇪 德國 (Germany)](ger/README.md) (待擴充)
-- [🇬🇧 英國 (United Kingdom)](gbr/README.md) (待擴充)
+- [🇬🇧 英國 (United Kingdom)](gbr/README.md) | [進入索引](gbr/README.md)
 
 ### 🌎 北美洲 (North America)
 - [🇺🇸 美國 (USA)](usa/README.md) (待擴充)
