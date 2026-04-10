@@ -38,6 +38,7 @@
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | - | [詳情](info.md#綾柱海中道路路跑-ayahashi-sea-road-race) |
 | 4月 | **四萬十川櫻花馬** | Shimantogawa Sakura Marathon | 日本最後清流、鄉村美景、沈下橋 | - | [詳情](info.md#四萬十川櫻花馬-shimantogawa-sakura-marathon) |
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](info.md#北海道北國優駿馬拉松-northern-horse-park-marathon) |
+| 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | - | [詳情](info.md#千歲jal國際馬拉松-chitose-jal-international-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | - | [詳情](info.md#茨城水戶偕樂園哈密瓜馬拉松-ibaraki-melon-melon-run-mito-kairakuen) |
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | - | [詳情](info.md#函館馬拉松-hakodate-marathon) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 唯一夏季大型全馬、耐熱硬仗、關門嚴格 | - | [詳情](info.md#北海道馬拉松-hokkaido-marathon) |
