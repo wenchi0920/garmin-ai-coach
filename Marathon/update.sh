@@ -60,9 +60,13 @@ do
 	echo "start add ${m}"
 	gemini -y -p "$PROMPT" <<< "" && echo "✅ 更新成功！" || echo "❌ AI 處理失敗。"
 	git-commit -a . 
+	git push 
     fi
 
     printf "%-35s | %-18s | %-15s\n" "$prefix $m" "$list_status" "$info_status"
+
+    sleep 60
+
 done
 
 echo "-----------------------------------------------------------------------------"
