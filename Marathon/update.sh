@@ -54,10 +54,10 @@ do
     fi
 
     # 如果有任何一項缺失，加上警告標記
-    if [[ "$list_status" == "[ - ]" || "$info_status" == "[ - ]" ]]; then    
+    if [[ "$list_status" == "[ - ]" || "$info_status" == "[ - ]" ]]; then
         prefix="[!]"
 	PROMPT="請依照 @GEMINI.md 規則 處理， @README.md, **直接新增無須檢查有無重複** 新增  ${m} , 從「歷史背景」、「賽道技術分析」、「補給特色」與「教練專業評論」四個維度進行撰寫，確保每篇都在 100-200 字之間"
-	echo "start add "${m}"
+	echo "start add ${m}"
 	gemini -y -p "$PROMPT" <<< "" && echo "✅ 更新成功！" || echo "❌ AI 處理失敗。"
 	git-commit -a . 
     fi
