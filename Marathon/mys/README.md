@@ -10,3 +10,4 @@
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- |
 | 10月 | **吉隆坡渣打馬拉松** | Kuala Lumpur Standard Chartered Marathon | 馬國最具規模之城市馬，熱帶耐熱戰。 | [詳情](info.md#吉隆坡渣打馬拉松-kuala-lumpur-standard-chartered-marathon) |
+| 11月 | **檳城大橋國際馬拉松** | Penang Bridge International Marathon | 橫跨海峽大橋、凌晨起跑、海風與高濕挑戰。 | [詳情](info.md#檳城大橋國際馬拉松-penang-bridge-international-marathon) |
