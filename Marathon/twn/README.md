@@ -11,6 +11,7 @@
 | :--- | :--- | :--- | :--- |
 | **台灣米倉田中馬拉松** | 11月 | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | [詳情](info.md#台灣米倉田中馬拉松-taiwan-rice-heaven-tanaka-marathon) |
 | **臺北渣打公益馬拉松** | 1月 | 河濱賽道、天氣涼爽、早起跑、公益性質 | [詳情](info.md#臺北渣打公益馬拉松-standard-chartered-taipei-charity-marathon) |
+| **金門馬拉松** | 1月 | 戰地風情、金門大橋(跨海抗風)、高粱酒、丘陵起伏 | [詳情](info.md#金門馬拉松-kinmen-marathon) |
 | **新北市萬金石馬拉松** | 3月 | 金標、海風強勁、麥當勞坡、意志力考驗 | [詳情](info.md#新北市萬金石馬拉松-new-taipei-city-wan-jin-shi-marathon) |
 | **高雄富邦馬拉松** | 11月 | 南霸天、港都風情、跑進海軍基地(視情況)、熱情 | [詳情](info.md#高雄富邦馬拉松-kaohsiung-fubon-marathon) |
 | **日月潭環湖馬拉松** | 10月 | 環湖美景、坡度有挑戰性、療癒系 | [詳情](info.md#日月潭環湖馬拉松-sun-moon-lake-marathon) |
