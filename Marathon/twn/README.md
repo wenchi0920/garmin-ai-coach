@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽台灣地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-10
+> **Last Updated**: 2026-04-11
 > **Author**: AI Coach
 
 ---
@@ -19,6 +19,7 @@
 | 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](info.md#新北馬拉松-new-taipei-city-marathon) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyin Ma Marathon | 宗教文化、客家風情、坡度挑戰、熱耐受測試 | - | [詳情](info.md#竹東觀音媽馬-zhudong-guanyin-ma-marathon) |
 | 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | AIMS 認證 | [詳情](info.md#garmin-run-台北-garmin-run-taipei) |
+| 10月 | **南投馬拉松** | Nantou Marathon | 貓羅溪畔、中興新村綠廊、中寮石龍宮 (泡麵土地公) | - | [詳情](info.md#南投馬拉松-nantou-marathon) |
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | AIMS 認證 | [詳情](info.md#日月潭環湖馬拉松-sun-moon-lake-marathon) |
 | 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | AIMS 認證 | [詳情](info.md#長榮航空城市觀光馬拉松-eva-air-marathon) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | AIMS 認證 | [詳情](info.md#台灣米倉田中馬拉松-taiwan-rice-heaven-tanaka-marathon) |
