@@ -27,6 +27,7 @@
 | **🇩🇪 德國 (Germany)** | 柏林馬(WMM)世界紀錄聖殿，極致平坦的高速賽道。 | [進入索引](deu/README.md) |
 | **🇬🇧 英國 (United Kingdom)** | 倫敦馬(WMM)公益盛典，穿越歷史古蹟的嘉年華。 | [進入索引](gbr/README.md) |
 | **🇫🇷 法國 (France)** | 法國巴黎馬拉松與梅多克紅酒馬拉松的極致浪漫。 | [進入索引](fra/README.md) |
+| **🇭🇷 克羅埃西亞 (Croatia)** | 札格瑞布馬拉松，穿越千年古城的極速平坦賽道。 | [進入索引](hrv/README.md) |
 | **🇵🇱 波蘭 (Poland)** | 華沙馬拉松歷史傳承，首都平坦賽道的 PB 殿堂。 | [進入索引](pol/README.md) |
 
 ### 🌎 北美洲 (North America)
