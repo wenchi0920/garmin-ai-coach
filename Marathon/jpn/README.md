@@ -25,7 +25,7 @@
 | 3月 | **東京馬拉松 (WMM)** | Tokyo Marathon | 世界六大馬、亞洲唯一、氣氛服務完美、極難中籤 | WMM/WA 白金標 | [詳情](info.md#東京馬拉松-tokyo-marathon) |
 | 3月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](info.md#埼玉馬拉松-saitama-marathon) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | JAAF | [詳情](info.md#福井櫻花馬拉松-fukui-sakura-marathon) |
-| 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證 | [詳情](info.md#佐賀櫻花馬拉松-saga-sakura-marathon) |
+| 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證 | [詳情](info..md#佐賀櫻花馬拉松-saga-sakura-marathon) |
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | JAAF | [詳情](info.md#德島馬拉松-tokushima-marathon) |
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標 | [詳情](info.md#名古屋女子馬拉松-nagoya-womens-marathon) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF, AIMS 認證 | [詳情](info.md#名古屋城市馬拉松-nagoya-city-marathon) |
@@ -49,6 +49,7 @@
 | 11月 | **與那國島一周馬** | Yonaguni Island One-Lap Marathon | 國境之南、風大起伏大、天氣好可見台灣 | - | [詳情](info.md#與那國島一周馬-yonaguni-island-one-lap-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](info.md#伊良部島馬拉松-irabu-island-marathon) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、城市氛圍佳、備前燒獎牌 | JAAF | [詳情](info.md#岡山馬拉松-okayama-marathon) |
+| 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證 | [詳情](info.md#三重松阪馬拉松-mie-matsusaka-marathon) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | - | [詳情](info.md#湘南國際馬拉松-shonan-international-marathon) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | JAAF, AIMS 認證 | [詳情](info.md#那霸馬拉松-naha-marathon) |
 ---

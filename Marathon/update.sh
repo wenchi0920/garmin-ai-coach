@@ -89,7 +89,7 @@ do
         fi
         
         echo "冷卻中 (60s)..."
-        sleep 60
+        sleep 600
     fi
 
     printf "%-35s | %-18s | %-15s\n" "$prefix $m" "$list_status" "$info_status"
