@@ -10,7 +10,7 @@
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | [詳情](info.md#石垣島馬拉松-ishigaki-island-marathon) |
-| 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | [詳情](info.md#名護半程馬拉松) |
+| 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | [詳情](info.md#名護半程馬拉松-nago-half-marathon) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | [詳情](info.md#京都馬拉松-kyoto-marathon) |
 | 2月 | **那霸馬拉松** | Naha Marathon | 祭典系、私補超多、關門嚴格、完賽率低 | [詳情](info.md#那霸馬拉松-naha-marathon) |
 | 2月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | [詳情](info.md#奈良馬拉松-nara-marathon) |
