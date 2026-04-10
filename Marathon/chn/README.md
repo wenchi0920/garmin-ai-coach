@@ -31,7 +31,7 @@
 | **紹興馬拉松** | 11月 | 魯訊故里、古橋多(腿酸)、黃酒棒冰 | [詳情](info.md#紹興馬拉松-shaoxing-marathon) |
 | **蘇州太湖馬** | 11月 | 江南水鄉、環湖風大、詩意 | [詳情](info.md#蘇州太湖馬-suzhou-taihu-marathon) |
 | **桂林馬拉松** | 11月 | 山水甲天下、畫中跑、濕度較高 | [詳情](info.md#桂林馬拉松-guilin-marathon) |
-| **貴陽馬拉松** | 7月 | 夏天避署賽事、坡道地獄、爽爽貴陽 | [詳_情](info.md#貴陽馬拉松-guiyang-marathon) |
+| **貴陽馬拉松** | 7月 | 夏天避署賽事、坡道地獄、爽爽貴陽 | [詳情](info.md#貴陽馬拉松-guiyang-marathon) |
 | **哈爾濱馬拉松** | 8月 | 俄式風情、紅腸補給、夏季涼爽選擇 | [詳情](info.md#哈爾濱馬拉松-harbin-marathon) |
 | **武漢馬拉松** | 4月 | 一城兩江三鎮、過江大橋、名額難搶 | [詳情](info.md#武漢馬拉松-wuhan-marathon) |
 | **重慶馬拉松** | 3月 | 火鍋馬、長江濱江路、意外平坦、氣氛熱 | [詳情](info.md#重慶馬拉松-chongqing-marathon) |
