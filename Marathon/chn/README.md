@@ -17,6 +17,7 @@
 | 4月 | **淮安馬拉松** | Huai'an Marathon | 運河之都、世界美食之都、極速平坦賽道 | WA 金標 | [詳情](Huaian_Marathon.md) |
 | 4月 | **上海浦東半程馬拉松** | Shanghai Pudong Half Marathon | 浦馬、穿越陸家嘴、極速平坦 | WA 金標 | [詳情](Shanghai_Pudong_Half_Marathon.md) |
 | 4月 | **青島馬拉松** | Qingdao Marathon | 最美海岸線、坡度多、終點喝啤酒 | WA 金標 | [詳情](Qingdao_Marathon.md) |
+| 4月 | **黃河口灣國際馬拉松** | Yellow River Estuary International Marathon | 東營平坦賽道、PB 聖殿、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 煙花三月下揚州、唯一金標半馬 | AIMS 認證,WA 金標 | [詳情](Yangzhou_Jianzhen_Half_Marathon.md) |
 | 5月 | **大理馬拉松** | Dali Marathon | 蒼山洱海、高海拔浪漫、紫外線強 | WA 一般 | [詳情](Dali_Marathon.md#大理馬拉松-dali-marathon) |
 | 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](Jilin_City_Marathon.md) |
