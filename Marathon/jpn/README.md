@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-10
+> **Last Updated**: 2026-04-11
 > **Author**: AI Coach
 
 ---
@@ -61,3 +61,4 @@
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | JAAF, AIMS 認證 | [詳情](info.md#那霸馬拉松-naha-marathon) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
+../README.md)
