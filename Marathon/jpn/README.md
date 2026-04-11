@@ -13,7 +13,7 @@
 | 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md) |
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
 | 1月 | **勝田全國馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md) |
-| 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md) |
+| 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md#大阪國際女子馬拉松-osaka-international-womens-marathon) |
 | 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 菁英, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md#別府大分每日馬拉松-beppu-oita-mainichi-marathon) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | AIMS 認證 | [詳情](Kyoto_Marathon.md) |
