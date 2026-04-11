@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-11
+> **Last Updated**: 2026-04-12
 > **Author**: AI Coach
 
 ---
@@ -53,6 +53,7 @@
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF | [詳情](Haruna_Lake_Marathon.md) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、適合破PB、秋季賽事 | - | [詳情](Mito_Komon_Manyu_Marathon.md) |
+| 10月 | **岩手盛岡城市馬拉松** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | JAAF 認證, AIMS 認證 | [詳情](Iwate_Morioka_City_Marathon.md) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | JAAF | [詳情](Kanazawa_Marathon.md) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](Iheya_Moonlight_Marathon.md) |
