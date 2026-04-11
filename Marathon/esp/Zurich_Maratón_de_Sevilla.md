@@ -1,13 +1,4 @@
----
-Last Updated: 2026-04-11
-Author: AI Coach
----
-
-# 🇪🇸 西班牙賽事詳情庫 (Spain Race Database)
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
-
----
 
 ### 塞維亞馬拉松 (Zurich Maratón de Sevilla)
 1. **歷史背景**:
