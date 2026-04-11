@@ -41,7 +41,7 @@
 | 11月 | **南昌馬拉松** | Nanchang Marathon | 英雄城、贛江兩岸、極速平坦 | WA 金標 | [詳情](Nanchang_Marathon.md) |
 | 11月 | **黃山馬拉松** | Huangshan Marathon | 躍山向湖、十里山水畫廊、徽派補給 | AIMS 認證,WA 一般 | [詳情](Huangshan_Marathon.md#黃山馬拉松-huangshan-marathon) |
 | 11月 | **千島湖馬拉松** | Qiandaohu Marathon | 碧水丹山、彎道挑戰、景色優美 | 國內金牌 | [詳情](Qiandaohu_Marathon.md) |
-| 11月 | **紹興馬拉松** | Shaoxing Marathon | 魯訊故里、古橋林立、黃酒棒冰 | WA 金標 | [詳情](Shaoxing_Marathon.md) |
+| 11月 | **紹興馬拉松** | Shaoxing Marathon | 2026 最新：文化越馬、跑過千年、古橋水鄉 PB 聖殿 | WA 菁英 | [詳情](Shaoxing_Marathon.md#紹興馬拉松-shaoxing-marathon) |
 | 11月 | **蘇州太湖馬拉松** | Suzhou Taihu Marathon | 2026 最新：江南水鄉環湖極速賽道、PB/BQ 聖殿、風阻挑戰 | AIMS 認證,WA 金標 | [詳情](Suzhou_Taihu_Marathon.md#蘇州太湖馬拉松-suzhou-taihu-marathon) |
 | 11月 | **桂林馬拉松** | Guilin Marathon | 山水甲天下、畫中奔跑、濕度較高 | WA 金標 | [詳情](Guilin_Marathon.md) |
 | 11月 | **合肥馬拉松** | Hefei Marathon | 環繞巢湖、極速平坦、PB 聖殿 | WA 金標 | [詳情](Hefei_Marathon.md) |
