@@ -20,6 +20,7 @@
 | 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 煙花三月下揚州、唯一金標半馬 | AIMS 認證,WA 金標 | [詳情](info.md#揚州鑑真半馬-yangzhou-jianzhen-half-marathon) |
 | 5月 | **大連馬拉松** | Dalian Marathon | 北方明珠、歷史悠久、坡度多 | WA 金標 | [詳情](info.md#大連馬拉松-dalian-marathon) |
 | 5月 | **大理馬拉松** | Dali Marathon | 蒼山洱海、高海拔浪漫、紫外線強 | WA 標籤 | [詳情](info.md#大理馬拉松-dali-marathon) |
+| 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](info.md#吉林市馬拉松-jilin-city-marathon) |
 | 6月 | **蘭州馬拉松** | Lanzhou Marathon | 西北狂野、黃河邊、亞高原(1500m)、牛肉麵 | WA 金標 | [詳情](info.md#蘭州馬拉松-lanzhou-marathon) |
 | 7月 | **貴陽馬拉松** | Guiyang Marathon | 夏天避署賽事、坡道地獄、爽爽貴陽 | WA 精英標牌 | [詳情](info.md#貴陽馬拉松-guiyang-marathon) |
 | 8月 | **拉薩半程馬** | Lhasa Half Marathon | 缺氧挑戰、極度危險、需體檢、海拔3650m | 國內金牌 | [詳情](info.md#拉薩半程馬-lhasa-half-marathon) |
