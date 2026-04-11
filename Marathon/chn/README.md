@@ -17,7 +17,6 @@
 | 4月 | **淮安馬拉松** | Huai'an Marathon | 運河之都、世界美食之都、極速平坦賽道 | WA 金標 | [詳情](Huaian_Marathon.md) |
 | 4月 | **上海浦東半程馬拉松** | Shanghai Pudong Half Marathon | 浦馬、穿越陸家嘴、極速平坦 | WA 金標 | [詳情](Shanghai_Pudong_Half_Marathon.md) |
 | 4月 | **青島馬拉松** | Qingdao Marathon | 最美海岸線、坡度多、終點喝啤酒 | WA 金標 | [詳情](Qingdao_Marathon.md) |
-| 4月 | **黃河口灣國際馬拉松** | Yellow River Estuary International Marathon | 東營平坦賽道、PB 聖殿、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 煙花三月下揚州、唯一金標半馬 | AIMS 認證,WA 金標 | [詳情](Yangzhou_Jianzhen_Half_Marathon.md) |
 | 5月 | **大理馬拉松** | Dali Marathon | 蒼山洱海、高海拔浪漫、紫外線強 | WA 一般 | [詳情](Dali_Marathon.md#大理馬拉松-dali-marathon) |
 | 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](Jilin_City_Marathon.md) |
@@ -30,6 +29,7 @@
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 東北豪邁、路寬人少、氣候涼爽 | WA 精英標牌 | [詳情](Shenyang_Marathon.md) |
 | 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 環湖賽道、極致平坦、PB 聖殿 | WA 金標 | [詳情](Hengshui_Lake_Marathon.md) |
 | 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、PB 聖殿、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
+| 10月 | **黃河口（東營）國際馬拉松** | Yellow River Estuary (Dongying) International Marathon | 極速平坦賽道、PB 聖殿、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 中國最老牌賽事之一、山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md#大連馬拉松-dalian-marathon) |
 | 10月 | **成都馬拉松** | Chengdu Marathon | 熊貓、火鍋粉補給、賽道平坦 | WMM 候選,WA 金標 | [詳情](Chengdu_Marathon.md) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐、古蹟多、部分石板路 | WA 金標 | [詳情](Xian_Marathon.md) |
