@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9月 | **塔林馬拉松** | Tallinn Marathon | 愛沙尼亞最大賽事、穿越塔林古城(世界遺產)、賽道平緩適合 PB、北歐風情 | WA 菁英, AIMS 認證 | [詳情](Honolulu_Marathon.md#塔林馬拉松-tallinn-marathon) |
+| 9月 | **塔林馬拉松** | Tallinn Marathon | 愛沙尼亞最大賽事、穿越塔林古城(世界遺產)、賽道平緩適合 PB、北歐風情 | WA 菁英, AIMS 認證 | [詳情](Tallinn_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
