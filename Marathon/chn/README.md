@@ -39,7 +39,7 @@
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 西湖美景、錢塘江、起伏適中、最美賽道 | WA 金標 | [詳情](Hangzhou_Marathon.md) |
 | 11月 | **南京馬拉松** | Nanjing Marathon | 六朝古都、中山陵、人文氣息重 | WA 金標 | [詳情](Nanjing_Marathon.md) |
 | 11月 | **南昌馬拉松** | Nanchang Marathon | 英雄城、贛江兩岸、極速平坦、氣氛熱烈 | WA 金標 | [詳情](Nanchang_Marathon.md) |
-| 11月 | **黃山馬拉松** | Huangshan Marathon | 2026 最新：躍山向湖、十里山水畫廊、空氣品質極佳、徽派補給 | AIMS 認證,WA 一般 | [詳情](Huangshan_Marathon.md) |
+| 11月 | **黃山馬拉松** | Huangshan Marathon | 2026 最新：躍山向湖、十里山水畫廊、空氣品質極佳、徽派補給 | AIMS 認證,WA 一般 | [詳情](Huangshan_Marathon.md#黃山馬拉松-huangshan-marathon) |
 | 11月 | **千島湖馬拉松** | Qiandaohu Marathon | 碧水丹山、彎道多、景色優美 | 國內金牌 | [詳情](Qiandaohu_Marathon.md) |
 | 11月 | **紹興馬拉松** | Shaoxing Marathon | 魯訊故里、古橋多(腿酸)、黃酒棒冰 | WA 金標 | [詳情](Shaoxing_Marathon.md) |
 | 11月 | **蘇州太湖馬拉松** | Suzhou Taihu Marathon | 江南水鄉、環湖風大、詩意 | WA 金標 | [詳情](Suzhou_Taihu_Marathon.md) |
