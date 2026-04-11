@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 8月 | **也拉馬拉松** | Yala Marathon | 泰南邊境和平跑、文化多元、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](info.md#也拉馬拉松-yala-marathon) |
-| 12月 | **東協馬拉松** | ASEAN Marathon | 湄公河畔、泰寮邊境、平坦景觀、跨國友誼 | AIMS 認證 | [詳情](info.md#東協馬拉松-asean-marathon) |
+| 8月 | **也拉馬拉松** | Yala Marathon | 泰南邊境和平跑、文化多元、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Yala_Marathon.md) |
+| 12月 | **東協馬拉松** | ASEAN Marathon | 湄公河畔、泰寮邊境、平坦景觀、跨國友誼 | AIMS 認證 | [詳情](ASEAN_Marathon.md) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
