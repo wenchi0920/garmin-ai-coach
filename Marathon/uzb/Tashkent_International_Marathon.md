@@ -1,9 +1,4 @@
-# 🇺🇿 烏茲別克馬拉松詳情 (Uzbekistan Marathon Details)
-
-Last Updated: 2026-04-11
-Author: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 塔什干國際馬拉松 (Tashkent International Marathon)
 
