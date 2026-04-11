@@ -1,6 +1,3 @@
-Last Updated: 2026-04-11
-Author: AI Coach
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 塔塔孟買馬拉松 (Tata Mumbai Marathon)
