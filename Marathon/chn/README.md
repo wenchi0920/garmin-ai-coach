@@ -27,7 +27,7 @@
 | 8月 | **六盤水夏季馬拉松** | Liupanshui Summer Marathon | 中國涼都、高海拔挑戰(1800m)、避暑首選 | AIMS 認證,WA 金標 | [詳情](Liupanshui_Summer_Marathon.md) |
 | 8月 | **哈爾濱馬拉松** | Harbin Marathon | 俄式風情、紅腸補給、夏季涼爽選擇 | WA 金標 | [詳情](Harbin_Marathon.md) |
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 東北豪邁、路寬人少、氣候涼爽 | WA 精英標牌 | [詳情](Shenyang_Marathon.md) |
-| 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 環湖賽道、極致平坦、PB 聖殿 | WA 金標 | [詳情](Hengshui_Lake_Marathon.md) |
+| 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 2026 最新：環湖平坦賽道、極致 PB 聖殿 | WA 金標 | [詳情](Hengshui_Lake_Marathon.md#衡水湖馬拉松-hengshui-lake-marathon) |
 | 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
 | 10月 | **黃河口國際馬拉松** | Yellow River Estuary International Marathon | 極速平坦、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md#大連馬拉松-dalian-marathon) |
