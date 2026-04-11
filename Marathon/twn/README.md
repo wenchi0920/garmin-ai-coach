@@ -30,6 +30,7 @@
 | 11月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | - | [詳情](info.md#宜蘭杏輝馬拉松-sinphar-yilan-marathon) |
 | 11月 | **二水國際跑水馬拉松** | Ershui International Running in the Water Marathon | 獨特「跑水」體驗、八堡圳文化、田野景致、人情味濃厚 | AIMS 認證 | [詳情](info.md#二水國際跑水馬拉松-ershui-international-running-in-the-water-marathon) |
 | 11月 | **台中城市馬拉松** | Taichung City Marathon | 城市巡禮、中央公園、中科、賽道平緩 | AIMS 認證 | [詳情](info.md#台中城市馬拉松-taichung-city-marathon) |
+| 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳情](info.md#台東知本溫泉馬拉松-chihpen-hot-spring-marathon) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 台灣唯一 WA 金標賽事、年度期末考、PB 聖殿、低溫河濱風考驗 | AIMS 認證,WA 金標 | [詳情](info.md#臺北馬拉松-taipei-marathon) |
 | 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](info.md#北港媽祖盃全國馬拉松-beigang-mazu-cup-national-marathon) |
 ---
