@@ -26,7 +26,7 @@
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | AIMS 認證 | [詳情](Taiwan_Rice_Heaven_Tanaka_Marathon.md) |
 | 11月 | **澎湖跨海大橋馬拉松** | Penghu Cross-Sea Marathon | 跨海大橋、龍蝦補給、海風強勁、跳島美景 | AIMS 認證 | [詳情](Penghu_Cross-Sea_Marathon.md) |
 | 11月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 南霸天、港都風情、跑進海軍基地(視情況)、熱情 | AIMS 認證 | [詳情](Kaohsiung_Fubon_Marathon.md) |
-| 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級峽谷美景、壯闊、落石風險需注意 | AIMS 認證 | [詳情](Taroko_Gorge_Marathon.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
+| 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級大理石峽谷美景、海拔緩爬升挑戰、心智與體感校準之最 | AIMS 認證 | [詳情](Taroko_Gorge_Marathon.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](Yilan_Marathon.md) |
 | 11月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | - | [詳情](Yilan_Marathon.md) |
 | 11月 | **二水國際跑水馬拉松** | Ershui International Running in the Water Marathon | 獨特「跑水」體驗、八堡圳文化、田野景致、人情味濃厚 | AIMS 認證 | [詳情](Ershui_International_Running_in_the_Water_Marathon.md) |
