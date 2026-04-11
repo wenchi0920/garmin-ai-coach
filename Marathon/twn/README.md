@@ -12,7 +12,7 @@
 | 1月 | **臺北渣打公益馬拉松** | Standard Chartered Taipei Charity Marathon | 河濱賽道、天氣涼爽、早起跑、公益性質 | AIMS 認證 | [詳情](Standard_Chartered_Taipei_Charity_Marathon.md) |
 | 1月 | **金門馬拉松** | Kinmen Marathon | 戰地風情、金門大橋(跨海抗風)、高粱酒、丘陵起伏 | AIMS 認證 | [詳情](Kinmen_Marathon.md) |
 | 1月 | **嘉義雙潭馬拉松** | Chiayi Twin Lakes Marathon | 雙潭美景、丘陵起伏、特色補給、人情味濃厚 | AIMS 認證 | [詳情](Chiayi_Twin_Lakes_Marathon.md) |
-| 1月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 南霸天、港都風情、跑進海軍基地(視情況)、熱情 | AIMS 認證 | [詳情](Kaohsiung_Fubon_Marathon.md) |
+| 1月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 港都風情、跑進海軍基地、平緩好跑 | AIMS 認證,WA 一般 | [詳情](Kaohsiung_Fubon_Marathon.md) |
 | 3月 | **新北市萬金石馬拉松** | New Taipei City Wan Jin Shi Marathon | 海風強勁、麥當勞坡、意志力考驗 | AIMS 認證,WA 金標 | [詳情](New_Taipei_City_Wan_Jin_Shi_Marathon.md) |
 | 3月 | **臺南古都國際馬拉松** | Tainan Ancient Capital International Marathon | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | AIMS 認證 | [詳情](Tainan_Ancient_Capital_International_Marathon.md) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](Daya_Pineapple_Marathon.md#大亞旺萊馬-daya-pineapple-marathon) |
@@ -30,11 +30,11 @@
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](Yilan_Marathon.md#宜蘭馬拉松-yilan-marathon) |
 | 11月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | AIMS 認證 | [詳情](Sinphar_Yilan_Marathon.md#宜蘭杏輝馬拉松-sinphar-yilan-marathon) |
 | 11月 | **二水國際跑水馬拉松** | Ershui International Running in the Water Marathon | 獨特「跑水」體驗、八堡圳文化、田野景致、人情味濃厚 | AIMS 認證 | [詳情](Ershui_International_Running_in_the_Water_Marathon.md) |
-| 11月 | **台中城市馬拉松** | Taichung City Marathon | 城市巡禮、中央公園、中科、賽道平緩 | AIMS 認證 | [詳情](Taichung_City_Marathon.md) |
+| 11月 | **台中城市馬拉松** | Taichung City Marathon | 城市巡禮、中央公園、中科、賽道平緩 | AIMS 認證 | [詳情](台中城市馬拉松-taichung-city-marathon) |
 | 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳情](Chihpen_Hot_Spring_Marathon.md) |
 | 11月 | **屏東馬拉松** | Pingtung Marathon | 平緩賽道、大武山景、在地農產補給、熱情南台灣 | AIMS 認證 | [詳情](Pingtung_Marathon.md) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 台灣唯一 WA 金標賽事、年度期末考、PB 聖殿、低溫河濱風考驗 | AIMS 認證,WA 金標 | [詳情](Taipei_Marathon.md) |
-| 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文 化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](Beigang_Mazu_Cup_National_Marathon.md) |
+| 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](Beigang_Mazu_Cup_National_Marathon.md) |
 | 12月 | **嘉義馬拉松** | Chiayi Marathon | 阿里山腳下、城市巡禮、特色補給、人情味濃厚 | AIMS 認證 | [詳情](Chiayi_Marathon.md) |
 | 12月 | **烏來國境馬拉松** | Wulai Border Marathon | 森林芬多精、硬度極高、雲仙樂園、山道挑戰 | - | [詳情](info.md#烏來國境馬拉松-wulai-border-marathon) |
 ---
