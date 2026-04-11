@@ -1,10 +1,4 @@
-# 🇫🇰 福克蘭群島賽事詳情 (Falkland Islands Marathon Details)
-
-> **Purpose**: 紀錄福克蘭群島地區馬拉松賽事的詳細 analysis、補給特色與教練建議。
-> **Parent**: [README.md](README.md)
-> **Last Updated**: 2026-04-11
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 史坦利馬拉松 (Standard Chartered Stanley Marathon)
 *   **歷史背景**：史坦利馬拉松自 2005 年起由渣打銀行冠名贊助，是經 AIMS 國際認證的全球最南端馬拉松賽事，舉辦於南大西洋福克蘭群島的首府史坦利。儘管參賽人數規模較小，但其地理位置的孤絕性與極端氣候條件，使其在硬核跑者心中具有如「聖殿」般的地位。賽事不僅是挑戰體能，更是一場在世界盡頭與荒野共舞的靈魂博弈。
