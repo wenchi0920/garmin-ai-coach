@@ -2,8 +2,7 @@
 
 > **Purpose**: 快速瀏覽中國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-11
-> **Author**: AI Coach
+> **Last Updated**: 2026-04-12
 
 ---
 
@@ -16,7 +15,7 @@
 | 4月 | **武漢馬拉松** | Wuhan Marathon | 一城兩江三鎮、過江大橋、名額難搶 | AIMS 認證,WA 金標 | [詳情](Wuhan_Marathon.md) |
 | 4月 | **淮安馬拉松** | Huai'an Marathon | 運河之都、世界美食之都、極速平坦賽道 | WA 金標 | [詳情](Huaian_Marathon.md) |
 | 4月 | **上海浦東半程馬拉松** | Shanghai Pudong Half Marathon | 浦馬、穿越陸家嘴、極速平坦 | WA 金標 | [詳情](Shanghai_Pudong_Half_Marathon.md) |
-| 4月 | **青島馬拉松** | Qingdao Marathon | 最美海岸線、坡度多、終點喝啤酒 | WA 金標 | [詳情](Qingdao_Marathon.md) |
+| 4月 | **青島馬拉松** | Qingdao Marathon | 2026 最新：最美海岸線、地形起伏高難度、終點袋裝啤酒 | WA 金標 | [詳情](Qingdao_Marathon.md#青島馬拉松-qingdao-marathon) |
 | 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 煙花三月下揚州、唯一金標半馬 | AIMS 認證,WA 金標 | [詳情](Yangzhou_Jianzhen_Half_Marathon.md) |
 | 5月 | **大理馬拉松** | Dali Marathon | 蒼山洱海、高海拔浪漫、紫外線強 | WA 一般 | [詳情](Dali_Marathon.md#大理馬拉松-dali-marathon) |
 | 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](Jilin_City_Marathon.md) |
