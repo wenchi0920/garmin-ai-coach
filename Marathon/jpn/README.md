@@ -17,7 +17,7 @@
 | 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 菁英, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md#別府大分每日馬拉松-beppu-oita-mainichi-marathon) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | AIMS 認證 | [詳情](Kyoto_Marathon.md) |
-| 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md) |
+| 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 菁英, AIMS 認證 | [詳情](Osaka_Marathon.md#大阪馬拉松-osaka-marathon) |
 | 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 金標, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md) |
 | 2月 | **香川馬拉松** | Kagawa Marathon | 香川丸龜國際半馬之通稱、極速平緩、挑戰 PB 聖地 | WA 金標, AIMS 認證 | [詳情](Kagawa_Marathon.md) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Marathon | 叢林探險、大自然芬多精、保育山貓 | - | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
