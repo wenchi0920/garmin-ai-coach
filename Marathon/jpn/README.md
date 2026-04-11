@@ -23,7 +23,7 @@
 | 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | - | [詳情](Kishu_Kuchikumano_Marathon.md) |
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 跑進美軍基地、美式風情、坡度較多 | - | [詳情](Okinawa_Marathon.md) |
 | 2月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | JAAF 認證 | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
-| 2月 | **別府大分每日馬拉松** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 菁英, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md) |
+| 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 菁英, AIMS 認證 | [詳情](Honolulu_Marathon.md#別府大分每日馬拉松-beppu-oita-mainichi-marathon) |
 | 3月 | **東京馬拉松 (WMM)** | Tokyo Marathon | 世界六大馬、亞洲唯一、氣氛服務完美、極難中籤 | WMM/WA 白金標 | [詳情](Tokyo_Marathon.md) |
 | 3月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | JAAF | [詳情](Sakura_Marathon.md) |
@@ -61,4 +61,3 @@
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | JAAF, AIMS 認證 | [詳情](Naha_Marathon.md) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
-../README.md)
