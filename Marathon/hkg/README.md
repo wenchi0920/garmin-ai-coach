@@ -2,14 +2,14 @@
 
 > **Purpose**: 快速瀏覽香港地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-10
+> **Last Updated**: 2026-04-11
 > **Author**: AI Coach
 
 ---
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1月 | **渣打香港馬拉松** | Standard Chartered Hong Kong Marathon | 魔鬼賽道、三橋三隧、濕熱、意志力考驗 | AIMS 認證, WA 金標 | [詳情](Standard_Chartered_Hong_Kong_Marathon.md) |
+| 2月 | **渣打香港馬拉松** | Standard Chartered Hong Kong Marathon | 魔鬼賽道、三橋三隧、濕熱、意志力考驗 | AIMS 認證, WA 金標 | [詳情](Standard_Chartered_Hong_Kong_Marathon.md#渣打香港馬拉松-standard-chartered-hong-kong-marathon) |
 | 12月 | **香港街馬** | Hong Kong Streetathon | 食玩跑文化、穿越跨海大橋、市中心景觀、氣氛活潑 | AIMS 認證 | [詳情](Hong_Kong_Streetathon.md) |
 | TBD | **港珠澳大橋半馬** | BOC Hong Kong Delta Bridge Half Marathon | 全程海上高架、風大、景色單一 | AIMS 認證 | [詳情](BOC_Hong_Kong_Delta_Bridge_Half_Marathon.md) |
 ---
