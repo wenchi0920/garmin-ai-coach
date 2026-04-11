@@ -34,6 +34,7 @@
 | 11月 | **中國銀行北京馬拉松** | Bank of China Beijing Marathon | 國馬、天安門起跑、儀式感強、秋高氣爽 | AIMS 認證,WA 金標 | [詳情](info.md#中國銀行北京馬拉松-bank-of-china-beijing-marathon) |
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 西湖美景、錢塘江、起伏適中、最美賽道 | WA 金標 | [詳情](info.md#杭州馬拉松-hangzhou-marathon) |
 | 11月 | **南京馬拉松** | Nanjing Marathon | 六朝古都、中山陵、人文氣息重 | WA 金標 | [詳情](info.md#南京馬拉松-nanjing-marathon) |
+| 11月 | **南昌馬拉松** | Nanchang Marathon | 英雄城、贛江兩岸、極速平坦、氣氛熱烈 | WA 金標 | [詳情](info.md#南昌馬拉松-nanchang-marathon) |
 | 11月 | **千島湖馬拉松** | Qiandaohu Marathon | 碧水丹山、彎道多、景色優美 | 國內金牌 | [詳情](info.md#千島湖馬拉松-qiandaohu-marathon) |
 | 11月 | **紹興馬拉松** | Shaoxing Marathon | 魯訊故里、古橋多(腿酸)、黃酒棒冰 | WA 金標 | [詳情](info.md#紹興馬拉松-shaoxing-marathon) |
 | 11月 | **蘇州太湖馬拉松** | Suzhou Taihu Marathon | 江南水鄉、環湖風大、詩意 | WA 金標 | [詳情](info.md#蘇州太湖馬拉松-suzhou-taihu-marathon) |
