@@ -1,11 +1,4 @@
-# 🇨🇿 捷克賽事詳情 (Czech Republic Marathon Details)
-
-> **Purpose**: 紀錄捷克地區馬拉松賽事的詳細分析、補給特色與教練建議。
-> **Parent**: [README.md](README.md)
-> **Last Updated**: 2026-04-10
-> **Author**: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 布拉格馬拉松 (Prague International Marathon)
 1. **歷史背景**: 布拉格馬拉松始創於 1995 年，由傳奇跑者埃米爾·扎托佩克 (Emil Zátopek) 的好友創辦。賽事起終點位於著名的老城廣場 (Old Town Square)，跑者將穿梭於查理大橋與伏爾塔瓦河畔，途經眾多波希米亞風格的歷史建築。這場賽事不僅是中歐最具代表性的馬拉松，更因其深厚的文化底蘊與浪漫氛圍，被譽為「跑者一生必跑的夢幻賽道」。
