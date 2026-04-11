@@ -41,7 +41,7 @@
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | - | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 5月 | **富山清流馬拉松** | Toyama Seiryu Marathon | 沿神通川河川敷奔跑、立山連峰遠眺、黃金週在地賽事、小而美全馬 | - | [詳情](Toyama_Seiryu_Marathon.md) |
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](Northern_Horse_Park_Marathon.md) |
-| 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證 | [詳情](Kurobe_Meisui_Marathon.md#黑部名水馬拉松-kurobe-meisui-marathon) |
+| 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md#黑部名水馬拉松-kurobe-meisui-marathon) |
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | - | [詳情](Chitose_JAL_International_Marathon.md) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | - | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | - | [詳情](Hakodate_Marathon.md) |
