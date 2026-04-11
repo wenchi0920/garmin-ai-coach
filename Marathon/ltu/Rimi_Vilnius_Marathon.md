@@ -1,9 +1,4 @@
-# 🇱🇹 立陶宛馬拉松詳情庫 (Lithuania Race Info)
-
-> **Last Updated**: 2026-04-10
-> **Author**: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 維爾紐斯馬拉松 (Rimi Vilnius Marathon)
 
