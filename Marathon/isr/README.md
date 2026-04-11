@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 11月 | **世界馬拉松** | World Marathon Eilat | 沙漠、紅海、極地地貌、高度海拔變化 | AIMS 認證 | [詳情](info.md#世界馬拉松-world-marathon-eilat) |
+| 11月 | **世界馬拉松** | World Marathon Eilat | 沙漠、紅海、極地地貌、高度海拔變化 | AIMS 認證 | [詳情](World_Marathon_Eilat.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
