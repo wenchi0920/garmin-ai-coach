@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **布拉格國際馬拉松** | Prague International Marathon | 中世紀老城、伏爾塔瓦河景、世界級賽道 | AIMS 認證,WA 菁英 | [詳情](Prague_International_Marathon.md#布拉格國際馬拉松-prague-international-marathon) |
+| 5月 | **布拉格國際馬拉松** | Prague International Marathon | 穿越中世紀查理大橋、伏爾塔瓦河景、石板路挑戰 | AIMS 認證, WA 菁英 | [詳情](Prague_International_Marathon.md#布拉格國際馬拉松-prague-international-marathon) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
