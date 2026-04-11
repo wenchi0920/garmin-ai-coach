@@ -33,6 +33,7 @@
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐、古蹟多、部分石板路 | WA 金標 | [詳情](Xian_Marathon.md) |
 | 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 極速環湖平坦賽道、PB 聖殿 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md) |
 | 10月 | **黃山馬拉松** | Huangshan Marathon | 徽派建築、丘陵地形、古村落 | 國內標牌 | [詳情](Huangshan_Marathon.md) |
+| 10月 | **宜昌馬拉松** | Yichang Marathon | 橫跨長江、夷陵大橋、三峽門戶、氣氛極佳 | WA 菁英 | [詳情](Yichang_Marathon.md) |
 | 11月 | **中國銀行北京馬拉松** | Bank of China Beijing Marathon | 國馬、天安門起跑、儀式感強、秋高氣爽 | AIMS 認證,WA 金標 | [詳情](Bank_of_China_Beijing_Marathon.md) |
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 西湖美景、錢塘江、起伏適中、最美賽道 | WA 金標 | [詳情](Hangzhou_Marathon.md) |
 | 11月 | **南京馬拉松** | Nanjing Marathon | 六朝古都、中山陵、人文氣息重 | WA 金標 | [詳情](Nanjing_Marathon.md) |
