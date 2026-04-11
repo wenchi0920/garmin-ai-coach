@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1月 | **利雅德馬拉松** | Riyadh Marathon | 沙國首都巡禮，現代與傳統並蓄 | WA 菁英 | [詳情](info.md#利雅德馬拉松-riyadh-marathon) |
+| 1月 | **利雅德馬拉松** | Riyadh Marathon | 沙國首都巡禮，現代與傳統並蓄 | WA 菁英 | [詳情](Riyadh_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
