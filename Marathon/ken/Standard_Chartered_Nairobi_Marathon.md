@@ -1,11 +1,4 @@
-# 🇰🇪 肯亞馬拉松詳情庫 (Kenya Marathon Info)
-
-> **Purpose**: 存放肯亞具體賽事的深度技術分析與教練建議。
-> **Parent**: [README.md](README.md)
-> **Last Updated**: 2026-04-10
-> **Author**: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 奈洛比渣打馬拉松 (Standard Chartered Nairobi Marathon)
 1. **歷史背景**: 創辦於 2003 年，旨在推廣全民運動並為 "Seeing is Believing" 慈善計畫籌款。奈洛比作為世界長跑霸主肯亞的首都，此賽事在海拔約 1700 公尺的高原上競技，象徵著人類對耐力極限的追求與對長跑最純粹的熱愛。
