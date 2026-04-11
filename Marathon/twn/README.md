@@ -12,6 +12,7 @@
 | 1月 | **臺北渣打公益馬拉松** | Standard Chartered Taipei Charity Marathon | 河濱賽道、天氣涼爽、早起跑、公益性質 | AIMS 認證 | [詳情](Standard_Chartered_Taipei_Charity_Marathon.md) |
 | 1月 | **金門馬拉松** | Kinmen Marathon | 戰地風情、金門大橋(跨海抗風)、高粱酒、丘陵起伏 | AIMS 認證 | [詳情](Kinmen_Marathon.md) |
 | 1月 | **嘉義雙潭馬拉松** | Chiayi Twin Lakes Marathon | 雙潭美景、丘陵起伏、特色補給、人情味濃厚 | AIMS 認證 | [詳情](Chiayi_Twin_Lakes_Marathon.md) |
+| 1月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 南霸天、港都風情、跑進海軍基地(視情況)、熱情 | AIMS 認證 | [詳情](Kaohsiung_Fubon_Marathon.md) |
 | 3月 | **新北市萬金石馬拉松** | New Taipei City Wan Jin Shi Marathon | 海風強勁、麥當勞坡、意志力考驗 | AIMS 認證,WA 金標 | [詳情](New_Taipei_City_Wan_Jin_Shi_Marathon.md) |
 | 3月 | **臺南古都國際馬拉松** | Tainan Ancient Capital International Marathon | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | AIMS 認證 | [詳情](Tainan_Ancient_Capital_International_Marathon.md) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](Daya_Pineapple_Marathon.md#大亞旺萊馬-daya-pineapple-marathon) |
@@ -25,7 +26,6 @@
 | 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | AIMS 認證 | [詳情](EVA_Air_Marathon.md) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | AIMS 認證 | [詳情](Taiwan_Rice_Heaven_Tanaka_Marathon.md) |
 | 11月 | **澎湖跨海大橋馬拉松** | Penghu Cross-Sea Marathon | 跨海大橋、龍蝦補給、海風強勁、跳島美景 | AIMS 認證 | [詳情](Penghu_Cross-Sea_Marathon.md) |
-| 11月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 南霸天、港都風情、跑進海軍基地(視情況)、熱情 | AIMS 認證 | [詳情](Kaohsiung_Fubon_Marathon.md) |
 | 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級大理石峽谷美景、海拔緩爬升挑戰、心智與體感校準之最 | AIMS 認證 | [詳情](Taroko_Gorge_Marathon.md#太魯閣峽谷馬拉松-taroko-gorge-marathon) |
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](Yilan_Marathon.md#宜蘭馬拉松-yilan-marathon) |
 | 11月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | AIMS 認證 | [詳情](Sinphar_Yilan_Marathon.md#宜蘭杏輝馬拉松-sinphar-yilan-marathon) |
