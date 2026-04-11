@@ -7,7 +7,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4月 | **聖保羅國際馬拉松** | São Paulo International Marathon | 南美洲最負盛名的傳統賽事，穿梭聖保羅摩天大樓與公園。 | AIMS 認證, WA 精英標 | [詳情](info.md#聖保羅國際馬拉松-são-paulo-international-marathon) |
+| 4月 | **聖保羅國際馬拉松** | São Paulo International Marathon | 南美洲最負盛名的傳統賽事，穿梭聖保羅摩天大樓與公園。 | AIMS 認證, WA 精英標 | [詳情](São_Paulo_International_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
