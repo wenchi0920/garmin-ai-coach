@@ -27,6 +27,7 @@
 | 8月 | **哈爾濱馬拉松** | Harbin Marathon | 俄式風情、紅腸補給、夏季涼爽選擇 | WA 金標 | [詳情](Harbin_Marathon.md) |
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 東北豪邁、路寬人少、氣候涼爽 | WA 精英標牌 | [詳情](Shenyang_Marathon.md) |
 | 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 環湖賽道、極致平坦、PB 聖殿 | WA 金標 | [詳情](Hengshui_Lake_Marathon.md) |
+| 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、PB 聖殿、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 中國最老牌賽事之一、山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md#大連馬拉松-dalian-marathon) |
 | 10月 | **成都馬拉松** | Chengdu Marathon | 熊貓、火鍋粉補給、賽道平坦 | WMM 候選,WA 金標 | [詳情](Chengdu_Marathon.md) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐、古蹟多、部分石板路 | WA 金標 | [詳情](Xian_Marathon.md) |
