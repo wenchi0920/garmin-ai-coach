@@ -1,11 +1,4 @@
-# 🇺🇦 烏克蘭賽事詳情 (Ukraine Marathon Details)
-
-> **Purpose**: 紀錄烏克蘭地區馬拉松賽事的詳細分析、補給特色與教練建議。
-> **Parent**: [README.md](README.md)
-> **Last Updated**: 2026-04-11
-> **Author**: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 基輔半程馬拉松 (Kyiv Half Marathon)
 1. **歷史背景**: 自 2011 年首屆舉辦以來，基輔半程馬拉松（Kyiv Half Marathon）已成為東歐最具規模與影響力的城市路跑賽事。賽事由 Run Ukraine 組織，起終點設於具千年歷史的波迪爾區（Podil）合約廣場。它不僅是烏克蘭首個獲得世界田徑總會（WA）認證的半馬賽事，更象徵著基輔這座城市的韌性與活力，吸引了全球頂尖跑者前來感受第聶伯河畔的春日氣息。
