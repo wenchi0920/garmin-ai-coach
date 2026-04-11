@@ -1,11 +1,4 @@
-# 🇲🇦 摩洛哥馬拉松詳情庫 (Morocco Marathon Info)
-
-> **Purpose**: 存放摩洛哥具體賽事的深度技術分析與教練建議。
-> **Parent**: [README.md](README.md)
-> **Last Updated**: 2026-04-11
-> **Author**: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 卡薩布蘭卡國際馬拉松 (Casablanca International Marathon)
 1. **歷史背景**: 創辦於 2008 年，是摩洛哥最具代表性的年度體育盛事。賽道由哈桑二世清真寺 (Hassan II Mosque) 出發，穿越卡薩布蘭卡這座結合現代前衛與裝飾藝術的城市核心，不僅展現了「大西洋門戶」的城市活力，更是北非馬拉松愛好者的竞技殿堂。

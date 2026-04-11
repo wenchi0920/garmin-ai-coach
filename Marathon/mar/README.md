@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10月 | **卡薩布蘭卡國際馬拉松** | Casablanca International Marathon | 摩洛哥最大城市、大西洋沿岸、平緩賽道、哈桑二世清真寺地標 | WA 一般,AIMS 認證 | [詳情](info.md#卡薩布蘭卡國際馬拉松-casablanca-international-marathon) |
+| 10月 | **卡薩布蘭卡國際馬拉松** | Casablanca International Marathon | 摩洛哥最大城市、大西洋沿岸、平緩賽道、哈桑二世清真寺地標 | WA 一般,AIMS 認證 | [詳情](Casablanca_International_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
