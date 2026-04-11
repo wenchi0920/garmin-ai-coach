@@ -33,5 +33,6 @@
 | 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳情](info.md#台東知本溫泉馬拉松-chihpen-hot-spring-marathon) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 台灣唯一 WA 金標賽事、年度期末考、PB 聖殿、低溫河濱風考驗 | AIMS 認證,WA 金標 | [詳情](info.md#臺北馬拉松-taipei-marathon) |
 | 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](info.md#北港媽祖盃全國馬拉松-beigang-mazu-cup-national-marathon) |
+| 12月 | **嘉義馬拉松** | Chiayi Marathon | 阿里山腳下、城市巡禮、特色補給、人情味濃厚 | AIMS 認證 | [詳情](info.md#嘉義馬拉松-chiayi-marathon) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
