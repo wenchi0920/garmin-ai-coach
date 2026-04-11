@@ -7,11 +7,11 @@
 ## 1. 檔案定位與關係
 - **README.md (總索引)**: 按地區分類 (五大洲)，提供進入各「國家索引」的連結（國家/地區、特色描述、賽事索引）。
 - **[Country]/README.md (國家索引)**: 提供該國推薦賽事的快速對照表（月份、賽事名稱(中文)、Race Name、特色描述、賽道認證、詳情連結）, 排序依照 月份(1 -> 12)，**賽道認證 顯示方式，例如 AIMS 認證,WA 白金標, WA 金標,WA 菁英,WA一般,WMM **。
-- **[Country]/info.md (詳情庫)**: 存放該國具體賽事的深度技術分析與教練建議。
+- **[Country]/Honolulu_Marathon.md (詳情庫)**: 存放該國具體賽事的深度技術分析與教練建議, 要建立 **[返回國家索引](README.md) | [返回全球總索引](../README.md)**。
 - **INTRO.md**: 存放全球性特殊專題（如世界大滿貫 WMM 深度報告）。
 
 ## 2. 賽事收錄標準格式
-在 `[Country]/info.md` 中，每一場賽事必須嚴格遵守以下四段式結構，並使用 `###` 作為標題：
+在 `[Country]/Honolulu_Marathon.md` 中，每一場賽事必須嚴格遵守以下四段式結構，並使用 `###` 作為標題：
 
 ### [賽事名稱 (中文)] ([Race Name (English)])
 1. **歷史背景**: 描述賽事起源、文化意義、城市特色及在跑者心中的地位。
@@ -27,7 +27,7 @@
 ## 3. 維護原則
 - **連結導引**: 
   - `README.md` 連結至 `[Country]/README.md`。
-  - `[Country]/README.md` 連結至 `info.md#anchor`。
+  - `[Country]/README.md` 連結至 `Honolulu_Marathon.md#anchor`。
 - **日期與作者**: 每個檔案頂部必須包含 `Last Updated` 與 `Author: AI Coach`。
 - **數據準確性**: 標籤（如金標、白金標、WMM 候選）必須與最新國際田總 (World Athletics) 資訊同步。
 - **專業術語**: 評論中應適時使用科學訓練術語，如 `PB`, `BQ`, `LSD`, `RPE`, `Negative Split`, `離心收縮`, `熱適應`。
@@ -35,7 +35,7 @@
 ## 4. 新增地區資料夾範本
 若需新增國家（如美國），請建立 `usa/` 資料夾，並包含以下兩個檔案：
 - `usa/README.md`: 國家索引表。
-- `usa/info.md`: 賽事詳情庫。
+- `usa/Honolulu_Marathon.md`: 賽事詳情庫。
 
 ## 5. 禁止行為
 - 禁止在賽事詳情中使用「略」、「請參考官網」等模糊字眼。
