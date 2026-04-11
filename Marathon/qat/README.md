@@ -9,6 +9,6 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1月 | **卡達電信多哈馬拉松** | Ooredoo Doha Marathon | 現代化都市景觀、平坦極速賽道、波斯灣畔競技 | WA 金標, AIMS 認證 | [詳情](info.md#卡達電信多哈馬拉松-ooredoo-doha-marathon) |
+| 1月 | **卡達電信多哈馬拉松** | Ooredoo Doha Marathon | 現代化都市景觀、平坦極速賽道、波斯灣畔競技 | WA 金標, AIMS 認證 | [詳情](Ooredoo_Doha_Marathon.md) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
