@@ -31,7 +31,7 @@
 | 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
 | 10月 | **黃河口國際馬拉松** | Yellow River Estuary International Marathon | 極速平坦、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md#大連馬拉松-dalian-marathon) |
-| 10月 | **成都馬拉松** | Chengdu Marathon | 熊貓主題、火鍋粉補給、賽道平坦 | WMM 候選,WA 金標 | [詳情](Chengdu_Marathon.md) |
+| 10月 | **成都馬拉松** | Chengdu Marathon | 熊貓主題、火鍋粉補給、賽道平坦 | WA 金標, WMM 候選 | [詳情](Chengdu_Marathon.md#成都馬拉松-chengdu-marathon) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐古都、極速負爬升 PB 賽道、碳水之都美食補給 | AIMS 認證,WA 金標 | [詳情](Xian_Marathon.md#西安馬拉松-xian-marathon) |
 | 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 極速環湖平坦賽道、PB 聖殿 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md#常州西太湖馬拉松-changzhou-west-taihu-lake-marathon) |
 | 10月 | **宜昌馬拉松** | Yichang Marathon | 橫跨長江、三峽門戶、氣氛極佳 | WA 菁英 | [詳情](Yichang_Marathon.md) |
