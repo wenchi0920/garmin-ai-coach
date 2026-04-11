@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **利馬馬拉松** | Maratón Movistar Lima 42K | 太平洋海岸平原賽道、南美洲重要指標賽事 | AIMS 認證,WA 菁英 | [詳情](info.md#利馬馬拉松-maratón-movistar-lima-42k) |
+| 5月 | **利馬馬拉松** | Maratón Movistar Lima 42K | 太平洋海岸平原賽道、南美洲重要指標賽事 | AIMS 認證,WA 菁英 | [詳情](Maratón_Movistar_Lima_42K.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
