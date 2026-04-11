@@ -8,6 +8,7 @@ Author: AI Coach
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 03 | 羅馬奧斯蒂亞半程馬拉松 | Roma-Ostia Half Marathon | 義大利最受歡迎半馬，從永恆之城羅馬直奔地中海奧斯蒂亞海岸。 | WA 金標, AIMS 認證 | [Roma-Ostia_Half_Marathon.md#羅馬奧斯蒂亞半程馬拉松-roma-ostia-half-marathon](Roma-Ostia_Half_Marathon.md#羅馬奧斯蒂亞半程馬拉松-roma-ostia-half-marathon) |
+| 10 | 威尼斯馬拉松 | Venice Marathon | 穿越百年古城的藝術巡禮，跨越 14 座橋樑的獨特體驗。 | WA 菁英, AIMS 認證 | [Venice_Marathon.md#威尼斯馬拉松-venice-marathon](Venice_Marathon.md#威尼斯馬拉松-venice-marathon) |
 | 11 | 佛羅倫斯馬拉松 | Florence Marathon | 穿越文藝復興之都，歷史建築與古城石板路的藝術巡禮。 | WA 金標, AIMS 認證 | [Florence_Marathon.md#佛羅倫斯馬拉松-florence-marathon](Florence_Marathon.md#佛羅倫斯馬拉松-florence-marathon) |
 
 ---
