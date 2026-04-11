@@ -1,9 +1,4 @@
-# 🇸🇻 薩爾瓦多賽事詳情庫 (El Salvador Race Intelligence)
-
-Last Updated: 2026-04-10
-Author: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 薩爾瓦多馬拉松 (Maratón de San Salvador)
 
