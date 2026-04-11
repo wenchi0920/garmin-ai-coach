@@ -37,6 +37,7 @@
 | 3月 | **四萬十川櫻花馬拉松** | Shimanto River Cherry Blossom Marathon | 日本最後清流、沈下橋、櫻花隧道 | JAAF 認證 | [詳情](Shimanto_River_Cherry_Blossom_Marathon.md) |
 | 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](Sado_Toki_Marathon.md) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | - | [詳情](Tohoku_Food_Marathon.md) |
+| 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md#富士五湖超級馬拉松-fuji-5-lakes-ultra-marathon) |
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | - | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](Northern_Horse_Park_Marathon.md) |
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | - | [詳情](Chitose_JAL_International_Marathon.md) |
