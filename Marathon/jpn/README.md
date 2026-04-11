@@ -29,7 +29,7 @@
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | JAAF | [詳情](info.md#福井櫻花馬拉松-fukui-sakura-marathon) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證 | [詳情](info.md#佐賀櫻花馬拉松-saga-sakura-marathon) |
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | JAAF | [詳情](info.md#德島馬拉松-tokushima-marathon) |
-| 3月 | **名古屋國際女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證 | [詳情](info.md#名古屋國際女子馬拉松-nagoya-womens-marathon) |
+| 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證 | [詳情](info.md#名古屋女子馬拉松-nagoya-womens-marathon) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF, AIMS 認證 | [詳情](info.md#名古屋城市馬拉松-nagoya-city-marathon) |
 | 3月 | **鳥取馬拉松** | Tottori Marathon | 跑過鳥取沙丘、山陰風情、賽道相對平緩 | JAAF, AIMS 認證 | [詳情](info.md#鳥取馬拉松-tottori-marathon) |
 | 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](info.md#佐倉馬拉松-sakura-marathon) |
