@@ -51,7 +51,7 @@
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](Iheya_Moonlight_Marathon.md) |
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](Kumejima_Marathon.md) |
-| 11月 | **富士山馬拉松** | Fujisan Marathon | 環河口湖、看富士山絕景、紅葉季 | - | [詳情](Fujisan_Marathon.md) |
+| 11月 | **富士山馬拉松** | Fujisan Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證 | [詳情](Fujisan_Marathon.md#富士山馬拉松-fujisan-marathon) |
 | 11月 | **神戶馬拉松** | Kobe Marathon | 港口風情、鐵人28號、最後有大橋坡 | AIMS 認證 | [詳情](Kobe_Marathon.md) |
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | JAAF, AIMS 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
 | 11月 | **與那國島一周馬** | Yonaguni Island One-Lap Marathon | 國境之南、風大起伏大、天氣好可見台灣 | - | [詳情](Yonaguni_Island_One-Lap_Marathon.md) |
