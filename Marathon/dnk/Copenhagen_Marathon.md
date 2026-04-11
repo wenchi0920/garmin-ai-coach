@@ -1,9 +1,4 @@
-# 🇩🇰 丹麥馬拉松詳情庫 (Denmark Marathon Information)
-
-> **Last Updated**: 2026-04-11
-> **Author**: AI Coach
-
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 哥本哈根馬拉松 (Copenhagen Marathon)
 
