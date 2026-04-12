@@ -3,6 +3,7 @@
 > **Purpose**: 快速瀏覽中國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
 > **Last Updated**: 2026-04-12
+> **Author**: AI Coach
 
 ---
 
