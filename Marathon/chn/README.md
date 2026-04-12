@@ -51,7 +51,7 @@
 | 12月 | **廣州馬拉松** | Guangzhou Marathon | 美食之都、一江兩岸極速平坦 | AIMS 認證,WA 金標 | [詳情](Guangzhou_Marathon.md#廣州馬拉松-guangzhou-marathon) |
 | 12月 | **深圳馬拉松** | Shenzhen Marathon | 科技森林、深南大道、路寬平整 | WA 金標 | [詳情](Shenzhen_Marathon.md) |
 | 12月 | **廣州黃埔馬拉松** | Guangzhou Huangpu Marathon | 科學城極速平坦、PB 聖殿、梅花補給 | WA 菁英 | [詳情](Guangzhou_Huangpu_Marathon.md#廣州黃埔馬拉松-guangzhou-huangpu-marathon) |
-| 12月 | **昆明高原馬** | Kunming Highland Marathon | 春城觀鷗、亞高原挑戰(1900m) | WA 標籤 | [詳情](Kunming_Highland_Marathon.md) |
+| 12月 | **昆明高原馬** | Kunming Highland Marathon | 2026 最新：春城觀鷗、亞高原挑戰 (1900m)、心肺極限修煉 | WA 一般 | [詳情](Kunming_Highland_Marathon.md#昆明高原馬-kunming-highland-marathon) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
