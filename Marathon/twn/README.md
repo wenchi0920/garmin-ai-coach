@@ -20,6 +20,7 @@
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](Daya_Pineapple_Marathon.md) |
 | 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | - | [詳情](Luodong_Marathon.md#羅東馬拉松-luodong-marathon) |
 | 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](New_Taipei_City_Marathon.md) |
+| 4月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | AIMS 認證 | [詳情](Sinphar_Yilan_Marathon.md#宜蘭杏輝馬拉松-sinphar-yilan-marathon) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyinma Marathon | 宗教文化、客家風情、丘陵坡度挑戰、熱耐受測試 | WA 一般 | [詳情](Zhudong_Guanyinma_Marathon.md#竹東觀音媽馬-zhudong-guanyinma-marathon) |
 | 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | AIMS 認證 | [詳情](Garmin_Run_Taipei.md) |
 | 10月 | **南投馬拉松** | Nantou Marathon | 貓羅溪畔、中興新村綠廊、中寮石龍宮 (泡麵土地公) | - | [詳情](Nantou_Marathon.md) |
@@ -30,10 +31,9 @@
 | 11月 | **澎湖跨海大橋馬拉松** | Penghu Cross-Sea Marathon | 跨海大橋、龍蝦補給、海風強勁、跳島美景 | AIMS 認證 | [詳情](Penghu_Cross-Sea_Marathon.md) |
 | 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級大理石峽谷美景、海拔緩爬升挑戰、心智與體感校準之最 | AIMS 認證 | [詳情](Taroko_Gorge_Marathon.md) |
 | 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](Yilan_Marathon.md) |
-| 11月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | AIMS 認證 | [詳情](Sinphar_Yilan_Marathon.md) |
 | 11月 | **二水國際跑水馬拉松** | Ershui International Running in the Water Marathon | 獨特「跑水」體驗、八堡圳文化、田野景致、人情味濃厚 | AIMS 認證 | [詳情](Ershui_International_Running_in_the_Water_Marathon.md) |
 | 11月 | **台中城市馬拉松** | Taichung City Marathon | 城市巡禮、中央公園、中科、賽道平緩 | AIMS 認證 | [詳情](Taichung_City_Marathon.md) |
-| 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳ion](Chihpen_Hot_Spring_Marathon.md) |
+| 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳情](Chihpen_Hot_Spring_Marathon.md) |
 | 11月 | **屏東馬拉松** | Pingtung Marathon | 平緩賽道、大武山景、在地農產補給、熱情南台灣 | AIMS 認證 | [詳情](Pingtung_Marathon.md) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 台灣指標性 WA 金標賽事、年度期末考、PB 聖殿、低溫河濱風考驗 | AIMS 認證,WA 金標 | [詳情](Taipei_Marathon.md#臺北馬拉松-taipei-marathon) |
 | 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](Beigang_Mazu_Cup_National_Marathon.md) |
