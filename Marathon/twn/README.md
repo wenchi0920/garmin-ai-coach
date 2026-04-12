@@ -30,7 +30,7 @@
 | 11月 | **彰化馬拉松** | Changhua Marathon | 彰化馬拉松嘉年華核心賽事、八卦山丘陵挑戰、彰化肉圓特色補給 | - | [詳情](Changhua_Marathon.md) |
 | 11月 | **澎湖跨海大橋馬拉松** | Penghu Cross-Sea Marathon | 跨海大橋、龍蝦補給、海風強勁、跳島美景 | AIMS 認證 | [詳情](Penghu_Cross-Sea_Marathon.md) |
 | 11月 | **太魯閣峽谷馬拉松** | Taroko Gorge Marathon | 世界級大理石峽谷美景、海拔緩爬升挑戰、心智與體感校準之最 | AIMS 認證 | [詳情](Taroko_Gorge_Marathon.md) |
-| 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](Yilan_Marathon.md) |
+| 11月 | **宜蘭馬拉松** | Yilan Marathon | 蘭陽平原美景、河岸賽道、特色補給(鴨賞、蔥油餅)、PB潛力 | - | [詳情](Yilan_Marathon.md#宜蘭馬拉松-yilan-marathon) |
 | 11月 | **二水國際跑水馬拉松** | Ershui International Running in the Water Marathon | 獨特「跑水」體驗、八堡圳文化、田野景致、人情味濃厚 | AIMS 認證 | [詳情](Ershui_International_Running_in_the_Water_Marathon.md) |
 | 11月 | **台中城市馬拉松** | Taichung City Marathon | 城市巡禮、中央公園、中科、賽道平緩 | AIMS 認證 | [詳情](Taichung_City_Marathon.md) |
 | 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳情](Chihpen_Hot_Spring_Marathon.md) |
