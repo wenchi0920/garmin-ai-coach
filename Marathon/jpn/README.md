@@ -51,7 +51,7 @@
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | - | [詳情](Hakodate_Marathon.md) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 唯一夏季大型全馬、耐熱硬仗、關門嚴格 | AIMS 認證, JAAF 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF | [詳情](Haruna_Lake_Marathon.md) |
-| 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
+| 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md#東京傳承半程馬拉松-tokyo-legacy-half-marathon) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、適合破PB、秋季賽事 | - | [詳情](Mito_Komon_Manyu_Marathon.md) |
 | 10月 | **岩手盛岡馬拉松** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | AIMS 認證, JAAF 認證 | [詳情](Iwate_Morioka_City_Marathon.md#岩手盛岡馬拉松-iwate-morioka-city-marathon) |
