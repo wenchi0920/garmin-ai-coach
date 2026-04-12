@@ -53,7 +53,7 @@
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF 認證 | [詳情](Haruna_Lake_Marathon.md#榛名湖馬拉松-haruna-lake-marathon) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md#東京傳承半程馬拉松-tokyo-legacy-half-marathon) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
-| 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、適合破PB、秋季賽事 | - | [詳情](Mito_Komon_Manyu_Marathon.md) |
+| 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、極速平坦 PB 聖殿、千波湖美景、41K 終極短坡挑戰 | AIMS 認證, JAAF 認證 | [詳情](Mito_Komon_Manyu_Marathon.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **岩手盛岡馬拉松** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | AIMS 認證, JAAF 認證 | [詳情](Iwate_Morioka_City_Marathon.md#岩手盛岡馬拉松-iwate-morioka-city-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | AIMS 認證 | [詳情](Kanazawa_Marathon.md#金澤馬拉松-kanazawa-marathon) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
