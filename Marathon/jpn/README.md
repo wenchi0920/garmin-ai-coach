@@ -22,7 +22,7 @@
 | 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 金標, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md#香川丸龜國際半程馬拉松-kagawa-marugame-international-half-marathon) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | - | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md#世界遺產姬路城馬拉松-world-heritage-himeji-castle-marathon) |
-| 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | - | [詳情](Kishu_Kuchikumano_Marathon.md) |
+| 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | JAAF 認證 | [詳情](Kishu_Kuchikumano_Marathon.md#紀州口熊野馬拉松-kishu-kuchikumano-marathon) |
 | 2月 | **愛媛馬拉松** | Ehime Marathon | 四國代表性賽事、松山城起終點、熱情柑橘補給、賽道起伏適中、限時6小時 | AIMS 認證, JAAF 認證 | [詳情](Ehime_Marathon.md#愛媛馬拉松-ehime-marathon) |
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 跑進美軍基地、美式風情、坡度較多 | - | [詳情](Okinawa_Marathon.md) |
 | 3月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | - | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
