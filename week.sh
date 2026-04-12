@@ -56,6 +56,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
 1. **產生 Markdown 課表說明**：包含上週回饋（參考過往紀錄）、本週訓練重點、每日詳細課表。
    - 請使用 \`write_file\` 寫入至 \`${weekfile}\`。
 2. **產生 Garmin 上傳用 YAML 課表**：符合 garmin-tools-kit(https://github.com/wenchi0920/garmin-tools-kit) 格式，包含本週所有 跑步/肌力訓練(徒手or重量訓練)/瑜伽(每日放鬆舒緩) 課表。
+   **課表名稱範例 W12-修復瑜伽-賽後排除疲勞 (0317) 、 W13-5km Z2 基礎有氧 (0326) 、 W13-6km Z2 輕鬆跑 (0329) **
    - 請使用 \`write_file\` 寫入至 \`${yamlfile}\`。
 
 ### 要求：
