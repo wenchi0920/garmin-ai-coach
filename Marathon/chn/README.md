@@ -52,6 +52,7 @@
 | 12月 | **深圳馬拉松** | Shenzhen Marathon | 科技森林、深南大道、路寬平整 | WA 金標 | [詳情](Shenzhen_Marathon.md) |
 | 12月 | **廣州黃埔馬拉松** | Guangzhou Huangpu Marathon | 科學城極速平坦、PB 聖殿、梅花補給 | WA 菁英 | [詳情](Guangzhou_Huangpu_Marathon.md#廣州黃埔馬拉松-guangzhou-huangpu-marathon) |
 | 12月 | **昆明高原馬** | Kunming Highland Marathon | 2026 最新：春城觀鷗、亞高原挑戰 (1900m)、心肺極限修煉 | WA 一般 | [詳情](Kunming_Highland_Marathon.md#昆明高原馬-kunming-highland-marathon) |
+| 12月 | **南寧東協國際馬拉松** | Nanning ASEAN International Marathon | 2026 最新：中國-東協門戶賽道、南湖與青秀山景觀、民族風情、極速平坦 | WA 菁英 | [詳情](Nanning_ASEAN_International_Marathon.md#南寧東協國際馬拉松-nanning-asean-international-marathon) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
