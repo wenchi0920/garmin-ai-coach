@@ -1,3 +1,6 @@
+> **Last Updated**: 2026-04-13
+> **Author**: AI Coach
+
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 香川丸龜國際半程馬拉松 (Kagawa Marugame International Half Marathon)
