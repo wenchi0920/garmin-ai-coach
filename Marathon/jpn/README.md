@@ -67,7 +67,7 @@
 | 11月 | **與那國島一周馬** | Yonaguni Island Around Marathon | 日本最西端、海島風光、起伏挑戰 | 一般 | [詳情](Yonaguni_Island_Around_Marathon.md#與那國島一周馬-yonaguni-island-around-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md#那霸馬拉松-naha-marathon) |
-| 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | JAAF 認證 | [詳情](Shonan_International_Marathon.md) |
+| 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | AIMS 認證, JAAF 認證 | [詳情](Shonan_International_Marathon.md#湘南國際馬拉松-shonan-international-marathon) |
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md#奈良馬拉松-nara-marathon) |
 | 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
 ---
