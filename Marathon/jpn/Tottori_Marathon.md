@@ -1,3 +1,6 @@
+Last Updated: 2026-04-12
+Author: AI Coach
+
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 鳥取馬拉松 (Tottori Marathon)
@@ -12,3 +15,4 @@
 
 ---
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
+
