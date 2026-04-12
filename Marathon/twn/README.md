@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽台灣地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-12
+> **Last Updated**: 2026-04-13
 > **Author**: AI Coach
 
 ---
@@ -10,7 +10,7 @@
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **高雄富邦馬拉松** | Kaohsiung Fubon Marathon | 跑進海軍基地、港都亞灣美景、平緩 PB 聖殿 | AIMS 認證 | [詳情](Kaohsiung_Fubon_Marathon.md#高雄富邦馬拉松-kaohsiung-fubon-marathon) |
-| 1月 | **金門馬拉松** | Kinmen Marathon | 戰地風情、金門大橋跨海抗風、高粱酒特色、丘陵起伏 | AIMS 認證 | [詳情](Kinmen_Marathon.md) |
+| 1月 | **金門馬拉松** | Kinmen Marathon | 戰地風情、金門大橋跨海抗風、高粱酒特色、丘陵起伏 | AIMS 認證 | [詳情](Kinmen_Marathon.md#金門馬拉松-kinmen-marathon) |
 | 1月 | **嘉義雙潭馬拉松** | Chiayi Twin Lakes Marathon | 雙潭美景、丘陵起伏、特色補給、人情味濃厚 | AIMS 認證 | [詳情](Chiayi_Twin_Lakes_Marathon.md) |
 | 2月 | **超級馬拉松** | Ultramarathon | 極限挑戰、耐力測試、跨夜賽事、補給策略 | AIMS 認證 | [詳情](Ultramarathon.md#超級馬拉松-ultramarathon) |
 | 2月 | **臺北渣打公益馬拉松** | Standard Chartered Taipei Charity Marathon | 頂級 AIMS 認證賽道、視障陪跑公益精神、低溫 PB 聖殿 | AIMS 認證, WA 一般 | [詳情](Standard_Chartered_Taipei_Charity_Marathon.md) |
