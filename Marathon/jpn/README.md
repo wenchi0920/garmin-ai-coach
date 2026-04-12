@@ -62,7 +62,7 @@
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | AIMS 認證, JAAF 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md#富山馬拉松-toyama-marathon) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、水果王國奢華補給、賽道平緩極速、備前燒完賽獎牌 | AIMS 認證, JAAF 認證 | [詳情](Okayama_Marathon.md#岡山馬拉松-okayama-marathon) |
-| 11月 | **神戶馬拉松** | Kobe Marathon | 港口風情、鐵人28號、最後有大橋坡 | AIMS 認證, JAAF 認證 | [詳情](Kobe_Marathon.md) |
+| 11月 | **神戶馬拉松** | Kobe Marathon | 紀念地震復興、港口美景、最後大橋考驗、甜點之都補給 | WA 菁英, AIMS 認證 | [詳情](Kobe_Marathon.md#神戶馬拉松-kobe-marathon) |
 | 11月 | **富士山馬拉松** | Fujisan Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證, JAAF 認證 | [詳情](Fujisan_Marathon.md#富士山馬拉松-fujisan-marathon) |
 | 11月 | **與那國島一周馬** | Yonaguni Island Around Marathon | 日本最西端、海島風光、起伏挑戰 | 一般 | [詳情](Yonaguni_Island_Around_Marathon.md#與那國島一周馬-yonaguni-island-around-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
