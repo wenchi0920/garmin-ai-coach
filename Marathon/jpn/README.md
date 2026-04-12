@@ -28,7 +28,7 @@
 | 3月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | - | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
 | 3月 | **東京馬拉松 (WMM)** | Tokyo Marathon | 世界六大馬、亞洲唯一、氣氛服務完美、極難中籤 | WMM/WA 白金標 | [詳情](Tokyo_Marathon.md) |
 | 3月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
-| 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | JAAF | [詳情](Sakura_Marathon.md) |
+| 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md#福井櫻花馬拉松-fukui-sakura-marathon) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證 | [詳情](Sakura_Marathon.md) |
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | AIMS 認證, JAAF 認證 | [詳情](Tokushima_Marathon.md) |
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證 | [詳情](Nagoya_Womens_Marathon.md) |
