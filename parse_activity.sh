@@ -97,6 +97,8 @@ else
             PROMPT="@GEMINI.md 請幫我依照 \`${markdown_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。"
             if gemini --version &> /dev/null; then
                 gemini -y -p "$PROMPT" <<< "" &> /dev/null || echo "⚠️ AI 建議補全失敗。"
+                #	docs: update training logs and workouts (2026-04-12)
+                git commit -m "docs: update training logs and workouts ${markdown_file}" "${markdown_file}"
                 # 補全後發送通知
                 cat "${markdown_file}" | python3 send_msg.py
             else
