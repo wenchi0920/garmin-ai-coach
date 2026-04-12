@@ -19,7 +19,7 @@
 | 3月 | **國道馬** | Taipei National Freeway Marathon | 全台唯一國道賽道、極平緩、無紅綠燈、PB 聖殿 | AIMS 認證,WA 菁英 | [詳情](Taipei_National_Freeway_Marathon.md) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](Daya_Pineapple_Marathon.md) |
 | 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | - | [詳情](Luodong_Marathon.md#羅東馬拉松-luodong-marathon) |
-| 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](New_Taipei_City_Marathon.md) |
+| 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](New_Taipei_City_Marathon.md#新北馬拉松-new-taipei-city-marathon) |
 | 4月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | AIMS 認證 | [詳情](Sinphar_Yilan_Marathon.md#宜蘭杏輝馬拉松-sinphar-yilan-marathon) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyinma Marathon | 宗教文化、客家風情、丘陵坡度挑戰、熱耐受測試 | WA 一般 | [詳情](Zhudong_Guanyinma_Marathon.md#竹東觀音媽馬-zhudong-guanyinma-marathon) |
 | 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | AIMS 認證 | [詳情](Garmin_Run_Taipei.md) |
