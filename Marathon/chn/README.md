@@ -18,7 +18,7 @@
 | 4月 | **淮安馬拉松** | Huai'an Marathon | 運河之都、世界美食之都、極速平坦賽道 | WA 金標 | [詳情](Huaian_Marathon.md) |
 | 4月 | **上海浦東半程馬拉松** | Shanghai Pudong Half Marathon | 穿越陸家嘴、極速平坦、浦東核心地段 | WA 金標 | [詳情](Shanghai_Pudong_Half_Marathon.md) |
 | 4月 | **青島馬拉松** | Qingdao Marathon | 2026 最新：最美海岸線、地形起伏高難度 | WA 金標 | [詳情](Qingdao_Marathon.md#青島馬拉松-qingdao-marathon) |
-| 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 煙花三月下揚州、唯一金標半馬 | AIMS 認證,WA 金標 | [詳情](Yangzhou_Jianzhen_Half_Marathon.md#揚州鑑真半馬-yangzhou-jianzhen-half-marathon) |
+| 4月 | **揚州鑑真半馬** | Yangzhou Jianzhen Half Marathon | 2026 最新：國內唯一金標半馬、煙花三月下揚州、極速平坦 PB 聖殿 | AIMS 認證,WA 金標 | [詳情](Yangzhou_Jianzhen_Half_Marathon.md#揚州鑑真半馬-yangzhou-jianzhen-half-marathon) |
 | 5月 | **大理馬拉松** | Dali Marathon | 蒼山洱海、高海拔浪漫、紫外線強 | WA 一般 | [詳情](Dali_Marathon.md#大理馬拉松-dali-marathon) |
 | 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](Jilin_City_Marathon.md) |
 | 5月 | **密雲生態馬拉松** | Miyun Ecological Marathon | 依山傍水、北京最美馬拉松、極速平坦賽道 | WA 菁英 | [詳情](Miyun_Ecological_Marathon.md#密雲生態馬拉松-miyun-ecological-marathon) |
