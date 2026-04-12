@@ -23,7 +23,7 @@
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | AIMS 認證 | [詳情](Kyoto_Marathon.md) |
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 跑進美軍基地、美式風情、坡度較多 | - | [詳情](Okinawa_Marathon.md) |
-| 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 菁英, AIMS 認證 | [詳情](Osaka_Marathon.md#大阪馬拉松-osaka-marathon) |
+| 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md#大阪馬拉松-osaka-marathon) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md#世界遺產姬路城馬拉松-world-heritage-himeji-castle-marathon) |
 | 3月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | - | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
 | 3月 | **東京馬拉松 (WMM)** | Tokyo Marathon | 世界六大馬、亞洲唯一、氣氛服務完美、極難中籤 | WMM/WA 白金標 | [詳情](Tokyo_Marathon.md) |
