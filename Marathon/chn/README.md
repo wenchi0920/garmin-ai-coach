@@ -23,7 +23,7 @@
 | 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](Jilin_City_Marathon.md) |
 | 5月 | **密雲生態馬拉松** | Miyun Ecological Marathon | 依山傍水、北京最美馬拉松、極速平坦賽道 | WA 菁英 | [詳情](Miyun_Ecological_Marathon.md#密雲生態馬拉松-miyun-ecological-marathon) |
 | 6月 | **蘭州馬拉松** | Lanzhou Marathon | 2026 最新：黃河邊、亞高原(1500m)、牛肉麵補給 | AIMS 認證,WA 金標 | [詳情](Lanzhou_Marathon.md#蘭州馬拉松-lanzhou-marathon) |
-| 7月 | **貴陽馬拉松** | Guiyang Marathon | 夏天避署賽事、坡道地獄、爽爽貴陽 | WA 菁英 | [詳情](Guiyang_Marathon.md) |
+| 6月 | **貴陽馬拉松** | Guiyang Marathon | 2026 最新：避暑之都、喀斯特地貌坡道挑戰、高心肺修煉 | AIMS 認證,WA 金標 | [詳情](Guiyang_Marathon.md#貴陽馬拉松-guiyang-marathon) |
 | 8月 | **拉薩半程馬拉松** | Lhasa Half Marathon | 缺氧挑戰、海拔3650m、需體檢證明 | WA 標籤 | [詳情](Lhasa_Half_Marathon.md#拉薩半程馬拉松-lhasa-half-marathon) |
 | 8月 | **六盤水夏季馬拉松** | Liupanshui Summer Marathon | 中國涼都、高海拔挑戰(1800m)、避暑首選 | AIMS 認證,WA 金標 | [詳情](Liupanshui_Summer_Marathon.md) |
 | 8月 | **哈爾濱馬拉松** | Harbin Marathon | 俄式風情、紅腸補給、夏季涼爽選擇 | WA 金標 | [詳情](Harbin_Marathon.md) |
