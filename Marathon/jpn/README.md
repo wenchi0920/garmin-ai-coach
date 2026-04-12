@@ -7,7 +7,7 @@
 
 ---
 
-| 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 認證 | 詳情連結 |
+| 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **屋久島一周超級馬拉松** | Yakushima Round-the-Island Ultra Marathon | 世界遺產環島、累計爬升大、飛魚補給、身心修煉 | - | [詳情](Yakushima_Round-the-Island_Ultra_Marathon.md) |
 | 1月 | **指宿菜之花馬拉松** | Ibusuki Nanohana Marathon | 日本新年首場、油菜花海、溫泉之鄉、最強私補(鰹魚湯) | AIMS 認證, JAAF 認證 | [詳情](Ibusuki_Nanohana_Marathon.md#指宿菜之花馬拉松-ibusuki-nanohana-marathon) |
