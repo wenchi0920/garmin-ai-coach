@@ -29,11 +29,11 @@
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 東北豪邁、路寬人少、氣候涼爽 | WA 精英標牌 | [詳情](Shenyang_Marathon.md) |
 | 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 2026 最新：環湖平坦賽道、極致 PB 聖殿 | WA 金標 | [詳情](Hengshui_Lake_Marathon.md#衡水湖馬拉松-hengshui-lake-marathon) |
 | 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
+| 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 2026 最新：極速環湖平坦賽道、PB/BQ 聖殿、湖光山色 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md#常州西太湖馬拉松-changzhou-west-taihu-lake-marathon) |
 | 10月 | **黃河口國際馬拉松** | Yellow River Estuary International Marathon | 極速平坦、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md#大連馬拉松-dalian-marathon) |
 | 10月 | **成都馬拉松** | Chengdu Marathon | 熊貓主題、火鍋粉補給、賽道平坦 | WA 金標, WMM 候選 | [詳情](Chengdu_Marathon.md#成都馬拉松-chengdu-marathon) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 穿越大唐古都、極速負爬升 PB 賽道、碳水之都美食補給 | AIMS 認證,WA 金標 | [詳情](Xian_Marathon.md#西安馬拉松-xian-marathon) |
-| 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 極速環湖平坦賽道、PB 聖殿 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md#常州西太湖馬拉松-changzhou-west-taihu-lake-marathon) |
 | 10月 | **新余仙女湖馬拉松** | Xinyu Fairy Lake Marathon | 2026 最新：仙女下凡地、環湖景觀賽道、地形微起伏、浪漫愛情主題 | WA 標籤 | [詳情](Xinyu_Fairy_Lake_Marathon.md#新余仙女湖馬拉松-xinyu-fairy-lake-marathon) |
 | 11月 | **北京馬拉松** | Bank of China Beijing Marathon | 國馬、天安門起跑、儀式感極強 | AIMS 認證,WA 金標 | [詳情](Bank_of_China_Beijing_Marathon.md) |
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 西湖美景、起伏適中、錢塘江景 | WA 金標 | [詳情](Hangzhou_Marathon.md) |
