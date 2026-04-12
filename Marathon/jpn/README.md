@@ -26,7 +26,7 @@
 | 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md#大阪馬拉松-osaka-marathon) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md#世界遺產姬路城馬拉松-world-heritage-himeji-castle-marathon) |
 | 3月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | - | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
-| 3月 | **東京馬拉松** | Tokyo Marathon | 世界大滿貫、亞洲最受歡迎賽事、極速平緩、氣氛熱烈 | WA 白金標, WMM | [詳情](Tokyo_Marathon.md#東京馬拉松-tokyo-marathon) |
+| 3月 | **東京馬拉松** | Tokyo Marathon | 世界大滿貫、亞洲最受歡迎賽事、極速平緩、氣氛熱烈 | WA 白金標, WMM, AIMS 認證 | [詳情](Tokyo_Marathon.md#東京馬拉松-tokyo-marathon) |
 | 3月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md#福井櫻花馬拉松-fukui-sakura-marathon) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證, JAAF 認證 | [詳情](Saga_Sakura_Marathon.md#佐賀櫻花馬拉松-saga-sakura-marathon) |
