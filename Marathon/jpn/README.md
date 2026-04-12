@@ -11,7 +11,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **屋久島一周超級馬拉松** | Yakushima Round-the-Island Ultra Marathon | 世界遺產環島、累計爬升大、飛魚補給、身心修煉 | - | [詳情](Yakushima_Round-the-Island_Ultra_Marathon.md) |
 | 1月 | **指宿菜之花馬拉松** | Ibusuki Nanohana Marathon | 日本新年首場、油菜花海、溫泉之鄉、最強私補(鰹魚湯) | AIMS 認證, JAAF 認證 | [詳情](Ibusuki_Nanohana_Marathon.md#指宿菜之花馬拉松-ibusuki-nanohana-marathon) |
-| 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md) |
+| 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md#石垣島馬拉松-ishigaki-island-marathon) |
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
 | 1月 | **勝田全國馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md) |
 | 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md#大阪國際女子馬拉松-osaka-international-womens-marathon) |
