@@ -14,5 +14,6 @@
 | 2月 | **卡斯特利翁馬拉松** | Marató de Castelló | 地中海極速賽道、PB 聖殿、總爬升極低 | AIMS 認證, WA 標籤 | [詳情](Marató_de_Castelló.md) |
 | 3月 | **巴塞隆納馬拉松** | Zurich Marató Barcelona | 地中海風情、高第建築景觀、適合 PB 的高速環狀賽道 | AIMS 認證, WA 金標 | [詳情](Zurich_Marató_Barcelona.md#巴塞隆納馬拉松-zurich-marató-barcelona) |
 | 12月 | **蘇黎世保險瓦倫西亞馬拉松** | Zurich Insurance Valencia Marathon | 歐洲最速賽道之一、PB 聖殿、水上終點 | AIMS 認證, WA 白金標 | [詳情](Zurich_Insurance_Valencia_Marathon.md#蘇黎世保險瓦倫西亞馬拉松-zurich-insurance-valencia-marathon) |
+| 12月 | **瓦倫西亞馬拉松** | Valencia Marathon | 歐洲最平坦快速賽道、世界紀錄搖籃、藝術科學城終點 | AIMS 認證, WA 白金標 | [詳情](Valencia_Marathon.md#瓦倫西亞馬拉松-valencia-marathon) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
