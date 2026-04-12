@@ -1,3 +1,12 @@
+# 🇪🇸 瓦倫西亞馬拉松 (Valencia Marathon)
+
+> **Purpose**: 存放西班牙瓦倫西亞馬拉松的深度技術分析與教練建議。
+> **Parent**: [README.md](README.md)
+> **Last Updated**: 2026-04-12
+> **Author**: AI Coach
+
+---
+
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 瓦倫西亞馬拉松 (Valencia Marathon)
