@@ -27,8 +27,8 @@
 | 8月 | **拉薩半程馬拉松** | Lhasa Half Marathon | 缺氧挑戰、海拔3650m、需體檢證明 | WA 標籤 | [詳情](Lhasa_Half_Marathon.md#拉薩半程馬拉松-lhasa-half-marathon) |
 | 8月 | **六盤水夏季馬拉松** | Liupanshui Summer Marathon | 中國涼都、高海拔挑戰(1800m)、避暑首選 | AIMS 認證,WA 金標 | [詳情](Liupanshui_Summer_Marathon.md) |
 | 8月 | **哈爾濱馬拉松** | Harbin Marathon | 俄式風情、紅腸補給、夏季涼爽選擇 | WA 金標 | [詳情](Harbin_Marathon.md) |
+| 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 2026 最新：環湖平坦賽道、極致 PB 聖殿 | AIMS 認證,WA 金標 | [詳情](Hengshui_Lake_Marathon.md#衡水湖馬拉松-hengshui-lake-marathon) |
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 2026 最新：一河兩岸極速平坦賽道、豪邁東北氛圍、PB 首選 | WA 菁英 | [詳情](Shenyang_Marathon.md#瀋陽馬拉松-shenyang-marathon) |
-| 9月 | **衡水湖馬拉松** | Hengshui Lake Marathon | 2026 最新：環湖平坦賽道、極致 PB 聖殿 | WA 金標 | [詳情](Hengshui_Lake_Marathon.md#衡水湖馬拉松-hengshui-lake-marathon) |
 | 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
 | 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 2026 最新：極速環湖平坦賽道、PB/BQ 聖殿、湖光山色 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md#常州西太湖馬拉松-changzhou-west-taihu-lake-marathon) |
 | 10月 | **黃河口國際馬拉松** | Yellow River Estuary International Marathon | 極速平坦、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
