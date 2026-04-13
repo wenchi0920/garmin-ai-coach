@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本賽事詳情庫 (Japan Race Database)
 
 > **Last Updated**: 2026-04-12
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 富士五湖超級馬拉松 (Fuji 5 Lakes Ultra Marathon)
 

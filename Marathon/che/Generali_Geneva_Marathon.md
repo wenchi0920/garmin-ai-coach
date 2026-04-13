@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇨🇭 瑞士馬拉松詳情庫 (Switzerland Marathon Database)
 
 > **Last Updated**: 2026-04-12
 > **Author**: AI Coach
 
----
 
 ### 忠利保險日內瓦馬拉松 (Generali Genève Marathon)
 
@@ -15,4 +16,5 @@
 
 4. **教練專業評論**: 此賽事具有極高的 **BQ** 潛力。由於賽道起伏小，**離心收縮** 造成的肌肉疲勞相對較輕，適合設定為目標賽事。定位上可視為一場高效率的 **LSD** 實戰演練或正式的破紀錄之戰。
 
+---
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

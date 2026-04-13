@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-12
 Author: AI Coach
 
 # 新加坡馬拉松詳情庫 (Singapore Race Library)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 新加坡渣打馬拉松 (Standard Chartered Singapore Marathon) {#Standard_Chartered_Singapore_Marathon}
 
@@ -24,3 +24,4 @@ Author: AI Coach
    這場比賽並非追求 PB 的聖殿，而是意志力與「熱適應」的頂級壓力測試。教練視其為進階跑者的「高階 LSD」與心智淬煉。對於尋求 BQ 的跑者，此役可視為極端環境下的表現參考指標。建議賽前兩週進行熱環境模擬訓練，並在賽中嚴格監控心率，避免過早進入無氧衰竭狀態。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

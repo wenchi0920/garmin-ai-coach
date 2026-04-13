@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 阿布達比馬拉松 (ADNOC Abu Dhabi Marathon)
 
@@ -17,4 +18,5 @@ Author: AI Coach
 4. **教練專業評論**:
 這是一場絕對的 **PB (Personal Best)** 聖殿。對於想要爭取 **BQ (Boston Qualify)** 或挑戰個人極限的跑者而言，其賽道難度遠低於多數世界大滿貫賽事。然而，跑者必須注意當地的「熱適應」訓練；雖然起跑時間早且正值中東涼季，但隨著賽程推進，陽光直射可能導致 **RPE (自覺強度)** 迅速上升。此賽事定位為頂級競技場，非純粹的 LSD 訓練跑，建議在賽前六週強化抗熱能力與心智淬煉。
 
+---
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

@@ -1,14 +1,13 @@
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-12
 Author: AI Coach
----
 
 # 🇦🇷 阿根廷馬拉松詳情庫 (Argentina Race Details)
 
 > **Purpose**: 存放阿根廷境內馬拉松賽事的深度技術分析與教練建議。
 > **Parent**: [阿根廷賽事索引](README.md) | [全球賽事索引](../README.md)
 
----
 
 ### 布宜諾斯艾利斯國際馬拉松 (Buenos Aires International Marathon)
 

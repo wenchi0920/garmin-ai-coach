@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇹🇭 泰國馬拉松賽事詳情 (Thailand Race Details)
 
 > **Last Updated**: 2026-04-13
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 芭達雅馬拉松 (Amazing Thailand Pattaya Marathon)
 

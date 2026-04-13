@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 常德柳葉湖馬拉松 (Changde Liuye Lake Marathon)
 
 Last Updated: 2026-04-12
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 常德柳葉湖馬拉松 (Changde Liuye Lake Marathon)
 
@@ -28,3 +28,6 @@ Author: AI Coach
 常德柳葉湖馬拉松是國內頂級的 **PB 聖殿**，對於目標 **BQ (Boston Qualify)** 的跑者來說是極佳的選擇。其賽道難度低，適合將其定位為年度「目標賽事」。
 - **賽事定位**: **PB 聖殿**、**BQ 挑戰賽**。
 - **訓練重點**: 平路耐力速耐力訓練，建議多進行長距離的 **LSD (Long Slow Distance)** 以及馬拉松配速跑（M Pace），模擬長時間在平坦地形下的節奏控制，避免因賽道過於平緩而導致的心理疲勞。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

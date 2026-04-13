@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇫🇷 巴黎馬拉松 (Schneider Electric Marathon de Paris)
 
 > **Last Updated**: 2026-04-12
 > **Author**: AI Coach
 
----
 
 ### 巴黎馬拉松 (Schneider Electric Marathon de Paris)
 
@@ -19,5 +20,7 @@
 4. **教練專業評論**:
    巴黎馬拉松在訓練週期中定位為「高強度 **LSD**」或「年度重點賽事」。其賽道具備極佳的 **PB** 潛力，但關鍵在於對石板路衝擊的耐受力。賽前 8-12 週應強化下肢的離心收縮訓練（如深蹲、階梯跑）。若賽當日氣溫維持在 10-15°C，配合完善的補給策略，這將是跑者達成賽季目標的最佳舞台。
 
----
 [⬅️ 返回國家索引](README.md) | [🌍 返回全球總索引](../README.md)
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

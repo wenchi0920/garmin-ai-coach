@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇰🇷 韓國馬拉松賽事詳情 (South Korea Race Intelligence)
 
 Last Updated: 2026-04-12
 Author: AI Coach
 
----
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 首爾馬拉松 (Seoul Marathon)
 1. **歷史背景**：首爾馬拉松 (Seoul Marathon) 始於 1931 年，前身為「東亞馬拉松」，是亞洲歷史最悠久的城市馬拉松。作為世界田徑 (WA) 白金標賽事，它在跑者心中具有崇高地位。起點設於充滿歷史氣息的光化門廣場，終點則在 1988 年奧運主場館蠶室運動場。這條路線不僅見證了韓國馬拉松的輝煌，更是許多跑者追求 **BQ** (Boston Qualify) 與刷新 **PB** (Personal Best) 的夢想之地。賽事每年 3 月舉行，此時首爾的低溫環境有利於高強度競技表現，是全球菁英選手公認的亞洲最速賽道之一。

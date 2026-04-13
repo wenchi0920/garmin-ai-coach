@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇦🇺 澳洲馬拉松賽事詳情 (Australia Race Intelligence)
 
 Last Updated: 2026-04-11
 Author: AI Coach
 
----
 
 ### 黃金海岸馬拉松 (Gold Coast Marathon)
 

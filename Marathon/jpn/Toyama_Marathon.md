@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本賽事詳情：富山 (Japan Race Details: Toyama)
 
 Last Updated: 2026-04-11
 Author: AI Coach
 
----
 
 ### 富山馬拉松 (Toyama Marathon)
 

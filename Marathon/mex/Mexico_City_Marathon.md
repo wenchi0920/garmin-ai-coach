@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 > **Last Updated**: 2026-04-11
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 墨西哥城馬拉松 (Mexico City Marathon)
 1. **歷史背景**: 墨西哥城馬拉松（Maratón de la Ciudad de México）始於 1983 年，是拉丁美洲唯一獲頒 WA 金標的指標性賽事。賽道深度致敬 1968 年墨西哥城奧運，起點設於具歷史意義的奧林匹克體育場，終點位於市中心憲法廣場（Zócalo）。這場賽事不僅是體育競技，更是一場穿越阿茲特克文明遺產與現代地標的城市文化巡禮。

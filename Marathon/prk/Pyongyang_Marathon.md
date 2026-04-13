@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇰🇵 朝鮮馬拉松賽事詳情 (North Korea Race Intelligence)
 
 Last Updated: 2026-04-12
 Author: AI Coach
 
----
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 平壤馬拉松 (Pyongyang Marathon)
 1. **歷史背景**：正式名稱為「萬景臺獎國際馬拉松」(Mangyongdae Prize International Marathon)，自 1981 年創辦以來，已成為朝鮮最具國際知名度的體育盛事。這場賽事不僅是全球跑者進入這座神祕城市、親睹平壤地標（如凱旋門、大同江、主體思想塔）的罕見機會，更是以五一體育場（Rungrado 1st of May Stadium）15 萬名觀眾的歡呼作為起終點的壯闊體驗。在跑者心中，這是一場結合了體育競技與政治文化洗禮的獨特旅程，具有極高的收藏價值與**LSD** (長距離慢跑) 體驗意義。

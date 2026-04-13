@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇦🇹 奧地利馬拉松詳情庫 (Austria Race Details)
 
 > **Last Updated**: 2026-04-13
 > **Author**: AI Coach
 
----
 
 ### 瓦豪馬拉松 (International WACHAUmarathon)
 

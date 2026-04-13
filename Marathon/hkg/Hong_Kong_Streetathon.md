@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇭🇰 香港馬拉松賽事詳情 (Hong Kong Marathon Details)
 
 Last Updated: 2026-04-11
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 香港街馬 (Hong Kong Streetathon)
 1. **歷史背景**：由社會企業「全城街馬」於 2014 年創辦，宗旨為推動「跑入社區」的跑步文化。賽道結合城市景觀與跨海高架橋，是香港極具創意的街道馬拉松，旨在透過跑步連結社區與公益。

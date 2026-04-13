@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 > **Last Updated**: 2026-04-11
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 奈洛比渣打馬拉松 (Standard Chartered Nairobi Marathon)
 1. **歷史背景**: 創辦於 2003 年，由渣打銀行贊助，是東非最具規模的馬拉松賽。賽事設於肯亞首都奈洛比，海拔約 1,795 公尺，不僅是當地菁英跑者的搖籃，更是全球跑者體驗「長跑王國」競技文化的聖殿。

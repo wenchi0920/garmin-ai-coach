@@ -1,9 +1,9 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 > **Last Updated**: 2026-04-12
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 聖保羅國際馬拉松 (São Paulo International Marathon)
 1. **歷史背景**: 創始於 1995 年，聖保羅國際馬拉松 (Maratona Internacional de São Paulo) 是南美洲最具規模與傳承意義的頂尖賽事。其賽道路線深植於這座拉丁美洲金融之都，起終點通常設於風景秀麗的伊比拉布埃拉公園 (Ibirapuera Park)，跑者將穿過高樓林立的商業區與歷史悠久的地標，在濃郁的巴西熱情中完成 42.195 公里的壯舉。

@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-11
 Author: AI Coach
 
 # 山寺藏王超級馬拉松 (Yamadera Zao Ultra Marathon)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 山寺藏王超級馬拉松 (Yamadera Zao Ultra Marathon)
 

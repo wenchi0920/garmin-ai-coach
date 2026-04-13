@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 岐阜清流半程馬拉松 (Gifu Seiryu Half Marathon)
 
 > **Last Updated**: 2026-04-11
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 岐阜清流半程馬拉松 (Gifu Seiryu Half Marathon)
 
