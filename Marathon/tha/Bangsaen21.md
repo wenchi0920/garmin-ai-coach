@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇹🇭 泰國賽事詳情庫 (Thailand Race Database)
 
 > **Last Updated**: 2026-04-13
 > **Author**: AI Coach
 
----
 
 ### 邦賢 21 公里 (Bangsaen21)
 

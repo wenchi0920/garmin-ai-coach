@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **巴羅莎馬拉松嘉年華** | Barossa Marathon Festival | 穿梭於世界級酒莊園、平緩封閉賽道、優雅田園風情、適拼 PB | AIMS 認證 | [詳情](Barossa_Marathon_Festival.md#巴羅莎馬拉松嘉年華-barossa-marathon-festival) |
+| 5月 | **巴羅莎馬拉松嘉年華** | Barossa Marathon Festival | 穿梭於世界級酒莊園、平緩封閉賽道、優雅田園風情、適拼 PB | AIMS 認證 | [詳情](Barossa_Marathon_Festival.md) |
 | 7月 | **ASICS 黃金海岸馬拉松** | ASICS Gold Coast Marathon | 全澳洲最平坦快速、適合拼PB與BQ、氣候涼爽乾燥 | AIMS 認證,WA 金標 | [詳情](Gold_Coast_Marathon.md) |
 | 7月 | **凱恩斯馬拉松嘉年華** | 7 Cairns Marathon Festival | 熱帶度假風、平緩濱海賽道、大堡礁入口、冬季避寒跑 | AIMS 認證 | [詳情](7_Cairns_Marathon_Festival.md) |
 | 7月 | **艾爾利海灘馬拉松嘉年華** | Airlie Beach Marathon Festival | 降靈島門戶、絕美濱海步道、精品熱帶風情賽事 | AIMS 認證 | [詳情](Airlie_Beach_Marathon_Festival.md) |

@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # Ayla Red Sea Half Marathon
 
 Last Updated: 2026-04-13  
 Author: AI Coach  
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### Ayla 紅海半程馬拉松 (Ayla Red Sea Half Marathon)
 

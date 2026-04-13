@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇳🇿 紐西蘭馬拉松詳情庫 (New Zealand Marathon Gallery)
 
 > **Last Updated**: 2026-04-13
 > **Author**: AI Coach
 
----
 
 ### 奧克蘭馬拉松 (Barfoot & Thompson Auckland Marathon)
 

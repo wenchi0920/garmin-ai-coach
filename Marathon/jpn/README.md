@@ -15,7 +15,7 @@
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
 | 1月 | **勝田全國馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md) |
 | 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md) |
-| 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md#別府大分每日馬拉松-beppu-oita-mainichi-marathon) |
+| 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md) |
 | 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 菁英, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md) |
 | 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | JAAF 認證 | [詳情](Kishu_Kuchikumano_Marathon.md) |
 | 2月 | **愛媛馬拉松** | Ehime Marathon | 四國代表性賽事、松山城起終點、熱情柑橘補給、賽道起伏適中、限時6小時 | AIMS 認證, JAAF 認證 | [詳情](Ehime_Marathon.md) |

@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 黎巴嫩馬拉松詳情庫 (Lebanon Marathon Details)
 
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 貝魯特馬拉松 (Beirut Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 貝魯特馬拉松不僅是一場比賽，更是一次「心智淬煉」的旅程。儘管地形並非極速賽道，但氛圍感極佳。對於尋求 BQ 或提升 PB 的跑者，需特別注意肌肉的「離心收縮」管理，以應對市區街道的微起伏。整體定位適合做為年度的「LSD 訓練跑」後的高強度驗收，也是感受區域和平韌性的絕佳選擇。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

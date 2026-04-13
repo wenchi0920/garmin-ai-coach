@@ -10,7 +10,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name (English) | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 11 | 奧克蘭馬拉松 | Barfoot & Thompson Auckland Marathon | 跑上奧克蘭海港大橋，俯瞰極致海景與城市天際線。 | AIMS 認證 | [奧克蘭馬拉松](Auckland_Marathon.md#auckland-marathon) |
+| 11 | 奧克蘭馬拉松 | Barfoot & Thompson Auckland Marathon | 跑上奧克蘭海港大橋，俯瞰極致海景與城市天際線。 | AIMS 認證 | [詳情](Auckland_Marathon.md) |
 
 ---
 [返回全球總索引](../README.md)
