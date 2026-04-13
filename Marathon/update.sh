@@ -88,8 +88,8 @@ do
             echo "❌ AI 處理失敗: ${m}"
         fi
         
-        echo "冷卻中 (600s)..."
-        sleep 600
+        echo "冷卻中 (1200s)..."
+        sleep 1200
     fi
 
     printf "%-35s | %-18s | %-15s\n" "$prefix $m" "$list_status" "$info_status"
