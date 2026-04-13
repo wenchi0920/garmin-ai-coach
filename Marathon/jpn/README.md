@@ -21,7 +21,7 @@
 | 2月 | **愛媛馬拉松** | Ehime Marathon | 四國代表性賽事、松山城起終點、熱情柑橘補給、賽道起伏適中、限時6小時 | AIMS 認證, JAAF 認證 | [詳情](Ehime_Marathon.md) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | 一般 | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
-| 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | AIMS 認證 | [詳情](Kyoto_Marathon.md) |
+| 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md#京都馬拉松-kyoto-marathon) |
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 穿越美軍基地、美式風情、破碎緩坡挑戰、熱情南國應援 | AIMS 認證, JAAF 認證 | [詳情](Okinawa_Marathon.md) |
 | 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md) |
