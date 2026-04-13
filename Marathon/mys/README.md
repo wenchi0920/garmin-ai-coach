@@ -11,6 +11,6 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 10月 | **吉隆坡渣打馬拉松** | Kuala Lumpur Standard Chartered Marathon | 馬國最具規模之城市馬，熱帶耐熱戰。 | AIMS 認證 | [詳情](Kuala_Lumpur_Standard_Chartered_Marathon.md) |
 | 11月 | **檳城大橋國際馬拉松** | Penang Bridge International Marathon | 橫跨海峽大橋、凌晨起跑、海風與高濕挑戰。 | AIMS 認證 | [詳情](Penang_Bridge_International_Marathon.md) |
-| 12月 | **Aspen-Klippa 檳城大橋國際馬拉松 2025** | Aspen-Klippa Penang Bridge International Marathon 2025 | 2025年冠名贊助，凌晨跨越檳城一橋，極致濕熱考驗。 | AIMS 認證 | [詳情](Penang_Bridge_International_Marathon.md#aspen-klippa-penang-bridge-international-marathon-2025) |
+| 12月 | **Aspen-Klippa 檳城大橋國際馬拉松 2025** | Aspen-Klippa Penang Bridge International Marathon 2025 | 2025年冠名贊助，凌晨跨越檳城一橋，極致濕熱考驗。 | AIMS 認證 | [詳情](Penang_Bridge_International_Marathon.md) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)

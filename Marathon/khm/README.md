@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 8 | 吳哥帝國馬拉松 | Angkor Empire Marathon | 穿越世界文化遺產吳哥窟、熱帶雨林景致、極限耐熱挑戰 | AIMS 認證 | [詳情](Angkor_Empire_Marathon.md#吳哥帝國馬拉松-angkor-empire-marathon) |
+| 8 | 吳哥帝國馬拉松 | Angkor Empire Marathon | 穿越世界文化遺產吳哥窟、熱帶雨林景致、極限耐熱挑戰 | AIMS 認證 | [詳情](Angkor_Empire_Marathon.md) |
 | 8月 | **吳哥帝國馬拉松** | Angkor Empire Marathon | 穿越世界文化遺產吳哥窟、熱帶雨林景致、極限耐熱挑戰 | AIMS 認證 | [詳情](Angkor_Empire_Marathon.md) |
 
 ---

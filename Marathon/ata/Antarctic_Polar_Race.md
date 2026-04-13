@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 南極極地馬拉松 (Antarctic Polar Race)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 這是一場典型的「LSD 定位」賽事而非「PB 聖殿」。在極限低溫與強風下，RPE（自覺努力程度）將遠高於平原賽事。雖然賽道平緩處可嘗試「負分割 (Negative Split)」策略，但通常後半程體感負荷會隨風向變化劇增。建議跑者將此賽事視為「心智淬煉」，而非追求個人最佳成績（PB）。BQ 等級的跑者在此亦需放下身段，尊重極地環境的規則。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 南極馬拉松 (Antarctica Marathon®, Half-Marathon and Ultra-Marathon)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽事絕非 **PB** 聖殿，其定位為「極地生存挑戰」與 **LSD** 意志修煉。地形的不規則性對下肢穩定性與**離心收縮**耐力要求極高。訓練期應加入大量的不穩定路面跑步與單腳平衡訓練。對於追求 **BQ** 的跑者，此戰可視為賽季後的意志重塑。賽後必須進行深度的低溫恢復與充足的熱量補充，以修復極寒環境下的細胞氧化應激。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
