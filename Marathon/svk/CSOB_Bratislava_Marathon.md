@@ -2,7 +2,7 @@
 
 # 🇸🇰 斯洛伐克馬拉松詳情庫 (Slovakia Race Details)
 
-> **Last Updated**: 2026-04-12
+> **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 
 
