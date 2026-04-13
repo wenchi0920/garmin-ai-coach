@@ -1,0 +1,71 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "W16-修復瑜伽 (0413)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸與頸部放鬆)
+    - interval: 3min @note(貓牛式)
+    - interval: 3min @note(嬰兒式)
+    - interval: 3min @note(眼鏡蛇式)
+    - interval: 3min @note(仰臥扭轉-左)
+    - interval: 3min @note(仰臥扭轉-右)
+    - cooldown: 2min @note(大休息)
+
+  "W16-5km Z2 基礎跑 (0414)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 4km @H(153-166) @note(Z2 輕鬆跑，維持體感)
+
+  "W16-賽前核心維持 (0414)":
+    - sport: strength
+    - warmup: 5min @note(關節活動)
+    - repeat(2):
+      - interval: 12reps @note(死蟲式 Dead Bug)
+      - interval: 45sec @note(單腳平衡 每側)
+      - interval: 60sec @note(平板支撐 Plank)
+    - cooldown: 5min @note(輕度伸展)
+
+  "W16-賽前配速校準 (0415)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
+    - repeat(2):
+      - run: 1km @note(10K 目標配速 6:00-6:30/km)
+      - rest: 2min @note(慢走恢復)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W16-賽前動態喚醒 (0416)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
+    - repeat(3):
+      - run: 100m @note(快跑 Strides 5:00-5:30/km)
+      - rest: 1min @note(慢走)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W16-賽前舒緩瑜伽 (0417)":
+    - sport: yoga
+    - warmup: 5min @note(冥想呼吸)
+    - interval: 5min @note(蝴蝶式)
+    - interval: 5min @note(鴿式)
+    - cooldown: 5min @note(靠牆掛腿)
+
+  "W16-淡江大橋 10K 賽事 (0418)":
+    - warmup: 1km @note(動態熱身跑)
+    - run: 10km @note(目標完賽 60-65 分鐘，Enjoy Run)
+    - cooldown: 1km @note(步行回終點)
+
+  "W16-賽後恢復瑜伽 (0419)":
+    - sport: yoga
+    - warmup: 5min @note(放鬆呼吸)
+    - interval: 3min @note(大腿前側伸展)
+    - interval: 3min @note(半猴式)
+    - interval: 10min @note(靠牆掛腿)
+    - cooldown: 5min @note(靜坐休息)
+
+schedulePlan:
+  start_from: 2026-04-13
+  workouts:
+    - "W16-修復瑜伽 (0413)"
+    - "W16-5km Z2 基礎跑 (0414)"
+    - "W16-賽前配速校準 (0415)"
+    - "W16-賽前動態喚醒 (0416)"
+    - "W16-賽前舒緩瑜伽 (0417)"
+    - "W16-淡江大橋 10K 賽事 (0418)"
+    - "W16-賽後恢復瑜伽 (0419)"
