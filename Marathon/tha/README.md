@@ -17,6 +17,7 @@
 | 12月 | **曼谷午夜馬拉松** | Bangkok Midnight Marathon | 首都夜行、星光地標、極致平坦但濕熱考驗 | AIMS 認證 | [詳情](Bangkok_Midnight_Marathon.md#曼谷午夜馬拉松-bangkok-midnight-marathon) |
 | 12月 | **東協馬拉松** | ASEAN Marathon | 湄公河畔、泰寮邊境、平坦景觀、跨國友誼 | AIMS 認證 | [詳情](ASEAN_Marathon.md) |
 | 12月 | **泰國曼谷馬拉松** | Amazing Thailand Marathon Bangkok | 首都之星、熱帶熱情、大皇宮終點、官方認證 | AIMS 認證, WA 菁英 | [詳情](Amazing_Thailand_Marathon_Bangkok.md) |
+| 12月 | **邦賢 21 公里** | Bangsaen21 | 東南亞唯一 WA 白金標半馬、海濱平坦、頂尖組織、極致美食 | WA 白金標 | [詳情](Bangsaen21.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
