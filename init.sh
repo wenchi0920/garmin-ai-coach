@@ -30,6 +30,7 @@ else
     echo "not production"
 fi
 
+su gemini
 
 /bin/bash
 # tail -f /dev/null
