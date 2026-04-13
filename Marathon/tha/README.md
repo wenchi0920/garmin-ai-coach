@@ -2,14 +2,15 @@
 
 > **Purpose**: 快速瀏覽泰國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-13
-> **Author**: AI Coach
+Last Updated: 2026-04-13
+Author: AI Coach
 
 ---
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **邦賢 10 公里** | Bangsaen10 | 頂尖速賽、WA 白金標、海邊賽道、亞洲指標 10K | WA 白金標 | [詳情](Bangsaen10.md) |
+| 1月 | **宗朋馬拉松** | Chombeung Marathon | 泰國「馬拉松之母」、傳統熱情、鄉間賽道、PB 聖殿 | AIMS 認證 | [詳情](Chombeung_Marathon.md#宗朋馬拉松-chombeung-marathon) |
 | 1月 | **武里南馬拉松** | Buriram Marathon | 亞洲指標夜賽、WA 金標、賽道平坦、賽車場起跑 | WA 金標 | [詳情](Buriram_Marathon.md#武里南馬拉松-buriram-marathon) |
 | 7月 | **芭達雅馬拉松** | Amazing Thailand Pattaya Marathon | 濱海賽道、熱帶挑戰、泰國歷史最久賽事之一 | WA 菁英 | [詳情](Pattaya_Marathon.md) |
 | 8月 | **也拉馬拉松** | Yala Marathon | 泰南邊境和平跑、文化多元、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Yala_Marathon.md) |
