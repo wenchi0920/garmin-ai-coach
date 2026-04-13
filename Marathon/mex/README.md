@@ -10,7 +10,7 @@
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2月 | **瓜達拉哈拉 21K** | 21K Guadalajara Electrolit | 金標認證、高海拔快賽、熱情文化氣氛、電解質補給專家 | WA 金標 | [詳情](Guadalajara_Half_Marathon.md#瓜達拉哈拉-21k-21k-guadalajara-electrolit-nutrido-por-granvita) |
-| 6月 | **坦甘曼加國際馬拉松** | BMW Maratón Internacional Tangamanga | 坦甘曼加公園景觀、海拔 1,860m 高原賽事、墨西哥歷史悠久賽事 | AIMS 認證 | [詳情](BMW_Maraton_Internacional_Tangamanga.md#坦甘曼加國際馬拉松-bmw-maratón-internacional-tangamanga) |
+| 6月 | **坦甘曼加國際馬拉松** | BMW Tangamanga International Marathon | 坦甘曼加公園景觀、海拔 1,860m 高原賽事、墨西哥歷史悠久賽事 | AIMS 認證 | [詳情](BMW_Tangamanga_International_Marathon.md#坦甘曼加國際馬拉松-bmw-tangamanga-international-marathon) |
 | 8月 | **墨西哥城馬拉松** | Mexico City Marathon | 高海拔挑戰、1968 奧運路線、城市地標巡禮、高強度心肺考驗 | AIMS 認證,WA 金標 | [詳情](Mexico_City_Marathon.md) |
 
 ---
