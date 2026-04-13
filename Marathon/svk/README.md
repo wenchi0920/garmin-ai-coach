@@ -10,7 +10,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name (English) | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 04 | 布拉提斯拉瓦馬拉松 | ČSOB Bratislava Marathon | 穿越多瑙河畔與老城的平坦雙圈賽道。 | AIMS 認證, WA 一般 | [進入詳情](Bratislava_Marathon.md#布拉提斯拉瓦馬拉松-čsob-bratislava-marathon) |
+| 04 | 布拉提斯拉瓦馬拉松 | ČSOB Bratislava Marathon | 穿越多瑙河畔與老城的平坦雙圈賽道。 | AIMS 認證, WA 一般 | [詳情](Bratislava_Marathon.md) |
 
 ---
 [返回全球總索引](../README.md)

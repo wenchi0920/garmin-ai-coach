@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **布拉格國際馬拉松** | Prague International Marathon | 穿越中世紀查理大橋、伏爾塔瓦河景、石板路挑戰 | AIMS 認證, WA 菁英 | [詳情](Prague_International_Marathon.md#布拉格國際馬拉松-prague-international-marathon) |
+| 5月 | **布拉格國際馬拉松** | Prague International Marathon | 穿越中世紀查理大橋、伏爾塔瓦河景、石板路挑戰 | AIMS 認證, WA 菁英 | [詳情](Prague_International_Marathon.md) |
 | 9月 | **扎托佩克俄斯特拉發金標馬拉松** | Zátopek Ostrava Golden Marathon | 紀念長跑之神扎托佩克、工業之城特色、PB 潛力賽道 | WA 金標 | [詳情](Ostrava_Marathon.md#扎托佩克俄斯特拉發金標馬拉松-zátopek-ostrava-golden-marathon) |
 
 ---

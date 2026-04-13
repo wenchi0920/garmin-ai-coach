@@ -5,6 +5,6 @@ Author: AI Coach
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4 | 恩斯赫德馬拉松 | Enschede Marathon | 歐洲最古老賽事，平坦快速，PB 聖殿 | AIMS 認證, WA 菁英 | [Enschede_Marathon.md#恩斯赫德馬拉松-enschede-marathon] |
+| 4 | 恩斯赫德馬拉松 | Enschede Marathon | 歐洲最古老賽事，平坦快速，PB 聖殿 | AIMS 認證, WA 菁英 | [詳情](Enschede_Marathon.md) |
 
 [返回全球總索引](../README.md)

@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4月 | **倫敦馬拉松** | London Marathon | WMM 大滿貫、地標巡禮、慈善募款之巔、塔橋風情 | WMM | [詳情](London_Marathon.md#倫敦馬拉松-london-marathon) |
-| 5月 | **貝爾法斯特城市馬拉松** | Phoenix Energy Belfast City Marathon | 北愛爾蘭最大體育盛事、歷史底蘊、起伏挑戰 | AIMS 認證, WA 菁英 | [詳情](Phoenix_Energy_Belfast_City_Marathon.md#貝爾法斯特城市馬拉松-phoenix-energy-belfast-city-marathon) |
+| 4月 | **倫敦馬拉松** | London Marathon | WMM 大滿貫、地標巡禮、慈善募款之巔、塔橋風情 | WMM | [詳情](London_Marathon.md) |
+| 5月 | **貝爾法斯特城市馬拉松** | Phoenix Energy Belfast City Marathon | 北愛爾蘭最大體育盛事、歷史底蘊、起伏挑戰 | AIMS 認證, WA 菁英 | [詳情](Phoenix_Energy_Belfast_City_Marathon.md) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)

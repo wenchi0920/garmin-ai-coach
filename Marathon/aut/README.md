@@ -10,8 +10,8 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name (English) | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 09 | 瓦豪馬拉松 | International WACHAUmarathon | 世界文化遺產巡禮，多瑙河沿岸極速平坦下坡賽道。 | AIMS 認證 | [進入詳情](WACHAUmarathon.md#瓦豪馬拉松-international-wachaumarathon) |
-| 10 | 三國馬拉松 | 3 Country Sparkasse Marathon | 跨越德、奧、瑞三國，環繞博登湖的絕美平坦賽道。 | AIMS 認證 | [進入詳情](3_Country_Sparkasse_Marathon.md#三國馬拉松-3-country-sparkasse-marathon) |
+| 09 | 瓦豪馬拉松 | International WACHAUmarathon | 世界文化遺產巡禮，多瑙河沿岸極速平坦下坡賽道。 | AIMS 認證 | [詳情](WACHAUmarathon.md) |
+| 10 | 三國馬拉松 | 3 Country Sparkasse Marathon | 跨越德、奧、瑞三國，環繞博登湖的絕美平坦賽道。 | AIMS 認證 | [詳情](3_Country_Sparkasse_Marathon.md) |
 
 ---
 [返回全球總索引](../README.md)

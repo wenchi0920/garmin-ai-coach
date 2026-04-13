@@ -7,6 +7,6 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | 埃及馬拉松 | Egyptian Marathon | 穿越底比斯古文明、哈特謝普蘇特神廟起終點、平緩乾燥。 | AIMS 認證, WA 一般 | [查看詳情](Egyptian_Marathon.md#埃及馬拉松-egyptian-marathon) |
+| 01 | 埃及馬拉松 | Egyptian Marathon | 穿越底比斯古文明、哈特謝普蘇特神廟起終點、平緩乾燥。 | AIMS 認證, WA 一般 | [詳情](Egyptian_Marathon.md) |
 
 [返回全球總索引](../README.md)
