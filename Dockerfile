@@ -32,7 +32,7 @@ RUN if getent passwd node; then userdel -r node; fi && \
 USER gemini
 WORKDIR /home/gemini
 
-##copy . /home/gemini
+copy . /home/gemini
 
 RUN pip3 install -r requirements.txt --break-system-packages
 RUN pip3 install pandas fitparse --break-system-packages

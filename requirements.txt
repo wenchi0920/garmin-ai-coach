@@ -11,3 +11,5 @@ tkcalendar
 customtkinter
 geopy
 requests
+pandas
+fitparse

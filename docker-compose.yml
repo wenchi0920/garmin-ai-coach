@@ -15,7 +15,7 @@ services:
       - LANG=C.UTF-8
     working_dir: /app
     entrypoint: ["/bin/sh", "-c"]
-    command: "tail -f /dev/null"
+    command: "bash /app/init.sh"
     volumes:
       # 掛載宿主機的認證目錄，確保 UID 1000 有權�目錄
       - gemini_config:/home/gemini/.gemini

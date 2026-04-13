@@ -30,7 +30,11 @@ else
     echo "not production"
 fi
 
+touch /tmp/init.root
+
 su gemini
+
+touch /tmp/init.gemini
 
 /bin/bash
 # tail -f /dev/null
