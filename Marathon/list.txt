@@ -1,53 +1,5 @@
-AIMS Atlas Mountain Edition
-AIMS Course des Enfants d’Atlas
-Airlie Beach Marathon Festival
-Almaty Half Marathon
-Almaty Marathon
-Amazing Thailand Marathon Bangkok - Official Bangkok Capital City Marathon
-Amazing Thailand Pattaya Marathon – Official Pattaya City Marathon
-Amman International Marathon
-Angkor Empire Marathon
-Angkor Wat International Half Marathon
-Antarctica Marathon®, Half-Marathon and Ultra-Marathon
-Antarctic Ice Marathon &amp; 100k
-Antarctic Ice Ultra
-Antarctic Polar Race
-ASICS Austrian Women’s Run
-ASICS Gold Coast Marathon
-ASML Marathon Eindhoven
-Aspen-Klippa Penang Bridge International Marathon 2025
-Astana Half Marathon
-AU Jaipur Marathon
-Axios Running Festival
-Ayla Red Sea Half Marathon
-Bangkok Marathon
-Bangkok Midnight Marathon
-Bangsaen10
-Bangsaen21
-Bangsaen42 Chonburi Marathon
-Bank of America Chicago Marathon
-Bank of Cyprus Nicosia Marathon
-Barfoot &amp; Thompson Auckland Marathon presented by ASICS
-Barossa Marathon Festival
-Baxters Loch Ness Marathon &amp; Festival of Running
-Beijing Marathon
-Beirut Marathon
-Bengaluru Midnight Marathon
-Beppu-Oita Mainichi Marathon
-Bhatiary International Marathon
-Big Sur International Marathon
-Bishkek Snow Leopard Run
-Björn Borg Helsinki Half Marathon
-Björn Borg Helsinki Marathon
-BMW Berlin-Marathon
-BMW Brunei International Half Marathon
-BMW Maratón Internacional Tangamanga
-BMW Tangamanga International Marathon
-Bodhgaya Marathon – Run For Global Peace
-Borneo International Marathon
-Borobudur Marathon
-Boston Marathon presented by Bank of America
-Brooks Adelaide Marathon Festival
+京都マラソン
+新竹城市馬拉松
 Buenos Aires International Marathon
 Bukidnon International Marathon
 Buriram Marathon 2026 Presented by Chang Mineral
@@ -487,5 +439,4 @@ Zurich Rock ’n’ Roll Running Series Madrid
 ПЕТЕРБУРГСКИЙ МАРАФОН Пушкин - петербург
 Рождественский полумарафон
 Сибирский международный марафон
-京都マラソン
-新竹城市馬拉松
+
