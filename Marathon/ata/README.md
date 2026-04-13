@@ -8,5 +8,6 @@ Author: AI Coach
 | 月份 | 賽事名稱 (中文) | Race Name (English) | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 03 | 南極馬拉松 | Antarctica Marathon®, Half-Marathon and Ultra-Marathon | 喬治王島極地挑戰、世界七大洲終點站 | Marathon Tours | [南極馬拉松](Antarctica_Marathon.md#南極馬拉松-antarctica-marathon-half-marathon-and-ultra-marathon) |
+| 12 | 南極冰上馬拉松 | Antarctic Ice Marathon & 100k | 地球最南端內陸挑戰、零下 20 度極限征途 | AIMS 認證 | [南極冰上馬拉松](Antarctic_Ice_Marathon.md#南極冰上馬拉松-antarctic-ice-marathon-100k) |
 
 [返回全球總索引](../README.md)
