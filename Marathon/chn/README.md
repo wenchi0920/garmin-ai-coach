@@ -36,7 +36,7 @@
 | 10月 | **成都馬拉松** | Chengdu Marathon | 2026 最新：WMM 候選賽事、熊貓主題、極速平坦賽道、火鍋粉特色補給 | WA 金標, WMM 候選 | [詳情](Chengdu_Marathon.md) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 2026 最新：穿越大唐古都、極速負爬升 PB 賽道、碳水之都美食補給、BQ 首選 | AIMS 認證,WA 金標 | [詳情](Xian_Marathon.md) |
 | 10月 | **新余仙女湖馬拉松** | Xinyu Fairy Lake Marathon | 2026 最新：仙女下凡地、環湖景觀賽道、地形微起伏、浪漫愛情主題 | WA 標籤 | [詳情](Xinyu_Fairy_Lake_Marathon.md) |
-| 11月 | **北京馬拉松** | Bank of China Beijing Marathon | 國馬、天安門起跑、儀式感極強 | AIMS 認證,WA 金標 | [詳情](Bank_of_China_Beijing_Marathon.md) |
+| 11月 | **北京馬拉松** | Beijing Marathon | 2026 最新：國馬、天安門起跑、極速平坦 PB 聖殿 | AIMS 認證,WA 金標 | [詳情](Beijing_Marathon.md) |
 | 11月 | **杭州馬拉松** | Hangzhou Marathon | 2026 最新：西湖與錢塘江雙景賽道、起伏適中、PB 挑戰 | AIMS 認證,WA 金標 | [詳情](Hangzhou_Marathon.md) |
 | 11月 | **南京馬拉松** | Nanjing Marathon | 六朝古都、中山陵、人文氣息濃厚 | WA 金標 | [詳情](Nanjing_Marathon.md) |
 | 11月 | **南昌馬拉松** | Nanchang Marathon | 英雄城、贛江兩岸、極速平坦 | WA 金標 | [詳情](Nanchang_Marathon.md) |
