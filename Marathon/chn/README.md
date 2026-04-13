@@ -12,6 +12,7 @@
 | 1月 | **廈門馬拉松** | C&D Xiamen Marathon | 2026 最新：白金標全海景賽道、PB/BQ 首選、氣氛熱烈 | AIMS 認證,WA 白金標 | [詳情](CD_Xiamen_Marathon.md#廈門馬拉松-cd-xiamen-marathon) |
 | 1月 | **建發廈門馬拉松** | Jianfa Xiamen Marathon | 2026 最新：白金標全海景賽道、PB/BQ 首選、氣氛熱烈 | AIMS 認證,WA 白金標 | [詳情](Jianfa_Xiamen_Marathon.md) |
 | 3月 | **長安汽車重慶馬拉松** | Changan Automobile Chongqing Marathon | 2026 最新：長江濱江路極速平坦賽道、高濕度 PB 挑戰 | AIMS 認證,WA 金標 | [詳情](Chongqing_Marathon.md) |
+| 3月 | **重慶國際馬拉松** | Chongqing International Marathon | 2026 最新：西部首個金標賽事、長江畔平坦 PB 聖殿 | AIMS 認證,WA 金標 | [詳情](Chongqing_International_Marathon.md#重慶國際馬拉松-chongqing-international-marathon) |
 | 3月 | **無錫馬拉松** | Wuxi Marathon | 2026 最新：WA 白金標、櫻花馬浪漫氛圍、極速平坦 PB 聖殿 | AIMS 認證,WA 白金標 | [詳情](Wuxi_Marathon.md) |
 | 3月 | **南京浦口馬拉松** | Nanjing Pukou Marathon | 綠色浦口、老山森林公園、極速平坦賽道、PB 聖殿 | WA 菁英 | [詳情](Nanjing_Pukou_Marathon.md) |
 | 3月 | **徐州馬拉松** | Xuzhou Marathon | 2026 最新：雲龍湖景觀賽道、極速平坦、奧運選拔賽聖殿 | WA 菁英 | [詳情](Xuzhou_Marathon.md) |
