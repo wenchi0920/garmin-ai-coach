@@ -24,6 +24,7 @@
 | **🇶🇦 卡達 (Qatar)** | 多哈馬拉松(WA精英標)，波斯灣畔的極速平坦賽道。 | [進入索引](qat/README.md) |
 | **🇮🇱 以色列 (Israel)** | 埃拉特沙漠馬拉松，紅海之巔與內蓋夫沙漠的極地博弈。 | [進入索引](isr/README.md) |
 | **🇰🇬 吉爾吉斯 (Kyrgyzstan)** | 伊塞克湖國際馬拉松，高海拔與天山山脈下的絲路巡航。 | [進入索引](kgz/README.md) |
+| **🇰🇿 哈薩克 (Kazakhstan)** | 阿爾瑪提半馬與全馬，中亞之心的雪山巡禮與 AIMS 認證賽道。 | [進入索引](kaz/README.md) |
 | **🇺🇿 烏茲別克 (Uzbekistan)** | 塔什干國際馬拉松，中亞之心的平坦極速賽道與絲路巡演。 | [進入索引](uzb/README.md) |
 | **🇮🇳 印度 (India)** | 塔塔孟買馬拉松，南亞最具規模的金標賽事與濕熱考驗。 | [進入索引](ind/README.md) |
 | **🇧🇩 孟加拉 (Bangladesh)** | Active Pulse 半馬，南亞首場 AIMS 認證賽事與平坦極速賽道。 | [進入索引](bgd/README.md) |
