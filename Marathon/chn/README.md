@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽中國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> Last Updated: 2026-04-13
+> Last Updated: 2026-04-14
 > Author: AI Coach
 
 ---
@@ -35,6 +35,7 @@
 | 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 2026 最新：極速環湖平坦賽道、PB/BQ 聖殿、湖光山色 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md) |
 | 10月 | **黃河口國際馬拉松** | Yellow River Estuary International Marathon | 極速平坦、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md) |
+| 10月 | **大連國際馬拉松** | Dalian International Marathon | 2026 最新：歷史悠久金標、山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_International_Marathon.md#大連國際馬拉松-dalian-international-marathon) |
 | 10月 | **成都馬拉松** | Chengdu Marathon | 2026 最新：WMM 候選賽事、熊貓主題、極速平坦賽道、火鍋粉特色補給 | WA 金標, WMM | [詳情](Chengdu_Marathon.md#成都馬拉松-chengdu-marathon) |
 | 10月 | **西安馬拉松** | Xi'an Marathon | 2026 最新：穿越大唐古都、極速負爬升 PB 賽道、碳水之都美食補給、BQ 首選 | AIMS 認證,WA 金標 | [詳情](Xian_Marathon.md) |
 | 10月 | **新余仙女湖馬拉松** | Xinyu Fairy Lake Marathon | 2026 最新：仙女下凡地、環湖景觀賽道、地形微起伏、浪漫愛情主題 | WA 標籤 | [詳情](Xinyu_Fairy_Lake_Marathon.md) |
