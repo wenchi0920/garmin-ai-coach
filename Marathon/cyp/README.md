@@ -6,6 +6,7 @@
 | 月份 | 賽事名稱(中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 02 | 賽普勒斯尼古西亞馬拉松 | Bank of Cyprus Nicosia Marathon | 穿梭於維也納城牆與現代城市之間，地形平緩且歷史底蘊深厚的 PB 聖殿。 | AIMS 認證 | [詳情](Bank_of_Cyprus_Nicosia_Marathon.md) |
+| 03 | 利馬索國際馬拉松 | G.S.O. Limassol International Marathon | 沿著地中海海岸線奔跑，氣候宜人且賽道寬廣的頂級海景賽道。 | AIMS 認證 | [詳情](Limassol_International_Marathon.md) |
 
 ---
 [返回全球總索引](../README.md)
