@@ -1,3 +1,6 @@
+> **Last Updated**: 2026-04-15
+> **Author**: AI Coach
+
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 阿爾特廷半程馬拉松 (Halbmarathon Altötting)
