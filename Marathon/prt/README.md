@@ -9,6 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1月 | **豐沙爾馬拉松** | Funchal Marathon | 大西洋花園海濱美景、三圈平緩迴路、冬季避寒跑首選 | AIMS 認證 | [詳情](Funchal_Marathon.md#豐沙爾馬拉松-funchal-marathon) |
 | 3月 | **里斯本半程馬拉松** | EDP Meia Maratona de Lisboa | 世界紀錄賽道、大橋起跑極致視野、極速平緩路段、SuperHalfs 系列賽 | AIMS 認證,WA 金標 | [詳情](EDP_Meia_Maratona_de_Lisboa.md) |
 | 10月 | **里斯本馬拉松** | EDP Maratona de Lisboa | 全球最美賽道之一、卡斯凱什起跑海濱美景、PB 聖殿 | AIMS 認證,WA 菁英 | [詳情](EDP_Maratona_de_Lisboa.md) |
 | 11月 | **波多馬拉松** | EDP Porto Marathon | 世界文化遺產老城、杜羅河畔河岸線、極速平坦賽道、葡萄牙最大馬拉松 | AIMS 認證,WA 菁英 | [詳情](EDP_Porto_Marathon.md) |
