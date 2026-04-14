@@ -1,10 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇹🇯 杜尚別國際半程馬拉松 (Dushanbe International Half Marathon)
 
 > **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 > **Category**: 中亞核心賽事 (Central Asia Hub)
 
----
 
 ### 杜尚別國際半程馬拉松 (Dushanbe International Half Marathon)
 

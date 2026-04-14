@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-# [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 菩提伽耶馬拉松 (Bodhgaya Marathon – Run For Global Peace)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 這是一場結合靈修與競技的賽事。對於追求 PB 的跑者，涼爽的氣溫是絕佳機會；對於一般跑者，其莊嚴的氛圍非常適合做為年度首場高品質 LSD 訓練。建議在賽前加強離心收縮訓練以應對長距離的硬地路面。整體 RPE 指數中等，是一場能洗滌心靈並挑戰體能極限的優質賽事。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

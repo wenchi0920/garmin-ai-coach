@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇧🇩 孟加拉馬拉松賽事詳情 (Bangladesh Race Details)
 
 Last Updated: 2026-04-14
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 達卡男子半程馬拉松 (Dhaka Men’s Half Marathon)
 
@@ -22,3 +22,4 @@ Author: AI Coach
 此賽道具備極佳的「PB」潛力，是挑戰個人最佳成績的頂級賽事。對於正在備賽全馬的跑者，這也是一場絕佳的「LSD」模擬或速度測試。建議在賽前訓練中加強「離心收縮」訓練，以提升下肢肌肉在平坦硬地持續衝擊下的耐受度。若您的目標是獲取未來大型賽事的參賽資格，如此穩定的賽道環境將是檢驗體能狀態的最佳窗口。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

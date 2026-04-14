@@ -10,7 +10,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4 | 卑爾根城市馬拉松 | Fjordkraft Bergen City Marathon | 穿越聯合國世界遺產 Bryggen，挑戰起伏劇烈的峽灣賽道。 | AIMS 認證 | [進入詳情](Fjordkraft_Bergen_City_Marathon.md#Fjordkraft_Bergen_City_Marathon) |
+| 4 | 卑爾根城市馬拉松 | Fjordkraft Bergen City Marathon | 穿越聯合國世界遺產 Bryggen，挑戰起伏劇烈的峽灣賽道。 | AIMS 認證 | [詳情](Fjordkraft_Bergen_City_Marathon.md) |
 
 ---
 [返回全球總索引](../README.md)

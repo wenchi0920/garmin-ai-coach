@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### Björn Borg 赫爾辛基馬拉松 (Björn Borg Helsinki Marathon)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 該賽事不僅是「PB 聖殿」，更是檢驗「LSD 週期訓練」成果的絕佳場域。賽道海拔變化不大，具備極高的 BQ 潛力。然而，濱海路段的「離心收縮」壓力對股四頭肌是一大考驗，賽前應強化肌力訓練以降低抽筋風險。整體而言，這是一場心智與耐力的深度對話，值得所有追求卓越的跑者前來挑戰。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

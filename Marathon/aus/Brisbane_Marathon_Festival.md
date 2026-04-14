@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-14
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 長榮航空布里斯本馬拉松 (EVA Air Brisbane Marathon Festival)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽事是極佳的 **PB 聖殿**，同時也是 **BQ (Boston Qualify)** 的理想跳板。由於賽道平緩，肌肉的 **離心收縮** 負荷相對較小，有助於延後撞牆期的到來。對於將目標放在 9 月雪梨馬拉松的跑者，本場賽事亦可作為高品質的 **LSD** 實戰演練。建議跑者在備賽期間加強核心穩定與步頻控制，以應對河岸路徑中少數的 90 度轉角，維持流暢的競技節奏。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

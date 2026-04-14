@@ -25,7 +25,7 @@
 | 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | AIMS 認證 | [詳情](Garmin_Run_Taipei.md) |
 | 10月 | **南投馬拉松** | Nantou Marathon | 貓羅溪畔、中興新村綠廊、中寮石龍宮 (泡麵土地公) | - | [詳情](Nantou_Marathon.md) |
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | AIMS 認證 | [詳情](Sun_Moon_Lake_Marathon.md) |
-| 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | AIMS 認證 | [詳情](EVA_Air_Marathon.md#長榮航空城市觀光馬拉松-eva-air-marathon) |
+| 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | AIMS 認證 | [詳情](EVA_Air_Marathon.md) |
 | 10月 | **宜蘭冬山河水岸馬拉松** | Dongshan River Waterfront Marathon | 沿冬山河畔平緩好跑、蘭陽在地補給、優質地方賽事 | - | [詳情](Luodong_Marathon.md#宜蘭冬山河水岸馬拉松-dongshan-river-waterfront-marathon) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | AIMS 認證 | [詳情](Taiwan_Rice_Heaven_Tanaka_Marathon.md) |
 | 11月 | **彰化馬拉松** | Changhua Marathon | 彰化馬拉松嘉年華核心賽事、八卦山丘陵挑戰、彰化肉圓特色補給 | - | [詳情](Changhua_Marathon.md) |
@@ -37,7 +37,7 @@
 | 11月 | **台中城市馬拉松** | Taichung City Marathon | 城市巡禮、中央公園、中科、賽道平緩 | AIMS 認證 | [詳情](Taichung_City_Marathon.md) |
 | 11月 | **台東知本溫泉馬拉松** | Chihpen Hot Spring Marathon | 環繞知本溫泉、卑南溪美景、AIMS 認證、溫泉修復體驗 | AIMS 認證 | [詳情](Chihpen_Hot_Spring_Marathon.md) |
 | 11月 | **屏東馬拉松** | Pingtung Marathon | 平緩賽道、大武山景、在地農產補給、熱情南台灣 | AIMS 認證 | [詳情](Pingtung_Marathon.md) |
-| 11月 | **新竹城市馬拉松** | Hsinchu City Marathon | 穿梭古蹟、香山濕地、在地美食補給、風城活力 | AIMS 認證 | [詳情](Hsinchu_City_Marathon.md#新竹城市馬拉松-hsinchu-city-marathon) |
+| 11月 | **新竹城市馬拉松** | Hsinchu City Marathon | 穿梭古蹟、香山濕地、在地美食補給、風城活力 | AIMS 認證 | [詳情](Hsinchu_City_Marathon.md) |
 | 12月 | **臺北馬拉松** | Taipei Marathon | 台灣指標性 WA 金標賽事、年度期末考、PB 聖殿、低溫河濱風考驗 | AIMS 認證, WA 金標 | [詳情](Taipei_Marathon.md) |
 | 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](Beigang_Mazu_Cup_National_Marathon.md) |
 | 12月 | **嘉義馬拉松** | Chiayi Marathon | 阿里山腳下、城市巡禮、特色補給、人情味濃厚 | AIMS 認證 | [詳情](Chiayi_Marathon.md) |

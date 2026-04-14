@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 布基農國際馬拉松 (Bukidnon International Marathon)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 BIM 並非傳統意義上的「PB 聖殿」，但因其 AIMS 認證且環境優美，非常適合作為目標賽事前期的「高品質 LSD 訓練」。高海拔的空氣雖然稍薄，但對心肺耐力的淬煉極佳。若能在此完成 BQ 達標，其含金量極高。建議跑者在賽前四週加強山徑起伏路段的模擬訓練，以適應多變的地形挑戰。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

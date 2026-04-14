@@ -10,7 +10,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name (English) | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 4 | 杜尚別國際半程馬拉松 | Dushanbe International Half Marathon | 慶祝杜尚別建市日的體育盛事，中亞核心的高速平坦賽道。 | WA 菁英標 | [進入詳情](Dushanbe_International_Half_Marathon.md#杜尚別國際半程馬拉松-dushanbe-international-half-marathon) |
+| 4 | 杜尚別國際半程馬拉松 | Dushanbe International Half Marathon | 慶祝杜尚別建市日的體育盛事，中亞核心的高速平坦賽道。 | WA 菁英標 | [詳情](Dushanbe_International_Half_Marathon.md) |
 
 ---
 [返回全球總索引](../README.md)

@@ -5,7 +5,6 @@
 > **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 
----
 
 ### 嘉柏隆里馬拉松 (Diacore Gaborone Marathon)
 

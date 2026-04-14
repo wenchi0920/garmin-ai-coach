@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇵🇹 葡萄牙馬拉松詳情庫 (Portugal Race Details)
 
 > **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 
----
 
 ### 里斯本發現半程馬拉松 (Discoveries Half Marathon)
 

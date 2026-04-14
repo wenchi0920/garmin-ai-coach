@@ -12,7 +12,7 @@ Author: AI Coach
 | 03 | 羅馬馬拉松 | ACEA Run Rome The Marathon | 穿越三千年歷史古都，從競技場出發的永恆巡禮。 | WA 菁英, AIMS 認證 | [Rome_Marathon.md#羅馬馬拉松-acea-run-rome-the-marathon](Rome_Marathon.md#羅馬馬拉松-acea-run-rome-the-marathon) |
 | 10 | 威尼斯馬拉松 | Venice Marathon | 穿越百年古城的藝術巡禮，橫跨大運河浮橋與 14 座橋樑的獨特體驗。 | WA 菁英, AIMS 認證 | [詳情](Venice_Marathon.md) |
 | 11 | 拉文納馬拉松 | Ravenna Marathon City of Art | 穿越 UNESCO 世界文化遺產的時空旅行，以手工馬賽克獎牌聞名。 | AIMS 認證 | [詳情](Ravenna_Marathon.md) |
-| 11 | 佛羅倫斯馬拉松 | Estra Firenze Marathon | 穿越文藝復興之都，歷史建築與古城石板路的藝術巡禮。 | WA 菁英, AIMS 認證 | [詳情](Estra_Firenze_Marathon.md#佛羅倫斯馬拉松-estra-firenze-marathon) |
+| 11 | 佛羅倫斯馬拉松 | Estra Firenze Marathon | 穿越文藝復興之都，歷史建築與古城石板路的藝術巡禮。 | WA 菁英, AIMS 認證 | [詳情](Estra_Firenze_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)

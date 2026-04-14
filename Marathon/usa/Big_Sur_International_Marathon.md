@@ -1,9 +1,9 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-13
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### Big Sur 國際馬拉松 (Big Sur International Marathon)
 
@@ -20,3 +20,4 @@ Author: AI Coach
    這不是一場追求 **PB** 的賽事，更像是對大自然的敬畏與自我意志的 **LSD** 淬鍊。其難度與風阻因素使得 **BQ** 達標率較低，但其景觀無可取代。教練建議將此賽事定位為「人生必跑」的感官體驗。訓練上應加強山道模擬跑，特別是下坡時的步伐控制，以降低 **RPE** 並防止後程抽筋。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
