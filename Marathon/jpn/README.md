@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-13
+> **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 
 ---
@@ -18,7 +18,7 @@
 | 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md) |
 | 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 菁英, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md) |
 | 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | JAAF 認證 | [詳情](Kishu_Kuchikumano_Marathon.md) |
-| 2月 | **愛媛馬拉松** | Ehime Marathon | 四國代表性賽事、松山城起終點、熱情柑橘補給、賽道起伏適中、限時6小時 | AIMS 認證, JAAF 認證 | [詳情](Ehime_Marathon.md) |
+| 2月 | **愛媛馬拉松** | Ehime Marathon | 四國文化巡禮、松山城起終點、柑橘特色補給、賽道緩起伏、適合挑戰 **PB** | AIMS 認證, WA 菁英 | [詳情](Ehime_Marathon.md#愛媛馬拉松-ehime-marathon) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | 一般 | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md#京都馬拉松-kyoto-marathon) |
