@@ -9,6 +9,7 @@ Author: AI Coach
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2月 | **京畿國際半程馬拉松** | Gyeonggi International Half Marathon | 頂尖菁英競技、賽道平緩、PB 熱點 | WA 菁英 | [詳情](Gyeonggi_International_Half_Marathon.md) |
 | 2月 | **大邱馬拉松** | Daegu Marathon | 獎金優渥、賽道平坦、PB 聖殿 | WA 金標 | [詳情](Daegu_Marathon.md) |
 | 3月 | **首爾馬拉松** | Seoul Marathon | 拼成績、市區平坦、菁英賽事 | AIMS 認證,WA 白金標 | [詳情](Seoul_Marathon.md) |
 | 4月 | **慶州櫻花馬拉松** | Gyeongju Cherry Blossom Marathon | 古都賞櫻、觀光為主、氛圍悠閒 | AIMS 認證 | [詳情](Gyeongju_Cherry_Blossom_Marathon.md) |
