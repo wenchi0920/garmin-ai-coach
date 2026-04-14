@@ -52,7 +52,7 @@
 | 11月 | **合肥馬拉松** | Hefei Marathon | 環繞巢湖、極速平坦、PB 聖殿 | WA 金標 | [詳情](Hefei_Marathon.md) |
 | 11月 | **上海馬拉松** | Shanghai Marathon | WMM 候選白金標、極速平坦、PB 首選 | AIMS 認證,WA 白金標, WMM 候選 | [詳情](Shanghai_Marathon.md) |
 | 11月 | **常德柳葉湖馬拉松** | Changde Liuye Lake Marathon | 極速環湖、PB 聖殿、柳葉湖景 | AIMS 認證,WA 金標 | [詳情](Changde_Liuye_Lake_Marathon.md) |
-| 12月 | **廣州馬拉松** | Guangzhou Marathon | 美食之都、一江兩岸極速平坦 | AIMS 認證,WA 金標 | [詳情](Guangzhou_Marathon.md) |
+| 12月 | **廣州馬拉松** | Guangzhou Marathon | 2026 最新：一江兩岸極速平坦賽道、美食之都、PB/BQ 首選 | AIMS 認證,WA 金標 | [詳情](Guangzhou_Marathon.md#廣州馬拉松-guangzhou-marathon) |
 | 12月 | **深圳馬拉松** | Shenzhen Marathon | 2026 最新：科技森林、深南大道極速平坦賽道、PB/BQ 首選 | WA 金標 | [詳情](Shenzhen_Marathon.md) |
 | 12月 | **廣州黃埔馬拉松** | Guangzhou Huangpu Marathon | 科學城極速平坦、PB 聖殿、梅花補給 | WA 菁英 | [詳情](Guangzhou_Huangpu_Marathon.md) |
 | 12月 | **昆明高原馬** | Kunming Highland Marathon | 2026 最新：春城觀鷗、亞高原挑戰 (1900m)、心肺極限修煉 | WA 一般 | [詳情](Kunming_Highland_Marathon.md) |
