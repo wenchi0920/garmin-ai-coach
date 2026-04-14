@@ -1,3 +1,6 @@
+> **Last Updated**: 2026-04-14
+> **Author**: AI Coach
+
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 忠利保險科隆馬拉松 (Generali Cologne Marathon)
