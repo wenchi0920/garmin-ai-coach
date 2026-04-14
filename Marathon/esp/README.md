@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽西班牙地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-12
+> **Last Updated**: 2026-04-15
 > **Author**: AI Coach
 
 ---
@@ -13,6 +13,7 @@
 | 2月 | **卡斯特利翁馬拉松** | Marató de Castelló | 地中海極速賽道、PB 聖殿、總爬升極低 | AIMS 認證,WA 標籤 | [詳情](Marató_de_Castelló.md) |
 | 2月 | **塞維亞馬拉松** | Zurich Maratón de Sevilla | 歐洲最平滑平坦賽道、穿越千年古城核心、極致 PB 聖地 | AIMS 認證,WA 金標 | [詳情](Zurich_Maratón_de_Sevilla.md) |
 | 3月 | **巴塞隆納馬拉松** | Zurich Marató Barcelona | 地中海風情、高第建築景觀、適合 PB 的高速環狀賽道 | AIMS 認證,WA 金標 | [詳情](Zurich_Marató_Barcelona.md) |
+| 10月 | **瓦倫西亞半程馬拉松** | Half Marathon Valencia Trinidad Alfonso Zurich | 全球最頂尖極速半馬、世界紀錄搖籃、藝術科學城起終點 | AIMS 認證,WA 白金標 | [詳情](Half_Marathon_Valencia_Trinidad_Alfonso_Zurich.md) |
 | 12月 | **蘇黎世保險瓦倫西亞馬拉松** | Zurich Insurance Valencia Marathon | 歐洲最速賽道之一、PB 聖殿、水上終點 | AIMS 認證,WA 白金標 | [詳情](Zurich_Insurance_Valencia_Marathon.md) |
 | 12月 | **瓦倫西亞馬拉松** | Valencia Marathon | 歐洲最平坦快速賽道、世界紀錄搖籃、藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Marathon.md) |
 ---
