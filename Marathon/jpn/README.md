@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-14
+> **Last Updated**: 2026-04-15
 > **Author**: AI Coach
 
 ---
@@ -71,6 +71,7 @@
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | AIMS 認證, JAAF 認證 | [詳情](Shonan_International_Marathon.md) |
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md) |
+| 12月 | **防府讀賣馬拉松** | Hofu Yomiuri Marathon | 菁英賽事、關門時間嚴格、極速平坦、PB 聖殿 | WA 菁英, AIMS 認證, JAAF 認證 | [詳情](Hofu_Yomiuri_Marathon.md) |
 | 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
