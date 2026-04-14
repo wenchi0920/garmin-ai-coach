@@ -3,7 +3,7 @@ Author: AI Coach
 
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
-### 柏林半程馬拉松 (Generali Berliner Halbmarathon)
+### 柏林半程馬拉松 (Generali Berlin Half Marathon)
 
 1. **歷史背景**: 由 SCC Berlin 主辦，起源於 1984 年的西柏林，並在兩德統一後與東柏林的賽事合併。作為全球頂尖的半程馬拉松之一，其歷史見證了柏林的文化交融，終點設於著名的布蘭登堡門，吸引世界各地的頂尖跑者前來挑戰速度極限。
 
