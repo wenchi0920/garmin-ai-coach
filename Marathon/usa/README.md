@@ -14,6 +14,7 @@
 | 1月 | **休斯頓馬拉松週末** | Chevron Houston Marathon, Aramco Houston Half Marathon and We Are Houston 5K | 冬季路跑盛會、全美最快賽道、包含全馬/半馬/5K | AIMS 認證,WA 金標 | [詳情](Chevron_Houston_Marathon.md) |
 | 4月 | **波士頓馬拉松** | Boston Marathon presented by Bank of America | 全球最古老馬拉松、殿堂級 BQ 門檻、點對點挑戰 | AIMS 認證,WA 白金標,WMM | [詳情](Boston_Marathon.md) |
 | 4月 | **Big Sur 國際馬拉松** | Big Sur International Marathon | 全美最美公路、加州 1 號公路、起伏劇烈、點對點賽道 | AIMS 認證 | [詳情](Big_Sur_International_Marathon.md) |
+| 7月 | **哈德遜一英里賽** | Hudson Mile | 美國首場 AIMS 認證 1 英里賽、極速下坡賽道、沃倫街地標 | AIMS 認證 | [詳情](Hudson_Mile.md#哈德遜一英里賽-hudson-mile) |
 | 10月 | **芝加哥馬拉松** | Chicago Marathon | 世界六大馬、極速賽道、城市風光、平坦好跑 | AIMS 認證,WA 白金標,WMM | [詳情](Chicago_Marathon.md) |
 | 10月 | **美國銀行芝加哥馬拉松** | Bank of America Chicago Marathon | 世界六大馬、冠名極速賽道、WMM 殿堂、PB 首選 | AIMS 認證,WA 白金標,WMM | [詳情](Chicago_Marathon.md) |
 | 12月 | **檀香山馬拉松** | Honolulu Marathon | 無限時限制、熱帶風情、煙火起跑、大鑽石山坡度 | AIMS 認證 | [詳情](Honolulu_Marathon.md) |
