@@ -11,3 +11,4 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 5月 | **忠利保險日內瓦馬拉松** | Generali Genève Marathon | 跨越萊芒湖畔、賽道平緩極速、空氣清新 | WA 一般, AIMS 認證 | [詳情](Generali_Geneva_Marathon.md#忠利保險日內瓦馬拉松-generali-genève-marathon) |
 | 7月 | **策馬特馬拉松** | Gornergrat Zermatt Marathon | 眺望馬特洪峰、1469m+ 高海拔爬升、歐洲最美山徑 | AIMS 認證 | [詳情](Gornergrat_Zermatt_Marathon.md#策馬特馬拉松-gornergrat-zermatt-marathon) |
+| 9月 | **烏斯特格賴芬湖跑** | Greifenseelauf Uster | 環湖美景、平緩極速、瑞士最大型半馬、極佳 PB 場地 | WA 一般, AIMS 認證 | [詳情](Greifenseelauf_Uster.md#烏斯特格賴芬湖跑-greifenseelauf-uster) |
