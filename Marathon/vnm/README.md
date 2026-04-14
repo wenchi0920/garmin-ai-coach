@@ -8,4 +8,5 @@ Author: AI Coach
 | 月份 | 賽事名稱(中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 03 | 峴港國際馬拉松 | Danang International Marathon | 越南最美沙灘賽道，城市地標巡禮 | AIMS 認證 | [詳情](Danang_International_Marathon.md) |
+| 10 | 河內遺產國際馬拉松 | Hanoi Heritage International Marathon | 穿越千年古城的文化巡禮 | AIMS 認證 | [詳情](Hanoi_Heritage_International_Marathon.md) |
 
