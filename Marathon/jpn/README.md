@@ -67,6 +67,7 @@
 | 11月 | **神戶馬拉松** | Kobe Marathon | 紀念地震復興、港口美景、最後大橋考驗、甜點之都補給 | WA 菁英, AIMS 認證 | [詳情](Kobe_Marathon.md) |
 | 11月 | **富士山馬拉松** | Fujisan Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證, JAAF 認證 | [詳情](Fujisan_Marathon.md) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
+| 12月 | **福岡國際馬拉松** | Fukuoka International Marathon | 日本三大馬之一、頂尖精英競技、極速平緩、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Fukuoka_International_Marathon.md) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | AIMS 認證, JAAF 認證 | [詳情](Shonan_International_Marathon.md) |
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md) |
