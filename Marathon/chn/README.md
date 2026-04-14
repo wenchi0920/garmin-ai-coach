@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽中國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> Last Updated: 2026-04-14
+> Last Updated: 2026-04-15
 > Author: AI Coach
 
 ---
@@ -41,7 +41,7 @@
 | 10月 | **新余仙女湖馬拉松** | Xinyu Fairy Lake Marathon | 2026 最新：仙女下凡地、環湖景觀賽道、地形微起伏、浪漫愛情主題 | WA 標籤 | [詳情](Xinyu_Fairy_Lake_Marathon.md) |
 | 10月 | **長沙馬拉松** | Changsha Marathon | 2026 最新：湘江美景、一江兩岸、極速平坦賽道、PB/BQ 首選 | AIMS 認證,WA 金標 | [詳情](Changsha_Marathon.md) |
 | 11月 | **北京馬拉松** | Beijing Marathon | 2026 最新：國馬、天安門起跑、極速平坦 PB 聖殿 | AIMS 認證,WA 金標 | [詳情](Beijing_Marathon.md) |
-| 11月 | **杭州馬拉松** | Hangzhou Marathon | 2026 最新：西湖與錢塘江雙景賽道、起伏適中、PB 挑戰 | AIMS 認證,WA 金標 | [詳情](Hangzhou_Marathon.md) |
+| 11月 | **杭州馬拉松** | Hangzhou Marathon | 2026 最新：西湖與錢塘江雙景賽道、起伏適中、PB 挑戰 | AIMS 認證,WA 金標 | [詳情](Hangzhou_Marathon.md#杭州馬拉松-hangzhou-marathon) |
 | 11月 | **南京馬拉松** | Nanjing Marathon | 六朝古都、中山陵、人文氣息濃厚 | WA 金標 | [詳情](Nanjing_Marathon.md) |
 | 11月 | **南昌馬拉松** | Nanchang Marathon | 英雄城、贛江兩岸、極速平坦 | WA 金標 | [詳情](Nanchang_Marathon.md) |
 | 11月 | **黃山馬拉松** | Huangshan Marathon | 躍山向湖、十里山水畫廊、徽派補給 | AIMS 認證,WA 一般 | [詳情](Huangshan_Marathon.md) |
