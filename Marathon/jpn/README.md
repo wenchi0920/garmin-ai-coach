@@ -61,6 +61,7 @@
 | 9月 | **鄂霍次克網走馬拉松** | Okhotsk Abashiri Marathon | 260萬株向日葵花海、網走監獄起點、能取岬海景、最奢華在地補給、限時 6.5 小時友善賽事 | JAAF 認證 | [詳情](Okhotsk_Abashiri_Marathon.md) |
 | 10月 | **別海町馬拉松** | Betsukai Pilot Marathon | 紀念開拓之森、極致平坦直道、鮭魚鮮奶完賽禮、PB 聖殿 | JAAF 認證 | [詳情](Betsukai_Pilot_Marathon.md#別海町馬拉松-betsukai-pilot-marathon) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
+| 10月 | **弘前．白神蘋果馬拉松** | Hirosaki Shirakami Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、世界遺產白神山地 | JAAF 認證 | [詳情](Hirosaki_Shirakami_Apple_Marathon.md) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、極速平坦 PB 聖殿、千波湖美景、41K 終極短坡挑戰 | AIMS 認證, JAAF 認證 | [詳情](Mito_Komon_Manyu_Marathon.md) |
 | 10月 | **岩手盛岡馬拉松** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | AIMS 認證, JAAF 認證 | [詳情](Iwate_Morioka_City_Marathon.md) |
