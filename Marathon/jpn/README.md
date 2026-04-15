@@ -30,6 +30,7 @@
 | 3月 | **東京馬拉松** | Tokyo Marathon | 世界大滿貫、亞洲最受歡迎賽事、極速平緩、氣氛熱烈 | WA 白金標, WMM, AIMS 認證 | [詳情](Tokyo_Marathon.md) |
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證, JAAF 認證 | [詳情](Nagoya_Womens_Marathon.md) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF 認證, AIMS 認證 | [詳情](Nagoya_City_Marathon.md) |
+| 3月 | **靜岡馬拉松** | Shizuoka Marathon | 富士山絕景、極致平坦賽道、駿河灣海風、草莓補給名產 | AIMS 認證, JAAF 認證 | [詳情](Shizuoka_Marathon.md) |
 | 3月 | **鳥取馬拉松** | Tottori Marathon | 跑過鳥取砂丘、海風挑戰、梨與螃蟹湯補給 | AIMS 認證, JAAF 認證 | [詳情](Tottori_Marathon.md) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證, JAAF 認證 | [詳情](Saga_Sakura_Marathon.md) |
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | AIMS 認證, JAAF 認證 | [詳情](Tokushima_Marathon.md) |
