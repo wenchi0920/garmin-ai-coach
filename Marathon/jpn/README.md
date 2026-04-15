@@ -48,6 +48,7 @@
 | 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](Sado_Toki_Marathon.md) |
 | 4月 | **長野馬拉松** | Nagano Marathon | 奧運等級賽道、5小時嚴格限時、奧運場館終點、春季櫻花與殘雪 | WA 菁英, AIMS 認證 | [詳情](Nagano_Marathon.md) |
 | 4月 | **青森櫻花馬拉松** | Aomori Sakura Marathon | 櫻花隧道與陸奧灣海景、賽道極致平緩、完賽蘋果與蘋果汁補給 | JAAF 認證 | [詳情](Aomori_Sakura_Marathon.md#青森櫻花馬拉松-aomori-sakura-marathon) |
+| 4月 | **小山思川櫻花馬拉松** | Oyama Omoigawa Sakura Marathon | 思川櫻隧道、平緩河川敷賽道、小山烏龍麵補給 | JAAF 認證 | [詳情](Oyama_Omoigawa_Sakura_Marathon.md) |
 | 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標認證 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | 一般 | [詳情](Tohoku_Food_Marathon.md#東北風土馬拉松-tohoku-food-marathon) |
 | 4月 | **岐阜清流半程馬拉松** | Gifu Seiryu Half Marathon | 沿長良川奔跑、遠眺岐阜城、賽道極平緩、高橋尚子杯、適合挑戰 PB | WA 金標, AIMS 認證 | [詳情](Gifu_Seiryu_Half_Marathon.md) |
