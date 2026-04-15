@@ -56,6 +56,7 @@
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 日本夏季唯一的頂尖馬拉松，挑戰熱適應 | WA 菁英, AIMS 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF 認證 | [詳情](Haruna_Lake_Marathon.md) |
 | 9月 | **日本最北端稚內和平馬拉松** | Japan's Northernmost Wakkanai Peace Marathon | 日本最北端、宗谷岬出發、海風挑戰、干貝與宗谷黑牛補給 | JAAF 認證 | [詳情](Wakkanai_Peace_Marathon.md) |
+| 9月 | **鄂霍次克網走馬拉松** | Okhotsk Abashiri Marathon | 260萬株向日葵花海、網走監獄起點、能取岬海景、最奢華在地補給、限時 6.5 小時友善賽事 | JAAF 認證 | [詳情](Okhotsk_Abashiri_Marathon.md) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
 | 10月 | **水戶黃門漫遊馬** | Mito Komon Manyu Marathon | 印籠造型獎牌、極速平坦 PB 聖殿、千波湖美景、41K 終極短坡挑戰 | AIMS 認證, JAAF 認證 | [詳情](Mito_Komon_Manyu_Marathon.md) |
