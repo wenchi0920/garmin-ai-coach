@@ -47,6 +47,7 @@
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | AIMS 認證 | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](Sado_Toki_Marathon.md) |
 | 4月 | **長野馬拉松** | Nagano Marathon | 奧運等級賽道、5小時嚴格限時、奧運場館終點、春季櫻花與殘雪 | WA 菁英, AIMS 認證 | [詳情](Nagano_Marathon.md) |
+| 4月 | **茨城霞浦馬拉松兼國際盲人馬拉松** | Kasumigaura Marathon and International Blind Marathon | 日本第二大規模老牌賽事、世界最大盲人馬、平緩湖濱賽道、蓮藕補給 | AIMS 認證, JAAF 認證 | [詳情](Kasumigaura_Marathon.md) |
 | 4月 | **青森櫻花馬拉松** | Aomori Sakura Marathon | 櫻花隧道與陸奧灣海景、賽道極致平緩、完賽蘋果與蘋果汁補給 | JAAF 認證 | [詳情](Aomori_Sakura_Marathon.md#青森櫻花馬拉松-aomori-sakura-marathon) |
 | 4月 | **前橋澀川市馬拉松** | Maebashi-Shibukawa City Marathon | 沿利根川奔跑、前橋與澀川雙城巡禮、初夏田園風光、賽道微起伏 | JAAF 認證 | [詳情](Maebashi_Shibukawa_City_Marathon.md#前橋澀川市馬拉松-maebashi-shibukawa-city-marathon) |
 | 4月 | **小山思川櫻花馬拉松** | Oyama Omoigawa Sakura Marathon | 思川櫻隧道、平緩河川敷賽道、小山烏龍麵補給 | JAAF 認證 | [詳情](Oyama_Omoigawa_Sakura_Marathon.md) |
