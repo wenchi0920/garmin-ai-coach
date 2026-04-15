@@ -14,7 +14,7 @@
 | 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md) |
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
 | 1月 | **高科技馬拉松** | High-Tech Half Marathon | 東京荒川河川敷、極速平坦賽道、精英雲集、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](High-Tech_Half_Marathon.md) |
-| 1月 | **勝田全國馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md) |
+| 1月 | **勝田全國馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md#勝田全國馬拉松-katsuta-national-marathon) |
 | 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md) |
 | 2月 | **別府大分每日馬拉松 (大分馬)** | Beppu-Oita Mainichi Marathon | 日本三大馬之一、頂尖競技門檻、極速平緩海岸線、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md) |
 | 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 菁英, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md) |
