@@ -40,6 +40,7 @@
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
 | 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](Sakura_Marathon.md) |
 | 3月 | **古河花桃馬拉松** | Koga Hanamomo Marathon | 超平坦賽道、25000株花桃綻放、PB 聖殿、關東極速賽道 | AIMS 認證, JAAF 認證 | [詳情](Koga_Hanamomo_Marathon.md#古河花桃馬拉松-koga-hanamomo-marathon) |
+| 3月 | **東京板橋馬拉松** | Itabashi City Marathon | 東京荒川河川敷、極致平坦、適合挑戰 PB、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Itabashi_City_Marathon.md#東京板橋馬拉松-itabashi-city-marathon) |
 | 3月 | **四萬十川櫻花馬拉松** | Shimanto River Cherry Blossom Marathon | 日本最後清流、沈下橋、櫻花隧道 | JAAF 認證 | [詳情](Shimanto_River_Cherry_Blossom_Marathon.md) |
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | AIMS 認證 | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](Sado_Toki_Marathon.md) |
