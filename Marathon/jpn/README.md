@@ -46,6 +46,7 @@
 | 5月 | **富山清流馬拉松** | Toyama Seiryu Marathon | 沿神通川河川敷奔跑、立山連峰遠眺、黃金週在地賽事、小而美全馬 | - | [詳情](Toyama_Seiryu_Marathon.md) |
 | 5月 | **岩手奧州閃耀馬拉松** | Iwate Oshu Kirameki Marathon | 極速平原、奧州前澤牛補給、東北初夏風景、適合挑戰 PB | JAAF 認證 | [詳情](Iwate_Oshu_Kirameki_Marathon.md) |
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](Northern_Horse_Park_Marathon.md) |
+| 5月 | **洞爺湖馬拉松** | Lake Toya Marathon | 絕美湖景環繞、極速平緩、BQ 認證賽道、PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Lake_Toya_Marathon.md#洞爺湖馬拉松-lake-toya-marathon) |
 | 5月 | **山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | - | [詳情](Chitose_JAL_International_Marathon.md) |
