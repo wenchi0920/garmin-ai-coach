@@ -39,6 +39,7 @@
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | AIMS 認證, JAAF 認證 | [詳情](Tokushima_Marathon.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
 | 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](Sakura_Marathon.md) |
+| 3月 | **佐倉朝日健康馬拉松** | Sakura Asahi Kenko Marathon | 關東老牌賽事、印旛沼風車美景、極速平坦 PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Sakura_Asahi_Kenko_Marathon.md#佐倉朝日健康馬拉松-sakura-asahi-kenko-marathon) |
 | 3月 | **古河花桃馬拉松** | Koga Hanamomo Marathon | 超平坦賽道、25000株花桃綻放、PB 聖殿、關東極速賽道 | AIMS 認證, JAAF 認證 | [詳情](Koga_Hanamomo_Marathon.md#古河花桃馬拉松-koga-hanamomo-marathon) |
 | 3月 | **東京板橋馬拉松** | Itabashi City Marathon | 東京荒川河川敷、極致平坦、適合挑戰 PB、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Itabashi_City_Marathon.md#東京板橋馬拉松-itabashi-city-marathon) |
 | 3月 | **四萬十川櫻花馬拉松** | Shimanto River Cherry Blossom Marathon | 日本最後清流、沈下橋、櫻花隧道 | JAAF 認證 | [詳情](Shimanto_River_Cherry_Blossom_Marathon.md) |
