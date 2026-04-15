@@ -30,7 +30,7 @@
 | 2月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | JAAF 認證 | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
 | 2月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
 | 2月 | **磐城陽光馬拉松** | Iwaki Sunshine Marathon | 復興象徵、海濱絕景、熱情在地應援、小名濱港景觀 | AIMS 認證, JAAF 認證 | [詳情](Iwaki_Sunshine_Marathon.md#磐城陽光馬拉松-iwaki-sunshine-marathon) |
-| 3月 | **東京馬拉松** | Tokyo Marathon | 世界大滿貫、亞洲最受歡迎賽事、極速平緩、氣氛熱烈 | WA 白金標, WMM, AIMS 認證 | [詳情](Tokyo_Marathon.md) |
+| 3月 | **東京馬拉松** | Tokyo Marathon | 世界大滿貫、亞洲最受歡迎賽事、極速平緩、氣氛熱烈 | WA 白金標, WMM, AIMS 認證 | [詳情](Tokyo_Marathon.md#東京馬拉松-tokyo-marathon) |
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證, JAAF 認證 | [詳情](Nagoya_Womens_Marathon.md) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF 認證, AIMS 認證 | [詳情](Nagoya_City_Marathon.md) |
 | 3月 | **靜岡馬拉松** | Shizuoka Marathon | 富士山絕景、極致平坦賽道、駿河灣海風、草莓補給名產 | AIMS 認證, JAAF 認證 | [詳情](Shizuoka_Marathon.md) |
