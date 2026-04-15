@@ -49,7 +49,7 @@
 | 5月 | **洞爺湖馬拉松** | Lake Toya Marathon | 絕美湖景環繞、極速平緩、BQ 認證賽道、PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Lake_Toya_Marathon.md#洞爺湖馬拉松-lake-toya-marathon) |
 | 5月 | **山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
-| 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | - | [詳情](Chitose_JAL_International_Marathon.md) |
+| 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | AIMS 認證, JAAF 認證 | [詳情](Chitose_JAL_International_Marathon.md#千歲jal國際馬拉松-chitose-jal-international-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | 一般 | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
 | 6/7月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | - | [詳情](Hakodate_Marathon.md) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 日本夏季唯一的頂尖馬拉松，挑戰熱適應 | WA 菁英, AIMS 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
