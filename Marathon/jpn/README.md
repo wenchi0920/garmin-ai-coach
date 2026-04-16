@@ -66,6 +66,7 @@
 | 6月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | AIMS 認證, JAAF 認證 | [詳情](Hakodate_Marathon.md#函館馬拉松-hakodate-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | 一般 | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
 | 6月 | **利尻島一周悠遊覽人Ｇ** | Rishiri Island 55km Run | 環島55K、絕美利尻富士景觀、海膽與昆布補給、悠閒氛圍 | - | [詳情](Rishiri_Island_55km_Run.md#利尻島一周悠遊覽人ｇ-rishiri-island-round-the-island-leisurely-run-g) |
+| 6月 | **隱岐之島超級馬拉松** | Okinoshima Ultra Marathon | 日本百選賽道、巨坂挑戰、累計爬升大、熱情島民應援 | JUA 認證 | [詳情](Okinoshima_Ultra_Marathon.md#隱岐之島超級馬拉松-okinoshima-ultra-marathon) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 日本夏季唯一的頂尖馬拉松，挑戰熱適應 | WA 菁英, AIMS 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF 認證 | [詳情](Haruna_Lake_Marathon.md#榛名湖馬拉松-haruna-lake-marathon) |
 | 9月 | **日本最北端稚內和平馬拉松** | Japan's Northernmost Wakkanai Peace Marathon | 日本最北端、宗谷岬出發、海風挑戰、干貝與宗谷黑牛補給 | JAAF 認證 | [詳情](Wakkanai_Peace_Marathon.md) |
