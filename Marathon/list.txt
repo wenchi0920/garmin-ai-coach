@@ -27,7 +27,6 @@
 佐渡島朱鷺馬拉松
 柏崎潮風馬拉松 
 富山清流馬拉松 
-黑部名水馬拉松
 乘鞍天空馬拉松
 松本馬拉松
 新潟城市馬拉松
@@ -85,7 +84,6 @@
 長崎平和馬拉松
 青島太平洋馬拉松
 福岡國際馬拉松
-石垣島馬拉松
 沖繩馬拉松
 伊平屋月光馬拉松
 久米島馬拉松
@@ -165,7 +163,6 @@ JTBC Seoul Marathon
 Jungfrau-Marathon
 Kagawa Marugame International Half Marathon
 Kanazawa Marathon
-Kaohsiung Fubon Marathon
 Kathmandu Marathon
 Kaunas Marathon
 Kauno maratonas
@@ -353,7 +350,6 @@ SKF Goa River Marathon
 Songkhla Marathon
 Sparkasse 3-Länder-Marathon
 SPB Half Marathon. The Northern Capital
-Spiritual Marathon of Fez
 Spiti Marathon
 Split Marathon
 Split Maraton
