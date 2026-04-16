@@ -1,4 +1,4 @@
-Last Updated: 2026-04-16
+Last Updated: 2026-04-17
 Author: AI Coach
 
 # 🇮🇹 義大利賽事索引 (Italy Race Index)
@@ -15,6 +15,7 @@ Author: AI Coach
 | 10 | 威尼斯馬拉松 | Venice Marathon | 穿越百年古城的藝術巡禮，橫跨大運河浮橋與 14 座橋樑的獨特體驗。 | WA 菁英, AIMS 認證 | [詳情](Venice_Marathon.md) |
 | 11 | 拉文納馬拉松 | Ravenna Marathon City of Art | 穿越 UNESCO 世界文化遺產的時空旅行，以手工馬賽克獎牌聞名。 | AIMS 認證 | [詳情](Ravenna_Marathon.md) |
 | 11 | 佛羅倫斯馬拉松 | Estra Firenze Marathon | 穿越文藝復興之都，歷史建築與古城石板路的藝術巡禮。 | WA 菁英, AIMS 認證 | [詳情](Estra_Firenze_Marathon.md) |
+| 11 | 米蘭 21 半程馬拉松 | Milano21 Half Marathon | 於時尚之都米蘭舉辦的極速半馬，氣候涼爽且賽道平坦，極具 PB 潛力。 | WA 一般, AIMS 認證 | [詳情](Milano21_Half_Marathon.md#米蘭-21-半程馬拉松-milano21-half-marathon) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)

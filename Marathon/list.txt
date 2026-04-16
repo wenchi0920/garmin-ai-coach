@@ -18,7 +18,6 @@
 名古屋女子馬拉松
 掛川新茶馬拉松
 長野馬拉松
-佐渡島朱鷺馬拉松
 柏崎潮風馬拉松 
 富山清流馬拉松 
 乘鞍天空馬拉松
@@ -228,7 +227,6 @@ Meia Maratona Internacional Da Paz
 MG Vadodara International Marathon
 Miðnæturhlaup Suzuki
 Midnight Sun Marathon
-Milano21 Half Marathon
 Milano Marathon
 Milton Keynes Marathon &amp; Half Marathon
 Miri Marathon
