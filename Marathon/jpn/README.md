@@ -60,6 +60,7 @@
 | 4月 | **長野馬拉松** | Nagano Marathon | 奧運等級賽道、5小時嚴格限時、奧運場館終點、春季櫻花與殘雪 | WA 菁英, AIMS 認證 | [詳情](Nagano_Marathon.md) |
 | 4月 | **小山思川櫻花馬拉松** | Oyama Omoigawa Sakura Marathon | 思川櫻隧道、平緩河川敷賽道、小山烏龍麵補給 | JAAF 認證 | [詳情](Oyama_Omoigawa_Sakura_Marathon.md) |
 | 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](Sado_Toki_Marathon.md) |
+| 4月 | **燒津港馬拉松** | Yaizu Harbor Marathon | 鰹魚之鄉、平坦港灣賽道、著名鰹魚獎品、PB 聖地 | JAAF 認證 | [詳情](Yaizu_Harbor_Marathon.md#燒津港馬拉松-yaizu-harbor-marathon) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | 一般 | [詳情](Tohoku_Food_Marathon.md#東北風土馬拉松-tohoku-food-marathon) |
 | 5月 | **岩手奧州閃耀馬拉松** | Iwate Oshu Kirameki Marathon | 極速平原、奧州前澤牛補給、東北初夏風景、適合挑戰 PB | JAAF 認證 | [詳情](Iwate_Oshu_Kirameki_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
