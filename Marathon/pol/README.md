@@ -9,6 +9,7 @@ Author: AI Coach
 | 4 | 克拉科夫馬拉松 | Cracovia Marathon | 跑過中世紀歷史古城的文化饗宴 | WA 一般, AIMS 認證 | [詳情](Cracovia_Marathon.md) |
 | 4 | PKO 波茲南半程馬拉松 | PKO Poznań Halfmarathon | 波蘭最速半馬、環繞歷史古城、PB 潛力極高 | WA 一般, AIMS 認證 | [詳情](PKO_Poznan_Halfmarathon.md#pko-波茲南半程馬拉松-pko-poznań-halfmarathon) |
 | 4 | 第19屆 PKO 波茲南半程馬拉松 | 19th PKO Poznań Halfmarathon | 2026年里程碑之作、PB 聖殿、中歐頂尖賽事 | WA 一般, AIMS 認證 | [詳情](PKO_Poznan_Halfmarathon.md#第19屆-pko-波茲南半程馬拉松-19th-pko-poznań-halfmarathon) |
+| 5 | PKO 格丁尼亞半程馬拉松 | PKO Gdynia Half Marathon | 世界半馬錦標賽級賽道、波羅的海海港風光、PB 聖地 | WA 一般, AIMS 認證 | [詳情](PKO_Gdynia_Half_Marathon.md#pko-格丁尼亞半程馬拉松-pko-gdynia-half-marathon) |
 | 6 | PKO 弗羅茨瓦夫夜間半程馬拉松 | PKO Nocny Wrocław Półmaraton | 歐洲最大規模夜跑、百橋之城音樂饗宴、PB 賽道 | WA 菁英, AIMS 認證 | [詳情](PKO_Nocny_Wroclaw_Polmaraton.md#pko-弗羅茨瓦夫夜間半程馬拉松-pko-nocny-wrocław-półmaraton) |
 | 9 | 華沙馬拉松 | Warsaw Marathon | 首都平坦賽道、維斯杜拉河景觀、PB 聖殿、歷史傳承 | WA 一般, AIMS 認證 | [詳情](Warsaw_Marathon.md) |
 | 10 | 波茲南馬拉松 | Poznań Marathon | 波蘭規模最大、競技氛圍最濃厚的賽事 | WA 一般, AIMS 認證 | [詳情](Poznań_Marathon.md) |
