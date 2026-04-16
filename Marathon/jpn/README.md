@@ -57,6 +57,7 @@
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | AIMS 認證 | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標認證 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md) |
 | 4月 | **岐阜清流半程馬拉松** | Gifu Seiryu Half Marathon | 沿長良川奔跑、遠眺岐阜城、賽道極平緩、高橋尚子杯、適合挑戰 PB | WA 金標, AIMS 認證 | [詳情](Gifu_Seiryu_Half_Marathon.md) |
+| 4月 | **加賀溫泉鄉馬拉松** | Kaga Onsen-kyo Marathon | 三名湯巡禮、櫻花隧道、波狀起伏挑戰、溫泉鄉熱情補給 | JAAF 認證 | [詳情](Kaga_Onsen_Marathon.md) |
 | 4月 | **茨城霞浦馬拉松兼國際盲人馬拉松** | Kasumigaura Marathon and International Blind Marathon | 日本第二大規模老牌賽事、世界最大盲人馬、平緩湖濱賽道、蓮藕補給 | AIMS 認證, JAAF 認證 | [詳情](Kasumigaura_Marathon.md) |
 | 4月 | **前橋澀川市馬拉松** | Maebashi-Shibukawa City Marathon | 沿利根川奔跑、前橋與澀川雙城巡禮、初夏田園風光、賽道微起伏 | JAAF 認證 | [詳情](Maebashi_Shibukawa_City_Marathon.md#前橋澀川市馬拉松-maebashi-shibukawa-city-marathon) |
 | 4月 | **長野馬拉松** | Nagano Marathon | 奧運等級賽道、5小時嚴格限時、奧運場館終點、春季櫻花與殘雪 | WA 菁英, AIMS 認證 | [詳情](Nagano_Marathon.md) |
@@ -123,4 +124,3 @@
 ---
 
 [⬅️ 返回全球賽事索引](../README.md)
-
