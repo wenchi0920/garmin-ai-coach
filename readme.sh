@@ -49,6 +49,10 @@ for f in $recent_activities_list; do
 done
 
 # 4. 建構 Prompt
+today=$(date +%Y-%m-%d)
+week_num=$(date +%V)
+year=$(date +%Y)
+
 PROMPT="$CONTEXT_FILES
 你現在是一位資深的馬拉松教練 AI Coach。請根據提供附件內容，更新目前的 @README.md。
 
@@ -57,6 +61,7 @@ PROMPT="$CONTEXT_FILES
 1. **系統核心定位**：簡述系統如何結合數據分析與自動化課表，協助跑者達成目標。
 2. **🎯 核心賽事目標**：從 PERSON.md 提取雪梨馬拉松等關鍵資訊與當前跑力 VDOT , 大約 300 字。
 3. **📊 最新健康與恢復摘要**：
+   - **今天日期 ${today}, 為 ${year} 第 W${week_num} 週 **
    - 整合最近兩天健康數據內容。
    - 提供健康摘要的 table。
    - 結合 $current_workout 中的「上週回顧」。
