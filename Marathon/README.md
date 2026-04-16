@@ -104,6 +104,7 @@
 | **🇵🇪 秘魯 (Peru)** | 利馬馬拉松(WA菁英標)，安地斯山脈下的太平洋海岸平原賽道。 | [進入索引](per/README.md) |
 | **🇨🇼 庫拉索 (Curaçao)** | 橫跨加勒比海最高大橋，絕美荷式殖民建築與 AIMS 認證賽道。 | [進入索引](cuw/README.md) |
 | **🇦🇼 阿魯巴 (Aruba)** | 荷蘭皇家航空馬拉松，加勒比海白沙灘與極致平坦的熱帶挑戰。 | [進入索引](abw/README.md) |
+| **🇹🇹 特立尼達和多巴哥 (Trinidad and Tobago)** | 加勒比海地區歷史悠久的 UWI SPEC 半馬，體驗熱帶氣候與學術競技文化。 | [進入索引](tto/README.md) |
 | **🇫🇰 福克蘭群島 (Falkland Islands)** | 全球最南端 AIMS 認證賽事，挑戰南大西洋強風與極地景觀。 | [進入索引](flk/README.md) |
 
 ### 🦁 非洲 (Africa)
