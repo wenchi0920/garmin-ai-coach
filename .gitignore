@@ -16,3 +16,4 @@ garmin-tools-kit
 venv
 .git
 logs/*.log
+Marathon/list.txt.tmp
