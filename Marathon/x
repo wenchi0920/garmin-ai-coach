@@ -1,0 +1,6 @@
+
+
+
+for d in */; do python3 fix_marathon_format.py "${d%/}" ;  python3 fix_readme_link.py "${d%/}"; done
+
+
