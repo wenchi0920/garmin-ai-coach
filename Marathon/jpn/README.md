@@ -115,7 +115,8 @@
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md) |
 | 11月 | **與那國島一周馬** | Yonaguni Island Around Marathon | 日本最西端、海島風光、起伏挑戰 | 一般 | [詳情](Yonaguni_Island_Around_Marathon.md) |
 | 12月 | **富士馬拉松祭** | Fuji Marathon Festa | 賽車場競技、富士山景觀、FIA等級賽道、獨特起伏挑戰 | JAAF 認證 | [詳情](Fuji_Marathon_Festa.md) |
-| 12月 | **福岡國際馬拉松** | Fukuoka International Marathon | 日本三大馬之一、頂尖精英競技、極速平緩、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Fukuoka_International_Marathon.md) |
+| 12月 | **福岡國際馬拉松** | Fukuoka International Marathon | 日本三大馬之一、 頂尖精英競技、極速平緩、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Fukuoka_International_Marathon.md) |
+| 12月 | **芳賀路馬拉松** | Haga Road Marathon | 栃木縣芳賀地區巡禮、SL蒸氣火車應援、草莓名產補給、波狀起伏賽道 | JAAF 認證 | [詳情](Haga_Road_Marathon.md) |
 | 12月 | **防府讀賣馬拉松** | Hofu Yomiuri Marathon | 菁英賽事、關門時間嚴格、極速平坦、PB 聖殿 | WA 菁英, AIMS 認證, JAAF 認證 | [詳情](Hofu_Yomiuri_Marathon.md) |
 | 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
