@@ -24,7 +24,7 @@
 | 2月 | **愛媛馬拉松** | Ehime Marathon | 四國文化巡禮、松山城起終點、柑橘特色補給、賽道緩起伏、適合挑戰 **PB** | AIMS 認證, WA 菁英 | [詳情](Ehime_Marathon.md) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | 一般 | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
 | 2月 | **磐城陽光馬拉松** | Iwaki Sunshine Marathon | 復興象徵、海濱絕景、熱情在地應援、小名濱港景觀 | AIMS 認證, JAAF 認證 | [詳情](Iwaki_Sunshine_Marathon.md#磐城陽光馬拉松-iwaki-sunshine-marathon) |
-| 2月 | **香川丸龜國際半程馬拉松** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 菁英, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md) |
+| 2月 | **香川丸龜國際半程馬拉松大賽** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 金標, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md#香川丸龜國際半程馬拉松-kagawa-marugame-international-half-marathon) |
 | 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | JAAF 認證 | [詳情](Kishu_Kuchikumano_Marathon.md) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md) |
