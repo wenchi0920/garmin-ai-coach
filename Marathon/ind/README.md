@@ -19,6 +19,7 @@
 | 10月 | **德里半程馬拉松** | Vedanta Delhi Half Marathon | 全球最速半馬賽道之一，穿越印度門地標，高獎金吸引頂尖選手。 | AIMS 認證, WA 金標 | [詳情](Delhi_Half_Marathon.md) |
 | 12月 | **班加羅爾午夜馬拉松** | Bengaluru Midnight Marathon | 印度唯一的午夜馬拉松，在星空下穿越班加羅爾 IT 園區，熱點搖滾音樂補給。 | AIMS 認證, WA 一般 | [詳情](Bengaluru_Midnight_Marathon.md) |
 | 12月 | **博帕爾馬拉松** | Run Bhopal Run | 環繞「湖泊之城」博傑塔爾湖，結合起伏地形與城市風景，推廣環保與健康理念。 | AIMS 認證 | [詳情](Run_Bhopal_Run.md#博帕爾馬拉松-run-bhopal-run) |
+| 12月 | **粉紅之城半程馬拉松 - 第 10 屆** | Vedanta Pink City Half Marathon – 10th Edition | 穿越齋浦爾世界遺產、推廣粉紅絲帶公益。 | AIMS 認證 | [詳情](Vedanta_Pink_City_Half_Marathon.md#粉紅之城半程馬拉松---第-10-屆-vedanta-pink-city-half-marathon--10th-edition) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
