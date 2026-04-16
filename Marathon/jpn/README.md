@@ -90,6 +90,7 @@
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
 | 11月 | **富士山馬拉松** | Fujisan Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證, JAAF 認證 | [詳情](Fujisan_Marathon.md) |
 | 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |
+| 11月 | **揖斐川馬拉松** | Ibigawa Marathon | 岐阜縣經典山徑、紅葉絕景、連續起伏挑戰、熱情小鎮應援 | AIMS 認證, JAAF 認證 | [詳情](Ibigawa_Marathon.md#揖斐川馬拉松-ibigawa-marathon) |
 | 11月 | **溫泉之城飯坂、茂庭湖馬拉松** | Iizaka Moniwa Lake Marathon | 摺上川沿岸美景、茂庭湖水庫大壩爬升、溫泉街巡禮、100%在地補給 | JAAF 認證 | [詳情](Iizaka_Moniwa_Lake_Marathon.md#溫泉之城飯坂茂庭湖馬拉松-iizaka-moniwa-lake-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
 | 11月 | **神戶馬拉松** | Kobe Marathon | 紀念地震復興、港口美景、最後大橋考驗、甜點之都補給 | WA 菁英, AIMS 認證 | [詳情](Kobe_Marathon.md) |
