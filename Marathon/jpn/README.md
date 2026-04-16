@@ -35,6 +35,7 @@
 | 2月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
+| 3月 | **鹿兒島馬拉松** | Kagoshima Marathon | 燃燒的薩摩人精神、櫻島火山絕景、世界遺產巡禮、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Kagoshima_Marathon.md) |
 | 3月 | **東京板橋馬拉松** | Itabashi City Marathon | 東京荒川河川敷、極致平坦、適合挑戰 PB、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Itabashi_City_Marathon.md#東京板橋馬拉松-itabashi-city-marathon) |
 | 3月 | **古河花桃馬拉松** | Koga Hanamomo Marathon | 超平坦賽道、25000株花桃綻放、PB 聖殿、關東極速賽道 | AIMS 認證, JAAF 認證 | [詳情](Koga_Hanamomo_Marathon.md#古河花桃馬拉松-koga-hanamomo-marathon) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF 認證, AIMS 認證 | [詳情](Nagoya_City_Marathon.md) |
