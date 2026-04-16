@@ -10,7 +10,6 @@
 大田原馬拉松
 筑波馬拉松 
 埼玉國際馬拉松(停辦)
-湘南國際馬拉松
 佐野馬拉松
 名古屋女子馬拉松
 掛川新茶馬拉松
@@ -39,7 +38,6 @@
 神戸馬拉松
 福知山馬拉松
 大阪馬拉松 
-奈良馬拉松
 加古川馬拉松
 松阪市馬拉松
 永平寺朝倉馬拉松
@@ -52,7 +50,6 @@
 愛媛馬拉松
 高知龍馬馬拉松
 徳島・海陽究極的清流海部川風流馬拉松
-德島馬拉松
 龍馬脫藩馬拉松
 瀬戸内海烏龜馬拉松
 指宿油菜花馬拉松
@@ -216,7 +213,6 @@ Mitja Marató Internacional Vila de Santa Pola
 Montepio Meia Maratona de Cascais
 Monterey Bay Half Marathon
 Moscow Half Marathon
-Movistar Madrid Medio Maratón
 Nagano Marathon
 Nagoya Women’s Marathon
 Napoli City Half Marathon
