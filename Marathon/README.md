@@ -90,6 +90,7 @@
 | :--- | :--- | :--- |
 | **🇦🇺 澳洲 (Australia)** | 雪梨馬(WMM)新晉成員，挑戰海港大橋絕景。 | [進入索引](aus/README.md) |
 | **🇳🇿 紐西蘭 (New Zealand)** | 皇后鎮與奧克蘭的壯闊自然山水巡禮。 | [進入索引](nzl/README.md) |
+| **🇲🇵 北馬利亞納群島 (Northern Mariana Islands)** | 塞班馬拉松，體驗太平洋絕美海景與密克羅尼西亞熱情。 | [進入索引](mnp/README.md) |
 
 ### 🌎 中南美洲 (Latin America)
 | 國家/地區 | 特色描述 | 賽事索引 |
