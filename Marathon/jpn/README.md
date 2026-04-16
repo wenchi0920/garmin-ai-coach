@@ -120,6 +120,7 @@
 | 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md) |
+| 12月 | **水口野口杯中日三重伊勢桑馬拉松賽** | Noguchi Mizuki Cup Ise City Marathon | 野口みずき故鄉賽事、參拜伊勢神宮、御祓町傳統街道、適合實戰 LSD | JAAF 認證 | [詳情](Noguchi_Mizuki_Cup_Ise_City_Marathon.md#水口野口杯中日三重伊勢桑馬拉松賽-noguchi-mizuki-cup-ise-city-marathon) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | AIMS 認證, JAAF 認證 | [詳情](Shonan_International_Marathon.md) |
 ---
 
