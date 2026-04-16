@@ -33,6 +33,7 @@
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 穿越美軍基地、美式風情、破碎緩坡挑戰、熱情南國應援 | AIMS 認證, JAAF 認證 | [詳情](Okinawa_Marathon.md) |
 | 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md) |
 | 2月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
+| 2月 | **玉名韋駄天馬拉松** | Tamana Idaten Marathon | 馬拉松之父故鄉、金栗四三紀念賽、極速平坦河岸賽道、玉名拉麵補給 | JAAF 認證 | [詳情](Tamana_Idaten_Marathon.md) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
 | 3月 | **鹿兒島馬拉松** | Kagoshima Marathon | 燃燒的薩摩人精神、櫻島火山絕景、世界遺產巡禮、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Kagoshima_Marathon.md) |
