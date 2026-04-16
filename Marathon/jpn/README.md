@@ -86,6 +86,7 @@
 | 10月 | **別海町馬拉松** | Betsukai Pilot Marathon | 紀念開拓之森、極致平坦直道、鮭魚鮮奶完賽禮、PB 聖殿 | JAAF 認證 | [詳情](Betsukai_Pilot_Marathon.md#別海町馬拉松-betsukai-pilot-marathon) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **筑後川馬拉松** | Chikugo River Marathon | 沿筑後川河岸奔跑、極致平坦、九州老牌賽事、適合初馬與挑戰 PB | JAAF 認證 | [詳情](Chikugo_River_Marathon.md) |
+| 10月 | **福井馬拉松 (停賽中)** | Fukui Marathon | 歷史悠久城市賽、福井代表性秋季賽事、因櫻花馬整合而停賽 | JAAF 認證 | [詳情](Fukui_Marathon.md) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
 | 10月 | **弘前．白神蘋果馬拉松** | Hirosaki Shirakami Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、世界遺產白神山地 | JAAF 認證 | [詳情](Hirosaki_Shirakami_Apple_Marathon.md) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](Iheya_Moonlight_Marathon.md) |
