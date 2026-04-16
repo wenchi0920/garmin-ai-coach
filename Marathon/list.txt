@@ -110,7 +110,6 @@
 橫須賀‧三浦道草超級馬拉松
 柴又100K
 南砺100公里超級馬拉松
-飛騨高山超級馬拉松
 岩手縣銀河100K挑戰馬拉松
 日光超級馬拉松(停賽中)
 薩羅麻湖超級馬拉松 (佐呂間湖)
@@ -394,7 +393,6 @@ Tata Steel World 25K Kolkata
 TAWANG Marathon
 TCS Amsterdam Marathon
 TCS New York City Marathon
-TCS Toronto Waterfront Marathon
 Techcombank Hanoi International Marathon
 Techcombank Ho Chi Minh City International Marathon
 Tel Aviv Bank Leumi Marathon

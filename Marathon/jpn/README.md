@@ -68,6 +68,7 @@
 | 5月 | **山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | AIMS 認證, JAAF 認證 | [詳情](Chitose_JAL_International_Marathon.md#千歲jal國際馬拉松-chitose-jal-international-marathon) |
 | 6月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | AIMS 認證, JAAF 認證 | [詳情](Hakodate_Marathon.md#函館馬拉松-hakodate-marathon) |
+| 6月 | **飛騨高山超級馬拉松** | Hida Takayama Ultra Marathon | 飛騨小京都、極限爬升(2700m+)、飛騨牛補給、身心修煉 | JAAF 認證 | [詳情](Hida_Takayama_Ultra_Marathon.md) |
 | 6月 | **高野龍神超級馬拉松** | Koya Ryujin Ultra Marathon | 世界遺產高野龍神 Skyline、全日本最高海拔超馬、極限 2000m+ 爬升挑戰、身心修煉之道 | JAAF 認證 | [詳情](Koya_Ryujin_Ultra_Marathon.md#高野龍神超級馬拉松-koya-ryujin-ultra-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | 一般 | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
 | 6月 | **利尻島一周悠遊覽人Ｇ** | Rishiri Island 55km Run | 環島55K、絕美利尻富士景觀、海膽與昆布補給、悠閒氛圍 | - | [詳情](Rishiri_Island_55km_Run.md#利尻島一周悠遊覽人ｇ-rishiri-island-round-the-island-leisurely-run-g) |
