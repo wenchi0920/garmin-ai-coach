@@ -18,6 +18,7 @@ Author: AI Coach
 | 7月 | **芭達雅馬拉松** | Amazing Thailand Pattaya Marathon | 濱海賽道、熱帶挑戰、泰國歷史最久賽事之一 | WA 菁英 | [詳情](Pattaya_Marathon.md) |
 | 8月 | **也拉馬拉松** | Yala Marathon | 泰南邊境和平跑、文化多元、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Yala_Marathon.md) |
 | 8月 | **宋卡國際馬拉松** | Songkhla International Marathon | 撒米拉海灘景觀、極致平坦海濱賽道、泰南文化融合 | AIMS 認證 | [詳情](Songkhla_International_Marathon.md) |
+| 8月 | **美莫半程馬拉松** | Mae Moh Half Marathon | 泰北指標丘陵賽、EGAT美莫礦場景觀、高落差挑戰、涼爽氣候 | AIMS 認證 | [詳情](Mae_Moh_Half_Marathon.md#美莫半程馬拉松-mae-moh-half-marathon) |
 | 11月 | **曼谷馬拉松** | Bangkok Marathon | 泰國規模最大、歷史悠久、大皇宮起終點、凌晨起跑 | AIMS 認證 | [詳情](Bangkok_Marathon.md) |
 | 11月 | **邦盛 42 春武里馬拉松** | Bangsaen42 Chonburi Marathon | 泰國唯一全馬組別賽事、WA 菁英標、海濱平坦、極致美食 | WA 菁英 | [詳情](Bangsaen42_Chonburi_Marathon.md) |
 | 12月 | **曼谷午夜馬拉松** | Bangkok Midnight Marathon | 首都夜行、星光地標、極致平坦但濕熱考驗 | AIMS 認證 | [詳情](Bangkok_Midnight_Marathon.md) |
