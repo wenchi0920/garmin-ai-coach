@@ -15,7 +15,6 @@
 湘南國際馬拉松
 佐野馬拉松
 芳賀路馬拉松
-靜岡馬拉松
 名古屋女子馬拉松
 掛川新茶馬拉松
 長野馬拉松
@@ -151,7 +150,6 @@ Kanazawa Marathon
 Kathmandu Marathon
 Kauno maratonas
 Kazan Half Marathon
-Kazan Marathon
 Khao Yai Marathon
 Kia Half Marathon &amp; 10k by Puma
 Kigali International Peace Marathon
