@@ -24,19 +24,20 @@ echo "========================================"
 printf "%-35s | %-18s | %-15s\n" "賽事名稱" "國家索引 (List)" "詳細分析 (Info)"
 echo "-----------------------------------------------------------------------------"
 
-# 隨機排序 list.txt 以分散處理壓力
+# 隨機排序 list.txt 以分散處理壓力 (每次重讀以反映清單異動)
 IFS=$'\n'
-for m in $(cat "$LIST_FILE" | sort ); 
-do 
-    # 清理潛在的隱形字元
-    m=$(echo "$m" | tr -d '\r' | xargs)
-    [ -z "$m" ] && continue
+
+# TODO: 每次都要 reload list.txt
+while [ -s "$LIST_FILE" ]; do
+    # 從目前的 list.txt 中隨機挑選一個賽事
+    m=$(shuf -n 1 "$LIST_FILE" | tr -d '\r' | xargs)
+    [ -z "$m" ] && break
 
     # 檢查是否在各國 README.md (索引) 中出現過 (排除頂層 README.md)
     hasList=$(grep -Fl "${m}" */README.md 2>/dev/null)
     
-    # 檢查是否在各國 info.md (詳情) 中出現過
-    hasInfo=$(grep -Fl "${m}" */info.md 2>/dev/null)
+    # 檢查是否在各國詳情庫 (*.md) 中出現過 (排除 README.md)
+    hasInfo=$(grep -Fl "${m}" */*.md 2>/dev/null | grep -v "/README.md" | head -n 1)
 
     # 狀態標記
     list_status="[ - ]"
@@ -52,6 +53,13 @@ do
     if [ -n "$hasInfo" ]; then
         [ -z "$country" ] && country=$(dirname "$hasInfo")
         info_status="[ OK ]"
+    fi
+
+    # 如果已完整，則從 list.txt 移除並繼續下一個
+    if [[ "$list_status" != "[ - ]" && "$info_status" != "[ - ]" ]]; then
+        grep -F -v -x "$m" "$LIST_FILE" > "${LIST_FILE}.tmp" && mv "${LIST_FILE}.tmp" "$LIST_FILE"
+        printf "%-35s | %-18s | %-15s\n" "  $m" "$list_status" "$info_status"
+        continue
     fi
 
     # 如果有任何一項缺失，啟動 AI 補全
@@ -73,7 +81,7 @@ do
         if gemini -y -p "$PROMPT" <<< ""; then
 
             # 將已成功的賽事從 list.txt 中移除
-            grep -v -x "$m" "$LIST_FILE" > "${LIST_FILE}.tmp" && mv "${LIST_FILE}.tmp" "$LIST_FILE"
+            grep -F -v -x "$m" "$LIST_FILE" > "${LIST_FILE}.tmp" && mv "${LIST_FILE}.tmp" "$LIST_FILE"
 
             echo "✅ AI 更新成功: ${m}"
             # 提交並推播
@@ -84,7 +92,7 @@ do
             
             # 重新檢查狀態以更新報表
             hasList=$(grep -Fl "${m}" */README.md 2>/dev/null)
-            hasInfo=$(grep -Fl "${m}" */info.md 2>/dev/null)
+            hasInfo=$(grep -Fl "${m}" */*.md 2>/dev/null | grep -v "/README.md" | head -n 1)
             [ -n "$hasList" ] && list_status="[ OK ] ($(dirname $hasList))"
             [ -n "$hasInfo" ] && info_status="[ OK ]"
             prefix="  "
