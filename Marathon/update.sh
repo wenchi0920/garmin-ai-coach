@@ -71,10 +71,14 @@ do
 
         echo "正在啟動 AI 處理 ${m}..."
         if gemini -y -p "$PROMPT" <<< ""; then
+
+            # 將已成功的賽事從 list.txt 中移除
+            grep -v -x "$m" "$LIST_FILE" > "${LIST_FILE}.tmp" && mv "${LIST_FILE}.tmp" "$LIST_FILE"
+
             echo "✅ AI 更新成功: ${m}"
             # 提交並推播
             git add .
-            git commit -m "auto: update marathon data for ${m}"
+            git commit -m "auto: update marathon data for ${m}" . 
             git pull origin master
             git push origin master && echo "🚀 Git Push 成功" || echo "⚠️ Git Push 失敗 (請檢查權限)"
             
