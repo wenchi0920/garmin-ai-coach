@@ -2,7 +2,6 @@
 東京板橋馬拉松
 佐倉朝日健康馬拉松
 宇都宮環状線一周
-前橋澀川市馬拉松
 茨城霞浦馬拉松兼國際盲人馬拉松
 榛名湖馬拉松
 千葉東京灣跨海大橋馬拉松
@@ -221,7 +220,6 @@ Miri Marathon
 Mitja Marató Internacional Vila de Santa Pola
 Montepio Meia Maratona de Cascais
 Monterey Bay Half Marathon
-Moonlight Half Marathon
 Moscow Half Marathon
 Moscow Marathon
 Movistar Madrid Medio Maratón
@@ -381,7 +379,6 @@ Zagrebački maraton i polumaraton
 Zagreb Marathon, Half and 10K
 Zengwen Reservoir Marathon
 Zurich Marató de Barcelona
-Zurich Maratón de Sevilla
 Zurich Rock ’n’ Roll Running Series Madrid
 Μαραθώνιος Κρήτης
 Казанский марафон
