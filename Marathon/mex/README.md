@@ -16,6 +16,7 @@
 | 7月 | **Tlajomulco 半程馬拉松** | Tlajomulco Half Marathon Skarch Hydrated by Electrolit | 龍舌蘭景觀賽道、高原鄉村挑戰、Electrolit 專業補給、在地文化氣息 | AIMS 認證,WA 一般 | [詳情](Tlajomulco_Half_Marathon.md#tlajomulco-半程馬拉松-medio-maratón-tlajomulco-hidratado-por-electrolit) |
 | 8月 | **墨西哥城馬拉松** | Mexico City Marathon | 高海拔挑戰、1968 奧運路線、 城市地標巡禮、高強度心肺考驗 | AIMS 認證,WA 金標 | [詳情](Mexico_City_Marathon.md) |
 | 10月 | **瓜達拉哈拉馬拉松** | Guadalajara Marathon Skarch hydrated by Electrolit | 世界田總精英標牌、高原起伏賽道、電解質補給專家、豐富文化氛圍 | WA 精英 | [ 詳情](Guadalajara_Marathon.md#瓜達拉哈拉馬拉松-guadalajara-marathon-skarch-hydrated-by-electrolit) |
+| 10月 | **阿瓜斯卡連特斯馬拉松** | Maratón Aguascalientes | 高原平坦賽道、亡靈節文化體驗、骷髏節慶典氛圍、優質賽道規劃 | AIMS 認證 | [詳情](Aguascalientes_Marathon.md#阿瓜斯卡連特斯馬拉松-maratón-aguascalientes) |
 | 12月 | **蒙特雷馬拉松** | Maratón Powerade Monterrey | 墨西哥 PB 聖殿、平坦最速賽道、BQ 首選、壯麗山城背景 | AIMS 認證 | [詳情](Powerade_Monterrey_Marathon.md#蒙特雷馬拉松-maratón-powerade-monterrey) |
 
 ---
