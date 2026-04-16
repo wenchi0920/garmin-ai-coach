@@ -107,12 +107,13 @@
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
 | 11月 | **神戶馬拉松** | Kobe Marathon | 紀念地震復興、港口美景、最後大橋考驗、甜點之都補給 | WA 菁英, AIMS 認證 | [詳情](Kobe_Marathon.md) |
 | 11月 | **佛的故鄉國東．富籤馬拉松** | Kunisaki Tomikuji Marathon | 走訪六鄉滿山文化、祈求財運(富籤)、海岸與鄉間風景、大分在地美食補給 | JAAF 認證 | [詳情](Kunisaki_Tomikuji_Marathon.md) |
+| 11月 | **宮古島馬拉松** | Miyakojima Marathon | 伊良部大橋絕美海景、南國度假風情、沖繩黑糖補給 | JAAF 認證 | [詳情](Miyakojima_Marathon.md) |
 | 11月 | **富士山馬拉松** | Mt. Fuji International Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證 | [詳情](Mt_Fuji_International_Marathon.md) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、水果王國奢華補給、賽道平緩極速、備前燒完賽獎牌 | AIMS 認證, JAAF 認證 | [詳情](Okayama_Marathon.md) |
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | AIMS 認證, JAAF 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
 | 11月 | **東北宮城縣復興馬拉松** | Tohoku Miyagi Reconstruction Marathon | 災區復興象徵、極致平坦賽道、東北美食盛宴補給 | AIMS 認證, JAAF 認證 | [詳情](Tohoku_Miyagi_Reconstruction_Marathon.md#東北宮城縣復興馬拉松-tohoku-miyagi-reconstruction-marathon) |
-| 11月 | **筑波馬拉松** | Tsukuba Marathon | 科學的馬拉松、筑波大學校園、極速平坦、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Tsukuba_Marathon.md) |
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md) |
+| 11月 | **筑波馬拉松** | Tsukuba Marathon | 科學的馬拉松、筑波大學校園、極速平坦、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Tsukuba_Marathon.md) |
 | 11月 | **與那國島一周馬** | Yonaguni Island Around Marathon | 日本最西端、海島風光、起伏挑戰 | 一般 | [詳情](Yonaguni_Island_Around_Marathon.md) |
 | 12月 | **富士馬拉松祭** | Fuji Marathon Festa | 賽車場競技、富士山景觀、FIA等級賽道、獨特起伏挑戰 | JAAF 認證 | [詳情](Fuji_Marathon_Festa.md) |
 | 12月 | **福岡國際馬拉松** | Fukuoka International Marathon | 日本三大馬之一、 頂尖精英競技、極速平緩、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Fukuoka_International_Marathon.md) |
