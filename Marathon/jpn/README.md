@@ -81,6 +81,7 @@
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](Iheya_Moonlight_Marathon.md) |
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](Kumejima_Marathon.md) |
+| 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | AIMS 認證, JAAF 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
 | 11月 | **東北宮城縣復興馬拉松** | Tohoku Miyagi Reconstruction Marathon | 災區復興象徵、極致平坦賽道、東北美食盛宴補給 | AIMS 認證, JAAF 認證 | [詳情](Tohoku_Miyagi_Reconstruction_Marathon.md#東北宮城縣復興馬拉松-tohoku-miyagi-reconstruction-marathon) |
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md) |
