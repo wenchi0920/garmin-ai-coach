@@ -101,6 +101,7 @@
 | 10月 | **水戶黃門漫遊馬拉松** | Mito Komon Manyu Marathon | 印籠造型完賽獎牌、偕樂園絕景、41K 終極隧道爬升挑戰、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Mito_Komon_Manyu_Marathon.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **長井馬拉松** | Nagai Marathon | 東北極速平坦賽道、最上川紅葉景觀、芋煮與艷姬米特色補給 | AIMS 認證, WA一般, JAAF 認證 | [詳情](Nagai_Marathon.md#長井馬拉松-nagai-marathon) |
 | 10月 | **名古屋探險馬拉松** | Nagoya Adventure Marathon | 莊內川河畔多變路面、混合柏油與碎石地、野趣十足、秋季耐力建構 | 一般 | [詳情](Nagoya_Adventure_Marathon.md) |
+| 10月 | **能登半島超級馬拉松** | Noto Peninsula Ultra Marathon | 絕美能登海岸、珠洲狼煙燈塔、震後復興希望、坡度起伏挑戰 | JUA 認證 | [詳情](Noto_Peninsula_Ultra_Marathon.md) |
 | 10月 | **島田大井川馬拉松** | Shimada Oigawa Marathon | 平坦河川敷賽道、大江戶補給、PB 聖殿 | JAAF/AIMS 認證 | [詳情](Shimada_Oigawa_Marathon.md#島田大井川馬拉松-shimada-oigawa-marathon) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
 | 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |
