@@ -17,6 +17,7 @@
 | 3月 | **臺南古都國際馬拉松** | Tainan Ancient Capital International Marathon | 古蹟巡禮、美食補給(虱目魚丸、滷味)、漁光島 | AIMS 認證 | [詳情](Tainan_Ancient_Capital_International_Marathon.md) |
 | 3月 | **萬金石馬拉松** | Wan Jin Shi Marathon | 台灣指標性 WA 金標賽事、海風強勁、麥當勞坡挑戰 | AIMS 認證, WA 金標 | [詳情](Wan_Jin_Shi_Marathon.md) |
 | 3月 | **國道馬** | Taipei National Freeway Marathon | 全台唯一國道賽道、極平緩、無紅綠燈、PB 聖殿 | AIMS 認證, WA 菁英 | [詳情](Taipei_National_Freeway_Marathon.md) |
+| 3月 | **南山台北國道馬拉松** | Nanshan Taipei Freeway Marathon | 全台唯一國道封閉賽道、極平緩、無紅綠燈、低風阻挑戰、PB 聖殿 | AIMS 認證, WA 菁英 | [詳情](Nanshan_Taipei_Freeway_Marathon.md) |
 | 3月 | **大亞旺萊馬** | Daya Pineapple Marathon | 鳳梨三寶、丘陵坡度挑戰、企業結合在地 | - | [詳情](Daya_Pineapple_Marathon.md) |
 | 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | - | [詳情](Luodong_Marathon.md) |
 | 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](New_Taipei_City_Marathon.md) |
