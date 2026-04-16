@@ -76,7 +76,7 @@
 | 10月 | **水戶黃門漫遊馬拉松** | Mito Komon Manyu Marathon | 印籠造型完賽獎牌、偕樂園絕景、41K 終極隧道爬升挑戰、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Mito_Komon_Manyu_Marathon.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **岩手盛岡市馬拉松賽** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | AIMS 認證, JAAF 認證 | [詳情](Iwate_Morioka_City_Marathon.md#岩手盛岡馬拉松-iwate-morioka-city-marathon) |
 | 10月 | **岩手北上馬拉松** | Iwate Kitakami Marathon | 沿北上川奔跑、秋意盎然、歷史悠久、東北專業跑者馬 | JAAF 認證 | [詳情](Kitakami_Marathon.md) |
-| 10月 | **長井馬拉松** | Nagai Marathon | 東北最速平坦賽道、山形在地補給、適合挑戰 PB | JAAF 認證, AIMS 認證 | [詳情](Nagai_Marathon.md#長井馬拉松-nagai-marathon) |
+| 10月 | **長井馬拉松** | Nagai Marathon | 東北極速平坦賽道、最上川紅葉景觀、芋煮與艷姬米特色補給 | AIMS 認證, WA一般, JAAF 認證 | [詳情](Nagai_Marathon.md#長井馬拉松-nagai-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | AIMS 認證 | [詳情](Kanazawa_Marathon.md) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](Iheya_Moonlight_Marathon.md) |
