@@ -41,6 +41,7 @@
 | 3月 | **古河花桃馬拉松** | Koga Hanamomo Marathon | 超平坦賽道、25000株花桃綻放、PB 聖殿、關東極速賽道 | AIMS 認證, JAAF 認證 | [詳情](Koga_Hanamomo_Marathon.md#古河花桃馬拉松-koga-hanamomo-marathon) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF 認證, AIMS 認證 | [詳情](Nagoya_City_Marathon.md) |
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證, JAAF 認證 | [詳情](Nagoya_Womens_Marathon.md) |
+| 3月 | **能登和倉萬葉馬拉松** | Noto Wakura Manyo Marathon | 七尾灣海景、和倉溫泉巡禮、烤牡蠣美食盛宴 | JAAF 認證 | [詳情](Noto_Wakura_Manyo_Marathon.md) |
 | 3月 | **練馬KOBUSHI半程馬拉松大會** | Nerima Kobushi Half Marathon | 穿越光之丘公園、市區巡航、櫻花季節限定、交通極便 | JAAF 認證 | [詳情](Nerima_Kobushi_Half_Marathon.md) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證, JAAF 認證 | [詳情](Saga_Sakura_Marathon.md) |
 | 3月 | **佐倉朝日健康馬拉松** | Sakura Asahi Kenko Marathon | 關東老牌賽事、印旛沼風車美景、極速平坦 PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Sakura_Asahi_Kenko_Marathon.md#佐倉朝日健康馬拉松-sakura-asahi-kenko-marathon) |
