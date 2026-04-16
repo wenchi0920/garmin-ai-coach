@@ -26,7 +26,7 @@ echo "--------------------------------------------------------------------------
 
 # 隨機排序 list.txt 以分散處理壓力
 IFS=$'\n'
-for m in $(cat "$LIST_FILE" ); 
+for m in $(cat "$LIST_FILE" | sort ); 
 do 
     # 清理潛在的隱形字元
     m=$(echo "$m" | tr -d '\r' | xargs)
