@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽德國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-15
+> **Last Updated**: 2026-04-16
 > **Author**: AI Coach
 
 ---
@@ -16,6 +16,7 @@
 | 9月 | **阿爾特廷半程馬拉松** | Halbmarathon Altötting | 世界上最快的森林跑道、綠蔭環繞、PB 聖殿 | AIMS 認證,WA一般 | [詳情](Halbmarathon_Altötting.md#阿爾特廷半程馬拉松-halbmarathon-altötting) |
 | 9月 | **柏林馬拉松** | Berlin Marathon | 世界紀錄聖殿、極致平坦、六大滿貫 | AIMS 認證,WA 白金標,WMM | [詳情](Berlin_Marathon.md) |
 | 10月 | **忠利保險科隆馬拉松** | Generali Cologne Marathon | 大教堂終點、狂歡節氣氛、PB 搖籃 | AIMS 認證,WA一般 | [詳情](Cologne_Marathon.md#忠利保險科隆馬拉松-generali-cologne-marathon) |
+| 10月 | **法蘭克福馬拉松** | Mainova Frankfurt Marathon | 歷史悠久城市馬、室內紅地毯終點、極速平坦 | AIMS 認證,WA 金標 | [詳情](Mainova_Frankfurt_Marathon.md#法蘭克福馬拉松-mainova-frankfurt-marathon) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
