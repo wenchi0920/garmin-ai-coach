@@ -10,6 +10,7 @@ Author: AI Coach
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **邦賢 10 公里** | Bangsaen10 | 頂尖速賽、WA 白金標、海邊賽道、亞洲指標 10K | WA 白金標 | [詳情](Bangsaen10.md) |
+| 1月 | **孔敬國際馬拉松** | Khon Kaen International Marathon | 泰國東北指標、孔敬大學主辦、充滿熱情與學術氛圍 | AIMS 認證 | [詳情](Khon_Kaen_International_Marathon.md) |
 | 1月 | **宗朋馬拉松** | Chombeung Marathon | 泰國「馬拉松之母」、傳統熱情、鄉間賽道、PB 聖殿 | AIMS 認證 | [詳情](Chombeung_Marathon.md) |
 | 1月 | **武里南馬拉松** | Buriram Marathon | 亞洲指標夜賽、WA 金標、賽道平坦、賽車場起跑 | WA 金標 | [詳情](Buriram_Marathon.md) |
 | 5月 | **合艾 21 半程馬拉松** | HATYAi21 | 泰南指標半馬、極致平坦、深夜起跑挑戰、AIMS 認證 | AIMS 認證 | [詳情](HATYAi21.md#合艾-21-半程馬拉松-hatyai21-half-marathon) |
