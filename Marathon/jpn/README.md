@@ -50,6 +50,7 @@
 | 3月 | **德島馬拉松** | Tokushima Marathon | 四國熱情賽事、阿波舞應援、吉野川 | AIMS 認證, JAAF 認證 | [詳情](Tokushima_Marathon.md) |
 | 3月 | **東京馬拉松** | Tokyo Marathon | 世界大滿貫、亞洲最受歡迎賽事、極速平緩、氣氛熱烈 | WA 白金標, WMM, AIMS 認證 | [詳情](Tokyo_Marathon.md#東京馬拉松-tokyo-marathon) |
 | 3月 | **鳥取馬拉松** | Tottori Marathon | 跑過鳥取砂丘、海風挑戰、梨與螃蟹湯補給 | AIMS 認證, JAAF 認證 | [詳情](Tottori_Marathon.md) |
+| 3月 | **與論島馬拉松** | Yoron Island Marathon | 鹿兒島最南端、絕美白沙灘、環島1.5圈起伏挑戰、傳統山羊湯補給 | 一般 | [詳情](Yoron_Island_Marathon.md) |
 | 4月 | **青森櫻花馬拉松** | Aomori Sakura Marathon | 櫻花隧道與陸奧灣海景、賽道極致平緩、完賽蘋果與蘋果汁補給 | JAAF 認證 | [詳情](Aomori_Sakura_Marathon.md#青森櫻花馬拉松-aomori-sakura-marathon) |
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | AIMS 認證 | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標認證 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md) |
