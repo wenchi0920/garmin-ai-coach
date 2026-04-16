@@ -1,0 +1,14 @@
+Last Updated: 2026-04-16
+Author: AI Coach
+
+# 🇮🇸 冰島馬拉松賽事索引 (Iceland Marathon Race Index)
+
+> **Purpose**: 規範冰島賽事資料的收錄與維護。
+> **Core Value**: 專業分析、實戰導向、結構一致。
+
+| 月份 | 賽事名稱(中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 8月 | 雷克雅維克馬拉松 | Islandsbanki Reykjavik Marathon | 穿越世界最北首都的火山景觀、海濱平緩賽道與濃郁北歐風情。 | AIMS 認證 | [雷克雅維克馬拉松](Reykjavik_Marathon.md#雷克雅維克馬拉松-islandsbanki-reykjavik-marathon) |
+
+---
+[返回全球總索引](../README.md)
