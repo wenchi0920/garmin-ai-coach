@@ -41,7 +41,6 @@
 | 12月 | **臺北馬拉松** | Taipei Marathon | 台灣指標性 WA 金標賽事、年度期末考、PB 聖殿、低溫河濱風考驗 | AIMS 認證, WA 金標 | [詳情](Taipei_Marathon.md) |
 | 12月 | **北港媽祖盃全國馬拉松** | Beigang Mazu Cup National Marathon | 媽祖文化、豐富補給、平緩賽道、人情味濃厚 | AIMS 認證 | [詳情](Beigang_Mazu_Cup_National_Marathon.md) |
 | 12月 | **嘉義馬拉松** | Chiayi Marathon | 阿里山腳下、城市巡禮、特色補給、人情味濃厚 | AIMS 認證 | [詳情](Chiayi_Marathon.md) |
-| 12月 | **高科技馬拉松** | Hsinchu Science Park Marathon | 台灣矽谷科技力、丘陵坡度挑戰、科技大廠贊助、低溫風城考驗 | - | [詳情](Hsinchu_Science_Park_Marathon.md#高科技馬拉松-hsinchu-science-park-marathon) |
 | 12月 | **烏來國境馬拉松** | Wulai Border Marathon | 森林芬多精、硬度極高、雲仙樂園、山道挑戰 | - | [詳情](info.md#烏來國境馬拉松-wulai-border-marathon) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
