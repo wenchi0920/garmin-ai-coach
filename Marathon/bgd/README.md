@@ -17,4 +17,5 @@
 | 4月 | **RunRise Nation 15K 挑戰賽** | RunRise Nation 15K | 達卡 Hatirjheel 湖畔經典賽事，由知名跑步社群主辦，賽道平坦且氛圍熱烈。 | AIMS 認證 | [詳情](RunRise_Nation_15K.md#runrise-nation-15k-挑戰賽-runrise-nation-15k) |
 | 7月 | **達卡捷運半程馬拉松** | Dhaka Metro Half Marathon | 孟加拉首屆以捷運為名的半馬賽事，於達卡 Hatirjheel 舉行，結合城市現代化地標與湖畔景觀。 | AIMS 認證 | [詳情](Dhaka_Metro_Half_Marathon.md) |
 | 9月 | **Active Pulse 半程馬拉松** | Active Pulse Half Marathon | 孟加拉首場 AIMS 認證半馬，穿越達卡 Hatirjheel 湖畔，賽道平坦且具備國際標準。 | AIMS 認證 | [詳情](Active_Pulse_Half_Marathon.md) |
+| 11月 | **激勵孟加拉半程馬拉松** | Inspiring Bangladesh Half Marathon | 於達卡 Hatirjheel 湖畔舉行，賽道環湖且極為平坦，是南亞推廣運動文化與健康生活的代表性半馬。 | AIMS 認證 | [詳情](Inspiring_Bangladesh_Half_Marathon.md#激勵孟加拉半程馬拉松-inspiring-bangladesh-half-marathon) |
 | 12月 | **達卡國際 10 公里賽** | Dhaka International 10K | 孟加拉最具規模的 10K 賽事，賽道穿越達卡市中心，是追求極速 10K PB 的首選。 | AIMS 認證 | [詳情](Dhaka_International_10K.md) |
