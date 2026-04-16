@@ -99,13 +99,13 @@
 | 10月 | **長井馬拉松** | Nagai Marathon | 東北極速平坦賽道、最上川紅葉景觀、芋煮與艷姬米特色補給 | AIMS 認證, WA一般, JAAF 認證 | [詳情](Nagai_Marathon.md#長井馬拉松-nagai-marathon) |
 | 10月 | **名古屋探險馬拉松** | Nagoya Adventure Marathon | 莊內川河畔多變路面、混合柏油與碎石地、野趣十足、秋季耐力建構 | 一般 | [詳情](Nagoya_Adventure_Marathon.md) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
-| 11月 | **富士山馬拉松** | Fujisan Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證, JAAF 認證 | [詳情](Fujisan_Marathon.md) |
 | 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |
 | 11月 | **揖斐川馬拉松** | Ibigawa Marathon | 岐阜縣經典山徑、紅葉絕景、連續起伏挑戰、熱情小鎮應援 | AIMS 認證, JAAF 認證 | [詳情](Ibigawa_Marathon.md#揖斐川馬拉松-ibigawa-marathon) |
 | 11月 | **溫泉之城飯坂、茂庭湖馬拉松** | Iizaka Moniwa Lake Marathon | 摺上川沿岸美景、茂庭湖水庫大壩爬升、溫泉街巡禮、100%在地補給 | JAAF 認證 | [詳情](Iizaka_Moniwa_Lake_Marathon.md#溫泉之城飯坂茂庭湖馬拉松-iizaka-moniwa-lake-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
 | 11月 | **神戶馬拉松** | Kobe Marathon | 紀念地震復興、港口美景、最後大橋考驗、甜點之都補給 | WA 菁英, AIMS 認證 | [詳情](Kobe_Marathon.md) |
 | 11月 | **佛的故鄉國東．富籤馬拉松** | Kunisaki Tomikuji Marathon | 走訪六鄉滿山文化、祈求財運(富籤)、海岸與鄉間風景、大分在地美食補給 | JAAF 認證 | [詳情](Kunisaki_Tomikuji_Marathon.md) |
+| 11月 | **富士山馬拉松** | Mt. Fuji International Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證 | [詳情](Mt_Fuji_International_Marathon.md) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、水果王國奢華補給、賽道平緩極速、備前燒完賽獎牌 | AIMS 認證, JAAF 認證 | [詳情](Okayama_Marathon.md) |
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | AIMS 認證, JAAF 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
 | 11月 | **東北宮城縣復興馬拉松** | Tohoku Miyagi Reconstruction Marathon | 災區復興象徵、極致平坦賽道、東北美食盛宴補給 | AIMS 認證, JAAF 認證 | [詳情](Tohoku_Miyagi_Reconstruction_Marathon.md#東北宮城縣復興馬拉松-tohoku-miyagi-reconstruction-marathon) |
