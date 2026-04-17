@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽葡萄牙地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-15
+> **Last Updated**: 2026-04-18
 > **Author**: AI Coach
 
 ---
@@ -16,6 +16,7 @@
 | 10月 | **里斯本半程馬拉松** | Hyundai Meia Maratona de Lisboa | 瓦斯科·達伽馬大橋起跑、與全馬同步盛典、秋季絕美河岸 | AIMS 認證,WA 菁英 | [詳情](Hyundai_Meia_Maratona_de_Lisboa.md#里斯本半程馬拉松-hyundai-meia-maratona-de-lisboa) |
 | 11月 | **波多馬拉松** | EDP Porto Marathon | 世界文化遺產老城、杜羅河畔河岸線、極速平坦賽道、葡萄牙最大馬拉松 | AIMS 認證,WA 菁英 | [詳情](EDP_Porto_Marathon.md) |
 | 12月 | **里斯本發現半程馬拉松** | Discoveries Half Marathon | 沿特茹河奔向貝倫塔、歷史感十足的大航海時代景觀、平緩快速賽道 | AIMS 認證,WA 一般 | [詳情](Discoveries_Half_Marathon.md) |
+| 12月 | **里斯本聖希爾維斯特路跑** | Lidl São Silvestre de Lisboa | 歲末最具代表性的 10K 路跑、穿越城市核心景點、節慶氛圍極佳、跨年傳統 | AIMS 認證,WA 菁英 | [詳情](Lidl_Sao_Silvestre_de_Lisboa.md#里斯本聖希爾維斯特路跑-lidl-são-silvestre-de-lisboa) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
