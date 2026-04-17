@@ -21,7 +21,6 @@
 大町阿爾卑斯馬拉松
 柏崎馬拉松
 金澤馬拉松
-富士山馬拉松
 袋井皇冠蜜瓜馬拉松
 西尾市馬拉松
 豊橋馬拉松
@@ -336,7 +335,6 @@ Yerevan Marathon and Half Marathon
 Zagrebački maraton i polumaraton
 Zagreb Marathon, Half and 10K
 Zengwen Reservoir Marathon
-Zurich Marató de Barcelona
 Zurich Rock ’n’ Roll Running Series Madrid
 Μαραθώνιος Κρήτης
 Казанский марафон
