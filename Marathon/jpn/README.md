@@ -107,6 +107,7 @@
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
 | 10月 | **弘前．白神蘋果馬拉松** | Hirosaki Shirakami Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、世界遺產白神山地 | JAAF 認證 | [詳情](Hirosaki_Shirakami_Apple_Marathon.md) |
 | 10月 | **伊平屋月光馬拉松** | Iheya Moonlight Marathon | 浪漫夜跑、後夜祭喝泡盛、需搭船過夜 | - | [詳情](Iheya_Moonlight_Marathon.md) |
+| 10月 | **龍馬脫藩馬拉松** | Ryoma Dappan Marathon | 模擬坂本龍馬脫藩之路、極限高低差、雲之上小鎮巡禮、山徑硬仗 | 一般 | [詳情](Ryoma_Dappan_Marathon.md) |
 | 10月 | **壹岐超級馬拉松** | Iki Ultra Marathon | 穿梭神之島、海岸公路波狀起伏、壹岐牛補給、超馬意志訓練 | JUA 認證, JAAF 認證 | [詳情](Iki_Ultra_Marathon.md#壹岐超級馬拉松-iki-ultra-marathon) |
 | 10月 | **岩手北上馬拉松** | Iwate Kitakami Marathon | 沿北上川奔跑、秋意盎然、歷史悠久、東北專業跑者馬 | JAAF 認證 | [詳情](Kitakami_Marathon.md) |
 | 10月 | **岩手盛岡市馬拉松賽** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | AIMS 認證, JAAF 認證 | [詳情](Iwate_Morioka_City_Marathon.md#岩手盛岡馬拉松-iwate-morioka-city-marathon) |

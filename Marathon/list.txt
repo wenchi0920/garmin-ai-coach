@@ -35,7 +35,6 @@
 愛媛馬拉松
 高知龍馬馬拉松
 徳島・海陽究極的清流海部川風流馬拉松
-龍馬脫藩馬拉松
 瀬戸内海烏龜馬拉松
 指宿油菜花馬拉松
 延岡西日本馬拉松
@@ -158,7 +157,6 @@ Moscow Half Marathon
 Nagano Marathon
 Nagoya Women’s Marathon
 Napoli City Half Marathon
-Nara Marathon
 Nepalgunj Marathon
 NLB Ljubljana Marathon
 NLB Ljubljanski Maraton
