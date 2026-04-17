@@ -21,6 +21,7 @@
 | 12月 | **班加羅爾午夜馬拉松** | Bengaluru Midnight Marathon | 印度唯一的午夜馬拉松，在星空下穿越班加羅爾 IT 園區，熱點搖滾音樂補給。 | AIMS 認證, WA 一般 | [詳情](Bengaluru_Midnight_Marathon.md) |
 | 12月 | **博帕爾馬拉松** | Run Bhopal Run | 環繞「湖泊之城」博傑塔爾湖，結合起伏地形與城市風景，推廣環保與健康理念。 | AIMS 認證 | [詳情](Run_Bhopal_Run.md#博帕爾馬拉松-run-bhopal-run) |
 | 12月 | **粉紅之城半程馬拉松 - 第 10 屆** | Vedanta Pink City Half Marathon – 10th Edition | 穿越齋浦爾世界遺產、推廣粉紅絲帶公益。 | AIMS 認證 | [詳情](Vedanta_Pink_City_Half_Marathon.md#粉紅之城半程馬拉松---第-10-屆-vedanta-pink-city-half-marathon--10th-edition) |
+| 12月 | **塔塔鋼鐵加爾各答 25K** | Tata Steel World 25K Kolkata | 全球首個 WA 金標 25K 賽事，賽道極致平緩，穿越維多利亞紀念堂。 | AIMS 認證, WA 金標 | [詳情](Tata_Steel_World_25K_Kolkata.md#塔塔鋼鐵加爾各答-25k-tata-steel-world-25k-kolkata) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
