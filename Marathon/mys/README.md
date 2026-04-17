@@ -13,6 +13,7 @@
 | 05月 | **婆羅洲國際馬拉松** | Borneo International Marathon | 婆羅洲最大規模、沿南中國海跑、沙巴州年度運動盛事。 | AIMS 認證 | [詳情](Borneo_International_Marathon.md) |
 | 07月 | **Score 馬拉松** | Score Marathon | 布城科技感賽道、凌晨起跑對抗濕熱、全馬組具備 AIMS 認證。 | AIMS 認證 | [詳情](Score_Marathon.md) |
 | 07月 | **IJM Allianz 雙高速公路挑戰賽** | IJM Allianz Duo Highway Challenge | 封閉高速公路跑、橫跨兩大主要幹道、極致平坦且具有坡度挑戰。 | AIMS 認證 | [詳情](Duo_Highway_Challenge.md) |
+| 08月 | **哥打巴魯半程馬拉松** | Kota Bharu Half Marathon | 吉蘭丹文化底蘊、熱帶黎明起跑、極致平坦市區賽道。 | 本地認證 | [詳情](Kota_Bharu_Half_Marathon.md) |
 | 08月 | **山打根伊羅普拉馬拉松** | Elopura Marathon Sandakan | 濱海歷史古鎮賽道、熱帶濕熱挑戰、體驗沙巴東海岸文化。 | WA 一般 | [詳情](Elopura_Marathon_Sandakan.md) |
 | 10月 | **吉隆坡渣打馬拉松** | Kuala Lumpur Standard Chartered Marathon | 馬國最具規模之城市馬，熱帶耐熱戰。 | AIMS 認證 | [詳情](Kuala_Lumpur_Standard_Chartered_Marathon.md) |
 | 11月 | **檳城大橋國際馬拉松** | Penang Bridge International Marathon | 橫跨海峽大橋、凌晨起跑、海風與高濕挑戰。 | AIMS 認證 | [詳情](Penang_Bridge_International_Marathon.md) |
