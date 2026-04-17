@@ -11,6 +11,7 @@ Author: AI Coach
 | 03 | 羅馬奧斯蒂亞半程馬拉松 | Roma-Ostia Half Marathon | 義大利最受歡迎半馬，從永恆之城羅馬直奔地中海奧斯蒂亞海岸。 | WA 金標, AIMS 認證 | [詳情](Roma-Ostia_Half_Marathon.md) |
 | 03 | 羅馬馬拉松 | ACEA Run Rome The Marathon | 穿越三千年歷史古都，從競技場出發的永恆巡禮。 | WA 菁英, AIMS 認證 | [Rome_Marathon.md#羅馬馬拉松-acea-run-rome-the-marathon](Rome_Marathon.md#羅馬馬拉松-acea-run-rome-the-marathon) |
 | 04 | 帕多瓦馬拉松 | Padova Marathon | 結合溫泉區與古城的極速平緩賽道，非常有利於挑戰 PB。 | AIMS 認證 | [詳情](Padova_Marathon.md#帕多瓦馬拉松-padova-marathon) |
+| 04 | 米蘭馬拉松 | Milano Marathon | 義大利最速賽道，氣候宜人且高度平緩，時尚之都的現代化巡禮。 | WA 菁英, AIMS 認證 | [詳情](Milano_Marathon.md#米蘭馬拉松-milano-marathon) |
 | 05 | 月光半程馬拉松 | Moonlight Half Marathon | 傍晚起跑的亞德里亞海濱派對，極速平坦的夜間賽事體驗。 | WA 標牌, AIMS 認證 | [詳情](Moonlight_Half_Marathon.md#月光半程馬拉松-moonlight-half-marathon) |
 | 09 | 烏迪內半程馬拉松 | Maratonina Città di Udine | 極速平坦賽道，適合挑戰 PB，領略弗留利古城風情。 | WA 標牌, AIMS 認證 | [詳情](Maratonina_Citta_di_Udine.md#烏迪內半程馬拉松-maratonina-città-di-udine) |
 | 10 | 特倫托半程馬拉松 | Trento Half Marathon | 穿越阿爾卑斯山腳下的歷史古城，極速平坦的頂尖半馬賽道。 | WA 標牌, AIMS 認證 | [詳情](Trento_Half_Marathon.md#特倫托半程馬拉松-trento-half-marathon) |
