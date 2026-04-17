@@ -1,7 +1,6 @@
 佐倉朝日健康馬拉松
 宇都宮環状線一周
 茨城霞浦馬拉松兼國際盲人馬拉松
-榛名湖馬拉松
 千葉東京灣跨海大橋馬拉松
 群馬馬拉松
 橫濱馬拉松
@@ -277,7 +276,6 @@ TAWANG Marathon
 TCS New York City Marathon
 Techcombank Ho Chi Minh City International Marathon
 Tel Aviv Bank Leumi Marathon
-Tenzing Hillary Everest Marathon
 Thabo Midnight Marathon
 Thai Sikh Run
 The Great Wall Marathon
