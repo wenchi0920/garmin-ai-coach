@@ -11,6 +11,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 02月 | **雙城馬拉松** | Twincity Marathon | 賽城科技城賽道、凌晨起跑對抗濕熱、全馬組具備 AIMS 認證。 | AIMS 認證 | [詳情](Twincity_Marathon.md) |
 | 05月 | **婆羅洲國際馬拉松** | Borneo International Marathon | 婆羅洲最大規模、沿南中國海跑、沙巴州年度運動盛事。 | AIMS 認證 | [詳情](Borneo_International_Marathon.md) |
+| 06月 | **太平半程馬拉松** | Taiping Half Marathon | 遺產小鎮綠意跑、太平湖濕地環繞、馬國最「雨城」涼爽體驗。 | AIMS 認證 | [詳情](Taiping_Half_Marathon.md) |
 | 07月 | **Score 馬拉松** | Score Marathon | 布城科技感賽道、凌晨起跑對抗濕熱、全馬組具備 AIMS 認證。 | AIMS 認證 | [詳情](Score_Marathon.md) |
 | 07月 | **IJM Allianz 雙高速公路挑戰賽** | IJM Allianz Duo Highway Challenge | 封閉高速公路跑、橫跨兩大主要幹道、極致平坦且具有坡度挑戰。 | AIMS 認證 | [詳情](Duo_Highway_Challenge.md) |
 | 08月 | **哥打巴魯半程馬拉松** | Kota Bharu Half Marathon | 吉蘭丹文化底蘊、熱帶黎明起跑、極致平坦市區賽道。 | 本地認證 | [詳情](Kota_Bharu_Half_Marathon.md) |
