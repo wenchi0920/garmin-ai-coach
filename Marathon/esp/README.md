@@ -9,6 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1月 | **聖波拉國際半程馬拉松** | Mitja Marató Internacional Vila de Santa Pola | 地中海極速平坦賽道、PB 聖殿、菁英雲集 | AIMS 認證,WA 菁英 | [詳情](Mitja_Marato_Internacional_Vila_de_Santa_Pola.md#聖波拉國際半程馬拉松-mitja-marató-internacional-vila-de-santa-pola) |
 | 2月 | **道達爾能源穆爾西亞陽光海岸馬拉松** | TotalEnergies Murcia Costa Cálida Marathon | 平坦快速市區賽道、地中海冬日風情、大教堂終點 | AIMS 認證,WA 一般 | [詳情](TotalEnergies_Murcia_Costa_Cálida_Marathon.md) |
 | 2月 | **卡斯特利翁馬拉松** | Marató de Castelló | 地中海極速賽道、PB 聖殿、總爬升極低 | AIMS 認證,WA 標籤 | [詳情](Marató_de_Castelló.md) |
 | 2月 | **巴塞隆納半程馬拉松** | Hyundai Mitja Marató de Barcelona by Brooks | 世界級極速賽道、高第建築巡禮、PB 與女子世界紀錄搖籃 | AIMS 認證,WA 金標 | [詳情](Mitja_Marato_de_Barcelona.md#巴塞隆納半程馬拉松-hyundai-mitja-marató-de-barcelona-by-brooks) |
