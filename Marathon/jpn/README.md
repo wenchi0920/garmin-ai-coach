@@ -39,6 +39,7 @@
 | 2月 | **總社吉備路馬拉松** | Soja Kibiji Marathon | 吉備路歷史巡禮、五重塔絕景、麵包之城、適合挑戰 PB | JAAF 認證 | [詳情](Soja_Kibiji_Marathon.md) |
 | 2月 | **玉名韋駄天馬拉松** | Tamana Idaten Marathon | 馬拉松之父故鄉、金栗四三紀念賽、極速平坦河岸賽道、玉名拉麵補給 | JAAF 認證 | [詳情](Tamana_Idaten_Marathon.md) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md) |
+| 2月 | **西尾市馬拉松** | Nishio City Marathon | 鰻魚之鄉、平坦河川敷賽道、三河灣絕景、補給鰻魚特色 | AIMS 認證, JAAF 認證 | [詳情](Nishio_City_Marathon.md#西尾市馬拉松-nishio-city-marathon) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
 | 3月 | **東京板橋馬拉松** | Itabashi City Marathon | 東京荒川河川敷、極致平坦、適合挑戰 PB、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Itabashi_City_Marathon.md#東京板橋馬拉松-itabashi-city-marathon) |
 | 3月 | **鹿兒島馬拉松** | Kagoshima Marathon | 燃燒的薩摩人精神、櫻島火山絕景、世界遺產巡禮、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Kagoshima_Marathon.md) |
