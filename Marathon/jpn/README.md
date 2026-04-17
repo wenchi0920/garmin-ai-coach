@@ -81,6 +81,7 @@
 | 5月 | **富山清流馬拉松** | Toyama Seiryu Marathon | 沿神通川河川敷奔跑、立山連峰遠眺、黃金週在地賽事、小而美全馬 | - | [詳情](Toyama_Seiryu_Marathon.md) |
 | 5月 | **星星的故鄉八之岳野邊山高原超級馬拉松** | Yatsugatake Nobeyama Kogen Ultra Marathon | 全日最艱難超馬、海拔 1300m+、碎石路挑戰、星星故鄉絕景 | JAAF 認證 | [詳情](Yatsugatake_Nobeyama_Kogen_Ultra_Marathon.md) |
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系 、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | AIMS 認證, JAAF 認證 | [詳情](Chitose_JAL_International_Marathon.md#千歲jal國際馬拉松-chitose-jal-international-marathon) |
+| 6月 | **果樹王國東根櫻桃馬拉松大賽** | Fruit Kingdom Higashine Cherry Marathon | 櫻桃之鄉東根市、櫻桃吃到飽補給、初夏耐熱戰、果園風情賽道 | - | [詳情](Fruit_Kingdom_Higashine_Cherry_Marathon.md) |
 | 6月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | AIMS 認證, JAAF 認證 | [詳情](Hakodate_Marathon.md#函館馬拉松-hakodate-marathon) |
 | 6月 | **飛騨高山超級馬拉松** | Hida Takayama Ultra Marathon | 飛騨小京都、極限爬升(2700m+)、飛騨牛補給、身心修煉 | JAAF 認證 | [詳情](Hida_Takayama_Ultra_Marathon.md) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | 一般 | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
