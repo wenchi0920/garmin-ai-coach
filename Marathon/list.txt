@@ -112,7 +112,6 @@
 名古屋城市馬拉松 
 川崎国際多摩川馬拉松 
 本庄早稲田の杜馬拉松 
-信州安曇野馬拉松
 日立櫻花馬拉松
 日本海哈密瓜馬拉松
 仙台國際半程馬拉松大會
@@ -336,7 +335,6 @@ Walkers Cayman Islands Marathon
 Walls Great Half Antwerpen
 Waterford Viking Marathon
 Watlaharnrai Half Marathon
-White Nights Marathon
 Wipro Bengaluru Marathon
 Wizz Air Budapest Félmaraton
 Wizz Air Cluj-Napoca Marathon

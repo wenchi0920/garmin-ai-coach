@@ -77,6 +77,7 @@
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | AIMS 認證, JAAF 認證 | [詳情](Chitose_JAL_International_Marathon.md#千歲jal國際馬拉松-chitose-jal-international-marathon) |
 | 6月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | AIMS 認證, JAAF 認證 | [詳情](Hakodate_Marathon.md#函館馬拉松-hakodate-marathon) |
 | 6月 | **飛騨高山超級馬拉松** | Hida Takayama Ultra Marathon | 飛騨小京都、極限爬升(2700m+)、飛騨牛補給、身心修煉 | JAAF 認證 | [詳情](Hida_Takayama_Ultra_Marathon.md) |
+| 6月 | **信州安曇野馬拉松** | Shinshu Azumino Marathon | 北阿爾卑斯絕景、初夏田園風光、極致平緩、PB 聖地 | JAAF 認證 | [詳情](Shinshu_Azumino_Marathon.md#信州安曇野馬拉松-shinshu-azumino-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | 一般 | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
 | 6月 | **岩手縣銀河100K挑戰馬拉松** | Iwate Galaxy 100km Challenge Marathon | 東北最大規模超馬、銀河鐵道之鄉景觀、奧羽山脈跨越、極限爬升挑戰 | JAAF 認證 | [詳情](Iwate_Galaxy_100km_Challenge_Marathon.md) |
 | 6月 | **高野龍神超級馬拉松** | Koya Ryujin Ultra Marathon | 世界遺產高野龍神 Skyline、全日本最高海拔超馬、極限 2000m+ 爬升挑戰、身心修煉之道 | JAAF 認證 | [詳情](Koya_Ryujin_Ultra_Marathon.md#高野龍神超級馬拉松-koya-ryujin-ultra-marathon) |
