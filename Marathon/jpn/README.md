@@ -125,6 +125,7 @@
 | 11月 | **佛的故鄉國東．富籤馬拉松** | Kunisaki Tomikuji Marathon | 走訪六鄉滿山文化、祈求財運(富籤)、海岸與鄉間風景、大分在地美食補給 | JAAF 認證 | [詳情](Kunisaki_Tomikuji_Marathon.md) |
 | 11月 | **宮古島馬拉松** | Miyakojima Marathon | 伊良部大橋絕美海景、南國度假風情、沖繩黑糖補給 | JAAF 認證 | [詳情](Miyakojima_Marathon.md) |
 | 11月 | **富士山馬拉松** | Mt. Fuji International Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證 | [詳情](Mt_Fuji_International_Marathon.md) |
+| 11月 | **長崎平和馬拉松** | Nagasaki Peace Marathon | 平和公園起點、歷史意義深厚、坡道地形考驗、長崎蛋糕補給 | AIMS 認證, JAAF 認證 | [詳情](Nagasaki_Peace_Marathon.md) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、水果王國奢華補給、賽道平緩極速、備前燒完賽獎牌 | AIMS 認證, JAAF 認證 | [詳情](Okayama_Marathon.md) |
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | AIMS 認證, JAAF 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
 | 11月 | **東北宮城縣復興馬拉松** | Tohoku Miyagi Reconstruction Marathon | 災區復興象徵、極致平坦賽道、東北美食盛宴補給 | AIMS 認證, JAAF 認證 | [詳情](Tohoku_Miyagi_Reconstruction_Marathon.md#東北宮城縣復興馬拉松-tohoku-miyagi-reconstruction-marathon) |
