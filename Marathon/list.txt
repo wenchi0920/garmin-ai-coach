@@ -40,7 +40,6 @@
 龍馬脫藩馬拉松
 瀬戸内海烏龜馬拉松
 指宿油菜花馬拉松
-別府大分馬拉松
 延岡西日本馬拉松
 北九州馬拉松
 長崎五島馬拉松
@@ -243,7 +242,6 @@ SwissCityMarathon – Lucerne
 Taichung International Marathon
 Tainan Half Marathon
 Tainan International Marathon
-Taipei Marathon
 Taiping Half Marathon
 Tallinn Women’s Run – Maijooks
 Tamarack Ottawa Race Weekend
