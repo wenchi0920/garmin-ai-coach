@@ -89,6 +89,7 @@
 | 9月 | **日本最北端稚內和平馬拉松** | Japan's Northernmost Wakkanai Peace Marathon | 日本最北端、宗谷岬出發、海風挑戰、干貝與宗谷黑牛補給 | JAAF 認證 | [詳情](Wakkanai_Peace_Marathon.md) |
 | 9月 | **田澤湖馬拉松** | Lake Tazawa Marathon | 日本最深湖泊、環湖林蔭、頻繁起伏挑戰、秋田在地美食 | JAAF 認證 | [詳情](Lake_Tazawa_Marathon.md#田澤湖馬拉松-lake-tazawa-marathon) |
 | 9月 | **鄂霍次克網走馬拉松** | Okhotsk Abashiri Marathon | 260萬株向日葵花海、網走監獄起點、能取岬海景、最奢華在地補給、限時 6.5 小時友善賽事 | JAAF 認證 | [詳情](Okhotsk_Abashiri_Marathon.md) |
+| 9月 | **白山白川鄉超級馬拉松** | Hakusan Shirakawago Ultra Marathon | 跨越白山白路、世界遺產巡禮、極限爬升挑戰、身心修煉 | - | [詳情](Hakusan_Shirakawago_Ultra_Marathon.md) |
 | 10月 | **別海町馬拉松** | Betsukai Pilot Marathon | 紀念開拓之森、極致平坦直道、鮭魚鮮奶完賽禮、PB 聖殿 | JAAF 認證 | [詳情](Betsukai_Pilot_Marathon.md#別海町馬拉松-betsukai-pilot-marathon) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **筑後川馬拉松** | Chikugo River Marathon | 沿筑後川河岸奔跑、極致平坦、九州老牌賽事、適合初馬與挑戰 PB | JAAF 認證 | [詳情](Chikugo_River_Marathon.md) |
