@@ -18,6 +18,7 @@
 | 9月 | **阿特拉斯瓜達拉哈拉半馬** | Medio Maratón Atlas de Guadalajara | 歷史悠久、海拔 1500m+、Atlas 俱樂部主辦、高原心肺淬煉 | AIMS 認證 | [詳情](Medio_Maraton_Atlas_Guadalajara.md#阿特拉斯瓜達拉哈拉半程馬拉松-medio-maratón-atlas-de-guadalajara) |
 | 10月 | **瓜達拉哈拉馬拉松** | Guadalajara Marathon Skarch hydrated by Electrolit | 世界田總精英標牌、高原起伏賽道、電解質補給專家、豐富文化氛圍 | WA 精英 | [ 詳情](Guadalajara_Marathon.md#瓜達拉哈拉馬拉松-guadalajara-marathon-skarch-hydrated-by-electrolit) |
 | 10月 | **阿瓜斯卡連特斯馬拉松** | Maratón Aguascalientes | 高原平坦賽道、亡靈節文化體驗、骷髏節慶典氛圍、優質賽道規劃 | AIMS 認證 | [詳情](Aguascalientes_Marathon.md#阿瓜斯卡連特斯馬拉松-maratón-aguascalientes) |
+| 10月 | **華雷斯城國際馬拉松** | Maratón Internacional de Juárez | 墨美邊境城市、高原 1100m、德拉維加家族傳承、熱情邊境氛圍 | AIMS 認證 | [詳情](Maraton_Internacional_de_Juarez.md#華雷斯城國際馬拉松-maratón-internacional-de-juarez) |
 | 11月 | **雙拉雷多跨國馬拉松** | Maratón Binacional Dos Laredos | 跨越美墨國界、文化象徵、兩國警力護航、美墨友誼連結 | AIMS 認證 | [詳情](Maraton_Binacional_Dos_Laredos.md#雙拉雷多跨國馬拉松-maratón-binacional-dos-laredos) |
 | 12月 | **蒙特雷馬拉松** | Maratón Powerade Monterrey | 墨西哥 PB 聖殿、平坦最速賽道、BQ 首選、壯麗山城背景 | AIMS 認證 | [詳情](Powerade_Monterrey_Marathon.md#蒙特雷馬拉松-maratón-powerade-monterrey) |
 
