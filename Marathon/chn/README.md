@@ -24,6 +24,7 @@
 | 5月 | **大理馬拉松** | Dali Marathon | 蒼山洱海、高海拔浪漫、紫外線強 | WA 一般 | [詳情](Dali_Marathon.md) |
 | 5月 | **吉林市馬拉松** | Jilin City Marathon | 北國江城、環江賽道、平坦 PB 聖殿 | WA 菁英 | [詳情](Jilin_City_Marathon.md) |
 | 5月 | **密雲生態馬拉松** | Miyun Ecological Marathon | 依山傍水、北京最美馬拉松、極速平坦賽道 | WA 菁英 | [詳情](Miyun_Ecological_Marathon.md) |
+| 5月 | **黃崖關長城馬拉松** | The Great Wall Marathon | 2026 最新：5164 級台階挑戰、極限肌肉耐力修煉、歷史遺產與極限運動的碰撞 | 冒險挑戰 | [詳情](Great_Wall_Marathon.md#黃崖關長城馬拉松-the-great-wall-marathon) |
 | 6月 | **蘭州馬拉松** | Lanzhou Marathon | 2026 最新：黃河邊、亞高原(1500m)、牛肉麵補給 | AIMS 認證,WA 金標 | [詳情](Lanzhou_Marathon.md) |
 | 6月 | **貴陽馬拉松** | Guiyang Marathon | 2026 最新：避暑之都、喀斯特地貌坡道挑戰、高心肺修煉 | AIMS 認證,WA 金標 | [詳情](Guiyang_Marathon.md) |
 | 8月 | **拉薩半程馬拉松** | Lhasa Half Marathon | 缺氧挑戰、海拔3650m、需體檢證明 | WA 標籤 | [詳情](Lhasa_Half_Marathon.md) |
