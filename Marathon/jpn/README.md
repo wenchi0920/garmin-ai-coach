@@ -16,6 +16,7 @@
 | 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md) |
 | 1月 | **勝田全国馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md#勝田全国馬拉松-katsuta-national-marathon) |
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
+| 1月 | **名護超級馬拉松(停賽中)** | Nago Ultra Marathon | 沖繩山原森林、海岸公路起伏、超馬意志訓練、目前暫停舉辦 | - | [詳情](Nago_Ultra_Marathon.md#名護超級馬拉松-nago-ultra-marathon) |
 | 1月 | **大阪半程馬拉松** | Osaka Half Marathon | 與女子馬同日舉行、極速平坦賽道、大阪城起點、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Osaka_Half_Marathon.md#大阪半程馬拉松-osaka-half-marathon) |
 | 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md#大阪國際女子馬拉松-osaka-international-womens-marathon) |
 | 1月 | **館山若潮馬拉松** | Tateyama Wakashio Marathon | 房總半島早春油菜花、環海絕景路線、波狀起伏挑戰、烤番薯補給 | AIMS 認證, JAAF 認證 | [詳情](Tateyama_Wakashio_Marathon.md#館山若潮馬拉松-tateyama-wakashio-marathon) |
