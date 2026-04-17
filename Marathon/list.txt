@@ -20,7 +20,6 @@
 柏崎馬拉松
 金澤馬拉松
 豊橋馬拉松
-大阪國際女子馬拉松
 京都木津川馬拉松
 世界遺產姬路城馬拉松
 大阪淀川寛平馬拉松
@@ -148,7 +147,6 @@ Maratón Puerto Vallarta
 Maratón Valencia Trinidad Alfonso
 Maui Oceanfront Marathon, Maui Oceanfront Half Marathon, 6-Miler, 5K
 media maratón de Bogotá
-Medio Maratón Atlas de Guadalajara
 Medio Maratón la Capital del Deporte
 Medio Maratón Valencia Trinidad Alfonso Zurich
 Medzinárodný maratón mieru, Košice
