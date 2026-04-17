@@ -19,5 +19,6 @@ Author: AI Coach
 | 8月 | **陽光海岸馬拉松** | Sunshine Coast Marathon | 陽光宜人、平緩海濱賽道、賽事規模溫馨且專業、適合LSD移地訓練 | AIMS 認證,WA一般 | [詳情](Sunshine_Coast_Marathon.md) |
 | 8月 | **布魯克斯阿德萊德馬拉松節** | Brooks Adelaide Marathon Festival | 南澳經典古老賽道、阿德萊德橢圓球場出發、極速平坦迴圈 | AIMS 認證 | [詳情](Brooks_Adelaide_Marathon_Festival.md) |
 | 9月 | **雪梨馬拉松** | Sydney Marathon | WMM第七大成員、橫跨海港大橋、終點雪梨歌劇院、絕美景觀 | AIMS 認證,WA 白金標,WMM | [詳情](Sydney_Marathon.md) |
+| 10月 | **墨爾本馬拉松** | Nike Melbourne Marathon Festival | 終點衝進 MCG 板球場、規模全澳最大、賽道寬闊涼爽 | AIMS 認證,WA 菁英 | [詳情](Nike_Melbourne_Marathon_Festival.md#墨爾本馬拉松-nike-melbourne-marathon-festival) |
 ---
 [⬅️ 返回全球賽事索引](../README.md)
