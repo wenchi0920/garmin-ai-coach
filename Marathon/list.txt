@@ -43,7 +43,6 @@
 吳市馬拉松
 総社吉備路馬拉松
 鳥取馬拉松
-岡山馬拉松
 國寶松江城馬拉松
 防府讀賣新聞馬拉松
 愛媛馬拉松
@@ -277,7 +276,6 @@ Standard Chartered Hanoi Marathon Heritage Race
 Standard Chartered Hong Kong Marathon
 Standard Chartered Stanley Marathon
 Standard Chartered Taipei Charity Marathon
-Stavanger Marathon
 StraLugano
 Sunshine Coast Marathon Festival
 Swedbank Tallinn Marathon, Relay Marathon, Half, 10K &amp; 5K
