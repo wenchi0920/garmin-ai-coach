@@ -95,7 +95,6 @@
 藤枝馬拉松
 福井馬拉松
 鹿沼佐佐木馬拉松
-輕井澤半程馬拉松
 濱松城市馬拉松
 山形馬拉松
 高槻市半馬
@@ -292,7 +291,6 @@ The Great Wall Marathon
 The Great World Race
 Thimphu Marathon – Run for Global Peace
 Three Hearts Marathon
-Tokushima Marathon
 Tokyo Marathon
 Toronto Marathon
 TS Women Run

@@ -68,6 +68,7 @@
 | 4月 | **燒津港馬拉松** | Yaizu Harbor Marathon | 鰹魚之鄉、平坦港灣賽道、著名鰹魚獎品、PB 聖地 | JAAF 認證 | [詳情](Yaizu_Harbor_Marathon.md#燒津港馬拉松-yaizu-harbor-marathon) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | 一般 | [詳情](Tohoku_Food_Marathon.md#東北風土馬拉松-tohoku-food-marathon) |
 | 5月 | **岩手奧州閃耀馬拉松** | Iwate Oshu Kirameki Marathon | 極速平原、奧州前澤牛補給、東北初夏風景、適合挑戰 PB | JAAF 認證 | [詳情](Iwate_Oshu_Kirameki_Marathon.md) |
+| 5月 | **輕井澤半程馬拉松** | Karuizawa Half Marathon | 避暑勝地、森林芬多精、高海拔涼爽、賽道平緩微起伏 | JAAF 認證 | [詳情](Karuizawa_Half_Marathon.md) |
 | 5月 | **柏崎潮風馬拉松** | Kashiwazaki Shiokaze Marathon | 沿日本海奔跑、波狀路面起伏挑戰、極致海景、飯糰與炸魚補給 | JAAF 認證 | [詳情](Kashiwazaki_Shiokaze_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
 | 5月 | **洞爺湖馬拉松** | Lake Toya Marathon | 絕美湖景環繞、極速平緩、BQ 認證賽道、PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Lake_Toya_Marathon.md#洞爺湖馬拉松-lake-toya-marathon) |
