@@ -27,25 +27,26 @@
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | 一般 | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
 | 2月 | **磐城陽光馬拉松** | Iwaki Sunshine Marathon | 復興象徵、海濱絕景、熱情在地應援、小名濱港景觀 | AIMS 認證, JAAF 認證 | [詳情](Iwaki_Sunshine_Marathon.md#磐城陽光馬拉松-iwaki-sunshine-marathon) |
 | 2月 | **香川丸龜國際半程馬拉松大賽** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 金標, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md#香川丸龜國際半程馬拉松-kagawa-marugame-international-half-marathon) |
+| 2月 | **關西機場泉州國際馬拉松** | Kansai Airport Senshu International Marathon | 跨海大橋挑戰、關西機場景觀、海風考驗、PB 挑戰與意志淬煉 | AIMS 認證, JAAF 認證 | [詳情](Kansai_Airport_Senshu_International_Marathon.md) |
 | 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | JAAF 認證 | [詳情](Kishu_Kuchikumano_Marathon.md) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
-| 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md) |
 | 2月 | **熊本城馬拉松** | Kumamoto Castle Marathon | 震災復興應援、熱烈在地應援、攻城坡挑戰、黑亭拉麵補給 | AIMS 認證, JAAF 認證 | [詳情](Kumamoto_Castle_Marathon.md) |
+| 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md) |
 | 2月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | JAAF 認證 | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 穿越美軍基地、美式風情、破碎緩坡挑戰、熱情南國應援 | AIMS 認證, JAAF 認證 | [詳情](Okinawa_Marathon.md) |
 | 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md) |
 | 2月 | **埼玉馬拉松** | Saitama Marathon | 首都圈大賽、超級競技場起終點、波浪狀賽道、地瓜補給 | JAAF, AIMS 認證 | [詳情](Saitama_Marathon.md) |
+| 2月 | **總社吉備路馬拉松** | Soja Kibiji Marathon | 吉備路歷史巡禮、五重塔絕景、麵包之城、適合挑戰 PB | JAAF 認證 | [詳情](Soja_Kibiji_Marathon.md) |
 | 2月 | **玉名韋駄天馬拉松** | Tamana Idaten Marathon | 馬拉松之父故鄉、金栗四三紀念賽、極速平坦河岸賽道、玉名拉麵補給 | JAAF 認證 | [詳情](Tamana_Idaten_Marathon.md) |
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md) |
-| 2月 | **關西機場泉州國際馬拉松** | Kansai Airport Senshu International Marathon | 跨海大橋挑戰、關西機場景觀、海風考驗、PB 挑戰與意志淬煉 | AIMS 認證, JAAF 認證 | [詳情](Kansai_Airport_Senshu_International_Marathon.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
-| 3月 | **鹿兒島馬拉松** | Kagoshima Marathon | 燃燒的薩摩人精神、櫻島火山絕景、世界遺產巡禮、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Kagoshima_Marathon.md) |
 | 3月 | **東京板橋馬拉松** | Itabashi City Marathon | 東京荒川河川敷、極致平坦、適合挑戰 PB、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Itabashi_City_Marathon.md#東京板橋馬拉松-itabashi-city-marathon) |
+| 3月 | **鹿兒島馬拉松** | Kagoshima Marathon | 燃燒的薩摩人精神、櫻島火山絕景、世界遺產巡禮、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Kagoshima_Marathon.md) |
 | 3月 | **古河花桃馬拉松** | Koga Hanamomo Marathon | 超平坦賽道、25000株花桃綻放、PB 聖殿、關東極速賽道 | AIMS 認證, JAAF 認證 | [詳情](Koga_Hanamomo_Marathon.md#古河花桃馬拉松-koga-hanamomo-marathon) |
 | 3月 | **名古屋城市馬拉松** | Nagoya City Marathon | 市區巡航、與女子馬同日、半馬/10K 混合賽 | JAAF 認證, AIMS 認證 | [詳情](Nagoya_City_Marathon.md) |
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證, JAAF 認證 | [詳情](Nagoya_Womens_Marathon.md) |
-| 3月 | **能登和倉萬葉馬拉松** | Noto Wakura Manyo Marathon | 七尾灣海景、和倉溫泉巡禮、烤牡蠣美食盛宴 | JAAF 認證 | [詳情](Noto_Wakura_Manyo_Marathon.md) |
 | 3月 | **練馬KOBUSHI半程馬拉松大會** | Nerima Kobushi Half Marathon | 穿越光之丘公園、市區巡航、櫻花季節限定、交通極便 | JAAF 認證 | [詳情](Nerima_Kobushi_Half_Marathon.md) |
+| 3月 | **能登和倉萬葉馬拉松** | Noto Wakura Manyo Marathon | 七尾灣海景、和倉溫泉巡禮、烤牡蠣美食盛宴 | JAAF 認證 | [詳情](Noto_Wakura_Manyo_Marathon.md) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證, JAAF 認證 | [詳情](Saga_Sakura_Marathon.md) |
 | 3月 | **佐倉朝日健康馬拉松** | Sakura Asahi Kenko Marathon | 關東老牌賽事、印旛沼風車美景、極速平坦 PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Sakura_Asahi_Kenko_Marathon.md#佐倉朝日健康馬拉松-sakura-asahi-kenko-marathon) |
 | 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](Sakura_Marathon.md) |
@@ -61,14 +62,14 @@
 | 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標認證 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md) |
 | 4月 | **岐阜清流半程馬拉松** | Gifu Seiryu Half Marathon | 沿長良川奔跑、遠眺岐阜城、賽道極平緩、高橋尚子杯、適合挑戰 PB | WA 金標, AIMS 認證 | [詳情](Gifu_Seiryu_Half_Marathon.md) |
 | 4月 | **加賀溫泉鄉馬拉松** | Kaga Onsen-kyo Marathon | 三名湯巡禮、櫻花隧道、波狀起伏挑戰、溫泉鄉熱情補給 | JAAF 認證 | [詳情](Kaga_Onsen_Marathon.md) |
+| 4月 | **香住地質公園馬拉松** | Kasumi Geopark Marathon | 山陰海岸地質公園絕景、波狀起伏挑戰、螃蟹湯特色補給、地質遺產巡禮 | JAAF 認證 | [詳情](Kasumi_Geopark_Marathon.md) |
 | 4月 | **茨城霞浦馬拉松兼國際盲人馬拉松** | Kasumigaura Marathon and International Blind Marathon | 日本第二大規模老牌賽事、世界最大盲人馬、平緩湖濱賽道、蓮藕補給 | AIMS 認證, JAAF 認證 | [詳情](Kasumigaura_Marathon.md) |
 | 4月 | **前橋澀川市馬拉松** | Maebashi-Shibukawa City Marathon | 沿利根川奔跑、前橋與澀川雙城巡禮、初夏田園風光、賽道微起伏 | JAAF 認證 | [詳情](Maebashi_Shibukawa_City_Marathon.md#前橋澀川市馬拉松-maebashi-shibukawa-city-marathon) |
 | 4月 | **長野馬拉松** | Nagano Marathon | 奧運等級賽道、5小時嚴格限時、奧運場館終點、春季櫻花與殘雪 | WA 菁英, AIMS 認證 | [詳情](Nagano_Marathon.md) |
 | 4月 | **小山思川櫻花馬拉松** | Oyama Omoigawa Sakura Marathon | 思川櫻隧道、平緩河川敷賽道、小山烏龍麵補給 | JAAF 認證 | [詳情](Oyama_Omoigawa_Sakura_Marathon.md) |
 | 4月 | **佐渡島朱鷺馬拉松** | Sado Toki Marathon | 日本最大離島馬拉松、朱鷺保育棲地、平緩海岸線、遠眺日本海 | AIMS 認證 | [詳情](Sado_Toki_Marathon.md) |
-| 4月 | **燒津港馬拉松** | Yaizu Harbor Marathon | 鰹魚之鄉、平坦港灣賽道、著名鰹魚獎品、PB 聖地 | JAAF 認證 | [詳情](Yaizu_Harbor_Marathon.md#燒津港馬拉松-yaizu-harbor-marathon) |
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | 一般 | [詳情](Tohoku_Food_Marathon.md#東北風土馬拉松-tohoku-food-marathon) |
-| 4月 | **香住地質公園馬拉松** | Kasumi Geopark Marathon | 山陰海岸地質公園絕景、波狀起伏挑戰、螃蟹湯特色補給、地質遺產巡禮 | JAAF 認證 | [詳情](Kasumi_Geopark_Marathon.md) |
+| 4月 | **燒津港馬拉松** | Yaizu Harbor Marathon | 鰹魚之鄉、平坦港灣賽道、著名鰹魚獎品、PB 聖地 | JAAF 認證 | [詳情](Yaizu_Harbor_Marathon.md#燒津港馬拉松-yaizu-harbor-marathon) |
 | 5月 | **岩手奧州閃耀馬拉松** | Iwate Oshu Kirameki Marathon | 極速平原、奧州前澤牛補給、東北初夏風景、適合挑戰 PB | JAAF 認證 | [詳情](Iwate_Oshu_Kirameki_Marathon.md) |
 | 5月 | **輕井澤半程馬拉松** | Karuizawa Half Marathon | 避暑勝地、森林芬多精、高海拔涼爽、賽道平緩微起伏 | JAAF 認證 | [詳情](Karuizawa_Half_Marathon.md) |
 | 5月 | **柏崎潮風馬拉松** | Kashiwazaki Shiokaze Marathon | 沿日本海奔跑、波狀路面起伏挑戰、極致海景、飯糰與炸魚補給 | JAAF 認證 | [詳情](Kashiwazaki_Shiokaze_Marathon.md) |
@@ -77,25 +78,25 @@
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](Northern_Horse_Park_Marathon.md) |
 | 5月 | **富山清流馬拉松** | Toyama Seiryu Marathon | 沿神通川河川敷奔跑、立山連峰遠眺、黃金週在地賽事、小而美全馬 | - | [詳情](Toyama_Seiryu_Marathon.md) |
 | 5月 | **星星的故鄉八之岳野邊山高原超級馬拉松** | Yatsugatake Nobeyama Kogen Ultra Marathon | 全日最艱難超馬、海拔 1300m+、碎石路挑戰、星星故鄉絕景 | JAAF 認證 | [詳情](Yatsugatake_Nobeyama_Kogen_Ultra_Marathon.md) |
-| 6月 | **日本遺產紀念山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
 | 6月 | **千歲JAL國際馬拉松** | Chitose JAL International Marathon | 森林療癒系 、80%林道賽道、對膝蓋友善、夏季涼爽森林浴 | AIMS 認證, JAAF 認證 | [詳情](Chitose_JAL_International_Marathon.md#千歲jal國際馬拉松-chitose-jal-international-marathon) |
 | 6月 | **函館馬拉松** | Hakodate Marathon | 海鮮補給之王、夏季耐熱戰、跨海大橋起伏 | AIMS 認證, JAAF 認證 | [詳情](Hakodate_Marathon.md#函館馬拉松-hakodate-marathon) |
 | 6月 | **飛騨高山超級馬拉松** | Hida Takayama Ultra Marathon | 飛騨小京都、極限爬升(2700m+)、飛騨牛補給、身心修煉 | JAAF 認證 | [詳情](Hida_Takayama_Ultra_Marathon.md) |
-| 6月 | **信州安曇野馬拉松** | Shinshu Azumino Marathon | 北阿爾卑斯絕景、初夏田園風光、極致平緩、PB 聖地 | JAAF 認證 | [詳情](Shinshu_Azumino_Marathon.md#信州安曇野馬拉松-shinshu-azumino-marathon) |
 | 6月 | **茨城水戶偕樂園哈密瓜馬拉松** | Ibaraki Melon Melon Run Mito Kairakuen | 哈密瓜吃到飽、日本三大名園景觀、適合新手與嘉年華氛圍 | 一般 | [詳情](Ibaraki_Melon_Melon_Run_Mito_Kairakuen.md) |
 | 6月 | **岩手縣銀河100K挑戰馬拉松** | Iwate Galaxy 100km Challenge Marathon | 東北最大規模超馬、銀河鐵道之鄉景觀、奧羽山脈跨越、極限爬升挑戰 | JAAF 認證 | [詳情](Iwate_Galaxy_100km_Challenge_Marathon.md) |
 | 6月 | **高野龍神超級馬拉松** | Koya Ryujin Ultra Marathon | 世界遺產高野龍神 Skyline、全日本最高海拔超馬、極限 2000m+ 爬升挑戰、身心修煉之道 | JAAF 認證 | [詳情](Koya_Ryujin_Ultra_Marathon.md#高野龍神超級馬拉松-koya-ryujin-ultra-marathon) |
-| 6月 | **隱岐之島超級馬拉松** | Okinoshima Ultra Marathon | 日本百選賽道、巨坂挑戰、累計爬升大、熱情島民應援 | JUA 認證 | [詳情](Okinoshima_Ultra_Marathon.md#隱岐之島超級馬拉松-okinoshima-ultra-marathon) |
 | 6月 | **薩羅麻湖超級馬拉松** | Lake Saroma 100km Ultra Marathon | 世界紀錄搖籃、超馬聖殿、最後 20K 瓦卡自然花園絕景、薩羅麻藍 | IAU 金標認證, JAAF 認證 | [詳情](Lake_Saroma_100km_Ultra_Marathon.md#薩羅麻湖超級馬拉松-lake-saroma-100km-ultra-marathon) |
+| 6月 | **隱岐之島超級馬拉松** | Okinoshima Ultra Marathon | 日本百選賽道、巨坂挑戰、累計爬升大、熱情島民應援 | JUA 認證 | [詳情](Okinoshima_Ultra_Marathon.md#隱岐之島超級馬拉松-okinoshima-ultra-marathon) |
 | 6月 | **利尻島一周悠遊覽人Ｇ** | Rishiri Island 55km Run | 環島55K、絕美利尻富士景觀、海膽與昆布補給、悠閒氛圍 | - | [詳情](Rishiri_Island_55km_Run.md#利尻島一周悠遊覽人ｇ-rishiri-island-round-the-island-leisurely-run-g) |
+| 6月 | **信州安曇野馬拉松** | Shinshu Azumino Marathon | 北阿爾卑斯絕景、初夏田園風光、極致平緩、PB 聖地 | JAAF 認證 | [詳情](Shinshu_Azumino_Marathon.md#信州安曇野馬拉松-shinshu-azumino-marathon) |
+| 6月 | **日本遺產紀念山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
 | 7月 | **日本海哈密瓜馬拉松** | Nihonkai Melon Marathon | 秋田縣男鹿市、盛夏耐熱考驗、哈密瓜吃到飽、日本海絕美海景 | 一般 | [詳情](Nihonkai_Melon_Marathon.md) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 日本夏季唯一的頂尖馬拉松，挑戰熱適應 | WA 菁英, AIMS 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
+| 9月 | **安藝太田超級馬拉松** | Akiota Ultra Marathon | 西日本硬派超馬、100K/88K 挑戰、三段峽絕美山徑、累計爬升大、在地人情私補 | 一般 | [詳情](Akiota_Ultra_Marathon.md) |
+| 9月 | **白山白川鄉超級馬拉松** | Hakusan Shirakawago Ultra Marathon | 跨越白山白路、世界遺產巡禮、極限爬升挑戰、身心修煉 | - | [詳情](Hakusan_Shirakawago_Ultra_Marathon.md) |
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF 認證 | [詳情](Haruna_Lake_Marathon.md#榛名湖馬拉松-haruna-lake-marathon) |
 | 9月 | **日本最北端稚內和平馬拉松** | Japan's Northernmost Wakkanai Peace Marathon | 日本最北端、宗谷岬出發、海風挑戰、干貝與宗谷黑牛補給 | JAAF 認證 | [詳情](Wakkanai_Peace_Marathon.md) |
 | 9月 | **田澤湖馬拉松** | Lake Tazawa Marathon | 日本最深湖泊、環湖林蔭、頻繁起伏挑戰、秋田在地美食 | JAAF 認證 | [詳情](Lake_Tazawa_Marathon.md#田澤湖馬拉松-lake-tazawa-marathon) |
 | 9月 | **鄂霍次克網走馬拉松** | Okhotsk Abashiri Marathon | 260萬株向日葵花海、網走監獄起點、能取岬海景、最奢華在地補給、限時 6.5 小時友善賽事 | JAAF 認證 | [詳情](Okhotsk_Abashiri_Marathon.md) |
-| 9月 | **白山白川鄉超級馬拉松** | Hakusan Shirakawago Ultra Marathon | 跨越白山白路、世界遺產巡禮、極限爬升挑戰、身心修煉 | - | [詳情](Hakusan_Shirakawago_Ultra_Marathon.md) |
-| 9月 | **安藝太田超級馬拉松** | Akiota Ultra Marathon | 西日本硬派超馬、100K/88K 挑戰、三段峽絕美山徑、累計爬升大、在地人情私補 | 一般 | [詳情](Akiota_Ultra_Marathon.md) |
 | 10月 | **別海町馬拉松** | Betsukai Pilot Marathon | 紀念開拓之森、極致平坦直道、鮭魚鮮奶完賽禮、PB 聖殿 | JAAF 認證 | [詳情](Betsukai_Pilot_Marathon.md#別海町馬拉松-betsukai-pilot-marathon) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **筑後川馬拉松** | Chikugo River Marathon | 沿筑後川河岸奔跑、極致平坦、九州老牌賽事、適合初馬與挑戰 PB | JAAF 認證 | [詳情](Chikugo_River_Marathon.md) |
