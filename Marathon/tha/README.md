@@ -27,6 +27,7 @@ Author: AI Coach
 | 12月 | **泰國曼谷馬拉松** | Amazing Thailand Marathon Bangkok | 首都之星、熱帶熱情、大皇宮終點、官方認證 | AIMS 認證, WA 菁英 | [詳情](Amazing_Thailand_Marathon_Bangkok.md) |
 | 12月 | **清邁馬拉松** | Chiang Mai Marathon | 泰北玫瑰之城、古城牆巡禮、高海拔挑戰、氣候涼爽 | AIMS 認證 | [詳情](Chiang_Mai_Marathon.md) |
 | 12月 | **邦賢 21 公里** | Bangsaen21 | 東南亞唯一 WA 白金標半馬、海濱平坦、頂尖組織、極致美食 | WA 白金標 | [詳情](Bangsaen21.md) |
+| 12月 | **Watlaharnrai 半程馬拉松** | Watlaharnrai Half Marathon | 靈性傳承、高僧紀念、鄉間田園、慈善功德跑 | AIMS 認證 | [詳情](Watlaharnrai_Half_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
