@@ -127,7 +127,7 @@
 | 12月 | **富士馬拉松祭** | Fuji Marathon Festa | 賽車場競技、富士山景觀、FIA等級賽道、獨特起伏挑戰 | JAAF 認證 | [詳情](Fuji_Marathon_Festa.md) |
 | 12月 | **福岡國際馬拉松** | Fukuoka International Marathon | 日本三大馬之一、 頂尖精英競技、極速平緩、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Fukuoka_International_Marathon.md) |
 | 12月 | **芳賀路馬拉松** | Haga Road Marathon | 栃木縣芳賀地區巡禮、SL蒸氣火車應援、草莓名產補給、波狀起伏賽道 | JAAF 認證 | [詳情](Haga_Road_Marathon.md) |
-| 12月 | **防府讀賣馬拉松** | Hofu Yomiuri Marathon | 菁英賽事、關門時間嚴格、極速平坦、PB 聖殿 | WA 菁英, AIMS 認證, JAAF 認證 | [詳情](Hofu_Yomiuri_Marathon.md) |
+| 12月 | **防府讀賣新聞馬拉松** | Hofu Yomiuri Marathon | 菁英賽事、關門時間嚴格、極速平坦、PB 聖殿 | AIMS 認證, WA 菁英, JAAF 認證 | [詳情](Hofu_Yomiuri_Marathon.md#防府讀賣馬拉松-hofu-yomiuri-marathon) |
 | 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md) |
