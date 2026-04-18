@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽德國地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-17
+> **Last Updated**: 2026-04-19
 > **Author**: AI Coach
 
 ---
@@ -16,6 +16,7 @@
 | 6月 | **漢堡海拉半程馬拉松** | Hella Hamburg Half Marathon | 德國夏季最快半馬、音樂與紅燈區跑道、派對氛圍 | AIMS 認證,WA一般 | [詳情](Hella_Hamburg_Halbmarathon.md#漢堡海拉半程馬拉松-hella-hamburg-halbmarathon) |
 | 9月 | **阿爾特廷半程馬拉松** | Halbmarathon Altötting | 世界上最快的森林跑道、綠蔭環繞、PB 聖殿 | AIMS 認證,WA一般 | [詳情](Halbmarathon_Altötting.md#阿爾特廷半程馬拉松-halbmarathon-altötting) |
 | 9月 | **柏林馬拉松** | Berlin Marathon | 世界紀錄聖殿、極致平坦、六大滿貫 | AIMS 認證,WA 白金標,WMM | [詳情](Berlin_Marathon.md) |
+| 10月 | **慕尼黑馬拉松** | Marathon München by Brooks | 奧林匹克體育場終點、巴伐利亞美景、PB 聖殿 | AIMS 認證,WA一般 | [詳情](Munich_Marathon.md#慕尼黑馬拉松-marathon-münchen-by-brooks) |
 | 10月 | **忠利保險科隆馬拉松** | Generali Cologne Marathon | 大教堂終點、狂歡節氣氛、PB 搖籃 | AIMS 認證,WA一般 | [詳情](Cologne_Marathon.md#忠利保險科隆馬拉松-generali-cologne-marathon) |
 | 10月 | **法蘭克福馬拉松** | Mainova Frankfurt Marathon | 歷史悠久城市馬、室內紅地毯終點、極速平坦 | AIMS 認證,WA 金標 | [詳情](Mainova_Frankfurt_Marathon.md#法蘭克福馬拉松-mainova-frankfurt-marathon) |
 | 11月 | **賽道跑步系列賽** | Ring Running Series | F1 賽道繞圈、極致平坦、極速 PB 殿堂 | AIMS 認證,WA一般 | [詳情](Ring_Running_Series.md#賽道跑步系列賽-ring-running-series) |
