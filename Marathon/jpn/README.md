@@ -92,6 +92,7 @@
 | 5月 | **琵琶湖100km超級馬拉松** | Lake Biwa 100km Ultra Marathon | 琵琶湖畔、平緩賽道、意志力挑戰、絕美湖光山色 | JUA 認證 | [詳情](Lake_Biwa_100km_Ultra_Marathon.md#琵琶湖-100km-超級馬拉松-lake-biwa-100km-ultra-marathon) |
 | 5月 | **洞爺湖馬拉松** | Lake Toya Marathon | 絕美湖景環繞、極速平緩、BQ 認證賽道、PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Lake_Toya_Marathon.md#洞爺湖馬拉松-lake-toya-marathon) |
 | 5月 | **南伊豆町道草超級馬拉松** | Minamiizu Michikusa Ultra Marathon | 伊豆半島南端、海岸線與陡坡挑戰、豐富在地補給、意志淬煉 | 一般 | [詳情](Minamiizu_Michikusa_Ultra_Marathon.md) |
+| 5月 | **橫須賀‧三浦道草超級馬拉松** | Yokosuka Miura Michikusa Ultra Marathon | 三浦半島山海景觀、頂級海鮮補給、波狀高低差挑戰、道草漫遊精神 | 一般 | [詳情](Yokosuka_Miura_Michikusa_Ultra_Marathon.md) |
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](Northern_Horse_Park_Marathon.md) |
 | 5月 | **體育日本山中湖公路賽** | Sponichi Yamanakako Road Race | 富士五湖巡禮、山中湖環湖、高海拔挑戰、完賽豚汁補給 | JAAF 認證 | [詳情](Sponichi_Yamanakako_Road_Race.md) |
 | 5月 | **富山清流馬拉松** | Toyama Seiryu Marathon | 沿神通川河川敷奔跑、立山連峰遠眺、黃金週在地賽事、小而美全馬 | - | [詳情](Toyama_Seiryu_Marathon.md) |
