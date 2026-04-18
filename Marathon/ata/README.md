@@ -1,4 +1,4 @@
-Last Updated: 2026-04-13
+Last Updated: 2026-04-18
 Author: AI Coach
 
 # 南極洲賽事索引 (Antarctica Race Index)
