@@ -144,6 +144,7 @@
 | 10月 | **名古屋探險馬拉松** | Nagoya Adventure Marathon | 莊內川河畔多變路面、混合柏油與碎石地、野趣十足、秋季耐力建構 | 一般 | [詳情](Nagoya_Adventure_Marathon.md) |
 | 10月 | **能登半島超級馬拉松** | Noto Peninsula Ultra Marathon | 絕美能登海岸、珠洲狼煙燈塔、震後復興希望、坡度起伏挑戰 | JUA 認證 | [詳情](Noto_Peninsula_Ultra_Marathon.md) |
 | 10月 | **島田大井川馬拉松** | Shimada Oigawa Marathon | 平坦河川敷賽道、大江戶補給、PB 聖殿 | JAAF/AIMS 認證 | [詳情](Shimada_Oigawa_Marathon.md#島田大井川馬拉松-shimada-oigawa-marathon) |
+| 10月 | **四萬十川超馬拉松** | Shimanto River Ultra Marathon | 日本最後清流、沈下橋美景、100K/60K 挑戰、超馬意志訓練 | JAAF 認證 | [詳情](Shimanto_River_Ultra_Marathon.md#四萬十川超馬拉松-shimanto-river-ultra-marathon) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
 | 11月 | **埼玉國際馬拉松 (停辦)** | Saitama International Marathon | 前精英選拔賽、埼玉競技場起終點、波狀起伏賽道、歷史地位卓越 | WA 菁英, AIMS 認證 | [詳情](Saitama_International_Marathon.md) |
 | 11月 | **愛之土山馬拉松** | Aino Tsuchiyama Marathon | 穿越茶園山林、波狀起伏挑戰、在地土山茶補給、鄉村人情味 | JAAF 認證 | [詳情](Aino_Tsuchiyama_Marathon.md#愛之土山馬拉松-aino-tsuchiyama-marathon) |
