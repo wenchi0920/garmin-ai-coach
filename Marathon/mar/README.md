@@ -10,6 +10,7 @@ Author: AI Coach
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **阿特拉斯孩童慈善跑** | Course des Enfants d’Atlas | 馬拉喀什古城、慈善公益、平坦速賽 | AIMS 認證 | [詳情](Course_des_Enfants_d_Atlas.md#阿特拉斯孩童慈善跑-course-des-enfants-datlas) |
+| 1月 | **馬拉喀什國際馬拉松** | Marathon & Semi-marathon International de Marrakech | 非洲平坦賽道、穿越古城橄欖林、PB 聖殿 | WA 菁英,AIMS 認證 | [詳情](Marathon_International_de_Marrakech.md#馬拉喀什國際馬拉松-marathon-semi-marathon-international-de-marrakech) |
 | 4月 | **拉巴特國際馬拉松** | Rabat International Marathon | 摩洛哥首都、聯合國遺產、歷史遺蹟、平坦賽道 | WA 菁英,AIMS 認證 | [詳情](Rabat_International_Marathon.md) |
 | 4月 | **非斯精神馬拉松** | Spiritual Marathon of Fez | 精神與運動並重、穿越非斯古城古蹟、文化與歷史交匯 | AIMS 認證 | [詳情](Spiritual_Marathon_of_Fez.md#非斯精神馬拉松-spiritual-marathon-of-fez) |
 | 5月 | **姆古恩地質公園半程馬拉松** | Semi Marathon Geoparc M’Goun Azilal | 聯合國地質公園、高海拔挑戰、阿特拉斯山脈風光 | AIMS 認證 | [詳情](Semi_Marathon_Geoparc_MGoun_Azilal.md#姆古恩地質公園半程馬拉松-semi-marathon-geoparc-mgoun-azilal) |
