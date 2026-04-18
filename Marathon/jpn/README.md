@@ -51,6 +51,7 @@
 | 3月 | **名古屋女子馬拉松** | Nagoya Women's Marathon | 世界最大規模女子馬拉松、Tiffany 完賽禮、賽道平緩適合 PB | WA 白金標, AIMS 認證, JAAF 認證 | [詳情](Nagoya_Womens_Marathon.md#名古屋女子馬拉松-nagoya-womens-marathon) |
 | 3月 | **練馬KOBUSHI半程馬拉松大會** | Nerima Kobushi Half Marathon | 穿越光之丘公園、市區巡航、櫻花季節限定、交通極便 | JAAF 認證 | [詳情](Nerima_Kobushi_Half_Marathon.md) |
 | 3月 | **能登和倉萬葉馬拉松** | Noto Wakura Manyo Marathon | 七尾灣海景、和倉溫泉巡禮、烤牡蠣美食盛宴 | JAAF 認證 | [詳情](Noto_Wakura_Manyo_Marathon.md) |
+| 3月 | **岡之里名水馬拉松** | Okanosato Meisui Marathon | 九州名水之鄉、竹田城跡巡禮、波狀起伏賽道、名產番茄與在地應援 | JAAF 認證 | [詳情](Okanosato_Meisui_Marathon.md) |
 | 3月 | **佐賀櫻花馬拉松** | Saga Sakura Marathon | 日本最平坦賽道之一、櫻花隧道、金牌級熱情補給 | AIMS 認證, JAAF 認證 | [詳情](Saga_Sakura_Marathon.md) |
 | 3月 | **佐倉朝日健康馬拉松** | Sakura Asahi Kenko Marathon | 關東老牌賽事、印旛沼風車美景、極速平坦 PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Sakura_Asahi_Kenko_Marathon.md#佐倉朝日健康馬拉松-sakura-asahi-kenko-marathon) |
 | 3月 | **佐倉馬拉松** | Sakura Marathon | 關東老牌賽事、印旛沼風車美景、挑戰 PB 聖地 | JAAF, AIMS 認證 | [詳情](Sakura_Marathon.md) |
