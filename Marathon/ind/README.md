@@ -13,6 +13,7 @@
 | 1月 | **菩提伽耶馬拉松** | Bodhgaya Marathon – Run For Global Peace | 於佛陀悟道聖地起跑，結合和平理念與平緩賽道的精神之旅。 | AIMS 認證 | [詳情](Bodhgaya_Marathon.md) |
 | 1月 | **薩奎布·里茲維紀念癌症防治半程馬拉松** | Saquib Rizvi Memorial Cancer Awareness Half Marathon | 孟買 BKC 商業區的指標性公益路跑，賽道極致平緩，適合挑戰 PB。 | AIMS 認證 | [詳情](Saquib_Rizvi_Memorial_Cancer_Awareness_Half_Marathon.md) |
 | 1月 | **韋丹塔鋅城半程馬拉松** | Vedanta Zinc City Half Marathon | 穿越「湖泊之城」烏代浦，環繞法塔赫湖跑向巔峰。 | AIMS 認證 | [詳情](Vedanta_Zinc_City_Half_Marathon.md#韋丹塔鋅城半程馬拉松-vedanta-zinc-city-half-marathon) |
+| 1月 | **MG 瓦多達拉國際馬拉松** | MG Vadodara International Marathon | 印度最大規模城市馬拉松之一，賽道極致平緩，穿越瓦多達拉地標。 | AIMS 認證 | [詳情](MG_Vadodara_International_Marathon.md) |
 | 2月 | **齋浦爾馬拉松** | AU Jaipur Marathon | 穿梭於「粉紅之城」世界遺產，結合傳統文化與現代賽道的文化盛宴。 | AIMS 認證, WA 一般 | [詳情](AU_Jaipur_Marathon.md) |
 | 2月 | **科格尼扎特新德里馬拉松** | Cognizant New Delhi Marathon | 印度首都官方全馬，賽道極致平緩，穿越印度門等歷史地標。 | AIMS 認證, WA 菁英 | [詳情](Cognizant_New_Delhi_Marathon.md) |
 | 2月 | **IEM-UEM 加爾各答馬拉松** | IEM-UEM Kolkata Marathon | 加爾各答規模最大的學生主辦馬拉松，賽道極致平緩，適合挑戰 PB。 | AIMS 認證 | [詳情](IEM_UEM_Kolkata_Marathon.md) |
