@@ -1,7 +1,7 @@
 # 🇸🇰 斯洛伐克馬拉松 (Slovakia Marathons)
 
 > **Purpose**: 紀錄斯洛伐克境內推薦參加的馬拉松賽事。
-> **Last Updated**: 2026-04-14
+> **Last Updated**: 2026-04-19
 > **Author**: AI Coach
 
 ---
