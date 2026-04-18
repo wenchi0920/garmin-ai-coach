@@ -97,6 +97,7 @@
 | 6月 | **利尻島一周悠遊覽人Ｇ** | Rishiri Island 55km Run | 環島55K、絕美利尻富士景觀、海膽與昆布補給、悠閒氛圍 | - | [詳情](Rishiri_Island_55km_Run.md#利尻島一周悠遊覽人ｇ-rishiri-island-round-the-island-leisurely-run-g) |
 | 6月 | **信州安曇野馬拉松** | Shinshu Azumino Marathon | 北阿爾卑斯絕景、初夏田園風光、極致平緩、PB 聖地 | JAAF 認證 | [詳情](Shinshu_Azumino_Marathon.md#信州安曇野馬拉松-shinshu-azumino-marathon) |
 | 6月 | **日本遺產紀念山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
+| 6月 | **日光超級馬拉松(停賽中)** | Nikko Ultra Marathon | 日光世界遺產巡禮、伊呂波山道極限爬升、超馬意志訓練、目前暫停舉辦 | - | [詳情](Nikko_Ultra_Marathon.md#日光超級馬拉松-nikko-ultra-marathon) |
 | 7月 | **日本海哈密瓜馬拉松** | Nihonkai Melon Marathon | 秋田縣男鹿市、盛夏耐熱考驗、哈密瓜吃到飽、日本海絕美海景 | 一般 | [詳情](Nihonkai_Melon_Marathon.md) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 日本夏季唯一的頂尖馬拉松，挑戰熱適應 | WA 菁英, AIMS 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
 | 9月 | **安藝太田超級馬拉松** | Akiota Ultra Marathon | 西日本硬派超馬、100K/88K 挑戰、三段峽絕美山徑、累計爬升大、在地人情私補 | 一般 | [詳情](Akiota_Ultra_Marathon.md) |
