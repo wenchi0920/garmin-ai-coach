@@ -31,6 +31,7 @@
 | 10月 | **日月潭環湖馬拉松** | Sun Moon Lake Marathon | 環湖美景、坡度有挑戰性、療癒系 | AIMS 認證 | [詳情](Sun_Moon_Lake_Marathon.md) |
 | 10月 | **長榮航空城市觀光馬拉松** | EVA Air Marathon | 城市觀光、河濱賽道、精緻補給、PB潛力場域 | AIMS 認證 | [詳情](EVA_Air_Marathon.md) |
 | 10月 | **新屋魚米之鄉馬拉松** | Xinwu Fish and Rice Marathon | 客家偏鄉、平緩田園、豐富海鮮補給、東北季風考驗 | AIMS 認證 | [詳情](XinWu_Half_Marathon.md) |
+| 10月 | **台中國際馬拉松** | Taichung International Marathon | 后里馬場起終點、花博園區美景、賽道平緩、中台灣代表賽事 | AIMS 認證 | [詳情](Taichung_International_Marathon.md) |
 | 10月 | **宜蘭冬山河水岸馬拉松** | Dongshan River Waterfront Marathon | 沿冬山河畔平緩好跑、蘭陽在地補給、優質地方賽事 | - | [詳情](Luodong_Marathon.md#宜蘭冬山河水岸馬拉松-dongshan-river-waterfront-marathon) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan’s Rice Heaven Tianzhong Marathon | 台灣最有人情味賽事、豪華補給、金黃稻浪美景 | AIMS 認證 | [詳情](Tianzhong_Marathon.md) |
 | 11月 | **台灣米倉田中馬拉松** | Taiwan Rice Heaven Tanaka Marathon | 人情味冠軍、補給像辦桌(烤雞牛排)、氣氛像廟會 | AIMS 認證 | [詳情](Taiwan_Rice_Heaven_Tanaka_Marathon.md) |
