@@ -11,6 +11,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1月 | **高槻市半程馬拉松** | Takatsuki City Half Marathon | 大阪淀川河川敷、極速平坦賽道、社區應援熱情、PB 聖殿 | JAAF 認證 | [詳情](Takatsuki_City_Half_Marathon.md) |
 | 1月 | **高科技馬拉松** | High-Tech Half Marathon | 東京荒川河川敷、極速平坦賽道、精英雲集、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](High-Tech_Half_Marathon.md) |
 | 1月 | **指宿菜之花馬拉松** | Ibusuki Nanohana Marathon | 日本新年首場、油菜花海、溫泉之鄉、最強私補(鰹魚湯) | AIMS 認證, JAAF 認證 | [詳情](Ibusuki_Nanohana_Marathon.md) |
 | 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md) |
