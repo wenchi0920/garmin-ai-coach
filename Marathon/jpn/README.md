@@ -21,7 +21,7 @@
 | 1月 | **大阪半程馬拉松** | Osaka Half Marathon | 與女子馬同日舉行、極速平坦賽道、大阪城起點、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Osaka_Half_Marathon.md#大阪半程馬拉松-osaka-half-marathon) |
 | 1月 | **大阪國際女子馬拉松** | Osaka International Women's Marathon | 頂尖女子競技、極速平緩、奧運/世錦賽選拔賽、PB 聖殿 | WA 白金標, AIMS 認證 | [詳情](Osaka_International_Womens_Marathon.md#大阪國際女子馬拉松-osaka-international-womens-marathon) |
 | 1月 | **館山若潮馬拉松** | Tateyama Wakashio Marathon | 房總半島早春油菜花、環海絕景路線、波狀起伏挑戰、烤番薯補給 | AIMS 認證, JAAF 認證 | [詳情](Tateyama_Wakashio_Marathon.md#館山若潮馬拉松-tateyama-wakashio-marathon) |
-| 1月 | **宇都宮環狀線1周** | Utsunomiya Kanjosen 1-shu Running | 宇都宮外環巡禮、LSD 最佳實戰、寒冷環境訓練 | 一般 | [詳情](Utsunomiya_Kanjosen_1shu_Running.md#宇都宮環狀線1周-utsunomiya-kanjosen-1-shu-running) |
+| 1月 | **宇都宮環状線一周** | Utsunomiya Ring Road Loop | 宇都宮外環巡禮、LSD 最佳實戰、寒冷環境訓練 | 一般 | [詳情](Utsunomiya_Ring_Road_Loop.md#宇都宮環状線一周-utsunomiya-ring-road-loop) |
 | 1月 | **屋久島一周100km** | Yakushima 100km Ultra Marathon | 世界遺產環島、累計爬升大、飛魚補給、身心修煉 | 一般 | [詳情](Yakushima_100km_Ultra_Marathon.md) |
 | 2月 | **別府大分每日馬拉松** | Beppu-Oita Mainichi Marathon | 日本三大馬、PB 聖殿、頂尖競技門檻、極速平緩海岸線 | WA 菁英, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md#別府大分每日馬拉松-beppu-oita-mainichi-marathon) |
 | 2月 | **愛媛馬拉松** | Ehime Marathon | 四國文化巡禮、松山城起終點、柑橘特色補給、賽道緩起伏、適合挑戰 **PB** | AIMS 認證, WA 菁英 | [詳情](Ehime_Marathon.md) |
