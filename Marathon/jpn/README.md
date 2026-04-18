@@ -66,6 +66,7 @@
 | 3月 | **鳥取馬拉松** | Tottori Marathon | 跑過鳥取砂丘、海風挑戰、梨與螃蟹湯補給 | AIMS 認證, JAAF 認證 | [詳情](Tottori_Marathon.md) |
 | 3月 | **與論島馬拉松** | Yoron Island Marathon | 鹿兒島最南端、絕美白沙灘、環島1.5圈起伏挑戰、傳統山羊湯補給 | 一般 | [詳情](Yoron_Island_Marathon.md) |
 | 4月 | **青森櫻花馬拉松** | Aomori Sakura Marathon | 櫻花隧道與陸奧灣海景、賽道極致平緩、完賽蘋果與蘋果汁補給 | JAAF 認證 | [詳情](Aomori_Sakura_Marathon.md#青森櫻花馬拉松-aomori-sakura-marathon) |
+| 4月 | **本庄早稲田の杜馬拉松** | Honjo Waseda no Mori Cross Country & Half Marathon | 早稻田大學校區、越野與公路混合賽道、波狀起伏挑戰、在地「Tsumikko」補給 | 一般 | [詳情](Honjo_Waseda_no_Mori_Marathon.md) |
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | AIMS 認證 | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標認證 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md) |
 | 4月 | **岐阜清流半程馬拉松** | Gifu Seiryu Half Marathon | 沿長良川奔跑、遠眺岐阜城、賽道極平緩、高橋尚子杯、適合挑戰 PB | WA 金標, AIMS 認證 | [詳情](Gifu_Seiryu_Half_Marathon.md) |
