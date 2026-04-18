@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-17
+> **Last Updated**: 2026-04-18
 > **Author**: AI Coach
 
 [⬅️ 返回全球賽事索引](../README.md)
@@ -107,6 +107,7 @@
 | 10月 | **挑戰富士五湖超級馬拉松秋季** | Challenge Fuji 5 Lakes Ultra Marathon Autumn | 富士山紅葉、高海拔超馬挑戰、河口湖絕景、涼爽秋意 | JAAF 認證 | [詳情](Challenge_Fuji_5_Lakes_Ultra_Marathon_Autumn.md#挑戰富士五湖超級馬拉松秋季-challenge-fuji-5-lakes-ultra-marathon-autumn) |
 | 10月 | **千葉跨海大橋馬拉松** | Chiba Aqualine Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Aqualine_Marathon.md) |
 | 10月 | **筑後川馬拉松** | Chikugo River Marathon | 沿筑後川河岸奔跑、極致平坦、九州老牌賽事、適合初馬與挑戰 PB | JAAF 認證 | [詳情](Chikugo_River_Marathon.md) |
+| 10月 | **永平寺朝倉馬拉松** | Eiheiji Asakura Marathon | 曹洞宗大本山、歷史巡禮、禪修體驗、波狀起伏賽道 | 一般 | [詳情](Eiheiji_Asakura_Marathon.md#永平寺朝倉馬拉松-eiheiji-asakura-marathon) |
 | 10月 | **福井馬拉松 (停賽中)** | Fukui Marathon | 歷史悠久城市賽、福井代表性秋季賽事、因櫻花馬整合而停賽 | JAAF 認證 | [詳情](Fukui_Marathon.md) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
 | 10月 | **弘前．白神蘋果馬拉松** | Hirosaki Shirakami Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、世界遺產白神山地 | JAAF 認證 | [詳情](Hirosaki_Shirakami_Apple_Marathon.md) |
