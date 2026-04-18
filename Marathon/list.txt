@@ -37,7 +37,6 @@
 福岡馬拉松
 青島太平洋馬拉松
 福岡國際馬拉松
-伊平屋月光馬拉松
 屋久島一周100km
 宮古島100km WAIDO馬拉松
 南房總道草超級馬拉松
@@ -97,7 +96,6 @@ Maratona da Cidade do Rio de Janeiro
 Maratona di Ravenna Città d’Arte
 Maratona do Porto EDP
 Maratona Monumental de Brasília
-Maraton Cartago
 Maratón de Cali
 Maratón de la Ciudad de México Telcel
 Maratón de Montevideo
@@ -158,7 +156,6 @@ TCS New York City Marathon
 Tel Aviv Bank Leumi Marathon
 Thai Sikh Run
 Thimphu Marathon – Run for Global Peace
-Tokyo Marathon
 Toronto Marathon
 TS Women Run
 TUI Cyprus Marathon
