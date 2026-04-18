@@ -65,6 +65,7 @@
 | 4月 | **綾柱海中道路路跑** | Ayahashi Sea Road Race | 跨海大橋、沖繩海景、平坦賽道 | AIMS 認證 | [詳情](Ayahashi_Sea_Road_Race.md) |
 | 4月 | **富士五湖超級馬拉松** | Fuji 5 Lakes Ultra Marathon | 富士山絕景、高海拔挑戰、IAU 金標超馬 | IAU 金標認證 | [詳情](Fuji_5_Lakes_Ultra_Marathon.md) |
 | 4月 | **岐阜清流半程馬拉松** | Gifu Seiryu Half Marathon | 沿長良川奔跑、遠眺岐阜城、賽道極平緩、高橋尚子杯、適合挑戰 PB | WA 金標, AIMS 認證 | [詳情](Gifu_Seiryu_Half_Marathon.md) |
+| 4月 | **掛川新茶馬拉松** | Kakegawa Shincha Marathon | 丘陵起伏挑戰、新茶香氣繚繞、戰國古城巡禮、哈密瓜與水果盛宴補給 | JAAF 認證 | [詳情](Kakegawa_Shincha_Marathon.md#掛川新茶馬拉松-kakegawa-shincha-marathon) |
 | 4月 | **加賀溫泉鄉馬拉松** | Kaga Onsen-kyo Marathon | 三名湯巡禮、櫻花隧道、波狀起伏挑戰、溫泉鄉熱情補給 | JAAF 認證 | [詳情](Kaga_Onsen_Marathon.md) |
 | 4月 | **香住地質公園馬拉松** | Kasumi Geopark Marathon | 山陰海岸地質公園絕景、波狀起伏挑戰、螃蟹湯特色補給、地質遺產巡禮 | JAAF 認證 | [詳情](Kasumi_Geopark_Marathon.md) |
 | 4月 | **茨城霞浦馬拉松兼國際盲人馬拉松** | Kasumigaura Marathon and International Blind Marathon | 日本第二大規模老牌賽事、世界最大盲人馬、平緩湖濱賽道、蓮藕補給 | AIMS 認證, JAAF 認證 | [詳情](Kasumigaura_Marathon.md) |
