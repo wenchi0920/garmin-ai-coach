@@ -17,7 +17,7 @@ Author: AI Coach
 | 6月 | **尖竹汶風景馬拉松** | Scenic Marathon Chanthaburi | 泰國最美濱海公路、丘陵挑戰、榴槤盛產季 | AIMS 認證 | [詳情](Scenic_Marathon_Chanthaburi.md#尖竹汶風景馬拉松-scenic-marathon-chanthaburi) |
 | 7月 | **芭達雅馬拉松** | Amazing Thailand Pattaya Marathon | 濱海賽道、熱帶挑戰、泰國歷史最久賽事之一 | WA 菁英 | [詳情](Pattaya_Marathon.md) |
 | 8月 | **也拉馬拉松** | Yala Marathon | 泰南邊境和平跑、文化多元、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Yala_Marathon.md) |
-| 8月 | **宋卡國際馬拉松** | Songkhla International Marathon | 撒米拉海灘景觀、極致平坦海濱賽道、泰南文化融合 | AIMS 認證 | [詳情](Songkhla_International_Marathon.md) |
+| 8月 | **宋卡馬拉松** | Songkhla Marathon | 撒米拉海灘景觀、極致平坦海濱賽道、泰南文化融合 | AIMS 認證 | [詳情](Songkhla_Marathon.md#宋卡馬拉松-songkhla-marathon) |
 | 8月 | **美莫半程馬拉松** | Mae Moh Half Marathon | 泰北指標丘陵賽、EGAT美莫礦場景觀、高落差挑戰、涼爽氣候 | AIMS 認證 | [詳情](Mae_Moh_Half_Marathon.md#美莫半程馬拉松-mae-moh-half-marathon) |
 | 9月 | **甲米風景半程馬拉松** | Scenic Half Marathon Krabi | 喀斯特地貌、海濱石灰岩景觀、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Scenic_Half_Marathon_Krabi.md#甲米風景半程馬拉松-scenic-half-marathon-krabi) |
 | 11月 | **曼谷馬拉松** | Bangkok Marathon | 泰國規模最大、歷史悠久、大皇宮起終點、凌晨起跑 | AIMS 認證 | [詳情](Bangkok_Marathon.md) |
