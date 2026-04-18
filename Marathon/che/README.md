@@ -2,8 +2,7 @@
 
 > **Purpose**: 快速瀏覽瑞士地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-18
-> **Author**: AI Coach
+> **Last Updated**: 2026-04-19
 
 ---
 
@@ -15,5 +14,7 @@
 | 7月 | **瑞士高山馬拉松 - 弗利姆斯** | Swissalpine Flims | 阿爾卑斯山地越野、高海拔森林、技術山徑挑戰 | AIMS 認證 | [詳情](Swissalpine_Flims.md#瑞士高山馬拉松---弗利姆斯-swissalpine-flims) |
 | 9月 | **少女峰馬拉松** | Jungfrau-Marathon | 壯麗三巨頭山景、1829m+ 極限爬升、阿爾卑斯頂級體驗 | AIMS 認證 | [詳情](Jungfrau_Marathon.md#少女峰馬拉松-jungfrau-marathon) |
 | 9月 | **烏斯特格賴芬湖跑** | Greifenseelauf Uster | 環湖美景、平緩極速、瑞士最大型半馬、極佳 PB 場地 | WA 一般, AIMS 認證 | [詳情](Greifenseelauf_Uster.md#烏斯特格賴芬湖跑-greifenseelauf-uster) |
+| 9月 | **盧加諾跑** | StraLugano | 盧加諾湖畔、平緩極速賽道、城市觀光、氣氛熱烈 | AIMS 認證 | [詳情](StraLugano.md#盧加諾跑-stralugano) |
 | 10月 | **洛桑馬拉松** | Lausanne Marathon | 萊芒湖畔美景、奧林匹克之都、平緩景觀賽道 | AIMS 認證 | [詳情](Lausanne_Marathon.md#洛桑馬拉松-lausanne-marathon) |
 | 10月 | **瑞士城市馬拉松 - 盧塞恩** | SwissCityMarathon – Lucerne | 湖光山色、市區觀光、雙圈賽道、高度儀式感 | AIMS 認證 | [詳情](SwissCityMarathon_Lucerne.md#瑞士城市馬拉松---盧塞恩-swisscitymarathon--lucerne) |
+
