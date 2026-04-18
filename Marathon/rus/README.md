@@ -12,6 +12,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | 西伯利亞冰上半程馬拉松 | Siberian Ice Half Marathon | 全球最寒冷馬拉松之一、東正教聖誕節傳統、極限氣候挑戰。 | AIMS 認證 | [進入詳情](Siberian_Ice_Half_Marathon.md#西伯利亞冰上半程馬拉松-siberian-ice-half-marathon) |
 | 5月 | 喀山馬拉松 | Kazan Marathon | 俄羅斯體育之都、穿越喀山克里姆林宮、平坦景觀賽道。 | AIMS 認證, WA 一般 | [進入詳情](Kazan_Marathon.md#喀山馬拉松-kazan-marathon) |
+| 5月 | 喀山半程馬拉松 | Kazan Half Marathon | 俄羅斯體育之都、穿越克里姆林宮、極速平坦賽道。 | AIMS 認證 | [進入詳情](Kazan_Half_Marathon.md#喀山半程馬拉松-kazan-half-marathon) |
 | 5月 | 莫斯科半程馬拉松 | Moscow Half Marathon | 俄羅斯最大半馬賽、紅場與莫斯科河畔壯麗景觀、PB 極佳賽道。 | AIMS 認證, WA 一般 | [進入詳情](Moscow_Half_Marathon.md#莫斯科半程馬拉松-moscow-half-marathon) |
 | 5月 | 普希金馬拉松 | Pushkin Marathon | 歷史名城巡禮、穿越凱瑟琳宮、全俄最速平坦賽道之一。 | AIMS 認證 | [進入詳情](Pushkin_Marathon.md#普希金馬拉松-pushkin-marathon) |
 | 6月 | 白夜馬拉松 | White Nights Marathon | 聖彼得堡夏至奇觀、午夜起跑穿越冬宮、平坦景觀賽道。 | AIMS 認證 | [進入詳情](White_Nights_Marathon.md#白夜馬拉松-white-nights-marathon) |
