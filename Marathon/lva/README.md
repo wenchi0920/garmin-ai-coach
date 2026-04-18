@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽拉脫維亞地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-17
+> **Last Updated**: 2026-04-18
 > **Author**: AI Coach
 
 ---
@@ -11,7 +11,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **里加馬拉松** | Rimi Rīgas maratons | 北歐最大賽事之一，行經世界遺產老城區，賽道極其平坦。 | WA 金標 | [詳情](Riga_Marathon.md#里加馬拉松-rimi-rīgas-maratons) |
+| 5月 | **里加馬拉松** | Rimi Riga Marathon | 波羅的海最大賽事，行經世界遺產老城區，賽道極其平坦。 | WA 金標 | [詳情](Rimi_Riga_Marathon.md#里加馬拉松-rimi-riga-marathon) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
