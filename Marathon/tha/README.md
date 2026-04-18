@@ -15,6 +15,7 @@ Author: AI Coach
 | 1月 | **武里南馬拉松** | Buriram Marathon | 亞洲指標夜賽、WA 金標、賽道平坦、賽車場起跑 | WA 金標 | [詳情](Buriram_Marathon.md) |
 | 5月 | **合艾 21 半程馬拉松** | HATYAi21 | 泰南指標半馬、極致平坦、深夜起跑挑戰、AIMS 認證 | AIMS 認證 | [詳情](HATYAi21.md#合艾-21-半程馬拉松-hatyai21-half-marathon) |
 | 6月 | **尖竹汶風景馬拉松** | Scenic Marathon Chanthaburi | 泰國最美濱海公路、丘陵挑戰、榴槤盛產季 | AIMS 認證 | [詳情](Scenic_Marathon_Chanthaburi.md#尖竹汶風景馬拉松-scenic-marathon-chanthaburi) |
+| 6月 | **普吉島樂古浪馬拉松** | Laguna Phuket Marathon | 樂古浪度假區、熱帶景緻、家庭跑、泰國指標度假馬拉松 | AIMS 認證 | [詳情](Laguna_Phuket_Marathon.md#普吉島樂古浪馬拉松-laguna-phuket-marathon) |
 | 7月 | **芭達雅馬拉松** | Amazing Thailand Pattaya Marathon | 濱海賽道、熱帶挑戰、泰國歷史最久賽事之一 | WA 菁英 | [詳情](Pattaya_Marathon.md) |
 | 8月 | **也拉馬拉松** | Yala Marathon | 泰南邊境和平跑、文化多元、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Yala_Marathon.md) |
 | 8月 | **宋卡馬拉松** | Songkhla Marathon | 撒米拉海灘景觀、極致平坦海濱賽道、泰南文化融合 | AIMS 認證 | [詳情](Songkhla_Marathon.md#宋卡馬拉松-songkhla-marathon) |
