@@ -13,7 +13,7 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **高槻市半程馬拉松** | Takatsuki City Half Marathon | 大阪淀川河川敷、極速平坦賽道、社區應援熱情、PB 聖殿 | JAAF 認證 | [詳情](Takatsuki_City_Half_Marathon.md) |
 | 1月 | **高科技馬拉松** | High-Tech Half Marathon | 東京荒川河川敷、極速平坦賽道、精英雲集、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](High-Tech_Half_Marathon.md) |
-| 1月 | **指宿菜之花馬拉松** | Ibusuki Nanohana Marathon | 日本新年首場、油菜花海、溫泉之鄉、最強私補(鰹魚湯) | AIMS 認證, JAAF 認證 | [詳情](Ibusuki_Nanohana_Marathon.md) |
+| 1月 | **指宿油菜花馬拉松** | Ibusuki Nanohana Marathon | 日本新年首場、油菜花海、溫泉之鄉、最強私補(鰹魚湯) | AIMS 認證, JAAF 認證 | [詳情](Ibusuki_Nanohana_Marathon.md#指宿菜之花馬拉松-ibusuki-nanohana-marathon) |
 | 1月 | **石垣島馬拉松** | Ishigaki Island Marathon | 度假系、台灣直飛、七色海景 | AIMS 認證 | [詳情](Ishigaki_Island_Marathon.md) |
 | 1月 | **勝田全国馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md#勝田全国馬拉松-katsuta-national-marathon) |
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
