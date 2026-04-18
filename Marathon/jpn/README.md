@@ -174,7 +174,7 @@
 | 12月 | **防府讀賣新聞馬拉松** | Hofu Yomiuri Marathon | 菁英賽事、關門時間嚴格、極速平坦、PB 聖殿 | AIMS 認證, WA 菁英, JAAF 認證 | [詳情](Hofu_Yomiuri_Marathon.md#防府讀賣馬拉松-hofu-yomiuri-marathon) |
 | 12月 | **伊豆大島地質公園馬拉松** | Izu Oshima Geopark Marathon | 活火山地景、三原山壯麗景色、裏砂漠路段、高難度山道挑戰 | 一般 | [詳情](Izu_Oshima_Geopark_Marathon.md#伊豆大島地質公園馬拉松-izu-oshima-geopark-marathon) |
 | 12月 | **加古川馬拉松** | Kakogawa Marathon | 兵庫縣加古川河川敷、極致平坦、適合挑戰 PB、關西地區年度末大賽 | AIMS 認證, JAAF 認證 | [詳情](Kakogawa_Marathon.md) |
-| 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
+| 12月 | **松阪市馬拉松** | Matsusaka City Marathon | 頂級松阪牛補給、肉之祭典、後半程激坂挑戰、美味與意志的雙重試煉 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md#三重松阪馬拉松-mie-matsusaka-marathon) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md) |
 | 12月 | **水口野口杯中日三重伊勢桑馬拉松賽** | Noguchi Mizuki Cup Ise City Marathon | 野口みずき故鄉賽事、參拜伊勢神宮、御祓町傳統街道、適合實戰 LSD | JAAF 認證 | [詳情](Noguchi_Mizuki_Cup_Ise_City_Marathon.md#水口野口杯中日三重伊勢桑馬拉松賽-noguchi-mizuki-cup-ise-city-marathon) |
