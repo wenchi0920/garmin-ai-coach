@@ -22,6 +22,7 @@
 | 12月 | **蘇黎世保險瓦倫西亞馬拉松** | Zurich Insurance Valencia Marathon | 歐洲最速賽道之一、PB 聖殿、水上終點 | AIMS 認證,WA 白金標 | [詳情](Zurich_Insurance_Valencia_Marathon.md) |
 | 12月 | **瓦倫西亞馬拉松** | Valencia Marathon | 歐洲最平坦快速賽道、世界紀錄搖籃、藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Marathon.md) |
 | 12月 | **瓦倫西亞馬拉松** | Valencia Trinidad Alfonso Marathon | 歐洲最速賽道、PB 聖殿、藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Trinidad_Alfonso_Marathon.md#瓦倫西亞馬拉松-valencia-trinidad-alfonso-marathon) |
+| 12月 | **瓦倫西亞馬拉松** | Maratón Valencia Trinidad Alfonso | 歐洲頂尖極速賽道、PB 聖殿、水上藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Trinidad_Alfonso_Marathon.md#瓦倫西亞馬拉松-maratón-valencia-trinidad-alfonso) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
