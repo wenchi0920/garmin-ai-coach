@@ -138,6 +138,7 @@
 | 10月 | **能登半島超級馬拉松** | Noto Peninsula Ultra Marathon | 絕美能登海岸、珠洲狼煙燈塔、震後復興希望、坡度起伏挑戰 | JUA 認證 | [詳情](Noto_Peninsula_Ultra_Marathon.md) |
 | 10月 | **島田大井川馬拉松** | Shimada Oigawa Marathon | 平坦河川敷賽道、大江戶補給、PB 聖殿 | JAAF/AIMS 認證 | [詳情](Shimada_Oigawa_Marathon.md#島田大井川馬拉松-shimada-oigawa-marathon) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
+| 11月 | **愛之土山馬拉松** | Aino Tsuchiyama Marathon | 穿越茶園山林、波狀起伏挑戰、在地土山茶補給、鄉村人情味 | JAAF 認證 | [詳情](Aino_Tsuchiyama_Marathon.md#愛之土山馬拉松-aino-tsuchiyama-marathon) |
 | 11月 | **赤穗市馬拉松** | Ako City Marathon | 忠臣藏故鄉、播磨灘絕景、平緩海岸線、赤穗鹽特色補給 | JAAF 認證 | [詳情](Ako_City_Marathon.md#赤穗市馬拉松-ako-city-marathon) |
 | 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |
 | 11月 | **揖斐川馬拉松** | Ibigawa Marathon | 岐阜縣經典山徑、紅葉絕景、連續起伏挑戰、熱情小鎮應援 | AIMS 認證, JAAF 認證 | [詳情](Ibigawa_Marathon.md#揖斐川馬拉松-ibigawa-marathon) |
