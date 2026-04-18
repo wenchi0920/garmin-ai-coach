@@ -17,7 +17,7 @@ Author: AI Coach
 | 05 | 月光半程馬拉松 | Moonlight Half Marathon | 傍晚起跑的亞德里亞海濱派對，極速平坦的夜間賽事體驗。 | WA 標牌, AIMS 認證 | [詳情](Moonlight_Half_Marathon.md#月光半程馬拉松-moonlight-half-marathon) |
 | 09 | 烏迪內半程馬拉松 | Maratonina Città di Udine | 極速平坦賽道，適合挑戰 PB，領略弗留利古城風情。 | WA 標牌, AIMS 認證 | [詳情](Maratonina_Citta_di_Udine.md#烏迪內半程馬拉松-maratonina-città-di-udine) |
 | 10 | 特倫托半程馬拉松 | Trento Half Marathon | 穿越阿爾卑斯山腳下的歷史古城，極速平坦的頂尖半馬賽道。 | WA 標牌, AIMS 認證 | [詳情](Trento_Half_Marathon.md#特倫托半程馬拉松-trento-half-marathon) |
-| 10 | 威尼斯馬拉松 | Venice Marathon | 穿越百年古城的藝術巡禮，橫跨大運河浮橋與 14 座橋樑的獨特體驗。 | WA 菁英, AIMS 認證 | [詳情](Venice_Marathon.md) |
+| 10 | 威尼斯馬拉松 | Venicemarathon | 穿越百年古城的藝術巡禮，橫跨大運河浮橋與 14 座橋樑的獨特體驗。 | WA 菁英, AIMS 認證 | [詳情](Venice_Marathon.md#威尼斯馬拉松-venice-marathon) |
 | 11 | 拉文納馬拉松 | Ravenna Marathon City of Art | 穿越 UNESCO 世界文化遺產的時空旅行，以手工馬賽克獎牌聞名。 | AIMS 認證 | [詳情](Ravenna_Marathon.md) |
 | 11 | 拉維納藝術城馬拉松 | Maratona di Ravenna Città d’Arte | 穿越 8 處 UNESCO 世界遺產，獲取手工馬賽克藝術獎牌。 | AIMS 認證, WA 標牌 | [詳情](Ravenna_Marathon.md#拉維納藝術城馬拉松-maratona-di-ravenna-città-d-arte) |
 | 11 | 佛羅倫斯馬拉松 | Estra Firenze Marathon | 穿越文藝復興之都，歷史建築與古城石板路的藝術巡禮。 | WA 菁英, AIMS 認證 | [詳情](Estra_Firenze_Marathon.md) |
