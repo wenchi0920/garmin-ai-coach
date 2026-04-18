@@ -30,6 +30,7 @@
 | 2月 | **香川丸龜國際半程馬拉松大賽** | Kagawa Marugame International Half Marathon | 世界最速半馬賽道之一、高速平緩、精英雲集 | WA 金標, AIMS 認證 | [詳情](Kagawa_Marugame_International_Half_Marathon.md#香川丸龜國際半程馬拉松-kagawa-marugame-international-half-marathon) |
 | 2月 | **關西機場泉州國際馬拉松** | Kansai Airport Senshu International Marathon | 跨海大橋挑戰、關西機場景觀、海風考驗、PB 挑戰與意志淬煉 | AIMS 認證, JAAF 認證 | [詳情](Kansai_Airport_Senshu_International_Marathon.md) |
 | 2月 | **紀州口熊野馬拉松** | Kishu Kuchikumano Marathon | 熊野古道門戶、富田川美景、梅干橘子特色補給 | JAAF 認證 | [詳情](Kishu_Kuchikumano_Marathon.md) |
+| 2月 | **徳島・海陽究極的清流海部川風流馬拉松** | Tokushima Kaiyo Ultimate Seiryu Kaifugawa Furo Marathon | 日本跑者滿意度冠軍、極致清流景觀、平緩好跑 | JAAF 認證 | [詳情](Kaifugawa_Furo_Marathon.md#徳島海陽究極的清流海部川風流馬拉松) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **熊本城馬拉松** | Kumamoto Castle Marathon | 震災復興應援、熱烈在地應援、攻城坡挑戰、黑亭拉麵補給 | AIMS 認證, JAAF 認證 | [詳情](Kumamoto_Castle_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md) |
