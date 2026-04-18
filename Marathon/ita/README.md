@@ -9,6 +9,7 @@ Author: AI Coach
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 02 | 拿坡里半程馬拉松 | Napoli City Half Marathon | 地中海最美海濱賽道之一，極速平緩，適合挑戰 PB。 | WA 菁英, AIMS 認證 | [詳情](Napoli_City_Half_Marathon.md) |
 | 02 | 聖瓦倫丁馬拉松 | Maratona di San Valentino | 聖瓦倫丁故鄉的浪漫巡禮，穿越壯麗瀑布區。 | AIMS 認證 | [詳情](Maratona_di_San_Valentino.md#聖瓦倫丁馬拉松-maratona-di-san-valentino) |
+| 02 | 羅密歐與朱麗葉半程馬拉松 | Romeo&Giulietta Run Half Marathon | 愛之城浪漫巡禮，阿雷納圓形劇場震撼終點。 | WA 標牌, AIMS 認證 | [詳情](Romeo_Giulietta_Run_Half_Marathon.md#羅密歐與朱麗葉半程馬拉松-romeogiulietta-run-half-marathon) |
 | 03 | 羅馬奧斯蒂亞半程馬拉松 | Roma-Ostia Half Marathon | 義大利最受歡迎半馬，從永恆之城羅馬直奔地中海奧斯蒂亞海岸。 | WA 金標, AIMS 認證 | [詳情](Roma-Ostia_Half_Marathon.md) |
 | 03 | 羅馬馬拉松 | ACEA Run Rome The Marathon | 穿越三千年歷史古都，從競技場出發的永恆巡禮。 | WA 菁英, AIMS 認證 | [Rome_Marathon.md#羅馬馬拉松-acea-run-rome-the-marathon](Rome_Marathon.md#羅馬馬拉松-acea-run-rome-the-marathon) |
 | 04 | 帕多瓦馬拉松 | Padova Marathon | 結合溫泉區與古城的極速平緩賽道，非常有利於挑戰 PB。 | AIMS 認證 | [詳情](Padova_Marathon.md#帕多瓦馬拉松-padova-marathon) |

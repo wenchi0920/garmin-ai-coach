@@ -40,7 +40,6 @@
 北九州馬拉松
 長崎五島馬拉松
 岡之里名水馬拉松
-佐賀櫻花馬拉松
 出水鶴馬拉松
 福岡馬拉松
 青島太平洋馬拉松
@@ -167,7 +166,6 @@ Ras al Khaimah Half Marathon
 Reggae Marathon - the Half Marathon, 10K &amp; 5K
 Rimi Riga Marathon
 Riyadh Marathon
-Romeo&amp;Giulietta Run Half Marathon
 Salzburg Marathon
 Samarkand Marathon
 São Silvestre de Luanda 10km
