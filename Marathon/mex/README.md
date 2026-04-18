@@ -9,6 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1月 | **梅里達馬拉松** | Marathon Mérida Banorte | 白色城市歷史巡禮、極度平坦賽道、高溫濕度熱帶挑戰、建城週年慶典 | AIMS 認證 | [詳情](Marathon_Merida_Banorte.md#梅里達馬拉松-marathon-mérida-banorte) |
 | 2月 | **瓜達拉哈拉 21K** | 21K Guadalajara Electrolit | 金標認證、高海拔快賽、熱情文化氣氛、電解質補給專家 | WA 金標 | [詳情](Guadalajara_Half_Marathon.md#瓜達拉哈拉-21k-21k-guadalajara-electrolit-nutrido-por-granvita) |
 | 3月 | **Lala 國際馬拉松** | Maratón Internacional Lala | 拉丁美洲 PB 聖殿、超高 BQ 率、平坦城際賽道、頂尖乳品補給 | AIMS 認證,WA 精英 | [詳情](Maraton_Internacional_Lala.md#lala-國際馬拉松-maratón-internacional-lala) |
 | 4月 | **波多瓦亞塔馬拉松** | Maratón Puerto Vallarta | 太平洋海岸美景、平坦海濱賽道、熱帶海濱氛圍、高溫濕度挑戰 | AIMS 認證 | [詳情](Maraton_Puerto_Vallarta.md#波多瓦亞塔馬拉松-maratón-puerto-vallarta) |
