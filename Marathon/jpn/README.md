@@ -79,6 +79,7 @@
 | 4月 | **日立櫻花馬拉松** | Hitachi Sakura Marathon | 櫻花隧道、太平洋跨海大橋絕景、海風挑戰 | JAAF 認證 | [詳情](Hitachi_Sakura_Marathon.md) |
 | 4月 | **櫻花道國際超級馬拉松** | Sakura-michi International Nature Run | 日本最傳奇 250K 超馬、向佐藤良二致敬、穿越本州、嚴格資格審核 | - | [詳情](Sakura-michi_International_Nature_Run.md) |
 | 5月 | **岩手奧州閃耀馬拉松** | Iwate Oshu Kirameki Marathon | 極速平原、奧州前澤牛補給、東北初夏風景、適合挑戰 PB | JAAF 認證 | [詳情](Iwate_Oshu_Kirameki_Marathon.md) |
+| 5月 | **石垣島超級馬拉松** | Ishigaki Island Ultra Marathon | 環島 60km、壯闊海景、熱適應考驗、珊瑚礁海岸 | - | [詳情](Ishigaki_Island_Ultra_Marathon.md) |
 | 5月 | **輕井澤半程馬拉松** | Karuizawa Half Marathon | 避暑勝地、森林芬多精、高海拔涼爽、賽道平緩微起伏 | JAAF 認證 | [詳情](Karuizawa_Half_Marathon.md) |
 | 5月 | **柏崎潮風馬拉松** | Kashiwazaki Shiokaze Marathon | 沿日本海奔跑、波狀路面起伏挑戰、極致海景、飯糰與炸魚補給 | JAAF 認證 | [詳情](Kashiwazaki_Shiokaze_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
