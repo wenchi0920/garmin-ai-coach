@@ -174,6 +174,7 @@
 | 12月 | **奈良馬拉松** | Nara Marathon | 坡道地獄、有鹿應援、痛並快樂著 | AIMS 認證, JAAF 認證 | [詳情](Nara_Marathon.md) |
 | 12月 | **水口野口杯中日三重伊勢桑馬拉松賽** | Noguchi Mizuki Cup Ise City Marathon | 野口みずき故鄉賽事、參拜伊勢神宮、御祓町傳統街道、適合實戰 LSD | JAAF 認證 | [詳情](Noguchi_Mizuki_Cup_Ise_City_Marathon.md#水口野口杯中日三重伊勢桑馬拉松賽-noguchi-mizuki-cup-ise-city-marathon) |
 | 12月 | **沖繩100K超級馬拉松** | Okinawa 100K Ultramarathon | 沖繩南部環島、絕美海岸線、波狀起伏挑戰、身心修煉之道 | JAAF 認證 | [詳情](Okinawa_100K_Ultramarathon.md) |
+| 12月 | **佐野馬拉松** | Sano Marathon | 栃木鄉間風情、手打佐野拉麵補給、JAAF 認證賽道、冬季強風考驗 | JAAF 認證 | [詳情](Sano_Marathon.md) |
 | 12月 | **湘南國際馬拉松** | Shonan International Marathon | 沿海岸跑、看江之島/富士山、環保杯賽事 | AIMS 認證, JAAF 認證 | [詳情](Shonan_International_Marathon.md) |
 ---
 
