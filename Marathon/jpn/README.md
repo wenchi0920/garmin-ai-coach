@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-18
+> **Last Updated**: 2026-04-19
 > **Author**: AI Coach
 
 [⬅️ 返回全球賽事索引](../README.md)
@@ -142,6 +142,7 @@
 | 10月 | **能登半島超級馬拉松** | Noto Peninsula Ultra Marathon | 絕美能登海岸、珠洲狼煙燈塔、震後復興希望、坡度起伏挑戰 | JUA 認證 | [詳情](Noto_Peninsula_Ultra_Marathon.md) |
 | 10月 | **島田大井川馬拉松** | Shimada Oigawa Marathon | 平坦河川敷賽道、大江戶補給、PB 聖殿 | JAAF/AIMS 認證 | [詳情](Shimada_Oigawa_Marathon.md#島田大井川馬拉松-shimada-oigawa-marathon) |
 | 10月 | **東京傳承半程馬拉松** | Tokyo Legacy Half Marathon | 奧運遺產、國立競技場起終點、賽道平坦、適合 PB | WA 金標, AIMS 認證 | [詳情](Tokyo_Legacy_Half_Marathon.md) |
+| 11月 | **埼玉國際馬拉松 (停辦)** | Saitama International Marathon | 前精英選拔賽、埼玉競技場起終點、波狀起伏賽道、歷史地位卓越 | WA 菁英, AIMS 認證 | [詳情](Saitama_International_Marathon.md) |
 | 11月 | **愛之土山馬拉松** | Aino Tsuchiyama Marathon | 穿越茶園山林、波狀起伏挑戰、在地土山茶補給、鄉村人情味 | JAAF 認證 | [詳情](Aino_Tsuchiyama_Marathon.md#愛之土山馬拉松-aino-tsuchiyama-marathon) |
 | 11月 | **赤穗市馬拉松** | Ako City Marathon | 忠臣藏故鄉、播磨灘絕景、平緩海岸線、赤穗鹽特色補給 | JAAF 認證 | [詳情](Ako_City_Marathon.md#赤穗市馬拉松-ako-city-marathon) |
 | 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |

@@ -4,7 +4,6 @@
 群馬馬拉松
 橫濱馬拉松
 筑波馬拉松 
-埼玉國際馬拉松(停辦)
 佐野馬拉松
 柏崎潮風馬拉松 
 富山清流馬拉松 
@@ -64,7 +63,6 @@ Kigali International Peace Marathon
 Kinmen Marathon
 Kitakyushu Marathon
 KIX Senshu International Marathon
-Kobe Marathon
 Korat Marathon presented by The Mall
 Košice Peace Marathon
 Kuala Lumpur Standard Chartered Marathon
