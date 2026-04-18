@@ -119,6 +119,7 @@
 | **🇹🇹 特立尼達和多巴哥 (Trinidad and Tobago)** | 加勒比海地區歷史悠久的 UWI SPEC 半馬，體驗熱帶氣候與學術競技文化。 | [進入索引](tto/README.md) |
 | **🇧🇧 巴貝多 (Barbados)** | 加勒比海歷史最悠久的馬拉松週末，體驗海島嘉年華與 AIMS 認證賽道。 | [進入索引](brb/README.md) |
 | **🇫🇰 福克蘭群島 (Falkland Islands)** | 全球最南端 AIMS 認證賽賽事，挑戰南大西洋強風與極地景觀。 | [進入索引](flk/README.md) |
+| **🇰🇾 開曼群島 (Cayman Islands)** | 喬治城水邊起跑、平緩雙圈賽道、熱帶島嶼風情的精品賽事。 | [進入索引](cym/README.md) |
 
 ### 🦁 非洲 (Africa)
 | 國家/地區 | 特色描述 | 賽事索引 |
