@@ -1,6 +1,5 @@
 佐倉朝日健康馬拉松
 宇都宮環状線一周
-群馬馬拉松
 橫濱馬拉松
 筑波馬拉松 
 柏崎潮風馬拉松 
@@ -80,7 +79,6 @@ Medio Maratón la Capital del Deporte
 Medio Maratón Valencia Trinidad Alfonso Zurich
 Miri Marathon
 Monterey Bay Half Marathon
-Moscow Half Marathon
 Napoli City Half Marathon
 Nepalgunj Marathon
 NLB Ljubljana Marathon
@@ -129,6 +127,5 @@ Wipro Bengaluru Marathon
 Wizz Air Sofia Marathon
 World Marathon Challenge
 XXIV Gatorade CCS Rock 
-Yellow River Estuary (Dongying) Marathon
 Μαραθώνιος Κρήτης
 ПЕТЕРБУРГСКИЙ МАРАФОН Пушкин - петербург

@@ -35,7 +35,7 @@
 | 9月 | **瀋陽馬拉松** | Shenyang Marathon | 2026 最新：一河兩岸極速平坦賽道、豪邁東北氛圍、PB 首選 | WA 菁英 | [詳情](Shenyang_Marathon.md) |
 | 9月 | **太原馬拉松** | Taiyuan Marathon | 龍城汾河賽道、極速平坦、山西麵食補給 | WA 金標 | [詳情](Taiyuan_Marathon.md) |
 | 10月 | **常州西太湖馬拉松** | Changzhou West Taihu Lake Marathon | 2026 最新：極速環湖平坦賽道、PB/BQ 聖殿、湖光山色 | WA 金標 | [詳情](Changzhou_West_Taihu_Lake_Marathon.md) |
-| 10月 | **黃河口國際馬拉松** | Yellow River Estuary International Marathon | 極速平坦、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
+| 10月 | **黃河口（東營）馬拉松** | Yellow River Estuary (Dongying) Marathon | 2026 最新：極速平坦賽道、PB/BQ 聖殿、風力挑戰、黃河入海口 | AIMS 認證,WA 金標 | [詳情](Yellow_River_Estuary_International_Marathon.md) |
 | 10月 | **大連馬拉松** | Dalian Marathon | 山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_Marathon.md) |
 | 10月 | **大連國際馬拉松** | Dalian International Marathon | 2026 最新：歷史悠久金標、山海起伏賽道、挑戰性極高、海鮮補給 | AIMS 認證,WA 金標 | [詳情](Dalian_International_Marathon.md) |
 | 10月 | **成都馬拉松** | Chengdu Marathon | 2026 最新：WMM 候選賽事、熊貓主題、極速平坦賽道、火鍋粉特色補給 | WA 金標, WMM | [詳情](Chengdu_Marathon.md) |
