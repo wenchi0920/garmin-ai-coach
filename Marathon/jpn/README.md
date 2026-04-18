@@ -78,7 +78,7 @@
 | 5月 | **輕井澤半程馬拉松** | Karuizawa Half Marathon | 避暑勝地、森林芬多精、高海拔涼爽、賽道平緩微起伏 | JAAF 認證 | [詳情](Karuizawa_Half_Marathon.md) |
 | 5月 | **柏崎潮風馬拉松** | Kashiwazaki Shiokaze Marathon | 沿日本海奔跑、波狀路面起伏挑戰、極致海景、飯糰與炸魚補給 | JAAF 認證 | [詳情](Kashiwazaki_Shiokaze_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
-| 5月 | **琵琶湖環湖超級馬拉松** | Lake Biwa 100km Ultra Marathon | 琵琶湖畔、平緩賽道、意志力挑戰、絕美湖光山色 | 一般 | [詳情](Lake_Biwa_100km_Ultra_Marathon.md#琵琶湖-100km-超級馬拉松-lake-biwa-100km-ultra-marathon) |
+| 5月 | **琵琶湖100km超級馬拉松** | Lake Biwa 100km Ultra Marathon | 琵琶湖畔、平緩賽道、意志力挑戰、絕美湖光山色 | JUA 認證 | [詳情](Lake_Biwa_100km_Ultra_Marathon.md#琵琶湖-100km-超級馬拉松-lake-biwa-100km-ultra-marathon) |
 | 5月 | **洞爺湖馬拉松** | Lake Toya Marathon | 絕美湖景環繞、極速平緩、BQ 認證賽道、PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Lake_Toya_Marathon.md#洞爺湖馬拉松-lake-toya-marathon) |
 | 5月 | **南伊豆町道草超級馬拉松** | Minamiizu Michikusa Ultra Marathon | 伊豆半島南端、海岸線與陡坡挑戰、豐富在地補給、意志淬煉 | 一般 | [詳情](Minamiizu_Michikusa_Ultra_Marathon.md) |
 | 5月 | **北海道北國優駿馬拉松** | Northern Horse Park Marathon | 跑進馬場與馬共跑、森林芬多精、五星級自助餐補給、馬蹄形獎牌 | JAAF 認證 | [詳情](Northern_Horse_Park_Marathon.md) |
@@ -122,6 +122,7 @@
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | AIMS 認證 | [詳情](Kanazawa_Marathon.md) |
 | 10月 | **柏崎馬拉松** | Kashiwazaki Marathon | 日本海沿岸絕景、日本最古老公認競技場起終點、北日本(Bourbon)餅乾補給、賽道平緩適合 PB | WA一般, JAAF 認證 | [詳情](Kashiwazaki_Marathon.md) |
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](Kumejima_Marathon.md) |
+| 10月 | **琵琶湖環湖超級馬拉松** | Lake Biwa 100 | 日本難度最高百哩賽、環繞琵琶湖絕景稜線、跨越鈴鹿山脈、身心終極淬煉 | ITRA 認證, UTMB Index | [詳情](Lake_Biwa_100.md) |
 | 10月 | **水戶黃門漫遊馬拉松** | Mito Komon Manyu Marathon | 印籠造型完賽獎牌、偕樂園絕景、41K 終極隧道爬升挑戰、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Mito_Komon_Manyu_Marathon.md#水戶黃門漫遊馬-mito-komon-manyu-marathon) |
 | 10月 | **長井馬拉松** | Nagai Marathon | 東北極速平坦賽道、最上川紅葉景觀、芋煮與艷姬米特色補給 | AIMS 認證, WA一般, JAAF 認證 | [詳情](Nagai_Marathon.md#長井馬拉松-nagai-marathon) |
 | 10月 | **名古屋探險馬拉松** | Nagoya Adventure Marathon | 莊內川河畔多變路面、混合柏油與碎石地、野趣十足、秋季耐力建構 | 一般 | [詳情](Nagoya_Adventure_Marathon.md) |
