@@ -164,6 +164,7 @@
 | 12月 | **袋井皇冠蜜瓜馬拉松** | Fukuroi Crown Melon Marathon | 靜岡縣袋井市、ECOPA 體育場起終點、頂級蜜瓜補給、賽道起伏大 | JAAF 認證 | [詳情](Fukuroi_Crown_Melon_Marathon.md#袋井皇冠蜜瓜馬拉松-fukuroi-crown-melon-marathon) |
 | 12月 | **芳賀路馬拉松** | Haga Road Marathon | 栃木縣芳賀地區巡禮、SL蒸氣火車應援、草莓名產補給、波狀起伏賽道 | JAAF 認證 | [詳情](Haga_Road_Marathon.md) |
 | 12月 | **防府讀賣新聞馬拉松** | Hofu Yomiuri Marathon | 菁英賽事、關門時間嚴格、極速平坦、PB 聖殿 | AIMS 認證, WA 菁英, JAAF 認證 | [詳情](Hofu_Yomiuri_Marathon.md#防府讀賣馬拉松-hofu-yomiuri-marathon) |
+| 12月 | **伊豆大島地質公園馬拉松** | Izu Oshima Geopark Marathon | 活火山地景、三原山壯麗景色、裏砂漠路段、高難度山道挑戰 | 一般 | [詳情](Izu_Oshima_Geopark_Marathon.md#伊豆大島地質公園馬拉松-izu-oshima-geopark-marathon) |
 | 12月 | **加古川馬拉松** | Kakogawa Marathon | 兵庫縣加古川河川敷、極致平坦、適合挑戰 PB、關西地區年度末大賽 | AIMS 認證, JAAF 認證 | [詳情](Kakogawa_Marathon.md) |
 | 12月 | **三重松阪馬拉松** | Mie Matsusaka Marathon | 肉の祭典、後半の激坂 | AIMS 認證, JAAF 認證 | [詳情](Mie_Matsusaka_Marathon.md) |
 | 12月 | **那霸馬拉松** | Naha Marathon | 日本最南端萬人馬拉松、市民熱情私補之王、奧武山出發 | AIMS 認證, JAAF 認證 | [詳情](Naha_Marathon.md) |
