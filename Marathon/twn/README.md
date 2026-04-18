@@ -24,6 +24,7 @@
 | 3月 | **羅東馬拉松** | Luodong Marathon | 小鎮風情、平緩田園賽道、蘭陽美食補給、人情味濃厚 | - | [詳情](Luodong_Marathon.md) |
 | 4月 | **新北馬拉松** | New Taipei City Marathon | 蘆洲微風運河、平緩河濱賽道、高 CP 值補給、PB 潛力 | AIMS 認證 | [詳情](New_Taipei_City_Marathon.md) |
 | 4月 | **宜蘭杏輝馬拉松** | Sinphar Yilan Marathon | 蘭陽溪景、梅花湖環湖、在地藥廠贊助、特色補給 | AIMS 認證 | [詳情](Sinphar_Yilan_Marathon.md) |
+| 4月 | **台新女子路跑** | Taishin Women Run | 專為女性設計、平緩河濱賽道、香氛與美妝服務、高規格補給 | WA 菁英 | [詳情](Taishin_Women_Run.md) |
 | 5月 | **竹東觀音媽馬** | Zhudong Guanyinma Marathon | 宗教文化、客家風情、丘陵坡度挑戰、熱耐受測試 | - | [詳情](Zhudong_Guanyinma_Marathon.md) |
 | 9月 | **Garmin Run 台北** | Garmin Run Taipei | 專業配速、科學訓練、PB潛力、河濱賽道 | AIMS 認證 | [詳情](Garmin_Run_Taipei.md) |
 | 10月 | **南投馬拉松** | Nantou Marathon | 貓羅溪畔、中興新村綠廊、中寮石龍宮 (泡麵土地公) | - | [詳情](Nantou_Marathon.md) |
