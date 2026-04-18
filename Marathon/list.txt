@@ -146,7 +146,6 @@ Osaka Marathon
 Pardubice Wine Half Marathon
 Pardubický vinařský půlmaratón
 Phnom Penh International Half Marathon
-Photak Marathon
 PKO Poznań Półmaraton
 Pokhara International Marathon
 PolarNight Marathon
@@ -157,7 +156,6 @@ Queretaro Maraton
 Radisson Blu Larnaka International Marathon
 Reggae Marathon - the Half Marathon, 10K &amp; 5K
 Rimi Riga Marathon
-Riyadh Marathon
 Salzburg Marathon
 Samarkand Marathon
 São Silvestre de Luanda 10km
@@ -204,7 +202,6 @@ Walls Great Half Antwerpen
 Waterford Viking Marathon
 Wipro Bengaluru Marathon
 Wizz Air Cluj-Napoca Marathon
-Wizz Air Skopje Marathon
 Wizz Air Sofia Marathon
 World Marathon Challenge
 WRRC Copenhagen 26
