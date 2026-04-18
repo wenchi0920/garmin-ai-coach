@@ -115,6 +115,7 @@
 | 9月 | **榛名湖馬拉松** | Haruna Lake Marathon | 高海拔高原賽事、環湖繞圈、坡度劇烈 | JAAF 認證 | [詳情](Haruna_Lake_Marathon.md#榛名湖馬拉松-haruna-lake-marathon) |
 | 9月 | **日本最北端稚內和平馬拉松** | Japan's Northernmost Wakkanai Peace Marathon | 日本最北端、宗谷岬出發、海風挑戰、干貝與宗谷黑牛補給 | JAAF 認證 | [詳情](Wakkanai_Peace_Marathon.md) |
 | 9月 | **田澤湖馬拉松** | Lake Tazawa Marathon | 日本最深湖泊、環湖林蔭、頻繁起伏挑戰、秋田在地美食 | JAAF 認證 | [詳情](Lake_Tazawa_Marathon.md#田澤湖馬拉松-lake-tazawa-marathon) |
+| 9月 | **村岡超級馬拉松** | Muraoka Double Marathon | 山陰山道挑戰、兵庫縣香美町、極限 2500m+ 爬升、超馬意志訓練 | 一般 | [詳情](Muraoka_Double_Marathon.md) |
 | 9月 | **鄂霍次克網走馬拉松** | Okhotsk Abashiri Marathon | 260萬株向日葵花海、網走監獄起點、能取岬海景、最奢華在地補給、限時 6.5 小時友善賽事 | JAAF 認證 | [詳情](Okhotsk_Abashiri_Marathon.md) |
 | 9月 | **歷史街道丹後超級馬拉松** | Tango Ultra Marathon | 京都丹後半島、絕美海岸線、100K/60K 挑戰、七個陡坡挑戰、傳統在地補給 | AIMS 認證, JAAF 認證 | [詳情](Tango_Ultra_Marathon.md) |
 | 10月 | **別海町馬拉松** | Betsukai Pilot Marathon | 極致平坦直道、鮭魚鮮奶完賽禮、PB 聖殿 | JAAF 認證 | [詳情](Betsukai_Pilot_Marathon.md#別海町馬拉松-betsukai-pilot-marathon) |
