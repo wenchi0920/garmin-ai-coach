@@ -72,6 +72,7 @@
 | 4月 | **東北風土馬拉松** | Tohoku Food Marathon | 吃到飽喝清酒、櫻花隧道、Cosplay | 一般 | [詳情](Tohoku_Food_Marathon.md#東北風土馬拉松-tohoku-food-marathon) |
 | 4月 | **燒津港馬拉松** | Yaizu Harbor Marathon | 鰹魚之鄉、平坦港灣賽道、著名鰹魚獎品、PB 聖地 | JAAF 認證 | [詳情](Yaizu_Harbor_Marathon.md#燒津港馬拉松-yaizu-harbor-marathon) |
 | 4月 | **日立櫻花馬拉松** | Hitachi Sakura Marathon | 櫻花隧道、太平洋跨海大橋絕景、海風挑戰 | JAAF 認證 | [詳情](Hitachi_Sakura_Marathon.md) |
+| 4月 | **櫻花道國際超級馬拉松** | Sakura-michi International Nature Run | 日本最傳奇 250K 超馬、向佐藤良二致敬、穿越本州、嚴格資格審核 | - | [詳情](Sakura-michi_International_Nature_Run.md) |
 | 5月 | **岩手奧州閃耀馬拉松** | Iwate Oshu Kirameki Marathon | 極速平原、奧州前澤牛補給、東北初夏風景、適合挑戰 PB | JAAF 認證 | [詳情](Iwate_Oshu_Kirameki_Marathon.md) |
 | 5月 | **輕井澤半程馬拉松** | Karuizawa Half Marathon | 避暑勝地、森林芬多精、高海拔涼爽、賽道平緩微起伏 | JAAF 認證 | [詳情](Karuizawa_Half_Marathon.md) |
 | 5月 | **柏崎潮風馬拉松** | Kashiwazaki Shiokaze Marathon | 沿日本海奔跑、波狀路面起伏挑戰、極致海景、飯糰與炸魚補給 | JAAF 認證 | [詳情](Kashiwazaki_Shiokaze_Marathon.md) |
