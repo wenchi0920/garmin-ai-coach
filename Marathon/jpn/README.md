@@ -124,6 +124,7 @@
 | 10月 | **千葉東京灣跨海大橋馬拉松** | Chiba Tokyo Bay Aqua-Line Marathon | (2026) 跑在海上高速公路、海風強勁、挑戰性極高 | AIMS 認證, JAAF 認證 | [詳情](Chiba_Tokyo_Bay_Aqua-Line_Marathon.md#千葉東京灣跨海大橋馬拉松-chiba-tokyo-bay-aqua-line-marathon) |
 | 10月 | **筑後川馬拉松** | Chikugo River Marathon | 沿筑後川河岸奔跑、極致平坦、九州老牌賽事、適合初馬與挑戰 PB | JAAF 認證 | [詳情](Chikugo_River_Marathon.md) |
 | 10月 | **新潟越後頸城野100K馬拉松** | Echigo Kubikino 100km Marathon | 兩年一度超馬、五座山丘起伏挑戰、新潟稻米之鄉、絕美日本海景 | JAAF 認證 | [詳情](Echigo_Kubikino_100km_Marathon.md) |
+| 10月 | **新潟城市馬拉松** | Niigata City Marathon | 新潟市區與日本海絕景、平緩賽道、萬代橋巡禮、新潟越光米飯糰補給 | AIMS 認證, JAAF 認證 | [詳情](Niigata_City_Marathon.md) |
 | 10月 | **永平寺朝倉馬拉松** | Eiheiji Asakura Marathon | 曹洞宗大本山、歷史巡禮、禪修體驗、波狀起伏賽道 | 一般 | [詳情](Eiheiji_Asakura_Marathon.md#永平寺朝倉馬拉松-eiheiji-asakura-marathon) |
 | 10月 | **福井馬拉松 (停賽中)** | Fukui Marathon | 歷史悠久城市賽、福井代表性秋季賽事、因櫻花馬整合而停賽 | JAAF 認證 | [詳情](Fukui_Marathon.md) |
 | 10月 | **弘前蘋果馬拉松** | Hirosaki Apple Marathon | 蘋果故鄉、津輕富士美景、全蘋果補給、秋意盎然 | JAAF 認證 | [詳情](Hirosaki_Apple_Marathon.md) |
