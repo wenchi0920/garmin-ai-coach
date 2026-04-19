@@ -15,6 +15,7 @@ Author: AI Coach
 | 1月 | **武里南馬拉松** | Buriram Marathon | 亞洲指標夜賽、WA 金標、賽道平坦、賽車場起跑 | WA 金標 | [詳情](Buriram_Marathon.md) |
 | 5月 | **合艾 21 半程馬拉松** | HATYAi21 | 泰南指標半馬、極致平坦、深夜起跑挑戰、AIMS 認證 | AIMS 認證 | [詳情](HATYAi21.md#合艾-21-半程馬拉松-hatyai21-half-marathon) |
 | 6月 | **尖竹汶風景馬拉松** | Scenic Marathon Chanthaburi | 泰國最美濱海公路、丘陵挑戰、榴槤盛產季 | AIMS 認證 | [詳情](Scenic_Marathon_Chanthaburi.md#尖竹汶風景馬拉松-scenic-marathon-chanthaburi) |
+| 6月 | **尖竹汶風景半程馬拉松** | Scenic Half Marathon Chanthaburi | 泰國最美濱海公路、丘陵起伏、高濕熱挑戰、榴槤盛產補給 | AIMS 認證 | [詳情](Scenic_Half_Marathon_Chanthaburi.md#尖竹汶風景半程馬拉松-scenic-half-marathon-chanthaburi) |
 | 6月 | **普吉島樂古浪馬拉松** | Laguna Phuket Marathon | 樂古浪度假區、熱帶景緻、家庭跑、泰國指標度假馬拉松 | AIMS 認證 | [詳情](Laguna_Phuket_Marathon.md#普吉島樂古浪馬拉松-laguna-phuket-marathon) |
 | 6月 | **廊開路跑節** | Nong Khai Running Festival | 湄公河畔景緻、平坦河岸路面、東南亞友誼之跑、高溫高濕挑戰 | 官方認證 | [詳情](Nong_Khai_Running_Festival.md) |
 | 7月 | **芭達雅馬拉松** | Amazing Thailand Pattaya Marathon | 濱海賽道、熱帶挑戰、泰國歷史最久賽事之一 | WA 菁英 | [詳情](Pattaya_Marathon.md) |
