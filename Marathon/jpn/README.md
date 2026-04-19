@@ -97,6 +97,7 @@
 | 5月 | **鹿沼佐佐木馬拉松** | Kanuma Sasaki Marathon | 紀念傳奇跑者佐佐木昭夫、皋月花海美景、波狀起伏挑戰性賽道 | JAAF 認證 | [詳情](Kanuma_Sasaki_Marathon.md#鹿沼佐佐木馬拉松-kanuma-sasaki-marathon) |
 | 5月 | **石垣島超級馬拉松** | Ishigaki Island Ultra Marathon | 環島 60km、壯闊海景、熱適應考驗、珊瑚礁海岸 | - | [詳情](Ishigaki_Island_Ultra_Marathon.md) |
 | 5月 | **輕井澤半程馬拉松** | Karuizawa Half Marathon | 避暑勝地、森林芬多精、高海拔涼爽、賽道平緩微起伏 | JAAF 認證 | [詳情](Karuizawa_Half_Marathon.md) |
+| 5月 | **東尋坊超級馬拉松** | Tojinbo Ultra Marathon | 福井東尋坊絕景、100K/52K 挑戰、沿海起伏賽道、歷史街道巡禮 | 一般 | [詳情](Tojinbo_Ultra_Marathon.md#東尋坊超級馬拉松-tojinbo-ultra-marathon) |
 | 5月 | **柏崎潮風馬拉松** | Kashiwazaki Shiokaze Marathon | 沿日本海奔跑、波狀路面起伏挑戰、極致海景、飯糰與炸魚補給 | JAAF 認證 | [詳情](Kashiwazaki_Shiokaze_Marathon.md) |
 | 5月 | **黑部名水馬拉松** | Kurobe Meisui Marathon | 立山連峰殘雪美景、黑部川清流巡禮、名水拉麵補給王、初夏熱適應戰 | AIMS 認證, JAAF 認證 | [詳情](Kurobe_Meisui_Marathon.md) |
 | 5月 | **柴又100K** | Shibamata 100K | 東京江戶川河川敷、極致平坦、超馬入門首選、盛夏耐熱戰 | JAAF 認證, IAU 認證 | [詳情](Shibamata_100K.md#柴又100k-shibamata-100k) |
