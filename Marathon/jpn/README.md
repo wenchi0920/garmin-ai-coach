@@ -11,7 +11,6 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-[⬅️ 返回全球賽事索引](../README.md)
 | 1月 | **勝田全国馬拉松** | Katsuta National Marathon | 歷史悠久、乾燥地瓜名產、賽道起伏具挑戰性 | AIMS 認證, JAAF 認證 | [詳情](Katsuta_National_Marathon.md#勝田全国馬拉松-katsuta-national-marathon) |
 | 1月 | **名護半程馬拉松** | Nago Half Marathon | 北部最大、賞櫻預備軍、路線起伏適中 | - | [詳情](Nago_Half_Marathon.md) |
 | 1月 | **名護超級馬拉松(停賽中)** | Nago Ultra Marathon | 沖繩山原森林、海岸公路起伏、超馬意志訓練、目前暫停舉辦 | - | [詳情](Nago_Ultra_Marathon.md#名護超級馬拉松-nago-ultra-marathon) |
@@ -176,7 +175,7 @@
 | 11月 | **富士山馬拉松** | Mt. Fuji International Marathon | 紅葉絕景、環湖挑戰、經典黑門坡 | AIMS 認證 | [詳情](Mt_Fuji_International_Marathon.md) |
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md) |
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、水果王國奢華補給、賽道平緩極速、備前燒完賽獎牌 | AIMS 認證, JAAF 認證 | [詳情](Okayama_Marathon.md) |
-| 11月 | **川崎國際多摩川馬拉松** | Kawasaki International Tamagawa Marathon | 多摩川極速平坦河岸賽道、PB 聖地、秋季關鍵 RPE 測試、BQ 實戰訓練場 | WA 一般, JAAF 認證 | [詳情](Kawasaki_International_Tamagawa_Marathon.md#川崎國際多摩川馬拉松-kawasaki-international-tamagawa-marathon) |
+| 11月 | **川崎國際多摩川馬拉松** | Kawasaki International Tamagawa Marathon | 多摩川極速平坦河岸賽道、PB 聖地、秋季關鍵 RPE 測試、BQ 實戰訓練場 | WA一般, JAAF 認證 | [詳情](Kawasaki_International_Tamagawa_Marathon.md#川崎國際多摩川馬拉松-kawasaki-international-tamagawa-marathon) |
 | 11月 | **愛之土山馬拉松** | Aino Tsuchiyama Marathon | 穿越茶園山林、波狀起伏挑戰、在地土山茶補給、鄉村人情味 | JAAF 認證 | [詳情](Aino_Tsuchiyama_Marathon.md#愛之土山馬拉松-aino-tsuchiyama-marathon) |
 | 11月 | **揖斐川馬拉松** | Ibigawa Marathon | 岐阜縣經典山徑、紅葉絕景、連續起伏挑戰、熱情小鎮應援 | AIMS 認證, JAAF 認證 | [詳情](Ibigawa_Marathon.md#揖斐川馬拉松-ibigawa-marathon) |
 | 11月 | **東北宮城縣復興馬拉松** | Tohoku Miyagi Reconstruction Marathon | 災區復興象徵、極致平坦賽道、東北美食盛宴補給 | AIMS 認證, JAAF 認證 | [詳情](Tohoku_Miyagi_Reconstruction_Marathon.md#東北宮城縣復興馬拉松-tohoku-miyagi-reconstruction-marathon) |
