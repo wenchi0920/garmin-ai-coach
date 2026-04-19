@@ -1,7 +1,7 @@
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 > **Parent**: [README.md](README.md)
-> **Last Updated**: 2026-04-18
+> **Last Updated**: 2026-04-20
 > **Author**: AI Coach
 
 [⬅️ 返回國家索引](README.md) | [🌍 返回全球總索引](../README.md)
