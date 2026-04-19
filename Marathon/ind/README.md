@@ -25,6 +25,7 @@
 | 9月 | **拉達克馬拉松** | Ladakh Marathon & Ultra | 世界最高馬拉松之一、高海拔極限挑戰、壯麗喜馬拉雅山景。 | AIMS 認證 | [詳情](Ladakh_Marathon.md#拉達克馬拉松-ladakh-marathon--ultra) |
 | 10月 | **德里半程馬拉松** | Vedanta Delhi Half Marathon | 全球最速半馬賽道之一，穿越印度門地標，高獎金吸引頂尖選手。 | AIMS 認證, WA 金標 | [詳情](Delhi_Half_Marathon.md) |
 | 10月 | **達旺馬拉松** | TAWANG Marathon | 全球最高全馬之一，喜馬拉雅山脈極高海拔挑戰，軍事要塞巡禮。 | WA 一般 | [詳情](Tawang_Marathon.md) |
+| 10月 | **Wipro 班加羅爾馬拉松** | Wipro Bengaluru Marathon | 班加羅爾最具規模賽事，起終點設於康提拉瓦體育場，穿越「花園城市」核心。 | AIMS 認證 | [詳情](Wipro_Bengaluru_Marathon.md) |
 | 12月 | **浦那國際馬拉松** | Pune International Marathon | 印度歷史最悠久的馬拉松賽事，結合浦那城市底蘊與傳統鼓隊應援。 | AIMS 認證 | [詳情](Pune_International_Marathon.md) |
 | 12月 | **SKF 果亞河馬拉松** | SKF Goa River Marathon | 緊鄰祖阿里河的熱帶風景賽道，結合葡式文化與濕熱挑戰。 | AIMS 認證 | [詳情](SKF_Goa_River_Marathon.md) |
 | 12月 | **班加羅爾午夜馬拉松** | Bengaluru Midnight Marathon | 印度唯一的午夜馬拉松，在星空下穿越班加羅爾 IT 園區，熱點搖滾音樂補給。 | AIMS 認證, WA 一般 | [詳情](Bengaluru_Midnight_Marathon.md) |
