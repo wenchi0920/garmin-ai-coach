@@ -1,4 +1,4 @@
-Last Updated: 2026-04-17
+Last Updated: 2026-04-19
 Author: AI Coach
 
 # 🇯🇵 日本賽事詳情庫 (Japan Race Details)
@@ -7,7 +7,7 @@ Author: AI Coach
 
 ---
 
-### 關西機場泉州國際馬拉松 (Kansai Airport Senshu International Marathon)
+### KIX泉州國際馬拉松 (KIX Senshu International Marathon)
 
 1. **歷史背景**:
 關西機場泉州國際馬拉松創辦於 1994 年，初衷是為了慶祝關西國際機場的落成開航。賽道路線橫跨大阪府南部的泉州地區，涵蓋 9 市 4 町。這場賽事不僅是當地的體育盛事，更象徵著區域發展與國際接軌。跑者在奔跑過程中能感受到泉州地區深厚的歷史底蘊與現代工業發展的交融。
