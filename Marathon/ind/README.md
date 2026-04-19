@@ -17,6 +17,7 @@
 | 2月 | **齋浦爾馬拉松** | AU Jaipur Marathon | 穿梭於「粉紅之城」世界遺產，結合傳統文化與現代賽道的文化盛宴。 | AIMS 認證, WA 一般 | [詳情](AU_Jaipur_Marathon.md) |
 | 2月 | **科格尼扎特新德里馬拉松** | Cognizant New Delhi Marathon | 印度首都官方全馬，賽道極致平緩，穿越印度門等歷史地標。 | AIMS 認證, WA 菁英 | [詳情](Cognizant_New_Delhi_Marathon.md) |
 | 2月 | **IEM-UEM 加爾各答馬拉松** | IEM-UEM Kolkata Marathon | 加爾各答規模最大的學生主辦馬拉松，賽道極致平緩，適合挑戰 PB。 | AIMS 認證 | [詳情](IEM_UEM_Kolkata_Marathon.md) |
+| 2月 | **印多爾馬拉松** | Indore Marathon | 全印度最乾淨城市路跑，賽道潔淨平緩中帶有陸橋挑戰。 | AIMS 認證 | [詳情](Indore_Marathon.md) |
 | 2月 | **JBG 加爾各答馬拉松** | JBG Kolkata Marathon | 加爾各答最具代表性的全馬盛事，賽道平緩且充滿歷史底蘊，是挑戰 PB 的理想場域。 | AIMS 認證 | [詳情](JBG_Kolkata_Marathon.md) |
 | 5月 | **塔塔諮詢服務班加羅爾世界 10 公里賽** | Tata Consultancy Services World 10K Bengaluru | 全球頂尖 10K 賽事之一，班加羅爾市中心快速賽道。 | AIMS 認證, WA 金標 | [詳情](Tata_Consultancy_Services_World_10K_Bengaluru.md) |
 | 7月 | **斯皮提馬拉松** | Spiti Marathon | 世界最高馬拉松之一、高海拔極限挑戰、壯闊喜馬拉雅地貌。 | AIMS 認證 | [詳情](Spiti_Marathon.md) |
