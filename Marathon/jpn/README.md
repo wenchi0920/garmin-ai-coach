@@ -45,6 +45,7 @@
 | 2月 | **西尾市馬拉松** | Nishio City Marathon | 鰻魚之鄉、平坦河川敷賽道、三河灣絕景、補給鰻魚特色 | AIMS 認證, JAAF 認證 | [詳情](Nishio_City_Marathon.md#西尾市馬拉松-nishio-city-marathon) |
 | 2月 | **濱松城市馬拉松** | Hamamatsu City Marathon | 靜岡縣大型賽事、穿梭濱松市區、遠州風考驗、後半程起伏挑戰 | JAAF 認證 | [詳情](Hamamatsu_City_Marathon.md#濱松城市馬拉松-hamamatsu-city-marathon) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
+| 3月 | **大阪淀川寛平馬拉松** | Osaka Yodogawa Kanpei Marathon | 搞笑藝人間寬平發起、慈善募款性質、淀川河岸風情、歡樂熱情氛圍 | 一般 | [詳情](Osaka_Yodogawa_Kanpei_Marathon.md#大阪淀川寛平馬拉松-osaka-yodogawa-kanpei-marathon) |
 | 3月 | **琵琶湖每日馬拉松** | Lake Biwa Mainichi Marathon | 日本最古老馬拉松、純競技殿堂、極速平坦賽道 | WA 金標, AIMS 認證 | [詳情](Lake_Biwa_Mainichi_Marathon.md) |
 | 3月 | **茨城100K高級馬拉松in鹿行** | Ibaraki 100K Ultra Marathon in Rokko | 鹿行地區五市巡禮、日本最平坦 100K 賽道、超馬入門首選 | 一般 | [詳情](Ibaraki_100K.md#茨城100k高級馬拉松in鹿行-ibaraki-100k-ultra-marathon-in-rokko) |
 | 3月 | **東京板橋馬拉松** | Itabashi City Marathon | 東京荒川河川敷、極致平坦、適合挑戰 PB、豐富在地補給 | AIMS 認證, JAAF 認證 | [詳情](Itabashi_City_Marathon.md#東京板橋馬拉松-itabashi-city-marathon) |
