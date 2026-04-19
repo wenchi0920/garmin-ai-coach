@@ -1,10 +1,12 @@
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
-Last Updated: 2026-04-13
-Author: AI Coach
+# 🇦🇹 奧地利馬拉松詳情庫 (Austria Race Details)
+
+> **Last Updated**: 2026-04-19
+> **Author**: AI Coach
 
 
-### 三國馬拉松 (3 Country Sparkasse Marathon)
+### 三國馬拉松 (Sparkasse 3-Länder-Marathon)
 
 1. **歷史背景**: 自 2006 年起舉辦，是全球少數跨越三國（德、奧、瑞）的馬拉松。賽道圍繞風景優美的博登湖（Lake Constance），起點在德國林道（Lindau），途經瑞士，終點在奧地利布雷根茲（Bregenz），具備豐富的文化深度。
 
