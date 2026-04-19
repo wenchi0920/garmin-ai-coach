@@ -27,6 +27,7 @@ Author: AI Coach
 | 11月 | **邦盛 42 春武里馬拉松** | Bangsaen42 Chonburi Marathon | 泰國唯一全馬組別賽事、WA 菁英標、海濱平坦、極致美食 | WA 菁英 | [詳情](Bangsaen42_Chonburi_Marathon.md) |
 | 11月 | **呵叻馬拉松** | Korat Marathon presented by The Mall | 泰國東北指標、WA 菁英標、極致平坦 PB 賽道、東北美食盛宴 | WA 菁英 | [詳情](Korat_Marathon.md#呵叻馬拉松-korat-marathon-presented-by-the-mall) |
 | 11月 | **考艾馬拉松** | Khao Yai Marathon | 國家公園賽道、高落差丘陵、空氣清新、自然保育 | AIMS 認證 | [詳情](Khao_Yai_Marathon.md) |
+| 11月 | **泰國錫克跑** | Thai Sikh Run | 曼谷歷史悠久慈善賽、穿越小印度區、賽後印度美食盛宴 | AIMS 認證 | [詳情](Thai_Sikh_Run.md#泰國錫克跑-thai-sikh-run) |
 | 12月 | **曼谷午夜馬拉松** | Bangkok Midnight Marathon | 首都夜行、星光地標、極致平坦但濕熱考驗 | AIMS 認證 | [詳情](Bangkok_Midnight_Marathon.md) |
 | 12月 | **東協馬拉松** | ASEAN Marathon | 湄公河畔、泰寮邊境、平坦景觀、跨國友誼 | AIMS 認證 | [詳情](ASEAN_Marathon.md) |
 | 12月 | **普塔馬拉松** | Photak Marathon | 湄公河畔、鄉村風情、平坦賽道、熱情補給 | AIMS 認證 | [詳情](Photak_Marathon.md#普塔馬拉松-photak-marathon) |
