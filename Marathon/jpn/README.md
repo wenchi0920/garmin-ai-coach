@@ -35,6 +35,7 @@
 | 2月 | **熊本城馬拉松** | Kumamoto Castle Marathon | 震災復興應援、熱烈在地應援、攻城坡挑戰、黑亭拉麵補給 | AIMS 認證, JAAF 認證 | [詳情](Kumamoto_Castle_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md) |
 | 2月 | **京都木津川馬拉松** | Kyoto Kizugawa Marathon | 京都木津川河川敷、極致平坦賽道、溫馨手作氛圍、適合挑戰 PB | JAAF 認證 | [詳情](Kyoto_Kizugawa_Marathon.md#京都木津川馬拉松-kyoto-kizugawa-marathon) |
+| 2月 | **延岡西日本馬拉松** | Nobeoka Nishinippon Marathon | 通往世界的門戶、新人輩出競技場、極致平坦賽道、適合挑戰 PB | AIMS 認證, JAAF 認證 | [詳情](Nobeoka_Nishinippon_Marathon.md#延岡西日本馬拉松-nobeoka-nishinippon-marathon) |
 | 2月 | **長崎五島馬拉松** | Nagasaki Goto Tsubaki Marathon | 五島椿花海、海島丘陵起伏、五島牛與烏龍麵補給 | JAAF 認證 | [詳情](Nagasaki_Goto_Tsubaki_Marathon.md) |
 | 2月 | **沖繩馬拉松** | Okinawa Marathon | 穿越美軍基地、美式風情、破碎緩坡挑戰、熱情南國應援 | AIMS 認證, JAAF 認證 | [詳情](Okinawa_Marathon.md) |
 | 2月 | **大阪馬拉松** | Osaka Marathon | 關西最大規模、熱情應援、賽道平緩、美食補給豐富 | WA 金標, AIMS 認證 | [詳情](Osaka_Marathon.md) |
