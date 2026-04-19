@@ -9,6 +9,7 @@
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1月 | **蘇黎世新年馬拉松** | Neujahrsmarathon Zürich | 全球首場 AIMS 認證、跨年零時起跑、心智挑戰、深夜馬拉松 | AIMS 認證 | [詳情](Neujahrsmarathon_Zuerich.md#蘇黎世新年馬拉松-neujahrsmarathon-zürich) |
+| 4月 | **蘇黎世馬拉松** | Ochsner Sport Zürich Marathon | 沿蘇黎世湖奔跑、賽道極致平緩、PB 聖殿、歐洲頂級賽事氛圍 | WA 菁英, AIMS 認證 | [詳情](Ochsner_Sport_Zurich_Marathon.md#蘇黎世馬拉松-ochsner-sport-zürich-marathon) |
 | 5月 | **忠利保險日內瓦馬拉松** | Generali Genève Marathon | 跨越萊芒湖畔、賽道平緩極速、空氣清新 | WA 一般, AIMS 認證 | [詳情](Generali_Geneva_Marathon.md#忠利保險日內瓦馬拉松-generali-genève-marathon) |
 | 7月 | **策馬特馬拉松** | Gornergrat Zermatt Marathon | 眺望馬特洪峰、1469m+ 高海拔爬升、歐洲最美山徑 | AIMS 認證 | [詳情](Gornergrat_Zermatt_Marathon.md#策馬特馬拉松-gornergrat-zermatt-marathon) |
 | 7月 | **瑞士高山馬拉松 - 弗利姆斯** | Swissalpine Flims | 阿爾卑斯山地越野、高海拔森林、技術山徑挑戰 | AIMS 認證 | [詳情](Swissalpine_Flims.md#瑞士高山馬拉松---弗利姆斯-swissalpine-flims) |
