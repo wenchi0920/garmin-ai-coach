@@ -15,6 +15,7 @@ Author: AI Coach
 | 4月 | **慶州櫻花馬拉松** | Gyeongju Cherry Blossom Marathon | 古都賞櫻、觀光為主、氛圍悠閒 | AIMS 認證 | [詳情](Gyeongju_Cherry_Blossom_Marathon.md) |
 | 10月 | **春川國際馬拉松** | Chuncheon International Marathon | 秋季楓紅、環湖美景、悠久歷史 | AIMS 認證,WA 金標 | [詳情](Chuncheon_International_Marathon.md) |
 | 10月 | **慶州國際馬拉松** | Gyeongju International Marathon | 千年古都、平坦賽道、秋季美景 | WA 菁英 | [詳情](Gyeongju_International_Marathon.md#慶州國際馬拉松-gyeongju-international-marathon) |
+| 10月 | **江南國際和平馬拉松** | International Peace Half Marathon | 慶祝國慶與和平、行經漢江河畔、賽道平緩適合挑戰 PB | AIMS 認證 | [International_Peace_Half_Marathon.md#江南國際和平馬拉松-international-peace-half-marathon](International_Peace_Half_Marathon.md#江南國際和平馬拉松-international-peace-half-marathon) |
 | 11月 | **中央首爾馬拉松** | JTBC Seoul Marathon | 歷史奧運傳承、秋季 PB 聖地、賽道平緩 | WA 金標 | [詳情](JTBC_Seoul_Marathon.md#中央首爾馬拉松-jtbc-seoul-marathon) |
 
 ---
