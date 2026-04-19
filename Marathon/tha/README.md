@@ -25,6 +25,7 @@ Author: AI Coach
 | 9月 | **甲米風景半程馬拉松** | Scenic Half Marathon Krabi | 喀斯特地貌、海濱石灰岩景觀、熱帶雨林氣息、AIMS 認證 | AIMS 認證 | [詳情](Scenic_Half_Marathon_Krabi.md#甲米風景半程馬拉松-scenic-half-marathon-krabi) |
 | 11月 | **曼谷馬拉松** | Bangkok Marathon | 泰國規模最大、歷史悠久、大皇宮起終點、凌晨起跑 | AIMS 認證 | [詳情](Bangkok_Marathon.md) |
 | 11月 | **邦盛 42 春武里馬拉松** | Bangsaen42 Chonburi Marathon | 泰國唯一全馬組別賽事、WA 菁英標、海濱平坦、極致美食 | WA 菁英 | [詳情](Bangsaen42_Chonburi_Marathon.md) |
+| 11月 | **呵叻馬拉松** | Korat Marathon presented by The Mall | 泰國東北指標、WA 菁英標、極致平坦 PB 賽道、東北美食盛宴 | WA 菁英 | [詳情](Korat_Marathon.md#呵叻馬拉松-korat-marathon-presented-by-the-mall) |
 | 11月 | **考艾馬拉松** | Khao Yai Marathon | 國家公園賽道、高落差丘陵、空氣清新、自然保育 | AIMS 認證 | [詳情](Khao_Yai_Marathon.md) |
 | 12月 | **曼谷午夜馬拉松** | Bangkok Midnight Marathon | 首都夜行、星光地標、極致平坦但濕熱考驗 | AIMS 認證 | [詳情](Bangkok_Midnight_Marathon.md) |
 | 12月 | **東協馬拉松** | ASEAN Marathon | 湄公河畔、泰寮邊境、平坦景觀、跨國友誼 | AIMS 認證 | [詳情](ASEAN_Marathon.md) |
