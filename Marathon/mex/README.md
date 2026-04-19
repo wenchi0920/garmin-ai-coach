@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽墨西哥地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-17
+> **Last Updated**: 2026-04-19
 > **Author**: AI Coach
 
 ---
@@ -22,6 +22,7 @@
 | 10月 | **阿瓜斯卡連特斯馬拉松** | Maratón Aguascalientes | 高原平坦賽道、亡靈節文化體驗、骷髏節慶典氛圍、優質賽道規劃 | AIMS 認證 | [詳情](Aguascalientes_Marathon.md#阿瓜斯卡連特斯馬拉松-maratón-aguascalientes) |
 | 10月 | **華雷斯城國際馬拉松** | Maratón Internacional de Juárez | 墨美邊境城市、高原 1100m、德拉維加家族傳承、熱情邊境氛圍 | AIMS 認證 | [詳情](Maraton_Internacional_de_Juarez.md#華雷斯城國際馬拉松-maratón-internacional-de-juarez) |
 | 11月 | **雙拉雷多跨國馬拉松** | Maratón Binacional Dos Laredos | 跨越美墨國界、文化象徵、兩國警力護航、美墨友誼連結 | AIMS 認證 | [詳情](Maraton_Binacional_Dos_Laredos.md#雙拉雷多跨國馬拉松-maratón-binacional-dos-laredos) |
+| 11月 | **聖路易斯波托西半馬** | Medio Maratón la Capital del Deporte | AIMS 認證、海拔 1,860m 高原挑戰、聖路易斯波托西體育盛事、免費報名公益賽事 | AIMS 認證 | [詳情](Medio_Maraton_la_Capital_del_Deporte.md#聖路易斯波托西體育之都半程馬拉松-medio-maratón-la-capital-del-deporte) |
 | 12月 | **蒙特雷馬拉松** | Maratón Powerade Monterrey | 墨西哥 PB 聖殿、平坦最速賽道、BQ 首選、壯麗山城背景 | AIMS 認證 | [詳情](Powerade_Monterrey_Marathon.md#蒙特雷馬拉松-maratón-powerade-monterrey) |
 
 ---
