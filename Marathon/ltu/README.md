@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽立陶宛地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-12
+> **Last Updated**: 2026-04-19
 > **Author**: AI Coach
 
 ---
@@ -11,7 +11,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 6月 | **考那斯馬拉松** | Kaunas Marathon | 立陶宛第二大城，尼曼河與內里斯河畔的極速平坦賽道。 | AIMS 認證 | [詳情](Kaunas_Marathon.md) |
+| 6月 | **考那斯馬拉松** | Kaunas Marathon | 立陶宛第二大城，尼曼河與內里斯河畔的極速平坦賽道。 | AIMS 認證 | [詳情](Kaunas_Marathon.md#考那斯馬拉松-kaunas-marathon) |
 | 9月 | **維爾紐斯馬拉松** | Vilnius Marathon | 穿越聯合國教科文組織世界遺產老城區，結合歷史建築與波羅的海風情。 | AIMS 認證, WA 一般 | [詳情](Vilnius_Marathon.md#維爾紐斯馬拉松-vilnius-marathon) |
 
 ---
