@@ -15,7 +15,7 @@
 | 9月 | **波爾圖半程馬拉松** | Hyundai Porto Half Marathon | 穿越世界遺產波爾圖、大西洋沿岸極速平坦賽道、杜羅河畔風情、PB 聖殿 | AIMS 認證,WA 菁英 | [詳情](Hyundai_Porto_Half_Marathon.md#波爾圖半程馬拉松-hyundai-porto-half-marathon) |
 | 10月 | **里斯本馬拉松** | EDP Maratona de Lisboa | 全球最美賽道之一、卡斯凱什起跑海濱美景、PB 聖殿 | AIMS 認證,WA 菁英 | [詳情](EDP_Maratona_de_Lisboa.md#里斯本馬拉松-edp-maratona-de-lisboa) |
 | 10月 | **里斯本半程馬拉松** | Hyundai Meia Maratona de Lisboa | 瓦斯科·達伽馬大橋起跑、與全馬同步盛典、秋季絕美河岸 | AIMS 認證,WA 菁英 | [詳情](Hyundai_Meia_Maratona_de_Lisboa.md#里斯本半程馬拉松-hyundai-meia-maratona-de-lisboa) |
-| 11月 | **波多馬拉松** | EDP Porto Marathon | 世界文化遺產老城、杜羅河畔河岸線、極速平坦賽道、葡萄牙最大馬拉松 | AIMS 認證,WA 菁英 | [詳情](EDP_Porto_Marathon.md#波多馬拉松-edp-porto-marathon) |
+| 11月 | **波爾圖馬拉松** | Maratona do Porto EDP | 世界文化遺產老城、杜羅河畔河岸線、極速平坦賽道、葡萄牙最大馬拉松 | AIMS 認證,WA 菁英 | [詳情](Maratona_do_Porto_EDP.md#波爾圖馬拉松-maratona-do-porto-edp) |
 | 12月 | **里斯本發現半程馬拉松** | Meia-Maratona dos Descobrimentos | 沿特茹河奔向貝倫塔、歷史感十足的大航海時代景觀、平緩快速賽道 | AIMS 認證,WA一般 | [詳情](Discoveries_Half_Marathon.md#里斯本發現半程馬拉松-discoveries-half-marathon) |
 | 12月 | **里斯本聖希爾維斯特路跑** | Lidl São Silvestre de Lisboa | 歲末最具代表性的 10K 路跑、穿越城市核心景點、節慶氛圍極佳、跨年傳統 | AIMS 認證,WA 菁英 | [詳情](Lidl_Sao_Silvestre_de_Lisboa.md#里斯本聖希爾維斯特路跑-lidl-são-silvestre-de-lisboa) |
 
