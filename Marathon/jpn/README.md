@@ -166,6 +166,7 @@
 | 10月 | **山形城市馬拉松** | Yamagata City Marathon | 穿梭歷史街道、霞城公園絕景、芋煮特色補給、秋意盎然、PB 聖地 | JAAF 認證 | [詳情](Yamagata_City_Marathon.md) |
 | 10月 | **橫濱馬拉松** | Yokohama Marathon | 橫濱港海景、首都高跑段、豪華補給「Lucky Meal」 | JAAF 認證 | [詳情](Yokohama_Marathon.md#橫濱馬拉松-yokohama-marathon) |
 | 11月 | **埼玉國際馬拉松 (停辦)** | Saitama International Marathon | 前精英選拔賽、埼玉競技場起終點、波狀起伏賽道、歷史地位卓越 | WA 菁英, AIMS 認證 | [詳情](Saitama_International_Marathon.md) |
+| 11月 | **福岡馬拉松** | Fukuoka Marathon | 連結天神與糸島、絕美海岸線、豐富九州美食補給、挑戰性後半程 | JAAF 認證, AIMS 認證 | [詳情](Fukuoka_Marathon.md) |
 | 11月 | **愛之土山馬拉松** | Aino Tsuchiyama Marathon | 穿越茶園山林、波狀起伏挑戰、在地土山茶補給、鄉村人情味 | JAAF 認證 | [詳情](Aino_Tsuchiyama_Marathon.md#愛之土山馬拉松-aino-tsuchiyama-marathon) |
 | 11月 | **赤穗市馬拉松** | Ako City Marathon | 忠臣藏故鄉、播磨灘絕景、平緩海岸線、赤穗鹽特色補給 | JAAF 認證 | [詳情](Ako_City_Marathon.md#赤穗市馬拉松-ako-city-marathon) |
 | 11月 | **群馬馬拉松** | Gunma Marathon | 沿利根川奔跑、穿越前橋與高崎雙城、赤城落山風挑戰、烤饅頭補給 | AIMS 認證, JAAF 認證 | [詳情](Gunma_Marathon.md#群馬馬拉松-gunma-marathon) |
