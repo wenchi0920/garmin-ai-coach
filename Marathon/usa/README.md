@@ -18,6 +18,7 @@
 | 7月 | **哈德遜一英里賽** | Hudson Mile | 美國首場 AIMS 認證 1 英里賽、極速下坡賽道、沃倫街地標 | AIMS 認證 | [詳情](Hudson_Mile.md#哈德遜一英里賽-hudson-mile) |
 | 10月 | **芝加哥馬拉松** | Chicago Marathon | 世界六大馬、極速賽道、城市風光、平坦好跑 | AIMS 認證,WA 白金標,WMM | [詳情](Chicago_Marathon.md) |
 | 10月 | **美國銀行芝加哥馬拉松** | Bank of America Chicago Marathon | 世界六大馬、冠名極速賽道、WMM 殿堂、PB 首選 | AIMS 認證,WA 白金標,WMM | [詳情](Chicago_Marathon.md) |
+| 11月 | **TCS 紐約馬拉松** | TCS New York City Marathon | 全球最大規模賽事、橫跨五大區、WMM 大滿貫、經典中央公園終點 | AIMS 認證,WA 白金標,WMM | [詳情](TCS_New_York_City_Marathon.md#tcs-紐約馬拉松-tcs-new-york-city-marathon) |
 | 12月 | **檀香山馬拉松** | Honolulu Marathon | 無限時限制、熱帶風情、煙火起跑、大鑽石山坡度 | AIMS 認證 | [詳情](Honolulu_Marathon.md) |
 
 ---
