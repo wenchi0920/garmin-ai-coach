@@ -1,7 +1,7 @@
 # 🇬🇷 希臘賽事索引 (Greece Race Index)
 
 > **Author**: AI Coach
-> **Last Updated**: 2026-04-18
+> **Last Updated**: 2026-04-19
 
 本索引收錄希臘境內具備國際認證或獨特文化價值的重點賽事，為跑者提供專業的參賽指南。
 
@@ -12,6 +12,7 @@
 | 月份 | 賽事名稱 (中文) | Race Name (English) | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 4 | 克里特島馬拉松 | Crete Marathon | 在歷史名城哈尼亞奔跑，賽道結合威尼斯港口與海岸美景，具備深厚文化氣息。 | AIMS 認證 | [詳情](Crete_Marathon.md) |
+| 4 | 亞歷山大大帝國際馬拉松 | International Marathon Alexander the Great | 從佩拉出發跑向塞薩洛尼基，賽道歷史底蘊深厚且平坦利於 PB。 | AIMS 認證 | [詳情](Alexander_the_Great_International_Marathon.md) |
 | 4 | 帕特雷半程馬拉松 | Patras Half Marathon | 伯羅奔尼撒半島最大規模半馬，沿科林斯灣平坦賽道，極具 PB 潛力。 | AIMS 認證 | [詳情](Patras_Half_Marathon.md) |
 | 4 | 波賽頓雅典半程馬拉松 | Poseidon Athens Half Marathon | 沿法利羅灣海岸線奔跑，地形極度平坦，雅典春季最具代表性的 PB 聖殿。 | AIMS 認證 | [詳情](Poseidon_Athens_Half_Marathon.md) |
 | 4 | 羅德島馬拉松 | TUI Rhodes Marathon | 沿愛琴海濱奔跑，穿越 UNESCO 世界遺產古城，賽道平坦且風景優美。 | AIMS 認證 | [詳情](TUI_Rhodes_Marathon.md#羅德島馬拉松-tui-rhodes-marathon) |
