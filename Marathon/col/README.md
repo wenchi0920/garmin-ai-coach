@@ -3,6 +3,7 @@
 | 月份 | 賽事名稱(中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 05 | 卡利馬拉松 | Maratón de Cali | 莎莎舞之都熱情賽道，挑戰中高原熱適應 | AIMS 認證 | [Maraton_de_Cali.md#卡利馬拉松-maratón-de-cali] |
+| 07 | 波哥大半程馬拉松 | media maratón de Bogotá | 南美洲最高海拔金標賽事，挑戰缺氧極限 | WA 金標 | [Bogota_Half_Marathon.md#波哥大半程馬拉松-media-maratón-de-bogotá] |
 | 09 | 太平洋路跑 - 卡利 10K | La Carrera del Pacífico - Cali 10K | 南美洲最高等級 10K 賽事之一，氣氛熱烈 | WA 菁英標籤 | [La_Carrera_del_Pacifico.md#la-carrera-del-pacífico---cali-10k] |
 | 09 | 麥德林馬拉松 | Maratón Medellín | 永恆之春之城，高原心智淬煉與 BQ 認證賽事 | AIMS 認證, WA 菁英標籤 | [Maraton_Medellin.md#麥德林馬拉松-maratón-medellín] |
 
