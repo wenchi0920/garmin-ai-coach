@@ -46,6 +46,7 @@
 | 2月 | **世界遺產姬路城馬拉松** | World Heritage Himeji Castle Marathon | 終點在世界遺產姬路城內、世界遺產巡禮、極速平緩 | AIMS 認證 | [詳情](World_Heritage_Himeji_Castle_Marathon.md) |
 | 2月 | **西尾市馬拉松** | Nishio City Marathon | 鰻魚之鄉、平坦河川敷賽道、三河灣絕景、補給鰻魚特色 | AIMS 認證, JAAF 認證 | [詳情](Nishio_City_Marathon.md#西尾市馬拉松-nishio-city-marathon) |
 | 2月 | **濱松城市馬拉松** | Hamamatsu City Marathon | 靜岡縣大型賽事、穿梭濱松市區、遠州風考驗、後半程起伏挑戰 | JAAF 認證 | [詳情](Hamamatsu_City_Marathon.md#濱松城市馬拉松-hamamatsu-city-marathon) |
+| 2月 | **青梅馬拉松** | Ohme-Hochi 30km Road Race & 10km | 歷史悠久、30公里經典賽道、起伏山道挑戰、箱根驛傳選手搖籃 | JAAF 認證 | [詳情](Ohme_Hochi_Road_Race.md) |
 | 3月 | **福井櫻花馬拉松** | Fukui Sakura Marathon | 恐龍軌跡地圖、新穎賽事、限時7H | AIMS 認證, JAAF 認證 | [詳情](Fukui_Sakura_Marathon.md) |
 | 3月 | **大阪淀川寛平馬拉松** | Osaka Yodogawa Kanpei Marathon | 搞笑藝人間寬平發起、慈善募款性質、淀川河岸風情、歡樂熱情氛圍 | 一般 | [詳情](Osaka_Yodogawa_Kanpei_Marathon.md#大阪淀川寛平馬拉松-osaka-yodogawa-kanpei-marathon) |
 | 3月 | **琵琶湖每日馬拉松** | Lake Biwa Mainichi Marathon | 日本最古老馬拉松、純競技殿堂、極速平坦賽道 | WA 金標, AIMS 認證 | [詳情](Lake_Biwa_Mainichi_Marathon.md) |
