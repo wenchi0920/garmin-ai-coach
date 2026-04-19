@@ -6,5 +6,6 @@
 | 07 | 波哥大半程馬拉松 | media maratón de Bogotá | 南美洲最高海拔金標賽事，挑戰缺氧極限 | WA 金標 | [Bogota_Half_Marathon.md#波哥大半程馬拉松-media-maratón-de-bogotá] |
 | 09 | 太平洋路跑 - 卡利 10K | La Carrera del Pacífico - Cali 10K | 南美洲最高等級 10K 賽事之一，氣氛熱烈 | WA 菁英標籤 | [La_Carrera_del_Pacifico.md#la-carrera-del-pacífico---cali-10k] |
 | 09 | 麥德林馬拉松 | Maratón Medellín | 永恆之春之城，高原心智淬煉與 BQ 認證賽事 | AIMS 認證, WA 菁英標籤 | [Maraton_Medellin.md#麥德林馬拉松-maratón-medellín] |
+| 11 | 聖安德列斯七色海馬拉松 | Maratón 7 Colores | 加勒比海絕美環島賽道，享受「七色海」景觀與熱帶度假氛圍 | AIMS 認證 | [Maraton_7_Colores.md#聖安德列斯七色海馬拉松-maratón-7-colores] |
 
 [返回全球總索引](../README.md)
