@@ -115,6 +115,7 @@
 | 6月 | **日本遺產紀念山寺藏王超級馬拉松** | Yamadera Zao Ultra Marathon | 山寺佛門聖地、藏王山徑、極大爬升、山形在地補給 | - | [詳情](Yamadera_Zao_Ultra_Marathon.md) |
 | 6月 | **日光超級馬拉松(停賽中)** | Nikko Ultra Marathon | 日光世界遺產巡禮、伊呂波山道極限爬升、超馬意志訓練、目前暫停舉辦 | - | [詳情](Nikko_Ultra_Marathon.md#日光超級馬拉松-nikko-ultra-marathon) |
 | 7月 | **日本海哈密瓜馬拉松** | Nihonkai Melon Marathon | 秋田縣男鹿市、盛夏耐熱考驗、哈密瓜吃到飽、日本海絕美海景 | 一般 | [詳情](Nihonkai_Melon_Marathon.md) |
+| 7月 | **北奧霍次克100K馬拉松** | North Okhotsk 100km Marathon | 北海道最北端超馬、穿越薩羅麻別原野、絕美海岸線、干貝特色補給 | JAAF 認證 | [詳情](North_Okhotsk_100km_Marathon.md) |
 | 7月 | **乘鞍天空馬拉松** | Norikura Skyline Marathon | 日本最高海拔公路馬拉松、飛騨高山絕景、極限爬升、雲端漫步 | 一般 | [詳情](Norikura_Skyline_Marathon.md#乘鞍天空馬拉松-norikura-skyline-marathon) |
 | 8月 | **北海道馬拉松** | Hokkaido Marathon | 日本夏季唯一的頂尖馬拉松，挑戰熱適應 | WA 菁英, AIMS 認證 | [詳情](Hokkaido_Marathon.md#北海道馬拉松-hokkaido-marathon) |
 | 9月 | **安藝太田超級馬拉松** | Akiota Ultra Marathon | 西日本硬派超馬、100K/88K 挑戰、三段峽絕美山徑、累計爬升大、在地人情私補 | 一般 | [詳情](Akiota_Ultra_Marathon.md) |
