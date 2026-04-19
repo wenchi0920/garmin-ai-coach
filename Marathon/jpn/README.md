@@ -174,7 +174,7 @@
 | 11月 | **揖斐川馬拉松** | Ibigawa Marathon | 岐阜縣經典山徑、紅葉絕景、連續起伏挑戰、熱情小鎮應援 | AIMS 認證, JAAF 認證 | [詳情](Ibigawa_Marathon.md#揖斐川馬拉松-ibigawa-marathon) |
 | 11月 | **溫泉之城飯坂、茂庭湖馬拉松** | Iizaka Moniwa Lake Marathon | 摺上川沿岸美景、茂庭湖水庫大壩爬升、溫泉街巡禮、100%在地補給 | JAAF 認證 | [詳情](Iizaka_Moniwa_Lake_Marathon.md#溫泉之城飯坂茂庭湖馬拉松-iizaka-moniwa-lake-marathon) |
 | 11月 | **伊良部島馬拉松** | Irabu Island Marathon | 網美系、17END絕美跑道、宮古藍 | - | [詳情](Irabu_Island_Marathon.md) |
-| 11月 | **川崎國際多摩川馬拉松** | Kawasaki International Tamagawa Marathon | 多摩川河岸極速平坦賽道、東京都圈熱門半馬、PB 聖地、秋季關鍵 RPE 測試 | JAAF 認證 | [詳情](Kawasaki_International_Tamagawa_Marathon.md#川崎國際多摩川馬拉松-kawasaki-international-tamagawa-marathon) |
+| 11月 | **川崎国際多摩川馬拉松** | Kawasaki International Tamagawa Marathon | 多摩川河岸極速平坦賽道、東京都圈熱門半馬、PB 聖地、秋季關鍵 RPE 測試 | JAAF 認證 | [詳情](Kawasaki_International_Tamagawa_Marathon.md#川崎国際多摩川馬拉松-kawasaki-international-tamagawa-marathon) |
 | 11月 | **神戶馬拉松** | Kobe Marathon | 紀念地震復興、全新平坦 PB 賽道、港口美景、甜點之都補給 | WA 菁英, AIMS 認證 | [詳情](Kobe_Marathon.md#神戶馬拉松-kobe-marathon-2026-最新資訊) |
 | 11月 | **佛的故鄉國東．富籤馬拉松** | Kunisaki Tomikuji Marathon | 走訪六鄉滿山文化、祈求財運(富籤)、海岸與鄉間風景、大分在地美食補給 | JAAF 認證 | [詳情](Kunisaki_Tomikuji_Marathon.md) |
 | 11月 | **松本馬拉松** | Matsumoto Marathon | 北阿爾卑斯絕景、松本城巡禮、信州蕎麥補給、深秋紅葉 | AIMS 認證, JAAF 認證 | [詳情](Matsumoto_Marathon.md) |
