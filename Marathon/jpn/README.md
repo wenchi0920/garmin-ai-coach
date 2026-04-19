@@ -175,6 +175,7 @@
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md) |
 | 11月 | **筑波馬拉松** | Tsukuba Marathon | 科學的馬拉松、筑波大學校園、極速平坦、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Tsukuba_Marathon.md) |
 | 11月 | **與那國島一周馬** | Yonaguni Island Around Marathon | 日本最西端、海島風光、起伏挑戰 | 一般 | [詳情](Yonaguni_Island_Around_Marathon.md) |
+| 12月 | **青島太平洋馬拉松** | Aoshima Pacific Marathon | 沿著宮崎海岸線與青島神社奔跑、太平洋絕美海景、氣候溫暖宜人 | AIMS 認證, JAAF 認證 | [詳情](Aoshima_Pacific_Marathon.md) |
 | 12月 | **富士馬拉松祭** | Fuji Marathon Festa | 賽車場競技、富士山景觀、FIA等級賽道、獨特起伏挑戰 | JAAF 認證 | [詳情](Fuji_Marathon_Festa.md) |
 | 12月 | **福岡國際馬拉松** | Fukuoka International Marathon | 日本三大馬之一、 頂尖精英競技、極速平緩、PB 聖殿 | WA 金標, AIMS 認證 | [詳情](Fukuoka_International_Marathon.md) |
 | 12月 | **袋井皇冠蜜瓜馬拉松** | Fukuroi Crown Melon Marathon | 靜岡縣袋井市、ECOPA 體育場起終點、頂級蜜瓜補給、賽道起伏大 | JAAF 認證 | [詳情](Fukuroi_Crown_Melon_Marathon.md#袋井皇冠蜜瓜馬拉松-fukuroi-crown-melon-marathon) |

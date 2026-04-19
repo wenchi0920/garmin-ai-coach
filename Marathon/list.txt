@@ -16,7 +16,6 @@
 北九州馬拉松
 長崎五島馬拉松
 福岡馬拉松
-青島太平洋馬拉松
 福岡國際馬拉松
 宮古島100km WAIDO馬拉松
 南房總道草超級馬拉松
@@ -62,7 +61,6 @@ NN Dam tot Damloop
 Northern Half Marathon
 Ohme-Hochi 30km Road Race &amp; 10km
 Osaka Marathon
-Prague International Marathon
 Salzburg Marathon
 Sarawak Energy Marathon
 Sarmang Dehradun Marathon
