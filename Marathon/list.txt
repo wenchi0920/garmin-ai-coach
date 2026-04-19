@@ -4,7 +4,6 @@
 柏崎潮風馬拉松 
 富山清流馬拉松 
 大町阿爾卑斯馬拉松
-金澤馬拉松
 世界遺產姬路城馬拉松
 大阪馬拉松 
 吳市馬拉松
@@ -35,7 +34,6 @@ Kyoto Marathon
 Madagascar Marathon, Half, 50K &amp; 10K
 Maratón Internacional de Mendoza
 Maratón Puerto Vallarta
-Miri Marathon
 Monterey Bay Half Marathon
 Napoli City Half Marathon
 NLB Ljubljana Marathon
