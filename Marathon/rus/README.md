@@ -20,7 +20,7 @@
 | 8月 | 聖彼得堡北領地半程馬拉松 | SPB Half Marathon. The Northern Capital | 聖彼得堡城市中心巡禮、冬宮出發、極速平坦賽道。 | AIMS 認證 | [進入詳情](SPB_Half_Marathon.md#聖彼得堡北領地半程馬拉松-spb-half-marathon-the-northern-capital) |
 | 9月 | 符拉迪沃斯托克馬拉松 | Galaxy Vladivostok Marathon | 跨越俄羅斯大橋、海濱山城挑戰、遠東歐亞巡航。 | AIMS 認證, WA 一般 | [進入詳情](Galaxy_Vladivostok_Marathon.md#符拉迪沃斯托克馬拉松-galaxy-vladivostok-marathon) |
 | 9月 | 莫斯科馬拉松 | Moscow Marathon | 俄羅斯規模最大賽事、穿梭克里姆林宮與莫斯科河、極速 PB 聖殿。 | AIMS 認證, WA 一般 | [進入詳情](Moscow_Marathon.md#莫斯科馬拉松-moscow-marathon) |
-| 9月 | 普希金-聖彼得堡馬拉松 | Pushkin – St Petersburg Marathon | 俄羅斯百年歷史賽事、從帝國皇宮跑向冬宮廣場、極具 PB 潛力的下坡賽道。 | AIMS 認證 | [進入詳情](Pushkin_St_Petersburg_Marathon.md#普希金-聖彼得堡馬拉松-pushkin--st-petersburg-marathon) |
+| 9月 | 聖彼得堡馬拉松 (普希金-聖彼得堡) | Saint Petersburg Marathon (Pushkin - St. Petersburg) | 俄羅斯最古老馬拉松、從沙皇村跑向冬宮廣場、極具 PB 潛力的下坡賽道。 | AIMS 認證 | [進入詳情](Pushkin_St_Petersburg_Marathon.md#普希金-聖彼得堡馬拉松-pushkin--st-petersburg-marathon) |
 
 ---
 [返回全球總索引](../README.md)
