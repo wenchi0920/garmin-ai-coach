@@ -139,6 +139,7 @@
 | 10月 | **壹岐超級馬拉松** | Iki Ultra Marathon | 穿梭神之島、海岸公路波狀起伏、壹岐牛補給、超馬意志訓練 | JUA 認證, JAAF 認證 | [詳情](Iki_Ultra_Marathon.md#壹岐超級馬拉松-iki-ultra-marathon) |
 | 10月 | **岩手北上馬拉松** | Iwate Kitakami Marathon | 沿北上川奔跑、秋意盎然、歷史悠久、東北專業跑者馬 | JAAF 認證 | [詳情](Kitakami_Marathon.md) |
 | 10月 | **岩手盛岡市馬拉松賽** | Iwate Morioka City Marathon | 穿越歷史古城、南部片富士絕景、盛岡三大麵補給 | AIMS 認證, JAAF 認證 | [詳情](Iwate_Morioka_City_Marathon.md#岩手盛岡馬拉松-iwate-morioka-city-marathon) |
+| 10月 | **出水鶴馬拉松** | Izumi Tsuru Marathon | 萬鶴齊飛絕景、穿越鶴鳥保護區、極速平坦賽道、薩摩特色美食 | JAAF 認證 | [詳情](Izumi_Tsuru_Marathon.md#出水鶴馬拉松-izumi-tsuru-marathon) |
 | 10月 | **金澤馬拉松** | Kanazawa Marathon | 歷史文化巡禮、食之站美食盛宴、賽道平緩適合 PB | AIMS 認證 | [詳情](Kanazawa_Marathon.md) |
 | 10月 | **柏崎馬拉松** | Kashiwazaki Marathon | 日本海沿岸絕景、日本最古老公認競技場起終點、北日本(Bourbon)餅乾補給、賽道平緩適合 PB | WA一般, JAAF 認證 | [詳情](Kashiwazaki_Marathon.md) |
 | 10月 | **久米島馬拉松** | Kumejima Marathon | 鄉村人情味、全島應援、兩段爬升 | - | [詳情](Kumejima_Marathon.md) |
