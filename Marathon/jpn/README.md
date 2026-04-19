@@ -34,6 +34,7 @@
 | 2月 | **徳島・海陽究極的清流海部川風流馬拉松** | Tokushima Kaiyo Ultimate Seiryu Kaifugawa Furo Marathon | 日本跑者滿意度冠軍、極致清流景觀、平緩好跑 | JAAF 認證 | [詳情](Kaifugawa_Furo_Marathon.md#徳島海陽究極的清流海部川風流馬拉松) |
 | 2月 | **北九州馬拉松** | Kitakyushu Marathon | 穿越市中心、小倉城景觀、海濱挑戰、最強和牛補給 | AIMS 認證, JAAF 認證 | [詳情](Kitakyushu_Marathon.md) |
 | 2月 | **熊本城馬拉松** | Kumamoto Castle Marathon | 震災復興應援、熱烈在地應援、攻城坡挑戰、黑亭拉麵補給 | AIMS 認證, JAAF 認證 | [詳情](Kumamoto_Castle_Marathon.md) |
+| 2月 | **吳島並馬拉松** | Kure Tobishima Marathon | 七座大橋跨海、安藝灘絕景、波狀起伏挑戰、檸檬特色補給 | JAAF 認證 | [詳情](Kure_Tobishima_Marathon.md) |
 | 2月 | **京都馬拉松** | Kyoto Marathon | 跑過各大寺廟、氣質滿分、坡度不少、難抽籤 | WA 菁英, AIMS 認證 | [詳情](Kyoto_Marathon.md) |
 | 2月 | **京都木津川馬拉松** | Kyoto Kizugawa Marathon | 京都木津川河川敷、極致平坦賽道、溫馨手作氛圍、適合挑戰 PB | JAAF 認證 | [詳情](Kyoto_Kizugawa_Marathon.md#京都木津川馬拉松-kyoto-kizugawa-marathon) |
 | 2月 | **延岡西日本馬拉松** | Nobeoka Nishinippon Marathon | 通往世界的門戶、新人輩出競技場、極致平坦賽道、適合挑戰 PB | AIMS 認證, JAAF 認證 | [詳情](Nobeoka_Nishinippon_Marathon.md#延岡西日本馬拉松-nobeoka-nishinippon-marathon) |
