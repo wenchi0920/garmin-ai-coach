@@ -180,6 +180,7 @@
 | 11月 | **岡山馬拉松** | Okayama Marathon | 晴天之國、水果王國奢華補給、賽道平緩極速、備前燒完賽獎牌 | AIMS 認證, JAAF 認證 | [詳情](Okayama_Marathon.md) |
 | 11月 | **大田原馬拉松** | Ohtawara Marathon | 嚴格限時 4 小時、實力派跑者聖殿、栃木縣代表性賽事、PB 聖地 | AIMS 認證, JAAF 認證 | [詳情](Ohtawara_Marathon.md) |
 | 11月 | **下關海響馬拉松** | Shimonoseki Kaikyo Marathon | 關門海峽絕景、後半程七座橋起伏、河豚湯補給 | AIMS 認證, JAAF 認證 | [詳情](Shimonoseki_Kaikyo_Marathon.md) |
+| 11月 | **瀬戸內海烏龜馬拉松** | Setonaikai Turtle Marathon | 小豆島絕景、波狀起伏海岸線、素麵特色補給、烏龜精神慢活跑 | 一般 | [詳情](Setonaikai_Turtle_Marathon.md) |
 | 11月 | **東北宮城縣復興馬拉松** | Tohoku Miyagi Reconstruction Marathon | 災區復興象徵、極致平坦賽道、東北美食盛宴補給 | AIMS 認證, JAAF 認證 | [詳情](Tohoku_Miyagi_Reconstruction_Marathon.md#東北宮城縣復興馬拉松-tohoku-miyagi-reconstruction-marathon) |
 | 11月 | **富山馬拉松** | Toyama Marathon | 雄偉立山連峰絕景、橫跨新湊大橋、高低差適中、在地海鮮補給、終點環水公園 | AIMS 認證, JAAF 認證 | [詳情](Toyama_Marathon.md) |
 | 11月 | **筑波馬拉松** | Tsukuba Marathon | 科學的馬拉松、筑波大學校園、極速平坦、PB 聖殿 | AIMS 認證, JAAF 認證 | [詳情](Tsukuba_Marathon.md) |
