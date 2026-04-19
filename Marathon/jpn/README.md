@@ -23,6 +23,7 @@
 | 1月 | **館山若潮馬拉松** | Tateyama Wakashio Marathon | 房總半島早春油菜花、環海絕景路線、波狀起伏挑戰、烤番薯補給 | AIMS 認證, JAAF 認證 | [詳情](Tateyama_Wakashio_Marathon.md#館山若潮馬拉松-tateyama-wakashio-marathon) |
 | 1月 | **宇都宮環状線一周** | Utsunomiya Ring Road Loop | 宇都宮外環巡禮、LSD 最佳實戰、寒冷環境訓練 | 一般 | [詳情](Utsunomiya_Ring_Road_Loop.md#宇都宮環状線一周-utsunomiya-ring-road-loop) |
 | 1月 | **屋久島一周100km** | Yakushima 100km Ultra Marathon | 世界遺產環島、累計爬升大、飛魚補給、身心修煉 | 一般 | [詳情](Yakushima_100km_Ultra_Marathon.md) |
+| 1月 | **宮古島100km WAIDO馬拉松** | Miyakojima 100km WAIDO Marathon | 日本最南端超馬、跨越三座大橋、環島絕景、宮古藍海景 | 一般 | [詳情](Miyakojima_100km_WAIDO_Marathon.md) |
 | 2月 | **別府大分每日馬拉松** | Beppu-Oita Mainichi Marathon | 日本三大馬、PB 聖殿、頂尖競技門檻、極速平緩海岸線 | WA 菁英, AIMS 認證 | [詳情](Beppu-Oita_Mainichi_Marathon.md#別府大分每日馬拉松-beppu-oita-mainichi-marathon) |
 | 2月 | **愛媛馬拉松** | Ehime Marathon | 四國文化巡禮、松山城起終點、柑橘特色補給、賽道緩起伏、適合挑戰 **PB** | AIMS 認證, WA 菁英 | [詳情](Ehime_Marathon.md) |
 | 2月 | **西表島山貓馬拉松** | Iriomote Island Wildcat Marathon | 叢林探險、大自然芬多精、保育山貓 | 一般 | [詳情](Iriomote_Island_Wildcat_Marathon.md) |
