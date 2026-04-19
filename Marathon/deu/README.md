@@ -14,6 +14,7 @@
 | 4月 | **漢堡馬拉松** | Haspa Marathon Hamburg | 德國最大春季賽事、港都美景、PB 聖殿、WA 金標 | AIMS 認證,WA 金標 | [詳情](Haspa_Marathon_Hamburg.md#漢堡馬拉松-haspa-marathon-hamburg) |
 | 5月 | **維爾茨堡馬拉松** | WVV Marathon Wuerzburg | 環繞美因河兩岸、UNESCO 世界遺產景點、PB 聖殿 | AIMS 認證 | [詳情](WVV_Marathon_Wuerzburg.md#維爾茨堡馬拉松-wvv-marathon-wuerzburg) |
 | 6月 | **漢堡海拉半程馬拉松** | Hella Hamburg Half Marathon | 德國夏季最快半馬、音樂與紅燈區跑道、派對氛圍 | AIMS 認證,WA一般 | [詳情](Hella_Hamburg_Halbmarathon.md#漢堡海拉半程馬拉松-hella-hamburg-halbmarathon) |
+| 9月 | **明斯特馬拉松** | Volksbank-Münster-Marathon | 城市與田園景觀交織、終點明斯特大廣場、高 CP 值補給 | AIMS 認證 | [詳情](Volksbank_Münster_Marathon.md#明斯特馬拉松-volksbank-münster-marathon) |
 | 9月 | **阿爾特廷半程馬拉松** | Halbmarathon Altötting | 世界上最快的森林跑道、綠蔭環繞、PB 聖殿 | AIMS 認證,WA一般 | [詳情](Halbmarathon_Altötting.md#阿爾特廷半程馬拉松-halbmarathon-altötting) |
 | 9月 | **柏林馬拉松** | Berlin Marathon | 世界紀錄聖殿、極致平坦、六大滿貫 | AIMS 認證,WA 白金標,WMM | [詳情](Berlin_Marathon.md) |
 | 10月 | **慕尼黑馬拉松** | Marathon München by Brooks | 奧林匹克體育場終點、巴伐利亞美景、PB 聖殿 | AIMS 認證,WA一般 | [詳情](Munich_Marathon.md#慕尼黑馬拉松-marathon-münchen-by-brooks) |
