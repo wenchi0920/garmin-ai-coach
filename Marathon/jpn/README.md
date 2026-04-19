@@ -2,7 +2,7 @@
 
 > **Purpose**: 快速瀏覽日本地區推薦賽事及其特色。
 > **Parent**: [README.md](../README.md)
-> **Last Updated**: 2026-04-19
+> **Last Updated**: 2026-04-20
 > **Author**: AI Coach
 
 [⬅️ 返回全球賽事索引](../README.md)
