@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇨🇭 瑞士馬拉松詳情庫 (Switzerland Race Intelligence)
 
 > **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 策馬特馬拉松 (Gornergrat Zermatt Marathon)
 
@@ -22,3 +22,4 @@
    策馬特馬拉松並非追求個人最佳成績（PB）的賽道，其定位為「心智淬鍊」與「LSD 巔峰訓練」。對於目標波士頓馬拉松（BQ）的跑者，此賽事是絕佳的離心收縮訓練場。教練建議賽前一個月加強股四頭肌的肌力儲備，並進行至少三次高海拔模擬，以適應氧氣稀薄的競技環境。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

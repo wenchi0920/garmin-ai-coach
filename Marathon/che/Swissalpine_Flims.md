@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇨🇭 瑞士馬拉松賽事詳情 (Switzerland Race Details)
 
 > **Last Updated**: 2026-04-18
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 瑞士高山馬拉松 - 弗利姆斯 (Swissalpine Flims)
 
@@ -20,3 +20,6 @@
 
 4. **教練專業評論**: 
 Swissalpine Flims 的定位絕非追求 **PB** 或 **BQ** (Boston Qualifier) 的平緩賽道，而是一場高強度的 **LSD** 與耐力實測。它是備戰 UTMB 或其他高山百公里的理想熱身賽。由於賽道包含高海拔路段，建議跑者提前進行熱適應與高度適應。賽前的肌力訓練應著重於全身功能性強化，特別是面對不穩定地形時的平衡與反應能力，這是一場心靈成長與體能極限的雙重對話。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
