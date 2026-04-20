@@ -13,6 +13,6 @@ Author: AI Coach
 
 | 月份 | 賽事名稱(中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 12 | 萬象國際半程馬拉松 | Vientiane International Half Marathon | 穿越凱旋門與塔鑾古蹟，平坦極速的熱帶首都巡禮。 | AIMS 認證 | [進入詳情](Vientiane_International_Half_Marathon.md#萬象國際半程馬拉松-vientiane-international-half-marathon) |
+| 12 | 萬象國際半程馬拉松 | Vientiane International Half Marathon | 穿越凱旋門與塔鑾古蹟，平坦極速的熱帶首都巡禮。 | AIMS 認證 | [詳情](Vientiane_International_Half_Marathon.md) |
 
 ---

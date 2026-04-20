@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 萬象國際半程馬拉松 (Vientiane International Half Marathon)
 
@@ -16,3 +17,4 @@ Author: AI Coach
    - **評論**: 萬象半馬的賽道流暢度極高，適合追求速度的跑者。由於氣候濕熱，這場比賽更是對身體熱適應能力的考驗。建議將其定位為 **LSD** 訓練後的期末測驗。對於目標 **BQ** 的跑者而言，這裡的平坦度雖具吸引力，但必須嚴格監控心率區間，避免在後半程因脫水導致脫鉤。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
