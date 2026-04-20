@@ -10,6 +10,6 @@ Author: AI Coach
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 4月 | **布達佩斯春天半程馬拉松** | 42nd Telekom Vivicittá Spring Half Marathon | 穿越春天多瑙河世界遺產、匈牙利春季最大路跑盛事、氣候涼爽 | AIMS 認證 | [詳情](Telekom_Vivicitta_Spring_Half_Marathon.md#第-42-屆布達佩斯春天半程馬拉松-42nd-telekom-vivicittá-spring-half-marathon) |
-| 9月 | **布達佩斯半程馬拉松** | Wizz Air Budapest Half Marathon | 多瑙河畔絕美賽道、中歐最大規模半馬、PB 聖地 | AIMS 認證 | [詳情](Wizz_Air_Budapest_Half_Marathon.md#布達佩斯半程馬拉松-wizz-air-budapest-half-marathon) |
+| 9月 | **布達佩斯半程馬拉松** | Wizz Air Budapest Half Marathon | 多瑙河畔絕美賽道、中歐最大規模半馬、PB 聖地 | AIMS 認證 | [詳情](Wizz_Air_Budapest_Half_Marathon.md) |
 | 10月 | **布達佩斯馬拉松** | SPAR Budapest Marathon | 穿梭多瑙河兩岸雙城、中歐最大規模秋季賽事、賽道平緩宜人 | AIMS 認證 | [詳情](Budapest_Marathon.md) |
 
