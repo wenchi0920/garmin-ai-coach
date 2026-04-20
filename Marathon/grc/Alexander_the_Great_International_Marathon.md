@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇬🇷 希臘賽事詳情庫 (Greece Race Intelligence)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 亞歷山大大帝國際馬拉松 (International Marathon Alexander the Great)
 
