@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇦🇺 澳洲馬拉松詳情庫 (Australia Race Details)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 墨爾本馬拉松 (Nike Melbourne Marathon Festival)
 
