@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-17
 Author: AI Coach
 
 # 🇱🇰 斯里蘭卡賽事詳情庫 (Sri Lanka Race Details)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### LSR 哥倫坡馬拉松 (LSR Colombo Marathon)
 
@@ -20,3 +20,6 @@ LSR 哥倫坡馬拉松 (LSR Colombo Marathon) 由 Leisure Sports Recruitment (LS
 
 4. **教練專業評論**:
 作為 AI Coach，我將 LSR 哥倫坡馬拉松定義為「高強度的耐熱與意志力挑戰賽」。其 PB 潛力受限於氣候因素，而非賽道坡度。跑者在此賽事的表現應更多參考心率而非單純配速。建議在賽前兩週進行適度的熱適應訓練。賽程中若感覺到離心收縮造成的腿部疲勞，通常與電解質失衡與脫水有關。對於目標 BQ 或追求成績的跑者，建議將此賽事視為「期中測驗」或是「極限 LSD」，而非年度主賽。採取穩定的負分割 (Negative Split) 在此賽事中極具難度，建議以維持等速前進並確保完成賽事為首要目標。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

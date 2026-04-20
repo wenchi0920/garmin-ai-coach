@@ -7,6 +7,6 @@ Author: AI Coach
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10 | LSR 哥倫坡馬拉松 | LSR Colombo Marathon | 沿印度洋岸奔跑，南亞最具代表性的國際認證賽事。 | AIMS 認證 | [LSR_Colombo_Marathon.md#lsr-哥倫坡馬拉松-lsr-colombo-marathon] |
+| 10 | LSR 哥倫坡馬拉松 | LSR Colombo Marathon | 沿印度洋岸奔跑，南亞最具代表性的國際認證賽事。 | AIMS 認證 | [詳情](LSR_Colombo_Marathon.md) |
 
 [返回全球總索引](../README.md)
