@@ -5,7 +5,6 @@
 > **Last Updated**: 2026-04-19
 > **Author**: AI Coach
 
----
 
 ### 泰國錫克跑 (Thai Sikh Run)
 

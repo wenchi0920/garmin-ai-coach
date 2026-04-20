@@ -1,3 +1,5 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 考艾馬拉松 (Khao Yai Marathon)
 
 Last Updated: 2026-04-18
