@@ -1,3 +1,5 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇨🇾 賽普勒斯 (Cyprus) 賽事詳情
 
 *   Last Updated: 2026-04-19
