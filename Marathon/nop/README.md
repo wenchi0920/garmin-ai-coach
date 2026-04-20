@@ -7,6 +7,6 @@ Author: AI Coach
 
 | 月份 | 中文名 | 英文名 | 特色 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 04 | 北極馬拉松 | North Pole Marathon | 全球唯一跑在「浮冰」上的馬拉松、零下 30 度的生存博弈。 | AIMS 認證 | [詳情](North_Pole_Marathon.md#北極馬拉松-north-pole-marathon) |
+| 04 | 北極馬拉松 | North Pole Marathon | 全球唯一跑在「浮冰」上的馬拉松、零下 30 度的生存博弈。 | AIMS 認證 | [詳情](North_Pole_Marathon.md) |
 
 [返回全球總索引](../README.md)
