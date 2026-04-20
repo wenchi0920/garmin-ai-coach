@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇵🇹 葡萄牙馬拉松賽事詳情 (Portugal Race Details)
 
 > **Last Updated**: 2026-04-15
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 波爾圖半程馬拉松 (Hyundai Porto Half Marathon)
 
