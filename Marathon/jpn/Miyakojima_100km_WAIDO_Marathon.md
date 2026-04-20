@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 宮古島100km WAIDO馬拉松 (Miyakojima 100km WAIDO Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 宮古島100km WAIDO馬拉松 (Miyakojima 100km WAIDO Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 此賽事定位為高難度的**LSD**耐力挑戰，而非追求 **PB** 的賽道。13 小時的嚴格限時要求跑者具備極佳的基礎耐力與心理素質。建議跑者在備賽期間加強長距離慢跑與耐熱訓練。雖然賽道起伏具挑戰性，但絕美的「宮古藍」海景能大幅緩解心理壓力，是每位超級馬拉松跑者清單上的夢幻賽事。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

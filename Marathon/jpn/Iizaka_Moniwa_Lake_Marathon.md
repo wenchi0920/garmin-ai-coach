@@ -5,7 +5,6 @@
 > **Last Updated**: 2026-04-16
 > **Author**: AI Coach
 
----
 
 ### 溫泉之城飯坂、茂庭湖馬拉松 (Iizaka Moniwa Lake Marathon)
 

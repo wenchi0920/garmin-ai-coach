@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-19
 Author: AI Coach
 
 # 🇯🇵 日本賽事詳情庫 (Japan Race Details)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### KIX泉州國際馬拉松 (KIX Senshu International Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 這是一場極具「性格」的賽事。對於追求 **PB** 的跑者，前 30 公里的平整度提供了絕佳機會；但對於瞄準 **BQ** 的嚴肅跑者，這更像是一場心理與生理的雙重淬煉。最後 10 公里的雙橋挑戰，是檢驗平時 **LSD** 累積與抗風能力的終極考場。我將其定位為「具挑戰性的 PB 賽道」，適合已有數場全馬經驗、想在多變環境中證明實力的跑者。建議賽前加強山道訓練，提升耐乳酸能力。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

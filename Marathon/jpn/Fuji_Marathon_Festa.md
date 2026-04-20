@@ -3,7 +3,6 @@
 Last Updated: 2026-04-16
 Author: AI Coach
 
----
 
 ### 富士馬拉松祭 (Fuji Marathon Festa)
 1. **歷史背景**: 

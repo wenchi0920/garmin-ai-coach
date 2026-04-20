@@ -1,13 +1,11 @@
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-19
 Author: AI Coach
----
 
 # 日本馬拉松賽事詳情 (Japan Marathon Details)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 武庫川百合鷗超級70km馬拉松 (Mukogawa Yurikamome Ultra 70km Marathon)
 
@@ -22,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 此賽事是極佳的 **LSD** (長距離慢跑) 訓練場景，適合做為 100km 超馬的期中測驗。雖然賽道平坦理論上有利於挑戰 **PB**，但高溫耐受力與意志力才是真正的考驗。對於想從全馬跨足超馬的跑者，這是一個絕佳的起點，能有效訓練身體在疲勞狀態下的跑步經濟性。此賽事雖然沒有國際標籤，但在日本超馬界擁有極高的口碑。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

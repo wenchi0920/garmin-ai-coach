@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 玉名韋駄天馬拉松 (Tamana Idaten Marathon)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 玉名韋駄天馬拉松 (Tamana Idaten Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 此賽道具備強大的 **PB** 與 **BQ** 潛力。由於路面單調平直，跑者在長時間維持相同步幅時，應特別注意核心穩定，以減輕下肢關節因持續 **離心收縮** 所產生的疲勞與受傷風險。對於有經驗的跑者，此賽事可作為春季的主力賽，或作為 **LSD** (長距離慢跑) 訓練後的驗收站。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 南伊豆町道草超級馬拉松 (Minamiizu Michikusa Ultra Marathon)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 南伊豆町道草超級馬拉松 (Minamiizu Michikusa Ultra Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 本賽事不適合追求全馬 **PB**，其定位更傾向於極限的 **LSD (Long Slow Distance)** 與意志淬煉。賽道中無數的髮絲彎與高低差是訓練下肢穩定性與核心控制的絕佳場域。對於目標百公里破賽的跑者，須加強山徑坡度跑訓練以適應劇烈海拔變化。完賽後建議進行積極性修復，以緩解強大離心力造成的肌肉微受損。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

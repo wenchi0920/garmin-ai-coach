@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🍒 果樹王國東根櫻桃馬拉松大賽 (Fruit Kingdom Higashine Cherry Marathon)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 果樹王國東根櫻桃馬拉松大賽 (Fruit Kingdom Higashine Cherry Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 這是一場兼具「感官享受」與「心志淬煉」的賽事。雖然賽道起伏不若山地超馬劇烈，但初夏的高溫使得 **LSD** 的耐熱訓練顯得至關重要。對於追求 **PB** 的跑者來說，東根並非首選，但在賽季末期作為一場高品質的練習賽或家庭旅遊跑（LSD 定位）則非常完美。注意下坡路段的**離心收縮**控制，避免股四頭肌過早疲勞。這是一場能讓你在痛苦與甜蜜（櫻桃）中找到平衡的經典賽事。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

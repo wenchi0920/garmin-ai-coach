@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 茨城100K高級馬拉松in鹿行 (IBARAKI 100K ULTRA MARATHON IN ROKKO)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 茨城100K高級馬拉松in鹿行 (IBARAKI 100K ULTRA MARATHON IN ROKKO)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 此賽事是超馬新手挑戰「破蛋」或精英跑者刷新的 **PB** 聖殿。作為一場極致的 **LSD** 實戰，它考驗跑者對固定配速的掌控力。由於路面單調且平坦，肌肉受力點固定，賽前應強化下肢的**離心收縮**訓練，增強肌肉抗疲勞能力。若參賽者有 **BQ** 目標，此賽事提供的耐力磨練將是極佳的基石。建議隨時監控心率區間，確保能量系統始終處於有氧的高效狀態。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

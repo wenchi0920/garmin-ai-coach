@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 熊本馬玉名草莓馬拉松 (Kumamoto Tamana Strawberry Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 熊本馬玉名草莓馬拉松 (Kumamoto Tamana Strawberry Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 儘管此賽事以歡樂氣氛著稱，但其極速平坦的特性仍具備挑戰 **PB** 的潛力。跑者需注意在平坦路面長時間規律奔跑時，膝關節與腳踝可能因重複性的 **離心收縮** 產生局部疲勞，建議賽前強化核心與平衡訓練。對於精英跑者，可將此賽事作為春季賽事間的 **LSD** (長距離慢跑) 調劑；對於市民跑者，則是享受賽事氛圍與運動樂趣的首選。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 篠山ABC馬拉松 (Sasayama ABC Marathon)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 篠山ABC馬拉松 (Sasayama ABC Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 這是一場極佳的 **LSD**（長距離慢跑）訓練轉化為實戰的賽事，也具備挑戰 **PB** 的潛力。由於賽事在 3 月初舉行，氣溫通常維持在攝氏 5-10 度，是人體散熱效率最高的區間。對於志在 **BQ**（波士頓馬拉松資格）的跑者，若能克服鄉間小路的轉向與微幅爬升，此賽道的穩定性極高。若當天遇到強風，建議利用集團破風（Drafting）策略來降低 **RPE**（自覺運動強度）。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

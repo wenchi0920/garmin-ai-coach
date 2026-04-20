@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 掛川新茶馬拉松 (Kakegawa Shincha Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 掛川新茶馬拉松絕非追求 **PB** 的平坦賽道，其難度較高，適合定位為高品質的 **LSD** 實戰演練或賽季末的意志力淬煉。由於賽道起伏劇烈，跑者需在賽前加強「**離心收縮**」訓練以應對下坡衝擊，並透過 **RPE** (自覺感受量表) 監控體能分配。若能在此賽道跑出佳績，對於未來挑戰 **BQ** 門檻將有極大的信心助益。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

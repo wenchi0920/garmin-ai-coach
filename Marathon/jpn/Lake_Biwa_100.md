@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 琵琶湖環湖超級馬拉松 (Lake Biwa 100)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 本賽事是意志力與體能的終極戰場。具備 **ITRA 認證** 6 點積分與 **UTMB Index**，更是 **Western States 100** 的資格賽。其定位並非挑戰 **PB**，而是深度的 **LSD** 意志修行。跑者需具備應對極度疲勞與幻覺的能力。對於追求競技巔峰的跑者，這場賽事是衡量心理韌性的標竿。完賽不僅是獲得獎牌，更是體能素質與心靈層次的雙重飛躍。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

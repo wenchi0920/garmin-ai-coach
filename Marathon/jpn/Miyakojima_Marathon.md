@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 宮古島馬拉松 (Miyakojima Marathon)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 宮古島馬拉松 (Miyakojima Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 本賽事雖非 **BQ** 認證賽道的首選，但其海天一色的景觀絕對是 **LSD** 訓練或賽季初期調整狀態的絕佳標的。跑者需特別注意南國高溫帶來的 **RPE** 體感上升，適時補充水分以防脫水。此賽事定位為「風景導向的挑戰賽」，適合追求視覺享受與心靈放鬆、而非單純追求成績的跑友參賽。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

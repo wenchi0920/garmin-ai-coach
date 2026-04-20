@@ -1,8 +1,8 @@
-# 🇯🇵 日本馬拉松賽事詳情 (Japan Marathon Details)
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
+# 🇯🇵 日本馬拉松賽事詳情 (Japan Marathon Details)
+
+
 
 ### 星星的故鄉八之岳野邊山高原超級馬拉松 (Yatsugatake Nobeyama Kogen Ultra Marathon)
 
@@ -18,7 +18,9 @@
 4. **教練專業評論**: 
 本賽事的 **PB 潛力**極低，並非追求成績的賽場，而是體現 **LSD (長距離慢跑)** 進階應用與心智淬煉的最佳標的。賽道包含 100K、71K 與 42K 組別，其定位屬於「極限耐力挑戰」。跑者須在賽前強化山道訓練與**熱適應**（針對 5 月可能的氣溫變動），並將其視為一場與大自然及自我意志的深度對話，而非單純的競技賽事。
 
----
 
 Last Updated: 2026-04-17
 Author: AI Coach
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

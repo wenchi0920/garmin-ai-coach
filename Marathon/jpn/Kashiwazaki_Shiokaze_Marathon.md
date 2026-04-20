@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 柏崎潮風馬拉松 (Kashiwazaki Shiokaze Marathon)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 柏崎潮風馬拉松 (Kashiwazaki Shiokaze Marathon)
 
@@ -18,5 +18,4 @@ Author: AI Coach
 4. **教練專業評論**: 柏崎潮風馬拉松並非典型的 **PB** 聖殿，但其賽道結構極適合做為高品質的 **LSD** 實戰演練。對於目標設定在 **BQ** 或頂尖賽事的跑者，此賽事是檢視耐熱能力與山道抗壓性的絕佳機會。從科學訓練角度來看，此賽事的定位更傾向於「建構期」後段的綜合能力檢測。完賽後的溫泉修復與海鮮饗宴，能有效緩解高強度運動後的生理與心理疲勞。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

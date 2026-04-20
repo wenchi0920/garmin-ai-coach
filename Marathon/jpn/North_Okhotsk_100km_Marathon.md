@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松詳情庫 (Japan Race Details)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
----
 
 ### 北奧霍次克100K馬拉松 (North Okhotsk 100km Marathon)
 

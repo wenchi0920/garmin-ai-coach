@@ -1,3 +1,5 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 > **Parent**: [README.md](README.md)
@@ -6,7 +8,6 @@
 
 [⬅️ 返回國家索引](README.md) | [🌍 返回全球總索引](../README.md)
 
----
 
 ### 川崎国際多摩川馬拉松 (Kawasaki International Tamagawa Marathon)
 
@@ -24,4 +25,3 @@
 
 ---
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
-

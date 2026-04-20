@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 白山白川鄉超級馬拉松 (Hakusan Shirakawago Ultra Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 這是一場絕對的「意志力淬煉」賽事，而非追求 **PB** 的場所。其定位屬於極致的 **LSD** 訓練與心智考驗。跑者須具備強大的核心穩定性以應對不斷變化的坡度。由於賽道海拔起伏大，心率波動會非常劇烈，建議放棄 **負分割 (Negative Split)** 的執念，轉而追求體力的等量分配。對於目標參加超長距離越野賽或希望突破心靈瓶頸的跑者，白山白川鄉是最佳的戰場。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

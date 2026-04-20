@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 袋井皇冠蜜瓜馬拉松 (Fukuroi Crown Melon Marathon)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 袋井皇冠蜜瓜馬拉松 (Fukuroi Crown Melon Marathon)
 
@@ -24,3 +24,6 @@ Author: AI Coach
 從科學訓練視角來看，袋井馬並非傳統意義上的 **PB (個人最佳紀錄)** 聖殿，其難度不亞於 BQ 門檻賽事。我將其定義為**「高品質的強韌度訓練 (Mental Toughness Training)」**。
 - **定位建議**: 適合將其作為春季大賽（如東京馬拉松）前的 **LSD (長距離慢跑)** 實戰演練，或是作為耐力建構期的強度測試。
 - **訓練提示**: 賽前四周應加強股四頭肌的耐力訓練，以應對頻繁的地形變化。若能在此賽道跑出接近 PB 的成績，代表跑者的有氧基礎與抗疲勞能力已進入頂尖水準。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

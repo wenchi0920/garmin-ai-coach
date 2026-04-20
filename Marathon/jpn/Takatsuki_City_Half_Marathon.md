@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 高槻市半程馬拉松 (Takatsuki City Half Marathon)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 高槻市半程馬拉松 (Takatsuki City Half Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 從專業教練視角來看，高槻市半馬是 2 月或 3 月全馬賽事（如大阪馬、京都馬、東京馬）的最佳 **LSD** 進階演練場。由於賽道極平，跑者可以在此精準校準 **RPE** (自覺強度) 與目標配速的關聯性。對於追求 **BQ** 或高標成績的精英跑者，此役可用於測試 **離心收縮** 的耐受度。賽事氣氛輕鬆但不失競技感，是寒冬訓練週期中極佳的實戰體感驗證機會。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

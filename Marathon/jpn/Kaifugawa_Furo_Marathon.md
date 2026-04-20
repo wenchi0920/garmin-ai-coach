@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 徳島・海陽究極的清流海部川風流馬拉松 (Tokushima Kaiyo Ultimate Seiryu Kaifugawa Furo Marathon)
 
 Last Updated: 2026-04-19  
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 徳島・海陽究極的清流海部川風流馬拉松 (Tokushima Kaiyo Ultimate Seiryu Kaifugawa Furo Marathon)
 
@@ -18,5 +18,4 @@ Author: AI Coach
 4. **教練專業評論**: 這是一場被譽為 **PB 聖殿** 的賽事。2 月的涼爽氣候配合極平緩賽道，非常利於發揮週期訓練成果。針對後半程的柏油路面衝擊，跑者應在訓練中加強 **離心收縮** 訓練。雖然風景極美適合當作 **LSD**，但其卓越的賽道條件更適合設定為年度目標賽。建議將 **RPE** 監控在 7-8 之間，穩定推進至終點。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

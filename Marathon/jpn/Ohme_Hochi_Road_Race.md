@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # Ohme-Hochi 30km Road Race & 10km (青梅馬拉松)
 
 Last Updated: 2026-04-19  
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 青梅馬拉松 (Ohme-Hochi 30km Road Race & 10km)
 
@@ -22,3 +22,4 @@ Author: AI Coach
 此賽事是備戰春季全馬（如東京馬拉松）的最佳 **LSD** 實戰演練，其 30 公里的距離剛好能觸發體內能量耗盡的臨界點，是測試配速策略的完美場域。賽道雖有起伏，但若能在回程穩定節奏，極具挑戰 30K **PB** 的潛力。對於追求 **BQ** 的跑者，此戰能有效強化股四頭肌耐力，是提升競技水平的必修課。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

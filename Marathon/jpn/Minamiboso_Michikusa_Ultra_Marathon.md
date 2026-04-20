@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 南房總道草超級馬拉松 (Minamiboso Michikusa Ultra Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 南房總道草超級馬拉松 (Minamiboso Michikusa Ultra Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 本賽事定位非追求 **PB** 的速度賽，而是極佳的高強度 **LSD (長距離慢跑)** 訓練。對於目標設定在 **BQ** 或全馬破三的跑者而言，參與此賽事可作為週期化訓練中的耐力基礎建設與意志力淬煉。賽道多變的起伏能有效強化肌耐力。建議跑者將重點放在心智重構，享受風景而非緊盯配速。對於超馬新手而言，這是一場難度適中且回憶滿點的入門選，能顯著提升對長距離奔跑的適應力與心理強韌度。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

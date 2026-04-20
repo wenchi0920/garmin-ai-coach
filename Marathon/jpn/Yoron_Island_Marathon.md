@@ -1,3 +1,5 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 鹿兒島縣與論島馬拉松 (Yoron Island Marathon)
 
 > **Last Updated**: 2026-04-16

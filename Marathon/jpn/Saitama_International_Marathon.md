@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 埼玉國際馬拉松 (Saitama International Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 埼玉國際馬拉松 (Saitama International Marathon)
 
@@ -22,3 +22,4 @@ Author: AI Coach
 埼玉國際馬拉松在當時被定義為「精英的試煉場」。其賽道難度雖不利於挑戰世界紀錄，卻是檢驗選手綜合實力的絕佳場域。對於大眾跑者而言，這是一場極佳的 **LSD** (長距離慢跑) 進階實戰訓練，能磨練在疲勞狀態下維持步頻的能力。雖然賽事已停辦，但其精神與賽道設計被後續賽事繼承，是追求 **PB** 與 **BQ** 的跑者研究日本賽道特性的重要歷史案例。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

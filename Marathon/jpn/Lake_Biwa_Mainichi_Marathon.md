@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 琵琶湖每日馬拉松 (Lake Biwa Mainichi Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 琵琶湖每日馬拉松 (Lake Biwa Mainichi Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 這是一場名副其實的 **PB** 聖殿，適合具備高階競技能力的跑者進行挑戰。雖然沒有一般市民馬拉松的嘉年華氣氛，但其嚴肅的競速氛圍能激發出極低的 **RPE** (自覺受累程度) 潛能。若作為賽季目標，訓練需著重於長距離的門檻跑 (Threshold Run) 與強化離心收縮能力的下坡穩定訓練，以應對後段湖風帶來的肌肉疲勞。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 能登和倉萬葉馬拉松 (Noto Wakura Manyo Marathon)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 能登和倉萬葉馬拉松 (Noto Wakura Manyo Marathon)
 

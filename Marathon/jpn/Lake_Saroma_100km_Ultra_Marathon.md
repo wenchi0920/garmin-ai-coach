@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 薩羅麻湖超級馬拉松 (Lake Saroma 100km Ultra Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
     薩羅麻湖是一場完美的 **LSD** 終極測驗與心智淬煉。對於追求極限的跑者，這裡提供了世界級的 **PB** 條件；而對於初次挑戰百公里的跑者，其 13 小時的關門時間相對友善。訓練重點應放在長時間的耐力基礎與抗風阻能力。若能在此完賽，不僅是體能的證明，更是對跑步哲學中「永不放棄」精神的深刻實踐。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

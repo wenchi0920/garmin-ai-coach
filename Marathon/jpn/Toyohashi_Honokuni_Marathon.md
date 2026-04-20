@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本馬拉松賽事詳情 (Japan Race Details)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 豊橋馬拉松 (Toyohashi Honokuni Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 此賽事定位為「極速半馬」與「全馬過渡期」的最佳 **LSD** 訓練。對於目標 **BQ** 的跑者而言，它是檢驗冬訓成果的理想場域。賽道平緩能減少**離心收縮**帶來的肌肉微損傷，使賽後恢復周期縮短。建議將其作為 4 月全馬賽事前的高強度壓力測試，重點練習在強風環境下的核心穩定度。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

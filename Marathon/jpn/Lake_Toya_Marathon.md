@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 洞爺湖馬拉松 (Lake Toya Marathon)
 
 Last Updated: 2026-04-15
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 洞爺湖馬拉松 (Lake Toya Marathon)
 
@@ -22,3 +22,4 @@ Author: AI Coach
    此賽事具備 AIMS 認證，是認證 **BQ** 的理想選擇。5 月的洞爺湖平均氣溫約 10-16 度，環境極端友善，體感舒適度極高。賽道對股四頭肌的 **離心收縮** 負擔較小，適合定位為春季訓練週期的總結目標賽。對於中高階跑者而言，這裡是檢驗冬訓成果、刷新個人紀錄的最佳舞台。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

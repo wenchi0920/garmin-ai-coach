@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇯🇵 日本賽事詳情：茨城霞浦馬拉松兼國際盲人馬拉松
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
----
 
 ### 茨城霞浦馬拉松兼國際盲人馬拉松 (Kasumigaura Marathon and International Blind Marathon)
 
@@ -20,5 +21,4 @@ Author: AI Coach
 這是一場極具「包容力」且具備高度競技價值的賽事。賽道平度高、轉彎少，是 LSD 長距離訓練向競賽轉換的理想場域。對於追求 PB 的跑者，此賽道物理阻力低，心肺負擔相對穩定；對於一般跑者，其濃厚的公益氛圍能有效降低 RPE (自覺力竭程度)。教練建議在訓練中加入適度的離心收縮 (Eccentric Contraction) 訓練，以應對後半程平坦路面單一肌群重複作功帶來的疲勞，是極佳的 BQ 資格獲取站。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

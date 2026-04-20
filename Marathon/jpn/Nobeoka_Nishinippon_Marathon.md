@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 延岡西日本馬拉松 (Nobeoka Nishinippon Marathon)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
----
 
 ### 延岡西日本馬拉松 (Nobeoka Nishinippon Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽事在我的系統中定位為「PB 聖地」與「精英晉升戰」。賽道的平整度極佳，對 **離心收縮** 造成的肌肉損耗相對較小，利於維持高效跑步經濟性。對於目標 **BQ** 或突破個人最佳成績的跑者，此役是檢驗冬訓成效的最佳戰場。建議賽前加強長距離 **LSD** 與馬拉松配速跑（MP Run）的轉換，並針對河岸風向進行心理適應訓練，以在關鍵時刻維持穩定的配速心率比。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

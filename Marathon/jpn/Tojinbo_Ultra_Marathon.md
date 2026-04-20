@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 東尋坊超級馬拉松 (Tojinbo Ultra Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 東尋坊超級馬拉松 (Tojinbo Ultra Marathon)
 
@@ -22,5 +22,4 @@ Author: AI Coach
 這是一場極具魅力的 **LSD** 意志力修煉場。雖然不適合追求馬拉松 **PB** 或 **BQ** 資格，但對於想挑戰超馬領域的跑者來說，此賽道的起伏能有效鍛鍊肌耐力。建議參賽者必須具備深厚的有氧基礎，並在賽前進行多次 50km 以上的耐熱與耐力模擬跑。面對東尋坊的強勁海風與地勢，心理韌性與體力分配同樣重要。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
