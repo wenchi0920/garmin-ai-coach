@@ -11,7 +11,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **里加馬拉松** | Rimi Riga Marathon | 波羅的海最大賽事，行經世界遺產老城區，賽道極其平坦。 | WA 金標 | [詳情](Rimi_Riga_Marathon.md#里加馬拉松-rimi-riga-marathon) |
+| 5月 | **里加馬拉松** | Rimi Riga Marathon | 波羅的海最大賽事，行經世界遺產老城區，賽道極其平坦。 | WA 金標 | [詳情](Rimi_Riga_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
