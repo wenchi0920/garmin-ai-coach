@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇰🇿 哈薩克 (Kazakhstan)
 
 > **Last Updated**: 2026-04-16
 > **Author**: AI Coach
 
----
 
 ### 突厥斯坦馬拉松 (Turkistan Marathon)
 
