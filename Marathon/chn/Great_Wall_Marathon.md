@@ -1,3 +1,5 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇨🇳 黃崖關長城馬拉松 (The Great Wall Marathon)
 
 Last Updated: 2026-04-17
