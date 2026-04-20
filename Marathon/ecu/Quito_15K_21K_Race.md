@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇪🇨 厄瓜多賽事詳情庫 (Ecuador Race Database)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 基多 15K/21K 挑戰賽 (Quito 15K/21K Race)
 
