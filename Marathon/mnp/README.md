@@ -5,6 +5,6 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 03 | 塞班馬拉松 | Saipan Marathon | 密克羅尼西亞明珠，太平洋絕美海景與熱情島民。 | AIMS 認證 | [塞班馬拉松](Saipan_Marathon.md#塞班馬拉松-saipan-marathon) |
+| 03 | 塞班馬拉松 | Saipan Marathon | 密克羅尼西亞明珠，太平洋絕美海景與熱情島民。 | AIMS 認證 | [詳情](Saipan_Marathon.md) |
 
 [返回全球總索引](../README.md)
