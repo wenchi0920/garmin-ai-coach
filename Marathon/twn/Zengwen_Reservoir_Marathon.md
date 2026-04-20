@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 曾文水庫馬拉松 (Zengwen Reservoir Marathon)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 曾文水庫馬拉松 (Zengwen Reservoir Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽道因地形起伏，難以產出最佳 PB，但絕對是極佳的 LSD 訓練場域。賽道的高難度能有效提升跑者的 RPE 校準能力，適合定位為年度大賽前的「耐力強化站」。對於追求 BQ 或國外大型賽事的跑者，此處的山道磨練能為後續的平坦賽道打下堅實的體力基礎。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

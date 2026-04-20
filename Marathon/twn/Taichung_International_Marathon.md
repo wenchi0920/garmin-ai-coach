@@ -1,11 +1,10 @@
----
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-19
 Author: AI Coach
----
 
 # 台中國際馬拉松 (Taichung International Marathon)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 台中國際馬拉松 (Taichung International Marathon)
 
