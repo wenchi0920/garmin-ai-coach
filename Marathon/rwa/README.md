@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 5月 | **基加利國際和平馬拉松** | Kigali International Peace Marathon | 千丘之城挑戰、高海拔耐力淬煉、促進和平與和解 | AIMS 認證 | [詳情](Kigali_International_Peace_Marathon.md#基加利國際和平馬拉松-kigali-international-peace-marathon) |
+| 5月 | **基加利國際和平馬拉松** | Kigali International Peace Marathon | 千丘之城挑戰、高海拔耐力淬煉、促進和平與和解 | AIMS 認證 | [詳情](Kigali_International_Peace_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
