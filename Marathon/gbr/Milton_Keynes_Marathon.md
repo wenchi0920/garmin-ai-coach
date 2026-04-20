@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇬🇧 米爾頓凱恩斯馬拉松 (Milton Keynes Marathon & Half Marathon)
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 米爾頓凱恩斯馬拉松 (Milton Keynes Marathon & Half Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 此賽事具備極高的 **PB** 潛力，且是獲得 **BQ** 資格的熱門選擇。對於準備秋季大滿貫的跑者，此役是絕佳的 **LSD** 實戰演練場。建議在訓練週期中強化下肢的**離心收縮**能力，以應對賽道微小的地形起伏。終點進場前的隧道聲光效果極佳，能顯著提升跑者的心理狀態，是追求成績與賽事體驗的優質選擇。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
