@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 河內遺產國際馬拉松 (Hanoi Heritage International Marathon)
 
 Last Updated: 2026-04-14
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 河內遺產國際馬拉松 (Hanoi Heritage International Marathon)
 
@@ -18,3 +19,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽道具備極佳的 **PB 潛力**，但需注意古城區轉彎處的腳踝負荷，建議加強小腿肌群的**離心收縮**訓練以應對路面變化。賽事定位屬「城市巡禮型」競技，由於河內街道氛圍熱烈，非常適合初馬挑戰或作為跨國參賽的目標。對於追求 **BQ** 的跑者，需精確控管心率以應對高濕度帶來的體溫升高。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

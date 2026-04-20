@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 胡志明市科技商業銀行國際馬拉松 (Techcombank Ho Chi Minh City International Marathon)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 此賽事因其 AIMS 認證，是爭取 **BQ** 或個人 **PB** 的理想場域，但前提是必須克服熱適應問題。對於初次參與的跑者，可將其定位為高強度的 **LSD** 訓練，體驗異國城市風情。賽道後段的長直路對心理韌性要求極高，教練建議在訓練中加入耐熱跑排程，以優化身體在排汗與散熱上的生理效率，確保在終點前仍能維持穩定的步頻。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

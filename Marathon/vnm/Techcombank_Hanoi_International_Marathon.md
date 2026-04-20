@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 河內科技商業銀行國際馬拉松 (Techcombank Hanoi International Marathon)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽事定位為「中高難度 PB 挑戰賽」。雖然賽道平緩，但河內 9 月的高溫與高濕度對跑者的攝氧能力與耐熱性是極大考驗。訓練期間應強化離心收縮訓練以穩定橋段下坡的衝擊，並將長距離跑 (LSD) 安排在濕熱時段進行熱適應演練。這場賽事不僅是體能的較量，更是意志力與水分管理的精確對抗。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
