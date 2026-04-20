@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 聖地牙哥紀念馬拉松 (Maratón Monumental Primer Santiago de América)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽事在教練眼中定位為「耐熱硬仗」與「LSD 訓練跑」的進階版。雖然賽道平整度高，但由於濕度與氣溫，極少人能在此刷出「PB」，其挑戰性在於心智淬煉與體熱調節。若想挑戰「BQ」門檻，需在賽前 4-6 週進行嚴格的熱適應訓練。賽事氛圍熱情，適合想在非傳統賽季體驗國際標籤賽事的跑者。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
