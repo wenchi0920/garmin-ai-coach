@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇲🇾 古晉馬拉松 (Kuching Marathon)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 古晉馬拉松 (Kuching Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 從科學訓練視角看，古晉馬拉松被定義為「心智淬煉」與「耐熱耐力」的 LSD (Long Slow Distance) 測試，而非追求個人最佳紀錄 (PB) 的聖殿。高溫環境下心率會出現明顯漂移，跑者需特別加強核心穩定與下肢的離心收縮訓練，以減緩高溫導致的神經肌肉疲勞。若欲以此賽事作為 BQ 門檻挑戰，需具備極強的熱適應能力與精確的水合策略。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
