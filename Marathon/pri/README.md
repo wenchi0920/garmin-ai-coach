@@ -9,7 +9,7 @@
 
 | 月份 | 賽事名稱 (中文) | Race Name | 特色描述 | 賽道認證 | 詳情連結 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 9月 | **Lola 挑戰週末** | Lola Challenge Weekend | 聖胡安古城跑、三日連賽挑戰、高溫濕度熱適應 | AIMS 認證 | [詳情](Lola_Challenge_Weekend.md#Lola-挑戰週末-Lola-Challenge-Weekend) |
+| 9月 | **Lola 挑戰週末** | Lola Challenge Weekend | 聖胡安古城跑、三日連賽挑戰、高溫濕度熱適應 | AIMS 認證 | [詳情](Lola_Challenge_Weekend.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)
