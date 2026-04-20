@@ -108,7 +108,7 @@ fi
 
 # 5. 輸出結果
 if [ -f "${weekfile}" ]; then
-    cat "${weekfile}"
+    echo "${weekfile}"
 fi
 
 exit 0
