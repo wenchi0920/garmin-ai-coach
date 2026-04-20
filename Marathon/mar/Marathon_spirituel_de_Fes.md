@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇲🇦 摩洛哥馬拉松詳情庫 (Morocco Race Details)
 
 > **Last Updated**: 2026-04-16
 > **Author**: AI Coach
 
----
 
 ### 非斯精神馬拉松 (Marathon spirituel de Fès)
 

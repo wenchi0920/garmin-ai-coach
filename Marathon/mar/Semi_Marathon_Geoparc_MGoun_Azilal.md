@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇲🇦 摩洛哥馬拉松詳情庫 (Morocco Race Details)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 姆古恩地質公園半程馬拉松 (Semi Marathon Geoparc M’Goun Azilal)
 
@@ -22,3 +22,4 @@ Author: AI Coach
 這是一場極具挑戰性的 **LSD (長距離慢跑)** 訓練跑或耐力驗收賽，而非追求個人 **PB (個人最佳紀錄)** 的聖殿。高海拔環境能有效刺激紅血球生成，對備戰秋季平原馬拉松具有極佳的生理效益。建議跑者加強下肢力量訓練，特別是針對陡坡的穩定性。對於有意挑戰 **BQ (波士頓馬拉松資格)** 的嚴肅跑者，此賽事可作為絕佳的心智淬煉場。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
