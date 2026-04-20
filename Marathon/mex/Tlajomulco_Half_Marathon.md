@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇲🇽 墨西哥馬拉松賽事詳情 (Mexico Race Details)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
----
 
 ### Tlajomulco 半程馬拉松 (Medio Maratón Tlajomulco hidratado por Electrolit)
 

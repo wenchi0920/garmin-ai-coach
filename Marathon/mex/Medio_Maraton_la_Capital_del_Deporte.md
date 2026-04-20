@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇲🇽 墨西哥賽事詳情 (Mexico Race Details)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
----
 
 ### 聖路易斯波托西「體育之都」半程馬拉松 (Medio Maratón la Capital del Deporte)
 

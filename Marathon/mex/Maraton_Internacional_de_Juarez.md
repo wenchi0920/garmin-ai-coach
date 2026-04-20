@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇲🇽 墨西哥賽事詳情庫 (Mexico Race Details)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
----
 
 ### 華雷斯城國際馬拉松 (Maratón Internacional de Juárez)
 1. **歷史背景**: 

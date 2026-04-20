@@ -1,9 +1,9 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-14
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 瓜達拉哈拉馬拉松 (Guadalajara Marathon Skarch hydrated by Electrolit)
 
@@ -20,3 +20,4 @@ Author: AI Coach
 這不是一場容易取得 **PB** 或達成 **BQ** 的速度賽，但它具備極高的訓練價值與心理韌性淬鍊能力。賽事定位屬於「高原強度耐力挑戰」，適合計畫參加冬季平原馬拉松的跑者作為強大的 **LSD** 模擬戰。賽後應著重於膝關節與四頭肌的恢復，以應對賽道坡度帶來的肌肉微損傷。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
