@@ -13,7 +13,7 @@
 | 4月 | **伊斯坦堡半程馬拉松** | N Kolay Istanbul Half Marathon | 全球最速半馬賽道之一、金角灣絕美海景、歷史古城巡禮 | WA 金標 | [詳情](N_Kolay_Istanbul_Half_Marathon.md) |
 | 4月 | **伊茲密爾馬拉松** | Maraton İzmir | 土耳其最速全馬賽道、愛琴海濱平直路徑、氣溫適宜 PB 聖地 | WA 菁英 | [詳情](Maraton_İzmir.md) |
 | 4月 | **土耳其銀行伊斯坦堡半程馬拉松** | Türkiye İş Bankası İstanbul Half Marathon | 全球最速半馬賽道之一、金角灣絕美海景、歷史古城巡禮 | WA 金標 | [詳情](Turkiye_Is_Bankasi_Istanbul_Half_Marathon.md) |
-| 11月 | **伊斯坦堡馬拉松** | Istanbul Marathon | 全球唯一橫跨歐亞兩洲全馬賽道、博斯普魯斯大橋壯闊景觀 | WA 金標 | [詳情](Istanbul_Marathon.md#伊斯坦堡馬拉松-istanbul-marathon) |
+| 11月 | **伊斯坦堡馬拉松** | Istanbul Marathon | 全球唯一橫跨歐亞兩洲全馬賽道、博斯普魯斯大橋壯闊景觀 | WA 金標 | [詳情](Istanbul_Marathon.md) |
 
 ---
 [⬅️ 返回全球賽事索引](../README.md)

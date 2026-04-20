@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇹🇷 土耳其馬拉松賽事詳情 (Turkey Race Details)
 
 > **Last Updated**: 2026-04-18
 > **Author**: AI Coach
 
----
 
 ### 安塔利亞馬拉松 (Runtalya Marathon presented by Fraport TAV)
 1. **歷史背景**: Runtalya 馬拉松自 2006 年創辦以來，已發展為土耳其南部最重要的國際體育賽事之一。賽事由 Fraport TAV 冠名贊助，選址於擁有「地中海明珠」美譽的安塔利亞。賽道巧妙融合了古老的哈德良門（Hadrian's Gate）等羅馬遺跡與現代拉拉海岸線，初衷在於透過路跑運動，讓全球跑者在挑戰極限的同時，深度體驗土耳其豐厚的文化底蘊與地中海風情。
