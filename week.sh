@@ -94,7 +94,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
 		python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${weekfile}"
 		#git commit -m "docs: update training logs ${markdown_file}" "${markdown_file}"
 		git add -f "${weekfile}" "${yamlfile}"
-		git commit -m "docs: update ${YEAR} W{$WEEK_NUM} 課表" "${weekfile}" "${yamlfile}"
+		git commit -m "docs: update ${YEAR} W$WEEK_NUM 課表" "${weekfile}" "${yamlfile}"
 		echo "Update 課表 SUCCESS: W${WEEK_NUM}" | python3 send_msg.py
 	else
 		echo "Update 課表 ERROR: 檔案生成不完整" | python3 send_msg.py
