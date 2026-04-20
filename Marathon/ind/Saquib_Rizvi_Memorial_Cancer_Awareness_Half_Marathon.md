@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 薩奎布·里茲維紀念癌症防治半程馬拉松 (Saquib Rizvi Memorial Cancer Awareness Half Marathon)
 
@@ -18,3 +19,4 @@ Author: AI Coach
 此賽事因其極低難度的賽道，被定義為「**PB** 聖殿」。對於計畫挑戰 **BQ** 或全馬賽事的跑者，可將此役視為高品質的 **LSD** 訓練或體能檢測，用於精確校準區間。訓練建議加強下肢的**離心收縮**控制，以應對柏油路面長時間衝擊。建議跑者全程監控 **RPE** (自覺強度)，在維持平穩呼吸的同時，追求極致速度表現。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

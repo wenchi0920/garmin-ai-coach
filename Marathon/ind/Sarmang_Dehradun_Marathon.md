@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # Sarmang Dehradun Marathon
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 薩爾芒德拉敦馬拉松 (Sarmang Dehradun Marathon)
 
@@ -21,5 +21,7 @@ Author: AI Coach
 4. **教練專業評論**:
 這是一場兼具美景與強度的賽事，我將其定位為「高難度的 PB 挑戰賽」。雖然起伏的地形讓它不如孟買馬拉松那般容易刷新個人紀錄，但其高海拔訓練效果與清新的山間空氣能有效提升跑者的最大攝氧量。對於目標參加 WMM 的跑者，此賽事是絕佳的實戰演練。訓練建議加強山道 LSD 與波比跳等功能性訓練，以強化核心穩定與下肢推蹬力。
 
----
 [⬅️ 返回國家索引](README.md) | [⬅️ 返回全球總索引](../README.md)
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
