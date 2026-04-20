@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 西里西亞馬拉松 (Silesia Marathon)
 1. **歷史背景**: 
@@ -16,4 +17,5 @@ Author: AI Coach
 4. **教練專業評論**: 
    這是一場定位為「耐力挑戰與意志淬鍊」的賽事。雖然地形限制了極限 PB 的產出，但絕對是提升賽事經驗與 LSD 訓練品質的絕佳選擇。建議參賽跑者在訓練週期中加入針對性的山路跑與離心收縮 (Eccentric Contraction) 訓練，以應對坡段對下肢造成的負擔，確保能順利達成 BQ 門檻或個人目標。
 
+---
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
