@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇪🇹 衣索比亞馬拉松賽事詳情 (Ethiopia Race Database)
 
 > **Last Updated**: 2026-04-14
 > **Author**: AI Coach
 
----
 
 ### 衣索比亞大跑步 10km (Great Ethiopian Run 10km)
 
