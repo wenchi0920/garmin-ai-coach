@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇳🇱 荷蘭馬拉松詳情庫 (Netherlands Marathon Details)
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 鹿特丹馬拉松 (NN Marathon Rotterdam)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 鹿特丹馬拉松是追求 PB 與 BQ 的終極聖殿。其賽道難度低，適合將其作為年度 A 級賽事。訓練規劃應著重於馬拉松配速的耐受度，並在 LSD 訓練中加入對平坦硬地的肌肉適應，特別是加強「離心收縮」能力以降低後半程肌肉疲勞。若天氣條件理想，此賽事的 RPE 會比其他賽事更低，是刷新個人紀錄的最佳時機。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
