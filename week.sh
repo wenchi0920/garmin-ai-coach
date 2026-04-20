@@ -108,7 +108,8 @@ fi
 
 # 5. 輸出結果
 if [ -f "${weekfile}" ]; then
-    echo "${weekfile}"
+	python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${weekfile}"
+	echo "${weekfile}"
 fi
 
 exit 0
