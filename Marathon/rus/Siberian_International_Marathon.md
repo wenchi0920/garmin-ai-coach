@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇷🇺 俄羅斯馬拉松詳情庫 (Russia Race Details)
 
 > **Last Updated**: 2026-04-16
 > **Author**: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 西伯利亞國際馬拉松 (Siberian International Marathon)
 
@@ -22,3 +22,4 @@
 SIM 是一場「耐熱硬仗」，適合將其定位為 **LSD** 熱適應訓練或心智淬煉。對於追求 **BQ** 的跑者，此賽道平坦雖好跑，但需具備強大的離心收縮穩定度以維持長距離定速。若能克服極端氣候，這將是跑者個人履歷中最具含金量的完賽證明之一。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
