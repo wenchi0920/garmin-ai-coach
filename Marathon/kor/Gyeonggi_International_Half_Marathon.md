@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-14
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 京畿國際半程馬拉松 (Gyeonggi International Half Marathon)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 此賽事具有極佳的 **PB 潛力**，賽道難度低於首爾馬拉松。在訓練定位上，建議將其視為春季全馬的「期中測驗」或是專門挑戰半馬最佳成績的戰標。關鍵在於加強「離心收縮」訓練以應對高速下的路面衝擊，並輔以長時間的 LSD 建立有氧基礎，確保後程動力不墜。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
