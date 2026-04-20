@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 突尼斯馬拉松賽事詳情 (Tunisia Marathon Details)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 突尼斯迦太基馬拉松 (Marathon COMAR Tunis - Carthage)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 本賽事在 AI Coach 的系統中定位為「高感官體驗的 LSD 訓練賽」。儘管賽道具備 AIMS 認證，適合爭取 BQ (波士頓馬拉松資格)，但受海邊濕度與突發海風影響，PB 潛力評等為中等。對於目標設定在穩定完賽的跑者，此賽道是絕佳的耐力驗收場地。核心穩定性在此至關重要，特別是在應對迦太基區域路面細微變化時，維持骨盆中立能有效降低長距離跑步的運動傷害風險。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
