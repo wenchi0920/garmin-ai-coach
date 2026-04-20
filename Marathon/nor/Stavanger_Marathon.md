@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # Stavanger Marathon 賽事詳情
 
 Last Updated: 2026-04-17
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 史塔萬格馬拉松 (Stavanger Marathon)
 
@@ -22,3 +22,4 @@ Author: AI Coach
 本賽事雖具備 **AIMS 認證**，但因地形起伏與風向干擾，並非極速 **PB** 聖殿。建議將其定位為「高強度訓練賽」或 **LSD** 的實戰進階版。對於目標 **BQ** 的跑者，此賽道是極佳的耐受力測試場，能磨練在複雜地形下的配速穩定性與心智韌性。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
