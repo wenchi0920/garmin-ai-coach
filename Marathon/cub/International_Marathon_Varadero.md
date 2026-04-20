@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-19
 Author: AI Coach
 
 # 巴拉德羅國際馬拉松 (International Marathon Varadero)
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 巴拉德羅國際馬拉松 (International Marathon Varadero)
 
@@ -18,3 +19,6 @@ Author: AI Coach
 
 4. **教練專業評論**：
 巴拉德羅馬拉松是加勒比海地區難得的「PB 聖殿」，其賽道難度極低，非常適合作為目標賽事。定位上，此賽事不僅是挑戰個人紀錄的場域，更是高強度的實戰演練，而非單純的 **LSD**（長距離慢跑）。訓練規劃中應特別加入**離心收縮**訓練，以強化腿部在平坦路面持續推蹬的耐受力，並建議跑者在強風地段適度跟隨領跑集團以節省體力，是極具競技價值與心智淬鍊的頂級賽事。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
