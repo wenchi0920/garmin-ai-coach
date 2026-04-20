@@ -87,7 +87,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
             fi
             echo "⚠️ 第 $((num+1)) 次嘗試未完整偵測到檔案產生，準備重試..."
             num=$((num+1))
-            sleep 2
+            sleep 10
         done
 
 	if [ "$result" == "Y" ]; then
