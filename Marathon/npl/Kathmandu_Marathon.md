@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # Kathmandu Marathon (加德滿都馬拉松)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 加德滿都馬拉松 (Kathmandu Marathon)
 
@@ -22,3 +22,4 @@ Author: AI Coach
 這是一場「心智淬煉」重於「競技成績」的賽事。由於海拔與路況限制，其 PB 潛力較低，更適合定位為高海拔的 LSD 訓練跑。跑者應專注於呼吸調節與負分割 (Negative Split) 策略的練習。賽後需加強股四頭肌的恢復，特別是應對不平路面帶來的關節衝擊。對於追求 BQ 的跑者，此賽事是極佳的耐力與心態測試場。
 
 ---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

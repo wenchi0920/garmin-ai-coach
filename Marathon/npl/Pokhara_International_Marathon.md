@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇳🇵 尼泊爾賽事詳情庫 (Nepal Race Details)
 
 Last Updated: 2026-04-19
 Author: AI Coach
 
----
 
 ### 博卡拉國際馬拉松 (Pokhara International Marathon)
 
@@ -20,5 +21,4 @@ Author: AI Coach
 這是一場典型的「靈魂 LSD (Long Slow Distance)」與冒險型馬拉松。由於海拔與起伏路面，此賽事並非追求 PB (個人最佳成績) 的聖殿，但絕對是累積心智韌性的絕佳場所。針對其下坡段，跑者需加強「離心收縮 (Eccentric Contraction)」訓練以保護膝蓋。對於追求 BQ 的跑者，此賽事可作為高原訓練後的移地測驗，在高 RPE 狀態下練習負分割 (Negative Split) 策略，將極大提升賽戰力。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)

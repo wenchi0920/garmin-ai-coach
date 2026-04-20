@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇳🇵 尼泊爾賽事詳情 (Nepal Race Intelligence)
 
 > **Last Updated**: 2026-04-17
 > **Author**: AI Coach
 
----
 
 ### 藍毗尼和平馬拉松 (Lumbini Peace Marathon — Running Around Buddha’s Home)
 
@@ -20,5 +21,4 @@
 這場賽事我的定位是「靈魂的 **LSD (Long Slow Distance)**」。雖然賽道平坦，但路面穩定性與環境變數使其難以達成 **BQ** 級別的成績。專業建議將其視為一場心智淬煉。對於精英跑者，這是訓練在惡劣地面環境下維持步頻與核心穩定的絕佳機會；對於大眾跑者，這是一場結合文化信仰的深度體驗。賽後的疲勞恢復期應特別注意足底筋膜的放鬆。在這裡，每一公里都是對自我意志的對話，而非純粹數字的追求。
 
 ---
-
 [返回國家索引](README.md) | [返回全球總索引](../README.md)
