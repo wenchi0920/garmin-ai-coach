@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇫🇷 拉羅謝爾馬拉松 (Marathon de La Rochelle Serge Vigot)
 
 Last Updated: 2026-04-16
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 拉羅謝爾馬拉松 (Marathon de La Rochelle Serge Vigot)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 這是一場「PB 聖殿」級別的賽事。極致平緩的賽道與完美的溫濕度提供了絕佳的競技條件，非常適合作為秋季訓練週期的年度目標賽。對於中高階跑者而言，此賽事是檢視週期化訓練成果的最佳舞台。雖然賽道需跑兩圈，但豐富的歷史景觀與港區熱情的加油群眾能有效緩解心理疲勞，是一場兼具競技深度與人文溫度的頂級賽事。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
