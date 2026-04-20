@@ -1,11 +1,11 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # Victoria Falls Marathon 賽事詳情
 
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
----
 
 ### 維多利亞瀑布馬拉松 (Victoria Falls Marathon)
 
@@ -20,3 +20,6 @@ Author: AI Coach
 
 4. **教練專業評論**: 
 維多利亞瀑布馬拉松是一場絕佳的 **LSD (長距離慢跑)** 與「心智淬煉」之旅，其難度不在於坡度，而在於「熱適應」與海拔。對於尋求 **BQ** 的跑者來說，此處並非理想聖殿，但作為週期化訓練中的異地訓練非常有價值。建議跑者在賽前兩週進行適度的耐熱訓練，並在賽事後半程嘗試 **負分割 (Negative Split)** 以測試體能韌性。這是一場值得每一位馬拉松愛好者收藏的人生必跑賽事。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
