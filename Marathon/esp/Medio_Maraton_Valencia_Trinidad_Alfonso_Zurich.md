@@ -1,9 +1,9 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-19
 Author: AI Coach
 
----
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 瓦倫西亞半程馬拉松 (Medio Maratón Valencia Trinidad Alfonso Zurich)
 
@@ -18,3 +18,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 本賽事具備極高的 **PB 潛力**。對於進階跑者，它是挑戰全馬 **BQ** 前的最佳測速站；對於一般跑者，則是體驗最高規格賽事氛圍的優質 **LSD** 目標。賽前應加強下肢的 **離心收縮** 訓練，以減緩高速奔跑對肌肉的衝擊，並在賽後運用積極恢復手段降低疲勞。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

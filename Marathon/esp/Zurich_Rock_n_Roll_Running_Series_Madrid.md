@@ -1,7 +1,8 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 Last Updated: 2026-04-18
 Author: AI Coach
 
-[返回國家索引](README.md) | [返回全球總索引](../README.md)
 
 ### 馬德里搖滾馬拉松 (Zurich Rock ’n’ Roll Running Series Madrid)
 
@@ -16,3 +17,6 @@ Author: AI Coach
 
 4. **教練專業評論**:
 馬德里馬拉松並非典型的「高速賽道」，其 BQ 難度較高，但卻是極佳的「心智淬煉」場地。定位上建議作為秋季大賽前的質量檢測賽或是一場高強度的 LSD 訓練跑。因應其賽道特性，跑者在備賽期間必須強化**離心收縮 (Eccentric Contraction)** 訓練，以強化股四頭肌應對下坡段的衝擊。若能在此賽道跑出接近 PB 的成績，代表考驗耐力與坡度轉換的體能已達巔峰。這是一場結合文化底蘊與專業難度的標竿賽事。
+
+---
+[返回國家索引](README.md) | [返回全球總索引](../README.md)

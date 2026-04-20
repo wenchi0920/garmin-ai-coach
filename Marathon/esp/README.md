@@ -19,10 +19,10 @@
 | 4月 | **馬德里搖滾馬拉松** | Zurich Rock ’n’ Roll Running Series Madrid | 搖滾音樂現場助陣、穿越首都經典地標、起伏賽道考驗耐力 | AIMS 認證,WA 金標 | [詳情](Zurich_Rock_n_Roll_Running_Series_Madrid.md#馬德里搖滾馬拉松-zurich-rock-n-roll-running-series-madrid) |
 | 10月 | **瓦倫西亞半程馬拉松** | Half Marathon Valencia Trinidad Alfonso Zurich | 全球最頂尖極速半馬、世界紀錄搖籃、藝術科學城起終點 | AIMS 認證,WA 白金標 | [詳情](Half_Marathon_Valencia_Trinidad_Alfonso_Zurich.md) |
 | 10月 | **瓦倫西亞半程馬拉松** | Medio Maratón Valencia Trinidad Alfonso Zurich | 全球頂尖極速半馬、世界紀錄搖籃、藝術科學城起終點 | AIMS 認證,WA 白金標 | [詳情](Medio_Maraton_Valencia_Trinidad_Alfonso_Zurich.md#瓦倫西亞半程馬拉松-medio-maratón-valencia-trinidad-alfonso-zurich) |
-| 10月 | **帕爾馬馬略卡馬拉松** | TUI Palma Marathon Mallorca | 濱海大道起終點、地中海主教座堂美景、兼具歷史古城與度假氛圍 | AIMS 認證 | [詳情](TUI_Palma_Marathon_Mallorca.md#帕爾馬馬略卡馬拉松-tui-palma-marathon-mallorca) |
+| 10月 | **帕爾馬馬略卡馬拉松** | TUI Palma Marathon Mallorca | 濱海大道起終點、地中海主教座堂美景、兼具歷史古城與度假氛圍 | AIMS 認證 | [詳情](TUI_Palma_Marathon_Mallorca.md) |
 | 12月 | **蘇黎世保險瓦倫西亞馬拉松** | Zurich Insurance Valencia Marathon | 歐洲最速賽道之一、PB 聖殿、水上終點 | AIMS 認證,WA 白金標 | [詳情](Zurich_Insurance_Valencia_Marathon.md) |
 | 12月 | **瓦倫西亞馬拉松** | Valencia Marathon | 歐洲最平坦快速賽道、世界紀錄搖籃、藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Marathon.md) |
-| 12月 | **瓦倫西亞馬拉松** | Valencia Trinidad Alfonso Marathon | 歐洲最速賽道、PB 聖殿、藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Trinidad_Alfonso_Marathon.md#瓦倫西亞馬拉松-valencia-trinidad-alfonso-marathon) |
+| 12月 | **瓦倫西亞馬拉松** | Valencia Trinidad Alfonso Marathon | 歐洲最速賽道、PB 聖殿、藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Trinidad_Alfonso_Marathon.md) |
 | 12月 | **瓦倫西亞馬拉松** | Maratón Valencia Trinidad Alfonso | 歐洲頂尖極速賽道、PB 聖殿、水上藝術科學城終點 | AIMS 認證,WA 白金標 | [詳情](Valencia_Trinidad_Alfonso_Marathon.md#瓦倫西亞馬拉松-maratón-valencia-trinidad-alfonso) |
 
 ---
