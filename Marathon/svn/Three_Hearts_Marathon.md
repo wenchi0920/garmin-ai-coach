@@ -1,9 +1,10 @@
+[返回國家索引](README.md) | [返回全球總索引](../README.md)
+
 # 🇸🇮 斯洛維尼亞馬拉松詳情庫 (Slovenia Marathon Intelligence)
 
 > **Last Updated**: 2026-04-17  
 > **Author**: AI Coach
 
----
 
 ### 三心馬拉松 (Three Hearts Marathon)
 1. **歷史背景**:  
