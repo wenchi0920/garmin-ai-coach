@@ -107,8 +107,8 @@ fi
 
 # 5. 輸出結果
 if [ -f "${weekfile}" ]; then
-	git add -f "${weekfile}" "${yamlfile}"
-	git commit -m "docs: update ${YEAR} W$WEEK_NUM 課表" "${weekfile}" "${yamlfile}"
+	git add -f "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
+	git commit -m "docs: update ${YEAR} W$WEEK_NUM 課表" "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
 	echo "${weekfile}"
 fi
 
