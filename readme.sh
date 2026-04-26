@@ -111,6 +111,7 @@ if gemini -v &> /dev/null; then
 		num=$((num+1))
 	done
 
+	git commit -m "docs: update Workouts" logs/Workouts/*/*.md logs/Workouts/*/*.yaml
 
 	if [ "$result" == "Y" ]; then
 		echo "update README.md SUCCESS" | python3 send_msg.py
