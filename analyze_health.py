@@ -4,7 +4,7 @@
 Purpose: Convert Garmin health data from raw text table to Markdown trend report.
 Author: AI Coach
 Changelog:
-2026-04-27: Initial version created to support specific health.txt format.
+2026-04-27: Enhanced with specific table title and bolded AI comments.
 """
 
 import sys
@@ -13,8 +13,7 @@ from datetime import datetime
 
 def parse_health_data(input_file):
     rows = []
-    # 精確匹配資料列的正規表達式，考慮到 -- 的情況
-    # 格式: 日期 | 步數/目標 | 距離 | 卡路里 | 心率 | 壓力 | 能量 | 睡眠 | HRV | 完備度 | 血壓
+    # 精確匹配資料列的正規表達式
     pattern = re.compile(r'^(\d{4}-\d{2}-\d{2})\s+\|\s+([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)\|([^|]+)')
     
     try:
@@ -51,6 +50,9 @@ def generate_markdown(rows):
     if not rows:
         return "無數據可轉換"
 
+    # 表格標題
+    output = ["### 📋 關鍵生理指標監控表 (近 7 天)"]
+    
     headers = ["指標"] + [row['date'] for row in rows] + ["趨勢分析"]
     
     def format_row(label, key, data):
@@ -62,12 +64,12 @@ def generate_markdown(rows):
                 line.append(f"**{val}**")
             else:
                 line.append(val)
-        line.append("**AI生成註解**")
+        # 趨勢分析欄位加粗標記
+        line.append("**AI生成註解")
         return f"| {' | '.join(line)} |"
 
-    output = []
     output.append(f"| {' | '.join(headers)} |")
-    # 生成對齊列，根據日期數量動態調整
+    # 生成對齊列
     align = [":---"] + [":---:"] * len(rows) + [":---"]
     output.append(f"| {' | '.join(align)} |")
     
@@ -87,20 +89,18 @@ def main():
     input_file = sys.argv[1]
     output_file = sys.argv[2]
 
-    print(f"Reading from {input_file}...")
     data = parse_health_data(input_file)
     
     if not data:
-        print("No valid data rows found in the input file.")
+        print("No valid data rows found.")
         sys.exit(1)
         
-    print(f"Processing {len(data)} days of data...")
     markdown_table = generate_markdown(data)
 
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(markdown_table)
     
-    print(f"Successfully converted data to {output_file}")
+    print(f"Successfully generated {output_file}")
 
 if __name__ == "__main__":
     main()
