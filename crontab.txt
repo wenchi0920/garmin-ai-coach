@@ -25,7 +25,7 @@
 */5 * * * * flock -n /tmp/fit_analyzer.lock -c 'for f in $(find /app/data/activity/ -type f -name "*.fit" | sort | tail -n5); do bash /app/parse_activity.sh "${f}" > /dev/null 2>&1; done'
 */5 08-23 * * * flock -n /tmp/git.lock -c 'cd /app ; git pull ; git push '
 */5 09    * * 1 flock -n /tmp/week.lock -c 'bash /app/week.sh'
-30 09-23 * * * bash /app/readme.sh ; cd /app/ ; git commit -m "docs: update README.md" README.md "logs/Workouts/*/Workouts-*.md" "logs/Workouts/*/Workouts-*.yaml" 
+12 09-23 * * * bash /app/readme.sh ; cd /app/ ; git commit -m "docs: update README.md" README.md "logs/Workouts/*/Workouts-*.md" "logs/Workouts/*/Workouts-*.yaml" 
 #
 #
 #
