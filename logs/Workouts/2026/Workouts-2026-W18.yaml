@@ -11,7 +11,7 @@ workouts:
     - interval: 10min @note(靠牆掛腿：促進血液回流)
     - cooldown: 3min @note(大休息)
 
-  "W18-跑者核心穩定 (0428)":
+  "W18-跑者核心 (Bodyweight) (0428)":
     - sport: strength
     - warmup: 10min @note(動態伸展：擺腿、側步、毛蟲爬)
     - repeat(3):
@@ -23,12 +23,12 @@ workouts:
       - interval: 15reps @note(小腿提踵)
     - cooldown: 5min @note(全身拉伸)
 
-  "W18-7km Z2 基礎有氧 (0429)":
-    - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 5km @H(153-166) @note(Z2 輕鬆跑，目標步頻 175-180)
-    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+  "W18-7km T 門檻跑 (Quality Day) (0429)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
+    - run: 3km @H(171-180) @note(T 門檻配速 6:07, 步頻 175+)
+    - cooldown: 2km @H(134-153) @note(Z1 緩跑)
 
-  "W18-修復輕瑜伽 (0430)":
+  "W18-休息日或輕瑜伽 (0430)":
     - sport: yoga
     - warmup: 5min @note(腹式呼吸)
     - interval: 3min @note(下犬式)
@@ -41,19 +41,19 @@ workouts:
 
   "W18-VR 21K Part 1 (11km) (0502)":
     - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 10km @H(153-166) @note(ONE TOKYO VR Part 1，Z2 穩定配速 7:12-8:02)
+    - run: 10km @H(153-166) @note(ONE TOKYO VR 第一部分，Z2 穩定配速，步頻 175+)
 
   "W18-VR 21K Part 2 (10.1km) (0503)":
     - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 9.1km @H(153-166) @note(ONE TOKYO VR Part 2，完賽累積 21.1km)
+    - run: 9.1km @H(153-166) @note(ONE TOKYO VR 第二部分，完成累積 21.1km，步頻 175+)
 
 schedulePlan:
   start_from: 2026-04-27
   workouts:
     - "W18-深度修復瑜伽 (0427)"
-    - "W18-跑者核心穩定 (0428)"
-    - "W18-7km Z2 基礎有氧 (0429)"
-    - "W18-修復輕瑜伽 (0430)"
+    - "W18-跑者核心 (Bodyweight) (0428)"
+    - "W18-7km T 門檻跑 (Quality Day) (0429)"
+    - "W18-休息日或輕瑜伽 (0430)"
     - "W18-5km Z1/Z2 恢復跑 (0501)"
     - "W18-VR 21K Part 1 (11km) (0502)"
     - "W18-VR 21K Part 2 (10.1km) (0503)"
