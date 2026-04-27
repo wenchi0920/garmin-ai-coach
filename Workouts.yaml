@@ -2,61 +2,58 @@ settings:
   deleteSameNameWorkout: true
 
 workouts:
-  "W17-修復瑜伽-賽後排除疲勞 (0420)":
+  "W18-深度修復瑜伽 (0427)":
     - sport: yoga
-    - warmup: 5min @note(腹式呼吸與頸部放鬆)
-    - interval: 3min @note(下犬式)
-    - interval: 3min @note(鴿式-左)
-    - interval: 3min @note(鴿式-右)
-    - interval: 3min @note(牛面式)
-    - interval: 10min @note(靠牆掛腿)
+    - warmup: 5min @note(腹式呼吸)
+    - interval: 3min @note(下犬式：延伸小腿與足底)
+    - interval: 3min @note(鴿式-左：釋放髖關節壓力)
+    - interval: 3min @note(鴿式-右：釋放髖關節壓力)
+    - interval: 10min @note(靠牆掛腿：促進血液回流)
     - cooldown: 3min @note(大休息)
 
-  "W17-跑者核心與穩定 (0421)":
+  "W18-跑者核心 (Bodyweight) (0428)":
     - sport: strength
-    - warmup: 10min @note(動態伸展與腳踝穩定)
+    - warmup: 10min @note(動態伸展：擺腿、側步、毛蟲爬)
     - repeat(3):
-      - interval: 10reps @note(保加利亞分腿蹲-左)
-      - interval: 10reps @note(保加利亞分腿蹲-右)
-      - interval: 45sec @note(側平板支撐-左)
-      - interval: 45sec @note(側平板支撐-右)
-      - interval: 12reps @note(進階死蟲式)
-      - interval: 12reps @note(單腳橋式 每側)
-    - cooldown: 5min @note(拉伸放鬆)
+      - interval: 12reps @note(保加利亞分腿蹲-左)
+      - interval: 12reps @note(保加利亞分腿蹲-右)
+      - interval: 15reps @note(死蟲式)
+      - interval: 12reps @note(單腳橋式-左)
+      - interval: 12reps @note(單腳橋式-右)
+      - interval: 15reps @note(小腿提踵)
+    - cooldown: 5min @note(全身拉伸)
 
-  "W17-6km Z2 基礎有氧 (0422)":
-    - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 5km @H(153-166) @note(Z2 輕鬆跑 (7:12-8:02)，維持步頻 175+)
-
-  "W17-4km Z1/Z2 恢復跑 (0423)":
-    - run: 4km @H(134-153) @note(Z1 極輕量恢復)
-
-  "W17-T區間耐力訓練 (0424)":
+  "W18-7km T 門檻跑 (Quality Day) (0429)":
     - warmup: 2km @H(153-166) @note(Z2 暖身)
-    - repeat(3):
-      - run: 1km @H(171-180) @note(T 區間配速 6:07-6:33，目標 6:07，步頻 180)
-      - rest: 2min @note(慢走恢復)
+    - run: 3km @H(171-180) @note(T 門檻配速 6:07, 步頻 175+)
     - cooldown: 2km @H(134-153) @note(Z1 緩跑)
 
-  "W17-15km Z2 長跑 (0425)":
-    - warmup: 2km @H(134-153) @note(Z1 暖身)
-    - run: 13km @H(153-166) @note(Z2 長跑耐力累積 (7:12-8:02)，監控步頻)
-
-  "W17-深度伸展放鬆 (0426)":
+  "W18-休息日或輕瑜伽 (0430)":
     - sport: yoga
-    - warmup: 5min @note(冥想呼吸)
-    - interval: 5min @note(仰臥手抓腳伸展)
-    - interval: 5min @note(眼鏡蛇式轉嬰兒式)
-    - interval: 5min @note(貓牛式流動)
-    - cooldown: 10min @note(全身放鬆)
+    - warmup: 5min @note(腹式呼吸)
+    - interval: 3min @note(下犬式)
+    - interval: 6min @note(鴿式 每側3分鐘)
+    - interval: 10min @note(靠牆掛腿)
+    - cooldown: 3min @note(放鬆)
+
+  "W18-5km Z1/Z2 恢復跑 (0501)":
+    - run: 5km @H(134-153) @note(極輕量恢復，保持雙腿新鮮感)
+
+  "W18-VR 21K Part 1 (11km) (0502)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 10km @H(153-166) @note(ONE TOKYO VR 第一部分，Z2 穩定配速，步頻 175+)
+
+  "W18-VR 21K Part 2 (10.1km) (0503)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 9.1km @H(153-166) @note(ONE TOKYO VR 第二部分，完成累積 21.1km，步頻 175+)
 
 schedulePlan:
-  start_from: 2026-04-20
+  start_from: 2026-04-27
   workouts:
-    - "W17-修復瑜伽-賽後排除疲勞 (0420)"
-    - "W17-跑者核心與穩定 (0421)"
-    - "W17-6km Z2 基礎有氧 (0422)"
-    - "W17-4km Z1/Z2 恢復跑 (0423)"
-    - "W17-T區間耐力訓練 (0424)"
-    - "W17-15km Z2 長跑 (0425)"
-    - "W17-深度伸展放鬆 (0426)"
+    - "W18-深度修復瑜伽 (0427)"
+    - "W18-跑者核心 (Bodyweight) (0428)"
+    - "W18-7km T 門檻跑 (Quality Day) (0429)"
+    - "W18-休息日或輕瑜伽 (0430)"
+    - "W18-5km Z1/Z2 恢復跑 (0501)"
+    - "W18-VR 21K Part 1 (11km) (0502)"
+    - "W18-VR 21K Part 2 (10.1km) (0503)"
