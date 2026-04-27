@@ -32,7 +32,7 @@ recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | 
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
 
 # 取得最近 2 天的健康數據內容
-latest_health_files="data/health/health.txt"
+latest_health_files="data/health.txt"
 
 # 3. 建構上下文參數 (用於 @ 標註)
 CONTEXT_FILES="@GEMINI.md @logs/PERSON.md @README.md"
