@@ -1,109 +1,59 @@
+settings:
+  deleteSameNameWorkout: true
+
 workouts:
-  - name: "W18-修復瑜伽-身心放鬆 (0427)"
-    type: "yoga"
-    steps:
-      - type: "exercise"
-        duration: "10:00"
-        exercise: "downward_facing_dog"
-        description: "保持呼吸，感受小腿後側拉伸"
-      - type: "exercise"
-        duration: "10:00"
-        exercise: "pigeon_pose"
-        description: "每邊5分鐘，釋放臀部壓力"
-      - type: "exercise"
-        duration: "10:00"
-        exercise: "hero_pose"
-        description: "放鬆大腿前側與足弓"
+  "W18-深度修復瑜伽 (0427)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸)
+    - interval: 3min @note(下犬式：延伸小腿與足底)
+    - interval: 3min @note(鴿式-左：釋放髖關節壓力)
+    - interval: 3min @note(鴿式-右：釋放髖關節壓力)
+    - interval: 10min @note(靠牆掛腿：促進血液回流)
+    - cooldown: 3min @note(大休息)
 
-  - name: "W18-跑者核心與穩定 (0428)"
-    type: "strength"
-    steps:
-      - type: "exercise"
-        duration: "10:00"
-        exercise: "dead_bug"
-        description: "背部貼地，核心用力"
-      - type: "exercise"
-        duration: "15:00"
-        exercise: "plank_pose"
-        description: "維持身體直線，不掉腰"
-      - type: "exercise"
-        duration: "15:00"
-        exercise: "bulgarian_split_squat"
-        description: "每邊3組，專注單腳穩定"
+  "W18-跑者核心穩定 (0428)":
+    - sport: strength
+    - warmup: 10min @note(動態伸展：擺腿、側步、毛蟲爬)
+    - repeat(3):
+      - interval: 12reps @note(保加利亞分腿蹲-左)
+      - interval: 12reps @note(保加利亞分腿蹲-右)
+      - interval: 15reps @note(死蟲式)
+      - interval: 12reps @note(單腳橋式-左)
+      - interval: 12reps @note(單腳橋式-右)
+      - interval: 15reps @note(小腿提踵)
+    - cooldown: 5min @note(全身拉伸)
 
-  - name: "W18-7km Z2 基礎有氧 (0429)"
-    type: "running"
-    steps:
-      - type: "warmup"
-        duration: "1km"
-      - type: "run"
-        duration: "7km"
-        target: "7:12-8:02"
-      - type: "cooldown"
-        duration: "1km"
+  "W18-7km Z2 基礎有氧 (0429)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 5km @H(153-166) @note(Z2 輕鬆跑，目標步頻 175-180)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
 
-  - name: "W18-跑者下肢重訓 (0430)"
-    type: "strength"
-    steps:
-      - type: "exercise"
-        duration: "15:00"
-        exercise: "back_squat"
-        description: "負重或徒手，核心收緊"
-      - type: "exercise"
-        duration: "15:00"
-        exercise: "romanian_deadlift"
-        description: "感受大腿後側拉伸"
-      - type: "exercise"
-        duration: "15:00"
-        exercise: "calf_raise"
-        description: "強化足踝穩定"
+  "W18-修復輕瑜伽 (0430)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸)
+    - interval: 3min @note(下犬式)
+    - interval: 6min @note(鴿式 每側3分鐘)
+    - interval: 10min @note(靠牆掛腿)
+    - cooldown: 3min @note(放鬆)
 
-  - name: "W18-8km T區間耐力 (0501)"
-    type: "running"
-    steps:
-      - type: "warmup"
-        duration: "2km"
-      - type: "interval"
-        duration: "2km"
-        target: "6:00-6:14"
-      - type: "rest"
-        duration: "02:00"
-      - type: "interval"
-        duration: "2km"
-        target: "6:00-6:14"
-      - type: "rest"
-        duration: "02:00"
-      - type: "cooldown"
-        duration: "2km"
+  "W18-5km Z1/Z2 恢復跑 (0501)":
+    - run: 5km @H(134-153) @note(極輕量恢復，保持雙腿新鮮感)
 
-  - name: "W18-7km Z2 輕鬆跑 (0502)"
-    type: "running"
-    steps:
-      - type: "run"
-        duration: "7km"
-        target: "7:12-8:02"
-        description: "ONE TOKYO Virtual Race 啟動"
+  "W18-VR 21K Part 1 (11km) (0502)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 10km @H(153-166) @note(ONE TOKYO VR Part 1，Z2 穩定配速 7:12-8:02)
 
-  - name: "W18-16km Z2 長跑 (0503)"
-    type: "running"
-    steps:
-      - type: "run"
-        duration: "16km"
-        target: "7:12-8:02"
-        description: "ONE TOKYO Virtual Race 里程累積"
+  "W18-VR 21K Part 2 (10.1km) (0503)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 9.1km @H(153-166) @note(ONE TOKYO VR Part 2，完賽累積 21.1km)
 
 schedulePlan:
-  - date: "2026-04-27"
-    workout: "W18-修復瑜伽-身心放鬆 (0427)"
-  - date: "2026-04-28"
-    workout: "W18-跑者核心與穩定 (0428)"
-  - date: "2026-04-29"
-    workout: "W18-7km Z2 基礎有氧 (0429)"
-  - date: "2026-04-30"
-    workout: "W18-跑者下肢重訓 (0430)"
-  - date: "2026-05-01"
-    workout: "W18-8km T區間耐力 (0501)"
-  - date: "2026-05-02"
-    workout: "W18-7km Z2 輕鬆跑 (0502)"
-  - date: "2026-05-03"
-    workout: "W18-16km Z2 長跑 (0503)"
+  start_from: 2026-04-27
+  workouts:
+    - "W18-深度修復瑜伽 (0427)"
+    - "W18-跑者核心穩定 (0428)"
+    - "W18-7km Z2 基礎有氧 (0429)"
+    - "W18-修復輕瑜伽 (0430)"
+    - "W18-5km Z1/Z2 恢復跑 (0501)"
+    - "W18-VR 21K Part 1 (11km) (0502)"
+    - "W18-VR 21K Part 2 (10.1km) (0503)"
