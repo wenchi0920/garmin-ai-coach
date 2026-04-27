@@ -32,17 +32,17 @@ recent_workouts_list=$(ls logs/Workouts/*/Workouts-*.md 2>/dev/null | sort -V | 
 recent_activities_list=$(find logs/activity/ -name "activity_*.md" 2>/dev/null | sort -V | tail -n 10)
 
 # 取得最近 2 天的健康數據內容
-latest_health_files="data/health.txt"
+latest_health_files="data/health/health.txt"
 
 # 3. 建構上下文參數 (用於 @ 標註)
 CONTEXT_FILES="@GEMINI.md @logs/PERSON.md @README.md"
 [ -n "$current_workout" ] && CONTEXT_FILES="$CONTEXT_FILES @$current_workout"
 
 # 注入健康數據
-python3 analyze_health.py "${latest_health_files}" "${latest_health_files}.tmp"
-for f in $latest_health_files.tmp; do
-    [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
-done
+if [ -f "${latest_health_files}" ]; then
+    python3 analyze_health.py "${latest_health_files}" "${latest_health_files%.*}.tmp"
+    [ -f "${latest_health_files%.*}.tmp" ] && CONTEXT_FILES="$CONTEXT_FILES @${latest_health_files%.*}.tmp"
+fi
 
 # 注入最近 5 筆活動紀錄，供 AI 讀取內容產生摘要
 for f in $recent_activities_list; do
