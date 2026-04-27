@@ -40,7 +40,7 @@ CONTEXT_FILES="@GEMINI.md @logs/PERSON.md @README.md"
 
 # 注入健康數據
 python3 analyze_health.py "${latest_health_files}" "${latest_health_files}.tmp"
-for f in $latest_health_files; do
+for f in $latest_health_files.tmp; do
     [ -f "$f" ] && CONTEXT_FILES="$CONTEXT_FILES @$f"
 done
 
