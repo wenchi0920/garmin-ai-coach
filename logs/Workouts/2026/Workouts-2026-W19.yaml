@@ -1,0 +1,61 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "W19-深度修復瑜伽 (0504)":
+    - sport: yoga
+    - warmup: 5min @note(獅子呼吸法：釋放壓力)
+    - interval: 3min @note(半猴神式-左：放鬆腿後腱)
+    - interval: 3min @note(半猴神式-右：放鬆腿後腱)
+    - interval: 4min @note(仰臥英雄式：放鬆股四頭肌)
+    - interval: 5min @note(嬰兒式：腰椎放鬆)
+    - cooldown: 10min @note(靠牆掛腿)
+
+  "W19-6km Z2 基礎有氧 (0505)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 5km @H(153-166) @note(Z2 穩定跑，步頻強制 175+)
+
+  "W19-8km I 間歇訓練 (0506)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
+    - repeat(5):
+      - run: 1km @H(180-186) @note(I 配速 5:38, 步頻 175+)
+      - recovery: 3min @note(恢復期，保持活動)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W19-跑者核心 (Bodyweight) (0507)":
+    - sport: strength
+    - warmup: 10min @note(動態伸展：提踵與快速原地跑)
+    - repeat(3):
+      - interval: 10reps @note(單腳硬舉-左)
+      - interval: 10reps @note(單腳硬舉-右)
+      - interval: 15reps @note(側撐墊上抬腿-左)
+      - interval: 15reps @note(側撐墊上抬腿-右)
+      - interval: 40s @note(登山者)
+      - interval: 60s @note(跳繩/空跳：專注觸地反應)
+    - cooldown: 5min @note(全身伸展)
+
+  "W19-5km Z1/Z2 恢復跑 (0508)":
+    - run: 5km @H(134-153) @note(極輕量恢復，為明日 LSD 儲備能量)
+
+  "W19-15km LSD (TATTA RUN) (0509)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 14km @H(153-166) @note(TATTA RUN，Z2 穩定配速，步頻 175+)
+
+  "W19-舒緩瑜伽 (0510)":
+    - sport: yoga
+    - warmup: 5min @note(深度呼吸)
+    - interval: 5min @note(下犬式)
+    - interval: 6min @note(鴿式 每側3分鐘)
+    - interval: 10min @note(靠牆掛腿)
+    - cooldown: 4min @note(大休息)
+
+schedulePlan:
+  start_from: 2026-05-04
+  workouts:
+    - "W19-深度修復瑜伽 (0504)"
+    - "W19-6km Z2 基礎有氧 (0505)"
+    - "W19-8km I 間歇訓練 (0506)"
+    - "W19-跑者核心 (Bodyweight) (0507)"
+    - "W19-5km Z1/Z2 恢復跑 (0508)"
+    - "W19-15km LSD (TATTA RUN) (0509)"
+    - "W19-舒緩瑜伽 (0510)"
