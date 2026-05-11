@@ -92,8 +92,8 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
         done
 
 	if [ "$result" == "Y" ]; then
-		python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"
-#		python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"
+##		python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"
+##		python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"
 		#git commit -m "docs: update training logs ${markdown_file}" "${markdown_file}"
 		echo "Update 課表 SUCCESS: W${WEEK_NUM}" | python3 send_msg.py
 	else
@@ -110,6 +110,7 @@ fi
 if [ -f "${weekfile}" ]; then
 	git add -f "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
 	git commit -m "docs: update ${YEAR} W$WEEK_NUM 課表" "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
+	python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"
 	echo "${weekfile}"
 fi
 
