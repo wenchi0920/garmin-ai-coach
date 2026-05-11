@@ -1,61 +1,51 @@
+settings:
+  deleteSameNameWorkout: true
+
 workouts:
-  - name: "W20-6km Z2 輕鬆跑 (0512)"
-    type: "running"
-    steps:
-      - { type: "warmup", duration: "1km", target: "7:12-8:02" }
-      - { type: "interval", duration: "4km", target: "7:12-8:02" }
-      - { type: "coolishing", duration: "1km", target: "8:02-9:00" }
+  "W20-6km Z2 輕鬆跑 (0512)":
+    - warmup: 1km @P(7:12-8:02)
+    - run: 4km @P(7:12-8:02)
+    - cooldown: 1km @P(8:02-9:00)
 
-  - name: "W20-4km T-Pace 乳酸門檻 (0513)"
-    type: "running"
-    steps:
-      - { type: "warmup", duration: "2km", target: "7:12-8:02" }
-      - { type: "interval", duration: "1km", target: "6:00-6:15" }
-      - { type: "rest", duration: "1:00" }
-      - { type: "interval", duration: "1km", target: "6:00-6:15" }
-      - { type: "rest", duration: "1:00" }
-      - { type: "interval", duration: "1km", target: "6:00-6:15" }
-      - { type: "rest", duration: "1:00" }
-      - { type: "interval", duration: "1km", target: "6:00-6:15" }
-      - { type: "coolishing", duration: "2km", target: "8:02-9:00" }
+  "W20-4km T-Pace 乳酸門檻 (0513)":
+    - warmup: 2km @P(7:12-8:02)
+    - repeat(4):
+      - run: 1km @P(6:00-6:15)
+      - rest: 1:00
+    - cooldown: 2km @P(8:02-9:00)
 
-  - name: "W20-5km Z2 基礎有氧 (0514)"
-    type: "running"
-    steps:
-      - { type: "warmup", duration: "5km", target: "7:12-8:02" }
+  "W20-5km Z2 基礎有氧 (0514)":
+    - run: 5km @P(7:12-8:02)
 
-  - name: "W20-6km Z2 輕鬆跑 (0515)"
-    type: "running"
-    steps:
-      - { type: "warmup", duration: "6km", target: "7:12-8:02" }
+  "W20-6km Z2 輕鬆跑 (0515)":
+    - run: 6km @P(7:12-8:02)
 
-  - name: "W20-12km Z2 長跑 (0516)"
-    type: "running"
-    steps:
-      - { type: "warmup", duration: "2km", target: "7:40-8:10" }
-      - { type: "interval", duration: "8km", target: "7:12-8:02" }
-      - { type: "coolishing", duration: "2km", target: "8:02-9:00" }
+  "W20-12km Z2 長跑 (0516)":
+    - warmup: 2km @P(7:40-8:10)
+    - run: 8km @P(7:12-8:02)
+    - cooldown: 2km @P(8:02-9:00)
 
-  - name: "W20-徒手肌力-核心與穩定 (0512)"
-    type: "strength"
-    steps:
-      - { type: "interval", note: "深蹲 15次", repeat: 3 }
-      - { type: "interval", note: "單腳硬舉 10次/腳", repeat: 3 }
-      - { type: "interval", note: "棒式 60秒", repeat: 3 }
-      - { type: "interval", note: "側棒式 30秒/邊", repeat: 3 }
+  "W20-徒手肌力-核心與穩定 (0512)":
+    - sport: strength
+    - repeat(3):
+      - interval: 15reps @note(深蹲)
+      - interval: 10reps @note(單腳硬舉 10次/腳)
+      - interval: 60s @note(棒式)
+      - interval: 30s @note(側棒式 30秒/邊)
 
-  - name: "W20-修復瑜伽-跑後舒緩 (0517)"
-    type: "yoga"
-    steps:
-      - { type: "interval", note: "下犬式 2min" }
-      - { type: "interval", note: "鴿式 3min/邊" }
-      - { type: "interval", note: "嬰兒式 5min" }
+  "W20-修復瑜伽-跑後舒緩 (0517)":
+    - sport: yoga
+    - interval: 2min @note(下犬式)
+    - interval: 3min @note(鴿式 3min/邊)
+    - interval: 5min @note(嬰兒式)
 
 schedulePlan:
-  - { date: "2026-05-12", workoutName: "W20-6km Z2 輕鬆跑 (0512)" }
-  - { date: "2026-05-12", workoutName: "W20-徒手肌力-核心與穩定 (0512)" }
-  - { date: "2026-05-13", workoutName: "W20-4km T-Pace 乳酸門檻 (0513)" }
-  - { date: "2026-05-14", workoutName: "W20-5km Z2 基礎有氧 (0514)" }
-  - { date: "2026-05-15", workoutName: "W20-6km Z2 輕鬆跑 (0515)" }
-  - { date: "2026-05-16", workoutName: "W20-12km Z2 長跑 (0516)" }
-  - { date: "2026-05-17", workoutName: "W20-修復瑜伽-跑後舒緩 (0517)" }
+  start_from: 2026-05-11
+  workouts:
+    - "rest"
+    - "W20-6km Z2 輕鬆跑 (0512)"
+    - "W20-4km T-Pace 乳酸門檻 (0513)"
+    - "W20-5km Z2 基礎有氧 (0514)"
+    - "W20-6km Z2 輕鬆跑 (0515)"
+    - "W20-12km Z2 長跑 (0516)"
+    - "W20-修復瑜伽-跑後舒緩 (0517)"
