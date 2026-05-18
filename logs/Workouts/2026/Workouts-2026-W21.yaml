@@ -1,0 +1,69 @@
+# Garmin Connect 訓練計畫 - 2026 W21
+settings:
+  deleteSameNameWorkout: true
+
+definitions:
+  Z1: 134-153bpm
+  Z2: 153-166bpm
+  Z3: 166-171bpm
+  Z4: 171-180bpm
+  Z5: 180-186bpm
+  Z2_Pace: 7:12-8:02
+  T_Pace: 5:57-6:17  # 中心值 6:07/km
+
+workouts:
+  "W21-修復瑜伽-旅途舒緩 (0518)":
+    - sport: yoga
+    - interval: 2min @note(調息與腹式呼吸：平靜心率並放鬆神經系統)
+    - interval: 3min @note(貓牛式流動：舒緩因飛機久坐僵硬的脊椎)
+    - interval: 3min @note(下犬式：深度伸展小腿與腿後腱)
+    - interval: 3min @note(鴿式伸展 - 左：放鬆緊繃的臀大肌)
+    - interval: 3min @note(鴿式伸展 - 右：放鬆緊繃的臀大肌)
+    - interval: 3min @note(仰臥手抓腳伸展：減輕腿部沉重感)
+    - interval: 3min @note(攤屍式大休息：全身放鬆)
+
+  "W21-徒手肌力-核心喚醒 (0519)":
+    - sport: strength
+    - warmup: 5min @note(關節環繞與原地小跑步)
+    - repeat(3):
+      - interval: 15reps @note(深蹲 Air Squat)
+      - rest: 30s
+      - interval: 45s @note(棒式 Plank)
+      - rest: 30s
+      - interval: 15reps @note(臀橋 Glute Bridge)
+      - rest: 30s
+    - cooldown: 5min @note(全身伸展)
+
+  "W21-5km Z2 基礎有氧 (0520)":
+    - warmup: 10min @H(Z1)
+    - run: 5km @P($Z2_Pace)
+    - cooldown: 5min @H(Z1)
+
+  "W21-舒緩瑜伽-腿部放鬆 (0521)":
+    - sport: yoga
+    - interval: 3min @note(嬰兒式：舒緩下背部)
+    - interval: 3min @note(下犬式：延展腿後側)
+    - interval: 4min @note(低位弓步 - 左右各2分：針對髖屈肌伸展)
+    - interval: 6min @note(鴿式伸展 - 左右各3分：放鬆大量步行後的臀部)
+    - interval: 4min @note(攤屍式大休息：身心沉澱)
+
+  "W21-8km T區質量跑 (0523)":
+    - warmup: 2km @H(Z2)
+    - run: 4km @P($T_Pace)
+    - cooldown: 2km @H(Z1)
+
+  "W21-15km 有氧長跑 (0524)":
+    - warmup: 1km @H(Z1)
+    - run: 14km @P($Z2_Pace)
+    - cooldown: 1km @H(Z1)
+
+schedulePlan:
+  start_from: 2026-05-18
+  workouts:
+    - "W21-修復瑜伽-旅途舒緩 (0518)"
+    - "W21-徒手肌力-核心喚醒 (0519)"
+    - "W21-5km Z2 基礎有氧 (0520)"
+    - "W21-舒緩瑜伽-腿部放鬆 (0521)"
+    - "rest"
+    - "W21-8km T區質量跑 (0523)"
+    - "W21-15km 有氧長跑 (0524)"
