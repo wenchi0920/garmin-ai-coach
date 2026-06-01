@@ -1,77 +1,78 @@
 # Garmin Connect 訓練計畫 (Week 23)
+# 核心目標：雪梨馬備賽進展期，鞏固 Z2 有氧與 T 門檻跑
+
 settings:
   deleteSameNameWorkout: true
 
 definitions:
   Z2_Pace: 7:12-8:02
-  Threshold_Pace: 5:58-6:16
-  Easy_Pace: 7:12-8:02
+  T_Pace: 6:07-6:15
+  LSD_Pace: 7:00-7:30
 
 workouts:
-  "W23-修復瑜伽 (0601)":
+  "W23-修復瑜伽-賽後排除疲勞 (0601)":
     - sport: yoga
-    - interval: 3min @note(深層腹式呼吸，靜心收攝)
-    - interval: 3min @note(下犬式：延伸小腿與足底)
-    - interval: 2min @note(低位弓步左：髖屈肌伸展)
-    - interval: 2min @note(低位弓步右：髖屈肌伸展)
-    - interval: 2min @note(半猴神式左：大腿後側伸展)
-    - interval: 2min @note(半猴神式右：大腿後側伸展)
-    - interval: 3min @note(嬰兒式：腰背放鬆)
-    - interval: 3min @note(攤屍式：全身整合放鬆)
+    - interval: 3min @note(調息與腹式呼吸：平靜心率並放鬆神經系統)
+    - interval: 2min @note(貓牛式流動：舒緩因跑步僵硬的脊椎與下背部)
+    - interval: 2min @note(下犬式：延伸小腿與足底)
+    - interval: 2min @note(低位弓步 - 左：針對髖屈肌伸展)
+    - interval: 2min @note(低位弓步 - 右：針對髖屈肌伸展)
+    - interval: 2min @note(鴿式 - 左：放鬆臀大肌)
+    - interval: 2min @note(鴿式 - 右：放鬆臀大肌)
+    - interval: 3min @note(攤屍式大休息：全身肌肉完全放鬆)
 
-  "W23-7km Z2 基礎有氧 (0602)":
-    - warmup: 10min @H(z1)
-    - run: 7000m @P($Z2_Pace)
+  "W23-5km Z2 基礎有氧 (0602)":
+    - sport: running
+    - warmup: 5min @H(z1)
+    - run: 5km @P($Z2_Pace)
     - cooldown: 5min @H(z1)
 
-  "W23-跑者肌力 (0603)":
+  "W23-下肢與核心肌力 (0602)":
     - sport: strength
-    - warmup: 5min @note(動態拉伸 - 高抬腿與毛蟲爬)
-    - repeat(3):
-      - interval: 12reps @note(保加利亞分腿蹲左)
-      - rest: 30s
-      - interval: 12reps @note(保加利亞分腿蹲右)
-      - rest: 60s
-    - repeat(3):
-      - interval: 15reps @note(鳥狗式側邊輪替)
-      - rest: 45s
-    - repeat(3):
-      - interval: 12reps @note(側棒式抬腿左)
-      - rest: 30s
-      - interval: 12reps @note(側棒式抬腿右)
-      - rest: 60s
-    - cooldown: 5min @note(下肢伸展與放鬆)
+    - warmup: 4min @note(死蟲式與鳥狗式核心喚醒)
+    - interval: 5min @note(深蹲 3組x12次，下肢基礎力量)
+    - interval: 8min @note(單腳硬舉 3組x10次/腳，跑步穩定性)
+    - interval: 4min @note(棒式 3組x45秒，核心抗伸展)
 
-  "W23-8km T 門檻跑 (0604)":
-    - warmup: 2000m @H(z2)
-    - run: 4000m @P($Threshold_Pace)
-    - cooldown: 2000m @H(z2)
+  "W23-全身瑜伽-深度放鬆 (0603)":
+    - sport: yoga
+    - interval: 3min @note(調息呼吸)
+    - interval: 10min @note(全身伸展流動：包含下犬式、嬰兒式與脊椎扭轉)
+    - interval: 5min @note(腿後腱舒緩)
+    - interval: 2min @note(大休息)
 
-  "W23-5km Z2 恢復跑 (0605)":
-    - warmup: 10min @H(z1)
-    - run: 5000m @P($Z2_Pace)
+  "W23-6km T 門檻跑 (0604)":
+    - sport: running
+    - warmup: 2km @H(z2)
+    - run: 3km @P($T_Pace)
+    - cooldown: 1km @H(z1)
+
+  "W23-核心肌力訓練 (0605)":
+    - sport: strength
+    - warmup: 3min @note(基礎熱身)
+    - interval: 5min @note(側棒式 3組x30秒/邊)
+    - interval: 5min @note(死蟲式 3組x12次)
+    - interval: 5min @note(橋式 3組x15次)
+
+  "W23-6km Z2 輕鬆跑 (0606)":
+    - sport: running
+    - warmup: 5min @H(z1)
+    - run: 6km @P($Z2_Pace)
     - cooldown: 5min @H(z1)
 
-  "W23-賽前活動度瑜伽 (0606)":
-    - sport: yoga
-    - interval: 3min @note(腹式呼吸)
-    - interval: 3min @note(下犬式活動關節)
-    - interval: 4min @note(深蹲停留放鬆髖部)
-    - interval: 5min @note(鴿式放鬆左右側)
-    - interval: 5min @note(大休息攤屍式)
-
-  "W23-12km Z2 長跑 (0607)":
-    - warmup: 10min @H(z1)
-    - run: 12000m @P($Z2_Pace)
-    - cooldown: 10min @H(z1)
+  "W23-16km LSD 長跑 (0607)":
+    - sport: running
+    - warmup: 2km @H(z2)
+    - run: 12km @P($LSD_Pace)
+    - cooldown: 2km @H(z1)
 
 schedulePlan:
   start_from: 2026-06-01
   workouts:
-    - "W23-修復瑜伽 (0601)"
-    - "W23-7km Z2 基礎有氧 (0602)"
-    - "W23-跑者肌力 (0603)"
-    - "W23-8km T 門檻跑 (0604)"
-    - "W23-5km Z2 恢復跑 (0605)"
-    - "W23-賽前活動度瑜伽 (0606)"
-    - "W23-12km Z2 長跑 (0607)"
+    - "W23-修復瑜伽-賽後排除疲勞 (0601)"
+    - "W23-5km Z2 基礎有氧 (0602)"
+    - "W23-全身瑜伽-深度放鬆 (0603)"
+    - "W23-6km T 門檻跑 (0604)"
+    - "W23-核心肌力訓練 (0605)"
+    - "W23-6km Z2 輕鬆跑 (0606)"
+    - "W23-16km LSD 長跑 (0607)"
