@@ -58,7 +58,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
    - ** 需要依照比賽 當地的 天氣/賽道特性 規劃課表 **
 2. **產生 Garmin 上傳用 YAML 課表**：符合 garmin-tools-kit(https://github.com/wenchi0920/garmin-tools-kit) 格式，包含本週所有 跑步/肌力訓練(徒手or重量訓練)/瑜伽(每日放鬆舒緩) 課表。
    **並確保 \`${yamlfile}\` 格式 跟 \`Workouts.yaml\` 一致**
-   **課表名稱範例 W12-修復瑜伽-賽後排除疲勞 (0317) 、 W13-5km Z2 基礎有氧 (0326) 、 W13-6km Z2 輕鬆跑 (0329)**
+   **課表名稱範例 W12-修復瑜伽-賽後排除疲勞 (0317) 、 W13-5km Z2 基礎有氧 (0326) 、 W13-6km Z2 輕鬆跑 (0329), 一天可以多個訓練 跑步+(瑜伽/肌力)**
    - 請使用 \`write_file\` 寫入至 \`${yamlfile}\`。
 
 ### 要求：
