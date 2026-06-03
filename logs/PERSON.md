@@ -13,6 +13,9 @@
 ### 2.1 年度基礎目標
 * **月跑量**：月跑量最少 100K (平均每週約 25K)
 
+### 2.2 目標賽事 (Target Races)
+* **2026-08-30**：2026 雪梨馬拉松 (Sydney Marathon) - sub 4:30
+
 *註：詳細賽程計畫請參閱 [logs/SCHEDULE.md](SCHEDULE.md)*
 
 ## 3. 📊 個人化課表 (VDOT / Zone)
