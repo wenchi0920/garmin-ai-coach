@@ -1,0 +1,77 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "W24-修復瑜伽-週初放鬆 (0608)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸與貓牛式)
+    - interval: 3min @note(下犬式：延伸小腿與足底)
+    - interval: 3min @note(鴿式-左：釋放髖關節壓力)
+    - interval: 3min @note(鴿式-右：釋放髖關節壓力)
+    - interval: 5min @note(仰臥掛腿：促進血液回流)
+    - cooldown: 3min @note(大休息)
+
+  "W24-7km T 門檻跑 (0609)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身，活動關節)
+    - run: 4km @H(171-180) @note(T 門檻配速 6:07, 步頻 175+)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W24-下肢基礎肌力 (0609)":
+    - sport: strength
+    - warmup: 10min @note(死蟲式、毛蟲爬)
+    - repeat(3):
+      - interval: 12reps @note(深蹲：保持背部打直)
+      - interval: 10reps @note(單腳硬舉-左)
+      - interval: 10reps @note(單腳硬舉-right)
+      - interval: 60s @note(棒式支撐)
+    - cooldown: 5min @note(全身拉伸)
+
+  "W24-全身瑜伽-深度放鬆 (0610)":
+    - sport: yoga
+    - warmup: 5min @note(靜心調息)
+    - interval: 15min @note(全身流動伸展，著重腿後腱與背部)
+    - cooldown: 5min @note(大休息)
+
+  "W24-8km Z2 基礎有氧 (0611)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 6km @H(153-166) @note(Z2 基礎有氧，穩定呼吸)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W24-跑者核心穩定 (0611)":
+    - sport: strength
+    - repeat(3):
+      - interval: 60s @note(棒式)
+      - interval: 45s @note(側棒式-左)
+      - interval: 45s @note(側棒式-右)
+      - interval: 15reps @note(死蟲式)
+    - cooldown: 5min @note(拉伸)
+
+  "W24-修復瑜伽-調整舒緩 (0612)":
+    - sport: yoga
+    - warmup: 5min @note(呼吸法)
+    - interval: 15min @note(輕量伸展，保持身體彈性)
+
+  "W24-6km Z2 輕鬆跑 (0613)":
+    - run: 6km @H(153-166) @note(保持輕鬆感，為明天 LSD 暖機)
+
+  "W24-16km LSD 長跑 (0614)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 15km @H(153-166) @note(雪梨馬模擬，注意每 45-60 分鐘補給)
+
+  "W24-跑後恢復瑜伽 (0614)":
+    - sport: yoga
+    - interval: 20min @note(針對 LSD 跑後的深度伸展)
+
+schedulePlan:
+  start_from: 2026-06-08
+  workouts:
+    - "W24-修復瑜伽-週初放鬆 (0608)"
+    - - "W24-7km T 門檻跑 (0609)"
+      - "W24-下肢基礎肌力 (0609)"
+    - "W24-全身瑜伽-深度放鬆 (0610)"
+    - - "W24-8km Z2 基礎有氧 (0611)"
+      - "W24-跑者核心穩定 (0611)"
+    - "W24-修復瑜伽-調整舒緩 (0612)"
+    - "W24-6km Z2 輕鬆跑 (0613)"
+    - - "W24-16km LSD 長跑 (0614)"
+      - "W24-跑後恢復瑜伽 (0614)"
