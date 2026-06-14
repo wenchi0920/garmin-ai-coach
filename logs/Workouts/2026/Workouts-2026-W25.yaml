@@ -2,30 +2,7 @@ settings:
   deleteSameNameWorkout: true
 
 workouts:
-  "W25-睡前瑜伽伸展":
-    - sport: yoga
-    - warmup: 5min @note(腹式呼吸與靜心)
-    - interval: 3min @note(下犬式：延伸小腿與足底)
-    - interval: 3min @note(鴿式-左：釋放髖關節壓力)
-    - interval: 3min @note(鴿式-右：釋放髖關節壓力)
-    - interval: 3min @note(嬰兒式：放鬆下背部)
-    - cooldown: 3min @note(大休息)
-
-  "W25-5km Z2 輕鬆跑 (0615)":
-    - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 4km @H(153-166) @note(Z2 基礎有氧，步頻 175+)
-
-  "W25-上半身重訓 (0615)":
-    - sport: strength
-    - warmup: 5min @note(肩關節活動、彈力帶暖身)
-    - repeat(3):
-      - interval: 12reps @note(伏地挺身)
-      - interval: 12reps @note(啞鈴划船-左)
-      - interval: 12reps @note(啞鈴划船-右)
-      - interval: 15reps @note(啞鈴肩推)
-    - cooldown: 5min @note(上半身拉伸)
-
-  "W25-跑者功能性肌力 (0616)":
+  "W25-跑者核心 (Bodyweight) (0615)":
     - sport: strength
     - warmup: 10min @note(動態伸展：擺腿、側步、毛蟲爬)
     - repeat(3):
@@ -34,59 +11,83 @@ workouts:
       - interval: 12reps @note(保加利亞分腿蹲-左)
       - interval: 12reps @note(保加利亞分腿蹲-右)
       - interval: 15reps @note(死蟲式)
-      - interval: 30s @note(側棒式-左)
-      - interval: 30s @note(側棒式-右)
+      - interval: 30s @note(側棒式)
     - cooldown: 5min @note(全身拉伸)
 
-  "W25-5km Z2 輕鬆跑 (0617)":
+  "W25-每日修復瑜伽 (Yoga)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸與靜心)
+    - interval: 3min @note(下犬式：延伸小腿與足底)
+    - interval: 3min @note(鴿式-左：釋放髖關節壓力)
+    - interval: 3min @note(鴿式-右：釋放髖關節壓力)
+    - interval: 5min @note(靠牆掛腿：促進血液回流)
+    - cooldown: 3min @note(大休息)
+
+  "W25-5km Z2 輕鬆跑 (0616)":
     - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 4km @H(153-166) @note(Z2 基礎有氧，步頻 175+)
+    - run: 3km @H(153-166) @note(Z2 輕鬆有氧，步頻 175+)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
 
-  "W25-下半身重訓 (0617)":
+  "W25-上半身重訓 (Strength) (0616)":
     - sport: strength
-    - warmup: 5min @note(髖關節活動、徒手深蹲)
+    - warmup: 5min @note(肩關節活動與動態伸展)
     - repeat(3):
-      - interval: 12reps @note(高腳杯深蹲)
-      - interval: 12reps @note(羅馬尼亞硬舉 RDL)
-      - interval: 15reps @note(臀橋)
-      - interval: 15reps @note(提踵)
-    - cooldown: 5min @note(下半身拉伸)
+      - interval: 12reps @note(伏地挺身)
+      - interval: 12reps @note(啞鈴划船-左)
+      - interval: 12reps @note(啞鈴划船-右)
+      - interval: 45s @note(棒式支撐)
+    - cooldown: 5min @note(上肢伸展)
 
-  "W25-8km T門檻跑 (0618)":
-    - warmup: 2km @H(134-153) @note(Z1 暖身)
+  "W25-8km T 門檻跑 (0617)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
     - run: 4km @H(171-180) @note(T 門檻配速 6:07, 步頻 175+)
     - cooldown: 2km @H(134-153) @note(Z1 緩跑)
 
+  "W25-5km Z2 輕鬆跑 (0618)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 3km @H(153-166) @note(Z2 輕鬆有氧)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W25-下半身重訓 (Strength) (0618)":
+    - sport: strength
+    - warmup: 5min @note(髖關節與腳踝活動)
+    - repeat(3):
+      - interval: 12reps @note(深蹲)
+      - interval: 12reps @note(羅馬尼亞硬舉)
+      - interval: 12reps @note(臀橋)
+    - cooldown: 5min @note(下肢伸展)
+
   "W25-5km Z2 輕鬆跑 (0619)":
     - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 4km @H(153-166) @note(Z2 基礎有氧，步頻 175+)
-
-  "W25-8km Z2 週末輕鬆跑 (0620)":
-    - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 6km @H(153-166) @note(Z2 基礎有氧，45-60分鐘)
+    - run: 3km @H(153-166) @note(Z2 輕鬆有氧，感受恢復)
     - cooldown: 1km @H(134-153) @note(Z1 緩跑)
 
-  "W25-18km LSD 長跑 (0621)":
+  "W25-8km 週末輕鬆跑 (0620)":
     - warmup: 1km @H(134-153) @note(Z1 暖身)
-    - run: 16km @H(153-166) @note(Z2 穩定有氧，模擬雪梨馬拉松氣溫，注意水分補充)
+    - run: 6km @H(153-166) @note(Z2 週末有氧，戶外約 45-60 分鐘)
     - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W25-16km LSD 長跑日 (0621)":
+    - warmup: 2km @H(134-153) @note(Z1 暖身，起伏地形)
+    - run: 12km @H(153-166) @note(Z2 穩定有氧，目標 120 分鐘以上，模擬雪梨馬起伏地形)
+    - cooldown: 2km @H(134-153) @note(Z1 緩跑)
 
 schedulePlan:
   start_from: 2026-06-15
   workouts:
-    - - "W25-5km Z2 輕鬆跑 (0615)"
-      - "W25-上半身重訓 (0615)"
-      - "W25-睡前瑜伽伸展"
-    - - "W25-跑者功能性肌力 (0616)"
-      - "W25-睡前瑜伽伸展"
-    - - "W25-5km Z2 輕鬆跑 (0617)"
-      - "W25-下半身重訓 (0617)"
-      - "W25-睡前瑜伽伸展"
-    - - "W25-8km T門檻跑 (0618)"
-      - "W25-睡前瑜伽伸展"
+    - - "W25-跑者核心 (Bodyweight) (0615)"
+      - "W25-每日修復瑜伽 (Yoga)"
+    - - "W25-5km Z2 輕鬆跑 (0616)"
+      - "W25-上半身重訓 (Strength) (0616)"
+      - "W25-每日修復瑜伽 (Yoga)"
+    - - "W25-8km T 門檻跑 (0617)"
+      - "W25-每日修復瑜伽 (Yoga)"
+    - - "W25-5km Z2 輕鬆跑 (0618)"
+      - "W25-下半身重訓 (Strength) (0618)"
+      - "W25-每日修復瑜伽 (Yoga)"
     - - "W25-5km Z2 輕鬆跑 (0619)"
-      - "W25-睡前瑜伽伸展"
-    - - "W25-8km Z2 週末輕鬆跑 (0620)"
-      - "W25-睡前瑜伽伸展"
-    - - "W25-18km LSD 長跑 (0621)"
-      - "W25-睡前瑜伽伸展"
+      - "W25-每日修復瑜伽 (Yoga)"
+    - - "W25-8km 週末輕鬆跑 (0620)"
+      - "W25-每日修復瑜伽 (Yoga)"
+    - - "W25-16km LSD 長跑日 (0621)"
+      - "W25-每日修復瑜伽 (Yoga)"
