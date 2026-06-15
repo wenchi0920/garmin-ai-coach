@@ -109,10 +109,43 @@ fi
 
 # 5. 輸出結果
 if [ -f "${weekfile}" ]; then
-	git add -f "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
-	git commit -m "docs: update ${YEAR} W$WEEK_NUM 課表" "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
-	python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"
-	echo "${weekfile}"
+    # 修正：加入 XXXXXX 以符合 mktemp 規範，同時保留 WEEK_NUM 方便除錯
+    TMP_LIST=$(mktemp "/tmp/garmin_list.W${WEEK_NUM}.XXXXXX")
+    
+    # 設定離開時自動清理暫存檔
+    trap 'rm -f "$TMP_LIST"' EXIT
+
+    # 執行指令並捕捉失敗狀態
+    if ! python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout list > "$TMP_LIST" 2>/dev/null; then
+        echo "[ERROR] 無法取得 workout 列表" >&2
+        exit 1
+    fi
+    
+    # 計算是否已存在該週課表
+    num=$(grep -c "W${WEEK_NUM}" "$TMP_LIST")
+    
+    # 邏輯確認：如果是「不存在才要上傳」，使用 -eq 0
+    if [ "${num}" -eq 0 ] ; then
+        # 修正：移除高度危險的 -f 參數
+        git add "${weekfile}" "${yamlfile}" "logs/SCHEDULE.md"
+        
+        # 檢查是否有實際變更
+        if ! git diff-index --quiet HEAD --; then
+            git commit -m "docs: update ${YEAR:-$(date +%Y)} W${WEEK_NUM} 課表"
+        else
+            echo "[INFO] 檔案無變更，跳過 Git Commit。"
+        fi
+        
+        # 執行上傳
+        if python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"; then
+            echo "${weekfile}"
+        else
+            echo "[ERROR] Workout 上傳失敗" >&2
+            exit 1
+        fi
+    else
+        echo "[INFO] W${WEEK_NUM} 課表已存在，跳過上傳。"
+    fi
 fi
 
 exit 0
