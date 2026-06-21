@@ -37,7 +37,7 @@ run_ai_coach_advice() {
     echo "正在請求 AI Coach 深度建議..."
     local prompt="@GEMINI.md 請幫我依照 \`${md_file}\` 的數據補全「教練建議與成效分析」與「改進建議」。${suffix}"
     
-    if gemini -y -p "${prompt}" <<< "" &> /dev/null; then
+    if agy --dangerously-skip-permissions -p "${prompt}" <<< "" &> /dev/null; then
         git add -f "${md_file}"
         git commit -m "docs: update training logs and workouts ${md_file}"
         cat "${md_file}" | python3 send_msg.py

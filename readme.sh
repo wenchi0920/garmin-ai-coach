@@ -102,7 +102,7 @@ if gemini -v &> /dev/null; then
 	while [ $max -gt $num ] ;
 	do
 		echo "gemini 第 $((num+1)) 次 執行"
-		gemini -y -p "$PROMPT" <<< "" && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
+		agy --dangerously-skip-permissions -p "$PROMPT" <<< "" && echo "✅ README.md 更新成功！" || echo "❌ AI 處理失敗。"
 
 		new=$(md5sum README.md |awk '{print $1}')
 		if [ "$new" != "$old" ] ; then

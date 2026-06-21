@@ -80,7 +80,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
         while [ $max -gt $num ]; do
             echo "gemini 第 $((num+1)) 次執行..."
             # 執行 gemini，並檢查檔案是否產生
-            gemini -y -p "$PROMPT" <<< ""
+            agy --dangerously-skip-permissions -p "$PROMPT" <<< ""
             
             if [ -f "${weekfile}" ] && [ -f "${yamlfile}" ]; then
                 echo "✅ 課表與 YAML 更新成功！"
