@@ -2,7 +2,7 @@
 
 # 1. 環境設定
 export PATH=$PATH:/usr/local/bin:/usr/local/sbin
-export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin
+export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin:/root/.local/bin
 export LANG=zh_TW.UTF-8
 
 # 切換至專案根目錄
@@ -72,7 +72,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
     echo "--------------------------------------------------"
 
     # 4. 執行更新
-    if gemini -v &> /dev/null; then
+    if agy -v &> /dev/null; then
         num=0
         max=3
         result="N"

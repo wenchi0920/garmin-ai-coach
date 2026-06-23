@@ -2,7 +2,7 @@
 
 # --- 環境設定 ---
 # 不要覆蓋使用者的 PATH，否則會找不到像 gemini 這樣的指令
-export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin
+export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin:/root/.local/bin
 export LANG=zh_TW.UTF-8
 
 # 取得腳本所在絕對目錄

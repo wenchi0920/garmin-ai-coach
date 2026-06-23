@@ -2,7 +2,7 @@
 
 # 1. 環境設定
 export PATH=$PATH:/usr/local/bin:/usr/local/sbin
-export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin
+export PATH=$PATH:/usr/local/bin:/usr/local/sbin:/home/gemini/.npm-global/bin:/root/.local/bin
 export LANG=zh_TW.UTF-8
 
 # 切換至專案根目錄
@@ -93,7 +93,7 @@ echo "📍 活動紀錄數: $(echo "$recent_activities_list" | wc -l)"
 echo "--------------------------------------------------"
 
 # 5. 執行更新
-if gemini -v &> /dev/null; then
+if gemini -h &> /dev/null; then
 
 	num=0
 	max=5
