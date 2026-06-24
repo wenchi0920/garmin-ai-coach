@@ -50,7 +50,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
     
     PROMPT=" @logs/PERSON.md @GEMINI.md
 你現在是一位資深的馬拉松教練 AI Coach。
-請根據 @logs/PERSON.md 中的賽事規劃與目標，**課表應嚴格遵守 @logs/PERSON.md 中的個人化課表 週期化訓練原則**，參考 @Workouts.md 的結構，為跑者產生 ${YEAR} 第 ${WEEK_NUM} 週 (從 ${MONDAY_DATE} 開始) 的課表。
+請根據 @logs/PERSON.md 中的賽事規劃與目標賽事，**課表應嚴格遵守 @logs/PERSON.md 中的個人化課表 週期化訓練原則**，參考 @Workouts.md 的結構，為跑者產生 ${YEAR} 第 ${WEEK_NUM} 週 (從 ${MONDAY_DATE} 開始) 的課表。
 
 ### 任務：
 1. **產生 Markdown 課表說明**：包含上週回饋（參考過往紀錄）、本週訓練重點、每日詳細課表。
