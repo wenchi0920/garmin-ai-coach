@@ -106,6 +106,9 @@ if gemini -h &> /dev/null; then
 
 		new=$(md5sum README.md |awk '{print $1}')
 		if [ "$new" != "$old" ] ; then
+			tmpfile="/tmp/$$"
+			cat README.md |sed 's/(file:\/\/\/app\//(/g' > "${tmpfile}" && mv -v "${tmpfile}" README.md
+			git commit -m "docs: README.md" README.md 
 			result="Y"
 			break
 		fi
