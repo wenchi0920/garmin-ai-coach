@@ -72,7 +72,7 @@ if [ ! -f "${weekfile}" ] || [ ! -f "${yamlfile}" ]; then
     echo "--------------------------------------------------"
 
     # 4. 執行更新
-    if agy -v &> /dev/null; then
+    if agy help &> /dev/null; then
         num=0
         max=3
         result="N"
