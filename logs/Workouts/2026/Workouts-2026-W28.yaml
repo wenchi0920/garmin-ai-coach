@@ -1,0 +1,103 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "W28-5km Z1/Z2 恢復跑 (0706)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 3km @H(134-153) @note(極輕量恢復跑，維持低心率與高步頻)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W28-上半身肌力 (0706)":
+    - sport: strength
+    - warmup: 5min @note(擺臂與肩部關節活動)
+    - repeat(3):
+        - interval: 12reps @note(伏地挺身)
+        - interval: 15reps @note(啞鈴划船)
+    - cooldown: 5min @note(上肢伸展放鬆)
+
+  "W28-修復瑜伽 (0706)":
+    - sport: yoga
+    - interval: 10min @note(睡前舒緩伸展)
+
+  "W28-10km T 門檻跑 (0707)":
+    - warmup: 2km @H(134-153) @note(Z1 暖身)
+    - run: 6km @H(171-180) @note(T 門檻配速 6:07/km, 步頻 175+)
+    - cooldown: 2km @H(134-153) @note(Z1 緩跑)
+
+  "W28-修復瑜伽 (0707)":
+    - sport: yoga
+    - interval: 10min @note(睡前舒緩伸展)
+
+  "W28-修復瑜伽 (0708)":
+    - sport: yoga
+    - warmup: 5min @note(深呼吸與貓牛式)
+    - interval: 3min @note(下犬式)
+    - interval: 3min @note(鴿式-左)
+    - interval: 3min @note(鴿式-右)
+    - cooldown: 8min @note(靠牆掛腿與大休息)
+
+  "W28-6km Z2 基礎有氧 (0709)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 4km @H(153-166) @note(Z2 基礎有氧，步頻目標 170+ spm)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W28-下半身肌力 (0709)":
+    - sport: strength
+    - warmup: 5min @note(髖膝關節活動與側步移動)
+    - repeat(3):
+        - interval: 12reps @note(深蹲)
+        - interval: 12reps @note(單腳硬舉-左)
+        - interval: 12reps @note(單腳硬舉-右)
+    - cooldown: 5min @note(下肢拉伸)
+
+  "W28-修復瑜伽 (0709)":
+    - sport: yoga
+    - interval: 10min @note(睡前舒緩伸展)
+
+  "W28-跑者核心 (Bodyweight) (0710)":
+    - sport: strength
+    - warmup: 10min @note(動態伸展：擺腿、側步、毛蟲爬)
+    - repeat(3):
+        - interval: 12reps @note(保加利亞分腿蹲-左)
+        - interval: 12reps @note(保加利亞分腿蹲-right)
+        - interval: 15reps @note(死蟲式)
+        - interval: 30s @note(側棒式-左)
+        - interval: 30s @note(側棒式-right)
+    - cooldown: 5min @note(全身拉伸)
+
+  "W28-修復瑜伽 (0710)":
+    - sport: yoga
+    - interval: 10min @note(睡前修復伸展)
+
+  "W28-14km LSD 長距離慢跑 (0711)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 12km @H(153-166) @note(Z2/Z3 模擬雪梨馬丘陵地形，配速穩定在 7:12-8:02/km，步頻 170+，演練補給)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W28-修復瑜伽 (0711)":
+    - sport: yoga
+    - warmup: 5min @note(深呼吸與關節放鬆)
+    - interval: 10min @note(靠牆掛腿與腿部肌肉被動修復)
+    - cooldown: 5min @note(大休息)
+
+  "W28-修復瑜伽 (0712)":
+    - sport: yoga
+    - interval: 15min @note(全身經絡拉伸與呼吸調整)
+
+schedulePlan:
+  start_from: 2026-07-06
+  workouts:
+    - - "W28-5km Z1/Z2 恢復跑 (0706)"
+      - "W28-上半身肌力 (0706)"
+      - "W28-修復瑜伽 (0706)"
+    - - "W28-10km T 門檻跑 (0707)"
+      - "W28-修復瑜伽 (0707)"
+    - "W28-修復瑜伽 (0708)"
+    - - "W28-6km Z2 基礎有氧 (0709)"
+      - "W28-下半身肌力 (0709)"
+      - "W28-修復瑜伽 (0709)"
+    - - "W28-跑者核心 (Bodyweight) (0710)"
+      - "W28-修復瑜伽 (0710)"
+    - - "W28-14km LSD 長距離慢跑 (0711)"
+      - "W28-修復瑜伽 (0711)"
+    - "W28-修復瑜伽 (0712)"
