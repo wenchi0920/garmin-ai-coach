@@ -40,7 +40,7 @@ run_ai_coach_advice() {
     if agy --dangerously-skip-permissions -p "${prompt}" <<< "" &> /dev/null; then
         git add -f "${md_file}"
         git commit -m "docs: update training logs and workouts ${md_file}"
-        cat "${md_file}" | python3 send_msg.py
+#        cat "${md_file}" | python3 send_msg.py
     else
         echo "⚠️ AI 建議補全失敗，請手動執行補全。"
     fi
