@@ -44,13 +44,13 @@ workouts:
       - interval: 12reps @note(保加利亞分腿蹲-右)
     - cooldown: 5min @note(下肢拉伸)
 
-  "W29-跑者核心 (Bodyweight) (0717)":
+  "W29-跑者核心 (Bodyweight) (0714)":
     - sport: strength
     - warmup: 5min @note(核心啟動)
     - repeat(3):
       - interval: 15reps @note(死蟲式)
-      - interval: 30s @note(側棒式-左)
-      - interval: 30s @note(側棒式-右)
+      - interval: 30s @note(側棒式-left)
+      - interval: 30s @note(側棒式-right)
     - cooldown: 5min @note(拉伸)
 
   "W29-16km LSD 長跑 (0718)":
@@ -65,13 +65,13 @@ schedulePlan:
       - "W29-上半身重訓 (0713)"
       - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
     - - "W29-11km T 門檻跑 (0714)"
+      - "W29-跑者核心 (Bodyweight) (0714)"
       - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
     - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
     - - "W29-7km Z2 基礎有氧 (0716)"
       - "W29-下半身重訓 (0716)"
       - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
-    - - "W29-跑者核心 (Bodyweight) (0717)"
-      - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
+    - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
     - - "W29-16km LSD 長跑 (0718)"
       - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
     - "W29-修復瑜伽-睡前舒緩伸展 (0713)"
