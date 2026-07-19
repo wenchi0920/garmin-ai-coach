@@ -1,0 +1,77 @@
+settings:
+  deleteSameNameWorkout: true
+
+workouts:
+  "W30-修復瑜伽-睡前舒緩伸展 (0720)":
+    - sport: yoga
+    - warmup: 5min @note(腹式呼吸)
+    - interval: 2min @note(下犬式：延伸小腿與足底)
+    - interval: 3min @note(鴿式-左：釋放髖關節壓力)
+    - interval: 3min @note(鴿式-右：釋放髖關節壓力)
+    - interval: 10min @note(靠牆掛腿：促進血液回流)
+    - cooldown: 3min @note(大休息)
+
+  "W30-5km Z1/Z2 恢復跑 (0720)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 3km @H(134-153) @note(恢復慢跑)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W30-上半身重訓 (0720)":
+    - sport: strength
+    - warmup: 10min @note(動態伸展與核心啟動)
+    - repeat(3):
+      - interval: 15reps @note(啞鈴劃船)
+      - interval: 15reps @note(死蟲式)
+    - cooldown: 5min @note(上半身拉伸)
+
+  "W30-11km T 門檻跑 (0721)":
+    - warmup: 2km @H(153-166) @note(Z2 暖身)
+    - run: 7km @H(171-180) @note(T 門檻配速 6:07, 步頻 170+)
+    - cooldown: 2km @H(134-153) @note(Z1 緩跑)
+
+  "W30-跑者核心 (Bodyweight) (0721)":
+    - sport: strength
+    - warmup: 5min @note(核心啟動)
+    - repeat(3):
+      - interval: 15reps @note(死蟲式)
+      - interval: 30s @note(側棒式-left)
+      - interval: 30s @note(側棒式-right)
+    - cooldown: 5min @note(拉伸)
+
+  "W30-8km Z2 基礎有氧 (0723)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 6km @H(153-166) @note(Z2 基礎有氧，步頻 170+)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+  "W30-下半身重訓 (0723)":
+    - sport: strength
+    - warmup: 10min @note(動態伸展)
+    - repeat(3):
+      - interval: 10reps @note(單腳硬舉-左)
+      - interval: 10reps @note(單腳硬舉-right)
+      - interval: 12reps @note(保加利亞分腿蹲-左)
+      - interval: 12reps @note(保加利亞分腿蹲-右)
+    - cooldown: 5min @note(下肢拉伸)
+
+  "W30-17km LSD 長跑 (0725)":
+    - warmup: 1km @H(134-153) @note(Z1 暖身)
+    - run: 15km @H(153-166) @note(Z2 LSD, 步頻 170+, 第6與12km補膠, 模擬雪梨地形)
+    - cooldown: 1km @H(134-153) @note(Z1 緩跑)
+
+schedulePlan:
+  start_from: 2026-07-20
+  workouts:
+    - - "W30-5km Z1/Z2 恢復跑 (0720)"
+      - "W30-上半身重訓 (0720)"
+      - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
+    - - "W30-11km T 門檻跑 (0721)"
+      - "W30-跑者核心 (Bodyweight) (0721)"
+      - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
+    - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
+    - - "W30-8km Z2 基礎有氧 (0723)"
+      - "W30-下半身重訓 (0723)"
+      - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
+    - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
+    - - "W30-17km LSD 長跑 (0725)"
+      - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
+    - "W30-修復瑜伽-睡前舒緩伸展 (0720)"
