@@ -22,8 +22,8 @@ exec > >(tee -a "${LOG_FILE}") 2>&1
 if [ -n "$1" ] && [ -n "$2" ]; then
     YEAR=$1
     WEEK_NUM=$(printf "%02d" "$2")
-    # 根據 ISO 週次計算該週週一的日期
-    MONDAY_DATE=$(date -d "${YEAR}-W${WEEK_NUM}-1" +%Y-%m-%d)
+    # 根據 ISO 週次計算該週週一的日期 (使用 Python 避免 Linux date 相容性問題)
+    MONDAY_DATE=$(python3 -c "import datetime; print(datetime.date.fromisocalendar(${YEAR}, int('${WEEK_NUM}'), 1).strftime('%Y-%m-%d'))" 2>/dev/null)
     echo "使用指定週次: ${YEAR} W${WEEK_NUM} (週一日期: ${MONDAY_DATE})"
 else
     # 預設為本週 (以本週一為基準)
@@ -106,6 +106,22 @@ fi
 
 # 5. 輸出結果
 if [ -f "${weekfile}" ]; then
+    # 偵測 garmin-tools-kit 的路徑與 python 執行檔
+    if [ -d "/app/garmin-tools-kit" ]; then
+        KIT_DIR="/app/garmin-tools-kit"
+        PYTHON_CMD="python3"
+    elif [ -d "/home/wenchi/git/garmin-tools-kit" ]; then
+        KIT_DIR="/home/wenchi/git/garmin-tools-kit"
+        if [ -x "${KIT_DIR}/venv/bin/python3" ]; then
+            PYTHON_CMD="${KIT_DIR}/venv/bin/python3"
+        else
+            PYTHON_CMD="python3"
+        fi
+    else
+        echo "[ERROR] 找不到 garmin-tools-kit 目錄" >&2
+        exit 1
+    fi
+
     # 修正：加入 XXXXXX 以符合 mktemp 規範，同時保留 WEEK_NUM 方便除錯
     TMP_LIST=$(mktemp "/tmp/garmin_list.W${WEEK_NUM}.XXXXXX")
     
@@ -113,7 +129,7 @@ if [ -f "${weekfile}" ]; then
     trap 'rm -f "$TMP_LIST"' EXIT
 
     # 執行指令並捕捉失敗狀態
-    if ! python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout list > "$TMP_LIST" 2>/dev/null; then
+    if ! "${PYTHON_CMD}" "${KIT_DIR}/garmin_tools.py" --env-file "${KIT_DIR}/.env" workout list > "$TMP_LIST" 2>/dev/null; then
         echo "[ERROR] 無法取得 workout 列表" >&2
         exit 1
     fi
@@ -134,7 +150,7 @@ if [ -f "${weekfile}" ]; then
         fi
         
         # 執行上傳
-        if python3 /app/garmin-tools-kit/garmin_tools.py --env-file /app/garmin-tools-kit/.env workout upload "${yamlfile}"; then
+        if "${PYTHON_CMD}" "${KIT_DIR}/garmin_tools.py" --env-file "${KIT_DIR}/.env" workout upload "${yamlfile}"; then
             echo "${weekfile}"
         else
             echo "[ERROR] Workout 上傳失敗" >&2
