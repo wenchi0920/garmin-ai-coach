@@ -117,11 +117,11 @@ if gemini -h &> /dev/null; then
 
 	git commit -m "docs: update Workouts" logs/Workouts/*/*.md logs/Workouts/*/*.yaml
 
-	if [ "$result" == "Y" ]; then
-		echo "update README.md SUCCESS" | python3 send_msg.py
-	else
-		echo "update README.md ERROR" | python3 send_msg.py
-	fi
+#	if [ "$result" == "Y" ]; then
+#		echo "update README.md SUCCESS" | python3 send_msg.py
+#	else
+#		echo "update README.md ERROR" | python3 send_msg.py
+#	fi
 
 else
     echo "提示：未偵測到 gemini 指令，請複製以下 Prompt 使用："
