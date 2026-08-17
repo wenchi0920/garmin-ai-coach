@@ -16,6 +16,8 @@ services:
     working_dir: /app
     entrypoint: ["/bin/sh", "-c"]
     command: "bash /app/init.sh"
+    tmpfs:
+      - /tmp:exec,mode=0777,size=1G
     volumes:
       # 掛載宿主機的認證目錄，確保 UID 1000 有權�目錄
       - gemini_config:/home/gemini/.gemini
